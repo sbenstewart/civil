@@ -1,2 +1,2 @@
-# INVICTUS
+# CIVIL
 An Event Registration Site

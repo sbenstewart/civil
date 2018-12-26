@@ -948,10 +948,11 @@ body {
 ## Page Header
 ------------------------------------------------------------*/
 .page-header {
-    min-height: 520px;
-    padding-top: 280px;
+    min-height: 120px;
+    padding-top: 180px;
     background-size: cover;
 }
+
 
 .about-us .page-header {
     background: url("images/about-us-header-background.jpg") no-repeat;
@@ -998,6 +999,7 @@ body {
     text-decoration: none;
     color: #fff;
 }
+
 
 .main-content {
     margin: 120px 0;

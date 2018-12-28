@@ -70,7 +70,6 @@ TRUNCATE TABLE `ambassador`;
 DROP TABLE IF EXISTS `amb_registrations`;
 CREATE TABLE IF NOT EXISTS `amb_registrations` (
   `aid` int(11) NOT NULL,
-  `id` int(11) NOT NULL,
   `count` int(11) NOT NULL,
   KEY `id` (`id`),
   KEY `aid` (`aid`)

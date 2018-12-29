@@ -6,6 +6,7 @@ try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
     //echo "Connected to $dbname at $host successfully.";
 
+    $cookie_name = "user";
     if(!isset($_COOKIE[$cookie_name]))
     {
       echo "Please register.";
@@ -18,7 +19,7 @@ try {
 
 
     $count = $conn->exec("insert into registrations(cid, id) values ('$_COOKIE[$cookie_name]', '$event2')");
-    
+
 
 
 

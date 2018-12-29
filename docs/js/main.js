@@ -3,7 +3,7 @@ var name = document.getElementById("name").value;
 var mail = document.getElementById("mail").value;
 var phone = document.getElementById("phone").value;
 // Returns successful data submission message when the entered information is stored in database.
-var dataString = 'name1=' + name + '&mail1=' + mail + '&password1=' + password + '&phone1=' + phone;
+var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone;
 if (name == '' || mail == '' || password == '' || phone == '') {
 alert("Please Fill All Fields");
 } else {

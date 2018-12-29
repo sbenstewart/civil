@@ -1,4 +1,4 @@
-function myFunction() {
+function regUser() {
 var name = document.getElementById("name").value;
 var mail = document.getElementById("mail").value;
 var phone = document.getElementById("phone").value;

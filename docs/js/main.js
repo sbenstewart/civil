@@ -10,7 +10,7 @@ alert("Please Fill All Fields");
 // AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "ajaxjs.php",
+url: "phpmysqlconnect.php",
 data: dataString,
 cache: false,
 success: function(html) {

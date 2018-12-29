@@ -8,7 +8,7 @@ if (name == '' || mail == '' || phone == '') {
 alert("Please Fill All Fields");
 } else {
 // AJAX code to submit form.
-$.ajax({
+jQuery.ajax({
 type: "POST",
 url: "ajaxjs.php",
 data: dataString,

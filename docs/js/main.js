@@ -20,3 +20,19 @@ alert(html);
 }
 return false;
 }
+
+function regEvent() {
+// Returns successful data submission message when the entered information is stored in database.
+var dataString = 'event1=1' ;
+// AJAX code to submit form.
+jQuery.ajax({
+type: "POST",
+url: "registerevent.php",
+data: dataString,
+cache: false,
+success: function(html) {
+alert(html);
+}
+});
+return false;
+}

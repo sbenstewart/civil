@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Dec 27, 2018 at 12:52 AM
+-- Generation Time: Dec 31, 2018 at 04:14 AM
 -- Server version: 5.7.23
 -- PHP Version: 7.2.10
 
@@ -28,136 +28,149 @@ USE `database`;
 -- Table structure for table `accomodation`
 --
 
-DROP TABLE IF EXISTS `accomodation`;
-CREATE TABLE IF NOT EXISTS `accomodation` (
+CREATE TABLE `accomodation` (
   `id` int(11) NOT NULL,
   `cnt` int(11) NOT NULL DEFAULT '1',
-  `hours` int(11) NOT NULL,
-  PRIMARY KEY (`id`)
+  `hours` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Truncate table before insert `accomodation`
---
-
-TRUNCATE TABLE `accomodation`;
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `ambassador`
 --
 
-DROP TABLE IF EXISTS `ambassador`;
-CREATE TABLE IF NOT EXISTS `ambassador` (
-  `aid` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(100) NOT NULL,
-  `phoneno` varchar(10) NOT NULL,
-  `emailid` varchar(100) NOT NULL,
-  PRIMARY KEY (`aid`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
---
--- Truncate table before insert `ambassador`
---
-
-TRUNCATE TABLE `ambassador`;
--- --------------------------------------------------------
-
---
--- Table structure for table `amb_registrations`
---
-
-DROP TABLE IF EXISTS `amb_registrations`;
-CREATE TABLE IF NOT EXISTS `amb_registrations` (
+CREATE TABLE `ambassador` (
   `aid` int(11) NOT NULL,
-  `count` int(11) NOT NULL,
-  KEY `id` (`id`),
-  KEY `aid` (`aid`)
+  `name` varchar(100) NOT NULL,
+  `count` varchar(10) DEFAULT NULL,
+  `phoneno` varchar(10) NOT NULL,
+  `emailid` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Truncate table before insert `amb_registrations`
---
-
-TRUNCATE TABLE `amb_registrations`;
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `event`
 --
 
-DROP TABLE IF EXISTS `event`;
-CREATE TABLE IF NOT EXISTS `event` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(100) NOT NULL,
-  PRIMARY KEY (`id`)
+CREATE TABLE `event` (
+  `id` int(11) NOT NULL,
+  `name` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Truncate table before insert `event`
---
-
-TRUNCATE TABLE `event`;
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `registrations`
 --
 
-DROP TABLE IF EXISTS `registrations`;
-CREATE TABLE IF NOT EXISTS `registrations` (
+CREATE TABLE `registrations` (
   `cid` int(11) NOT NULL,
-  `id` int(11) NOT NULL,
-  PRIMARY KEY (`id`),
-  KEY `cid` (`cid`)
+  `id` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Truncate table before insert `registrations`
---
-
-TRUNCATE TABLE `registrations`;
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `user`
 --
 
-DROP TABLE IF EXISTS `user`;
-CREATE TABLE IF NOT EXISTS `user` (
-  `cid` int(11) NOT NULL AUTO_INCREMENT,
+CREATE TABLE `user` (
+  `cid` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
   `phoneno` varchar(10) NOT NULL,
-  `emailid` varchar(100) NOT NULL,
-  PRIMARY KEY (`cid`)
+  `emailid` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
--- Truncate table before insert `user`
+-- Dumping data for table `user`
 --
 
-TRUNCATE TABLE `user`;
+INSERT INTO `user` (`cid`, `name`, `phoneno`, `emailid`) VALUES
+(4, 'Ben Stewart', '9489408090', 'sbenstewart@gmail.com');
+
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `workshop`
 --
 
-DROP TABLE IF EXISTS `workshop`;
-CREATE TABLE IF NOT EXISTS `workshop` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(100) NOT NULL,
-  PRIMARY KEY (`id`)
+CREATE TABLE `workshop` (
+  `id` int(11) NOT NULL,
+  `name` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
--- Truncate table before insert `workshop`
+-- Indexes for dumped tables
 --
 
-TRUNCATE TABLE `workshop`;
 --
--- Constraints for dumped tables
+-- Indexes for table `accomodation`
 --
+ALTER TABLE `accomodation`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `ambassador`
+--
+ALTER TABLE `ambassador`
+  ADD PRIMARY KEY (`aid`),
+  ADD UNIQUE KEY `name` (`name`);
+
+--
+-- Indexes for table `event`
+--
+ALTER TABLE `event`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `registrations`
+--
+ALTER TABLE `registrations`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `cid` (`cid`);
+
+--
+-- Indexes for table `user`
+--
+ALTER TABLE `user`
+  ADD PRIMARY KEY (`cid`),
+  ADD UNIQUE KEY `phoneno` (`phoneno`);
+
+--
+-- Indexes for table `workshop`
+--
+ALTER TABLE `workshop`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `ambassador`
+--
+ALTER TABLE `ambassador`
+  MODIFY `aid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+
+--
+-- AUTO_INCREMENT for table `event`
+--
+ALTER TABLE `event`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT for table `user`
+--
+ALTER TABLE `user`
+  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+
+--
+-- AUTO_INCREMENT for table `workshop`
+--
+ALTER TABLE `workshop`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

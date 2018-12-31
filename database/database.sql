@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Dec 31, 2018 at 04:14 AM
+-- Generation Time: Dec 31, 2018 at 04:20 PM
 -- Server version: 5.7.23
 -- PHP Version: 7.2.10
 
@@ -27,19 +27,38 @@ USE `database`;
 --
 -- Table structure for table `accomodation`
 --
+-- Creation: Dec 31, 2018 at 10:10 AM
+--
 
+DROP TABLE IF EXISTS `accomodation`;
 CREATE TABLE `accomodation` (
   `id` int(11) NOT NULL,
-  `cnt` int(11) NOT NULL DEFAULT '1',
-  `hours` int(11) NOT NULL
+  `entrydate` varchar(100) NOT NULL DEFAULT '1',
+  `entrytime` varchar(100) NOT NULL,
+  `hours` varchar(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Truncate table before insert `accomodation`
+--
+
+TRUNCATE TABLE `accomodation`;
+--
+-- Dumping data for table `accomodation`
+--
+
+INSERT INTO `accomodation` (`id`, `entrydate`, `entrytime`, `hours`) VALUES
+(6, '12/28/2018', '15:41', '3');
 
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `ambassador`
 --
+-- Creation: Dec 30, 2018 at 08:50 AM
+--
 
+DROP TABLE IF EXISTS `ambassador`;
 CREATE TABLE `ambassador` (
   `aid` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
@@ -48,34 +67,85 @@ CREATE TABLE `ambassador` (
   `emailid` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+--
+-- Truncate table before insert `ambassador`
+--
+
+TRUNCATE TABLE `ambassador`;
+--
+-- Dumping data for table `ambassador`
+--
+
+INSERT INTO `ambassador` (`aid`, `name`, `count`, `phoneno`, `emailid`) VALUES
+(4, 'Ben Stewart', '13', '9489408090', 'sbenstewart@gmail.com');
+
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `event`
 --
+-- Creation: Dec 27, 2018 at 12:57 AM
+--
 
+DROP TABLE IF EXISTS `event`;
 CREATE TABLE `event` (
   `id` int(11) NOT NULL,
   `name` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Truncate table before insert `event`
+--
+
+TRUNCATE TABLE `event`;
+-- --------------------------------------------------------
+
+--
+-- Stand-in structure for view `event1`
+-- (See below for the actual view)
+--
+DROP VIEW IF EXISTS `event1`;
+CREATE TABLE `event1` (
+`name` varchar(100)
+,`emailid` varchar(100)
+,`phoneno` varchar(10)
+);
 
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `registrations`
 --
+-- Creation: Dec 31, 2018 at 04:35 AM
+--
 
+DROP TABLE IF EXISTS `registrations`;
 CREATE TABLE `registrations` (
-  `cid` int(11) NOT NULL,
-  `id` int(11) NOT NULL
+  `cid` varchar(100) NOT NULL,
+  `id` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Truncate table before insert `registrations`
+--
+
+TRUNCATE TABLE `registrations`;
+--
+-- Dumping data for table `registrations`
+--
+
+INSERT INTO `registrations` (`cid`, `id`) VALUES
+('4', 'sample');
 
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `user`
 --
+-- Creation: Dec 29, 2018 at 10:49 AM
+--
 
+DROP TABLE IF EXISTS `user`;
 CREATE TABLE `user` (
   `cid` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
@@ -83,6 +153,11 @@ CREATE TABLE `user` (
   `emailid` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+--
+-- Truncate table before insert `user`
+--
+
+TRUNCATE TABLE `user`;
 --
 -- Dumping data for table `user`
 --
@@ -95,11 +170,31 @@ INSERT INTO `user` (`cid`, `name`, `phoneno`, `emailid`) VALUES
 --
 -- Table structure for table `workshop`
 --
+-- Creation: Dec 27, 2018 at 12:57 AM
+--
 
+DROP TABLE IF EXISTS `workshop`;
 CREATE TABLE `workshop` (
   `id` int(11) NOT NULL,
   `name` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Truncate table before insert `workshop`
+--
+
+TRUNCATE TABLE `workshop`;
+-- --------------------------------------------------------
+
+--
+-- Structure for view `event1` exported as a table
+--
+DROP TABLE IF EXISTS `event1`;
+CREATE TABLE`event1`(
+    `name` varchar(100) COLLATE utf8_general_ci DEFAULT NULL,
+    `emailid` varchar(100) COLLATE utf8_general_ci DEFAULT NULL,
+    `phoneno` varchar(10) COLLATE utf8_general_ci DEFAULT NULL
+);
 
 --
 -- Indexes for dumped tables
@@ -152,7 +247,7 @@ ALTER TABLE `workshop`
 -- AUTO_INCREMENT for table `ambassador`
 --
 ALTER TABLE `ambassador`
-  MODIFY `aid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `aid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT for table `event`
@@ -164,7 +259,7 @@ ALTER TABLE `event`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT for table `workshop`

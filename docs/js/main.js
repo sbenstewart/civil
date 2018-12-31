@@ -22,11 +22,11 @@ return false;
 }
 
 function regAccomodation() {
-var name = document.getElementById("name").value;
-var mail = document.getElementById("mail").value;
-var phone = document.getElementById("phone").value;
+var date = document.getElementById("datepicker").value;
+var time = document.getElementById("timepicker").value;
+var hours = document.getElementById("hours").value;
 // Returns successful data submission message when the entered information is stored in database.
-var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone;
+var dataString = '&date1=' + date + '&time1=' + time + '&hours1=' + hours;
 if (name == '' || mail == '' || phone == '') {
 alert("Please Fill All Fields");
 } else {

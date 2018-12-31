@@ -1,0 +1,1 @@
+SELECT user.name,user.emailid,user.phoneno FROM registrations LEFT JOIN user ON registrations.cid = user.cid

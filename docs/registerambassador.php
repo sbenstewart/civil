@@ -7,8 +7,9 @@ $count2 = $_POST['count1'];
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-    //echo "Connected to $dbname at $host successfully.";
-    $count = $conn->exec("insert into ambassador(name, count, emailid, phoneno) values ('$name2', '$count2', '$mail2', '$phone2') ON DUPLICATE KEY UPDATE count='$count2', emailid=1'$mail2', phoneno='$phone2'");
+    echo "Connected to $dbname at $host successfully.";
+    echo "insert into ambassador(name, count, emailid, phoneno) values ('$name2', '$count2', '$mail2', '$phone2') ON DUPLICATE KEY UPDATE count='$count2', emailid=1'$mail2', phoneno='$phone2'";
+    $count = $conn->exec("insert into ambassador(name, count, emailid, phoneno) values ('$name2', '$count2', '$mail2', '$phone2') ON DUPLICATE KEY UPDATE count='$count2', emailid='$mail2', phoneno='$phone2'");
     foreach ($conn->query("SELECT aid from ambassador where name='$name2'") as $row)
     {
       $id = $row['cid'];

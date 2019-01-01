@@ -7,30 +7,52 @@ $phone2 = $_POST['phone1'];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
     //echo "Connected to $dbname at $host successfully.";
-    $count = $conn->exec("insert into user(name, emailid, phoneno) values ('$name2', '$mail2', '$phone2')");
-    foreach ($conn->query("SELECT cid from user where name='$name2'") as $row)
-    {
-      $id = $row['cid'];
-    }
-    $cookie_name = "user";
-    $cookie_value = $id;
-    setcookie($cookie_name, $cookie_value, time() + (86400 * 30*31), "/");//one month
-
-    if(!isset($_COOKIE[$cookie_name]))
-    {
-      echo "Cookie named '" . $cookie_name . "' is not set!";
-    }
-    else
-    {
-      echo "Cookie '" . $cookie_name . "' is set!";
-      echo "Value is: " . $_COOKIE[$cookie_name];
-    }
-
-    echo "Form Submitted succesfully $id";
-
 
     if (isset($_POST['event1_download'])) {
-    //download event
+      $sql = "SELECT * FROM my_table_name LIMIT 20";
+
+      //Prepare our SQL query.
+      $statement = $pdo->prepare($sql);
+
+      //Executre our SQL query.
+      $statement->execute();
+
+      //Fetch all of the rows from our MySQL table.
+      $rows = $statement->fetchAll(PDO::FETCH_ASSOC);
+
+      //Get the column names.
+      $columnNames = array();
+      if(!empty($rows)){
+          //We only need to loop through the first row of our result
+          //in order to collate the column names.
+          $firstRow = $rows[0];
+          foreach($firstRow as $colName => $val){
+              $columnNames[] = $colName;
+          }
+      }
+
+      //Setup the filename that our CSV will have when it is downloaded.
+      $fileName = 'mysql-export.csv';
+
+      //Set the Content-Type and Content-Disposition headers to force the download.
+      header('Content-Type: application/excel');
+      header('Content-Disposition: attachment; filename="' . $fileName . '"');
+
+      //Open up a file pointer
+      $fp = fopen('php://output', 'w');
+
+      //Start off by writing the column names to the file.
+      fputcsv($fp, $columnNames);
+
+      //Then, loop through the rows and write them to the CSV file.
+      foreach ($rows as $row) {
+          fputcsv($fp, $row);
+}
+
+//Close the file pointer.
+fclose($fp);
+
+
 } else if (isset($_POST['accomodation_download'])) {
     //download accomodation
 } else {

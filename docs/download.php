@@ -1,6 +1,6 @@
 <?php
 require_once 'dbconfig.php';
-$table2 = $_POST['table'];
+$table2 = $_POST["name"];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
       $sql = "SELECT user.cid,user.name,user.emailid,user.phoneno FROM registrations LEFT JOIN user ON registrations.cid = user.cid and registrations.id='$table2'";

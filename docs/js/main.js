@@ -92,3 +92,20 @@ alert(html);
 }
 return false;
 }
+
+function download() {
+var name = document.getElementById("download").value;
+// Returns successful data submission message when the entered information is stored in database.
+var dataString = 'table=' + 'sample';
+// AJAX code to submit form.
+jQuery.ajax({
+type: "POST",
+url: "download.php",
+data: dataString,
+cache: false,
+success: function(html) {
+alert(html);
+}
+});
+return false;
+}

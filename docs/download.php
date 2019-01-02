@@ -1,25 +1,15 @@
 <?php
 require_once 'dbconfig.php';
-$name2 = $_POST['name1'];
-$mail2 = $_POST['mail1'];
-$phone2 = $_POST['phone1'];
-
+$table2 = $_POST['table'];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-    //echo "Connected to $dbname at $host successfully.";
-
-    if (isset($_POST['event1_download'])) {
-      $sql = "SELECT * FROM my_table_name LIMIT 20";
-
+      $sql = "SELECT user.cid,user.name,user.emailid,user.phoneno FROM registrations LEFT JOIN user ON registrations.cid = user.cid and registrations.id='$table2'";
       //Prepare our SQL query.
-      $statement = $pdo->prepare($sql);
-
+      $statement = $conn->prepare($sql);
       //Executre our SQL query.
       $statement->execute();
-
       //Fetch all of the rows from our MySQL table.
       $rows = $statement->fetchAll(PDO::FETCH_ASSOC);
-
       //Get the column names.
       $columnNames = array();
       if(!empty($rows)){
@@ -30,13 +20,12 @@ try {
               $columnNames[] = $colName;
           }
       }
-
       //Setup the filename that our CSV will have when it is downloaded.
       $fileName = 'mysql-export.csv';
-
-      //Set the Content-Type and Content-Disposition headers to force the download.
-      header('Content-Type: application/excel');
-      header('Content-Disposition: attachment; filename="' . $fileName . '"');
+      ob_clean();
+      header("Pragma: no-cache");
+      header('Content-Type: application/octet-stream');
+      header('Content-Disposition: attachment;filename=export.csv');
 
       //Open up a file pointer
       $fp = fopen('php://output', 'w');
@@ -48,19 +37,8 @@ try {
       foreach ($rows as $row) {
           fputcsv($fp, $row);
 }
-
 //Close the file pointer.
 fclose($fp);
-
-
-} else if (isset($_POST['accomodation_download'])) {
-    //download accomodation
-} else {
-    //no button pressed
-}
-
-
-
 } catch (PDOException $pe) {
     die("Could not connect to the database $dbname :" . $pe->getMessage());
 }

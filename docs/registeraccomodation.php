@@ -18,15 +18,14 @@ try {
     {
       echo "Cookie '" . $cookie_name . "' is set!";
       echo "Value is: " . $_COOKIE[$cookie_name];
+      $count = $conn->exec("insert into accomodation(id, entrydate, entrytime, hours) values ('$_COOKIE[$cookie_name]', '$date2', '$time2' ,'$hours2')");
+      foreach ($conn->query("SELECT name from user where cid='$_COOKIE[$cookie_name]'") as $row)
+      {
+        $name = $row['name'];
+      }
+      echo "Accomodation registered succesfully for $name";
     }
 
-
-    $count = $conn->exec("insert into accomodation(id, entrydate, entrytime, hours) values ('$_COOKIE[$cookie_name]', '$date2', '$time2' ,'$hours2')");
-
-
-
-
-    echo "Form Submitted succesfully $id";
 } catch (PDOException $pe) {
     die("Could not connect to the database $dbname :" . $pe->getMessage());
 }

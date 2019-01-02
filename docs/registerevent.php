@@ -10,6 +10,7 @@ try {
     if(!isset($_COOKIE[$cookie_name]))
     {
       echo "Please register.";
+      exit();
     }
     else
     {

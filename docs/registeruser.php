@@ -8,7 +8,12 @@ $code2 = $_POST['code1'];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
     //echo "Connected to $dbname at $host successfully.";
-    $count = $conn->exec("insert into user(name, emailid, phoneno) values ('$name2', '$mail2', '$phone2')");
+    foreach ($conn->query("SELECT aid from ambassador where code='$code2'") as $row)
+    {
+      $aid = (int) $row['aid'];
+    }
+    echo "The ambassador is $aid with referal $code2";
+    $count = $conn->exec("insert into user(name, emailid, phoneno, code) values ('$name2', '$mail2', '$phone2', '$code2')";
     foreach ($conn->query("SELECT cid from user where name='$name2'") as $row)
     {
       $id = $row['cid'];

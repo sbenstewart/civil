@@ -3,8 +3,11 @@ var name = document.getElementById("name").value;
 var mail = document.getElementById("mail").value;
 var phone = document.getElementById("phone").value;
 var code = document.getElementById("code").value;
+var college = document.getElementById("college").value;
+var year = document.getElementById("year").value;
+var dept = document.getElementById("dept").value;
 // Returns successful data submission message when the entered information is stored in database.
-var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&code1=' + code;
+var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&code1=' + code+ '&college1=' + college+ '&year1=' + year+ '&dept1=' + dept;
 if (name == '' || mail == '' || phone == '') {
 alert("Please Fill All The Required Fields");
 } else {

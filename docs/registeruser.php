@@ -3,6 +3,7 @@ require_once 'dbconfig.php';
 $name2 = $_POST['name1'];
 $mail2 = $_POST['mail1'];
 $phone2 = $_POST['phone1'];
+$code2 = $_POST['code1'];
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);

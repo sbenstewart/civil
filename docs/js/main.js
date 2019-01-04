@@ -2,10 +2,11 @@ function regUser() {
 var name = document.getElementById("name").value;
 var mail = document.getElementById("mail").value;
 var phone = document.getElementById("phone").value;
+var code = document.getElementById("code").value;
 // Returns successful data submission message when the entered information is stored in database.
-var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone;
+var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&code1=' + code;
 if (name == '' || mail == '' || phone == '') {
-alert("Please Fill All Fields");
+alert("Please Fill All The Required Fields");
 } else {
 // AJAX code to submit form.
 jQuery.ajax({
@@ -73,10 +74,9 @@ function regAmbassador() {
 var name = document.getElementById("name").value;
 var mail = document.getElementById("mail").value;
 var phone = document.getElementById("phone").value;
-var count = document.getElementById("count").value;
 // Returns successful data submission message when the entered information is stored in database.
-var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&count1=' + count;
-if (name == '' || mail == '' || phone == '' || count=='') {
+var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone;
+if (name == '' || mail == '' || phone == '') {
 alert("Please Fill All Fields");
 } else {
 // AJAX code to submit form.

@@ -7,6 +7,7 @@ $code2 = $_POST['code1'];
 $college2 = $_POST['college1'];
 $year2 = $_POST['year1'];
 $dept2 = $_POST['dept1'];
+$course2 = $_POST['course1'];
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
@@ -16,7 +17,8 @@ try {
       $id = $row['aid'];
     }
     echo "$id";
-    $count = $conn->exec("insert into user(name, emailid, phoneno, aid, college, year, dept) values ('$name2', '$mail2', '$phone2', '$id', '$college2', '$year2', '$dept2')");
+    echo "course is $course2";
+    $count = $conn->exec("insert into user(name, emailid, phoneno, aid, college, year, dept, course) values ('$name2', '$mail2', '$phone2', '$id', '$college2', '$year2', '$dept2', '$course2')");
     foreach ($conn->query("SELECT cid from user where name='$name2'") as $row)
     {
       $id = $row['cid'];

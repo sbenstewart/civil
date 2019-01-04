@@ -6,8 +6,9 @@ var code = document.getElementById("code").value;
 var college = document.getElementById("college").value;
 var year = document.getElementById("year").value;
 var dept = document.getElementById("dept").value;
+var course = document.getElementById("course").value;
 // Returns successful data submission message when the entered information is stored in database.
-var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&code1=' + code+ '&college1=' + college+ '&year1=' + year+ '&dept1=' + dept;
+var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&code1=' + code+ '&college1=' + college+ '&year1=' + year+ '&dept1=' + dept + '&course1=' + course;
 if (name == '' || mail == '' || phone == '') {
 alert("Please Fill All The Required Fields");
 } else {

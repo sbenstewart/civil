@@ -10,10 +10,10 @@ try {
     //echo "Connected to $dbname at $host successfully.";
     foreach ($conn->query("SELECT aid from ambassador where code='$code2'") as $row)
     {
-      $aid = (int) $row['aid'];
+      $id = $row['aid'];
     }
-    echo "The ambassador is $aid with referal $code2";
-    $count = $conn->exec("insert into user(name, emailid, phoneno, code) values ('$name2', '$mail2', '$phone2', '$code2')";
+    echo "$id";
+    $count = $conn->exec("insert into user(name, emailid, phoneno, aid) values ('$name2', '$mail2', '$phone2', '$id')");
     foreach ($conn->query("SELECT cid from user where name='$name2'") as $row)
     {
       $id = $row['cid'];

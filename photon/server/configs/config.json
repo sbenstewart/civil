@@ -1,0 +1,17 @@
+{
+  "test": {
+    "host" : "127.0.0.1",
+    "port" : "3306",
+    "username" : "root",
+    "password" : "admin@123",
+    "database" : "photon"
+  },
+  "prod" : {
+    "host" : "photon.czy9nbnwqfir.us-east-2.rds.amazonaws.com",
+    "port" : "3306",
+    "username" : "master",
+    "password" : "Civilisation2018",
+    "database" : "photon"
+  },
+  "port" : 1111
+}

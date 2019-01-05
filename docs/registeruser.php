@@ -12,14 +12,28 @@ $course2 = $_POST['course1'];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
     //echo "Connected to $dbname at $host successfully.";
-    foreach ($conn->query("SELECT aid from ambassador where code='$code2'") as $row)
-    {
-      $id = $row['aid'];
+
+    $sql = "SELECT COUNT(*) from ambassador where code='$code2'";
+    if ($res = $conn->query($sql)) {
+
+        /* Check the number of rows that match the SELECT statement */
+        if ($res->fetchColumn() > 0) {
+          foreach ($conn->query("SELECT aid from ambassador where code='$code2'") as $row)
+          {
+            $id = $row['aid'];
+          }
+          $count = $conn->exec("insert into user(name, emailid, phoneno, aid, college, year, dept, course) values ('$name2', '$mail2', '$phone2', '$id', '$college2', '$year2', '$dept2', '$course2')");
+
+
+        }
+        /* No rows matched -- do something else */
+        else {
+          $count = $conn->exec("insert into user(name, emailid, phoneno, college, year, dept, course) values ('$name2', '$mail2', '$phone2', '$college2', '$year2', '$dept2', '$course2')");
+
+        }
     }
-    echo "$id";
-    echo "course is $course2";
-    $count = $conn->exec("insert into user(name, emailid, phoneno, aid, college, year, dept, course) values ('$name2', '$mail2', '$phone2', '$id', '$college2', '$year2', '$dept2', '$course2')");
-    foreach ($conn->query("SELECT cid from user where name='$name2'") as $row)
+
+    foreach ($conn->query("SELECT cid from user where emailid='$mail2'") as $row)
     {
       $id = $row['cid'];
     }

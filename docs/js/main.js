@@ -15,7 +15,7 @@ alert("Please Fill All The Required Fields");
 // AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "registeruser.php",
+url: "temp.php",
 data: dataString,
 cache: false,
 success: function(html) {

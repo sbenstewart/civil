@@ -23,14 +23,13 @@ try {
             $id = $row['aid'];
           }
           $count = $conn->exec("insert into user(name, emailid, phoneno, aid, college, year, dept, course) values ('$name2', '$mail2', '$phone2', '$id', '$college2', '$year2', '$dept2', '$course2')");
-          echo "User added with aid."
+
 
         }
         /* No rows matched -- do something else */
         else {
-          echo "Control here";
           $count = $conn->exec("insert into user(name, emailid, phoneno, college, year, dept, course) values ('$name2', '$mail2', '$phone2', '$college2', '$year2', '$dept2', '$course2')");
-          echo "User added without code."
+
         }
     }
 

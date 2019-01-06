@@ -21,9 +21,10 @@ try {
         if ($res->fetchColumn() > 0) {
           foreach ($conn->query("SELECT aid from ambassador where code='$code2'") as $row)
           {
-            $id = $row['aid'];
+            $aid2 = $row['aid'];
           }
-          $count = $conn->exec("insert into user(name, emailid, phoneno, aid, college, year, dept, course) values ('$name2', '$mail2', '$phone2', '$id', '$college2', '$year2', '$dept2', '$course2')");
+          //echo "update user set name='$name2', emailid='$mail2', phoneno='$phone2', aid='$aid2', college='$college2', year='$year2', dept='$dept2', course='$course2' where cid='$cid2'";
+          $count = $conn->exec("update user set name='$name2', emailid='$mail2', phoneno='$phone2', aid='$aid2', college='$college2', year='$year2', dept='$dept2', course='$course2' where cid='$cid2'");
           /*foreach ($conn->query("SELECT cid from user where emailid='$mail2'") as $row)
           {
             $id = $row['cid'];

@@ -35,9 +35,10 @@ try {
           $count = $conn->exec("update user set password='$code' where emailid='$mail2'");
           echo "New password is $code";
         }
-    }
-    else {
-        echo "No such mail id found in the server. Please register.";
+        else {
+            echo "No such mail id found in the server. Please register.";
+        }
+
     }
 
 

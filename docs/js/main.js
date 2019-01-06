@@ -7,10 +7,15 @@ var college = document.getElementById("college").value;
 var year = document.getElementById("year").value;
 var dept = document.getElementById("dept").value;
 var course = document.getElementById("course").value;
+var password = document.getElementById("password").value;
+var confirmpassword = document.getElementById("confirmpassword").value;
 // Returns successful data submission message when the entered information is stored in database.
-var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&code1=' + code+ '&college1=' + college+ '&year1=' + year+ '&dept1=' + dept + '&course1=' + course;
+var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&code1=' + code+ '&college1=' + college+ '&year1=' + year+ '&dept1=' + dept + '&course1=' + course + '&password1=' + password;
 if (name == '' || mail == '' || phone == '' || college == '' || year == '' || dept == '' || course == '') {
 alert("Please Fill All The Required Fields");
+}
+else if (password != confirmpassword) {
+alert("Passwords don't match.");  
 } else {
 
   if(code =='')

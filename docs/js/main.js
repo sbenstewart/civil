@@ -128,15 +128,30 @@ if (name == '' || mail == '' || phone == '' || college == '' || year == '' || de
 alert("Please Fill All The Required Fields");
 } else {
 // AJAX code to submit form.
+if(code =='')
+{
+  jQuery.ajax({
+  type: "POST",
+  url: "edituser.php",
+  data: dataString,
+  cache: false,
+  success: function(html) {
+  alert(html);
+  }
+  });
+}
+else {
+// AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "edituser.php",
+url: "edituserwithcode.php",
 data: dataString,
 cache: false,
 success: function(html) {
 alert(html);
 }
 });
+}
 }
 return false;
 }

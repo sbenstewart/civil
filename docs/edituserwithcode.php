@@ -8,6 +8,7 @@ $college2 = $_POST['college1'];
 $year2 = $_POST['year1'];
 $dept2 = $_POST['dept1'];
 $course2 = $_POST['course1'];
+$cid2 = $_POST['cid1'];
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
@@ -23,7 +24,7 @@ try {
             $id = $row['aid'];
           }
           $count = $conn->exec("insert into user(name, emailid, phoneno, aid, college, year, dept, course) values ('$name2', '$mail2', '$phone2', '$id', '$college2', '$year2', '$dept2', '$course2')");
-          foreach ($conn->query("SELECT cid from user where emailid='$mail2'") as $row)
+          /*foreach ($conn->query("SELECT cid from user where emailid='$mail2'") as $row)
           {
             $id = $row['cid'];
           }
@@ -39,19 +40,21 @@ try {
           {
             echo "Cookie '" . $cookie_name . "' is set!";
             echo "Value is: " . $_COOKIE[$cookie_name];
-          }
+          }*/
           echo "Form Submitted succesfully $id";
 
-          }
-          /* No rows matched -- do something else */
-          else {
+        }
+        /* No rows matched -- do something else */
+        else {
           echo "The referal code is incorrect.";
 
-          }
-          }
-          else {
-          echo "Submission failed. Try later.";
-          }
+        }
+    }
+    else {
+      echo "Submission failed. Try later.";
+    }
+
+
 
 } catch (PDOException $pe) {
     die("Could not connect to the database $dbname :" . $pe->getMessage());

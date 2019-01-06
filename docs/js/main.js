@@ -155,3 +155,26 @@ alert(html);
 }
 return false;
 }
+
+
+function loginUser() {
+var mail = document.getElementById("mail").value;
+var cid = document.getElementById("cid").value;
+// Returns successful data submission message when the entered information is stored in database.
+var dataString = '&mail1=' + mail + '&cid1=' + cid;
+if (mail == '' || cid == '') {
+alert("Please Fill All Fields");
+} else {
+// AJAX code to submit form.
+jQuery.ajax({
+type: "POST",
+url: "loginuser.php",
+data: dataString,
+cache: false,
+success: function(html) {
+alert(html);
+}
+});
+}
+return false;
+}

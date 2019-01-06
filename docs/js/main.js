@@ -12,16 +12,31 @@ var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&cod
 if (name == '' || mail == '' || phone == '' || college == '' || year == '' || dept == '' || course == '') {
 alert("Please Fill All The Required Fields");
 } else {
+
+  if(code =='')
+  {
+    jQuery.ajax({
+    type: "POST",
+    url: "registeruser.php",
+    data: dataString,
+    cache: false,
+    success: function(html) {
+    alert(html);
+    }
+    });
+  }
+  else {
 // AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "temp.php",
+url: "registeruserwithcode.php",
 data: dataString,
 cache: false,
 success: function(html) {
 alert(html);
 }
 });
+}
 }
 return false;
 }

@@ -11,7 +11,7 @@ $cid2 = $_POST['cid1'];
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-    echo "Connected to $dbname at $host successfully.";
+    //echo "Connected to $dbname at $host successfully.";
     echo "update user set name='$name2', phoneno='$phone2', college='$college2', year='$year2', dept='$dept2', course='$course2' where cid='$cid2' and  emailid='$mail2'";
 
     $count = $conn->exec("update user set name='$name2', phoneno='$phone2', college='$college2', year='$year2', dept='$dept2', course='$course2' where cid='$cid2' and  emailid='$mail2'");

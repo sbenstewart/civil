@@ -15,7 +15,7 @@ if (name == '' || mail == '' || phone == '' || college == '' || year == '' || de
 alert("Please Fill All The Required Fields");
 }
 else if (password != confirmpassword) {
-alert("Passwords don't match.");  
+alert("Passwords don't match.");
 } else {
 
   if(code =='')
@@ -164,10 +164,10 @@ return false;
 
 function loginUser() {
 var mail = document.getElementById("mail").value;
-var cid = document.getElementById("cid").value;
+var password = document.getElementById("password").value;
 // Returns successful data submission message when the entered information is stored in database.
-var dataString = '&mail1=' + mail + '&cid1=' + cid;
-if (mail == '' || cid == '') {
+var dataString = '&mail1=' + mail + '&password1=' + password;
+if (mail == '' || password == '') {
 alert("Please Fill All Fields");
 } else {
 // AJAX code to submit form.

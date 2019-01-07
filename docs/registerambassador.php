@@ -35,7 +35,7 @@ try {
       $id = $row['code'];
     }
 
-    echo "Form Submitted succesfully and the referal code is $id";
+    echo "You are an ambassador and the referal code is $id";
 } catch (PDOException $pe) {
     die("Could not connect to the database $dbname :" . $pe->getMessage());
 }

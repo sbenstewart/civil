@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Dec 31, 2018 at 04:20 PM
+-- Generation Time: Jan 07, 2019 at 08:24 AM
 -- Server version: 5.7.23
 -- PHP Version: 7.2.10
 
@@ -28,6 +28,7 @@ USE `database`;
 -- Table structure for table `accomodation`
 --
 -- Creation: Dec 31, 2018 at 10:10 AM
+-- Last update: Jan 07, 2019 at 08:20 AM
 --
 
 DROP TABLE IF EXISTS `accomodation`;
@@ -48,23 +49,23 @@ TRUNCATE TABLE `accomodation`;
 --
 
 INSERT INTO `accomodation` (`id`, `entrydate`, `entrytime`, `hours`) VALUES
-(6, '12/28/2018', '15:41', '3');
+(47, '01/04/2019', '16:45', '48');
 
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `ambassador`
 --
--- Creation: Dec 30, 2018 at 08:50 AM
+-- Creation: Jan 04, 2019 at 02:10 PM
 --
 
 DROP TABLE IF EXISTS `ambassador`;
 CREATE TABLE `ambassador` (
   `aid` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
-  `count` varchar(10) DEFAULT NULL,
   `phoneno` varchar(10) NOT NULL,
-  `emailid` varchar(100) NOT NULL
+  `emailid` varchar(100) NOT NULL,
+  `code` varchar(10) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
@@ -76,8 +77,8 @@ TRUNCATE TABLE `ambassador`;
 -- Dumping data for table `ambassador`
 --
 
-INSERT INTO `ambassador` (`aid`, `name`, `count`, `phoneno`, `emailid`) VALUES
-(4, 'Ben Stewart', '13', '9489408090', 'sbenstewart@gmail.com');
+INSERT INTO `ambassador` (`aid`, `name`, `phoneno`, `emailid`, `code`) VALUES
+(16, 'Ben Stewart', '9489408090', 'sbenstewart@gmail.com', 'ZS7801');
 
 -- --------------------------------------------------------
 
@@ -108,7 +109,7 @@ DROP VIEW IF EXISTS `event1`;
 CREATE TABLE `event1` (
 `name` varchar(100)
 ,`emailid` varchar(100)
-,`phoneno` varchar(10)
+,`phoneno` varchar(12)
 );
 
 -- --------------------------------------------------------
@@ -142,15 +143,21 @@ INSERT INTO `registrations` (`cid`, `id`) VALUES
 --
 -- Table structure for table `user`
 --
--- Creation: Dec 29, 2018 at 10:49 AM
+-- Creation: Jan 06, 2019 at 03:54 PM
 --
 
 DROP TABLE IF EXISTS `user`;
 CREATE TABLE `user` (
   `cid` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
-  `phoneno` varchar(10) NOT NULL,
-  `emailid` varchar(100) NOT NULL
+  `phoneno` varchar(12) NOT NULL,
+  `emailid` varchar(100) NOT NULL,
+  `aid` int(11) DEFAULT NULL,
+  `college` varchar(250) NOT NULL,
+  `year` varchar(100) NOT NULL,
+  `dept` varchar(250) NOT NULL,
+  `course` varchar(250) NOT NULL,
+  `password` varchar(250) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
@@ -162,8 +169,8 @@ TRUNCATE TABLE `user`;
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`cid`, `name`, `phoneno`, `emailid`) VALUES
-(4, 'Ben Stewart', '9489408090', 'sbenstewart@gmail.com');
+INSERT INTO `user` (`cid`, `name`, `phoneno`, `emailid`, `aid`, `college`, `year`, `dept`, `course`, `password`) VALUES
+(47, 'Ben Stewart', '09489408090', 'sbenstewart@gmail.com', 16, 'CEG', '2', 'CSE', 'B.E.', 'IL8437');
 
 -- --------------------------------------------------------
 
@@ -187,14 +194,11 @@ TRUNCATE TABLE `workshop`;
 -- --------------------------------------------------------
 
 --
--- Structure for view `event1` exported as a table
+-- Structure for view `event1`
 --
 DROP TABLE IF EXISTS `event1`;
-CREATE TABLE`event1`(
-    `name` varchar(100) COLLATE utf8_general_ci DEFAULT NULL,
-    `emailid` varchar(100) COLLATE utf8_general_ci DEFAULT NULL,
-    `phoneno` varchar(10) COLLATE utf8_general_ci DEFAULT NULL
-);
+
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `event1`  AS  select `user`.`name` AS `name`,`user`.`emailid` AS `emailid`,`user`.`phoneno` AS `phoneno` from (`registrations` left join `user` on(((`registrations`.`cid` = `user`.`cid`) and (`registrations`.`id` = 'sample')))) ;
 
 --
 -- Indexes for dumped tables
@@ -231,7 +235,7 @@ ALTER TABLE `registrations`
 --
 ALTER TABLE `user`
   ADD PRIMARY KEY (`cid`),
-  ADD UNIQUE KEY `phoneno` (`phoneno`);
+  ADD UNIQUE KEY `emailid` (`emailid`);
 
 --
 -- Indexes for table `workshop`
@@ -247,7 +251,7 @@ ALTER TABLE `workshop`
 -- AUTO_INCREMENT for table `ambassador`
 --
 ALTER TABLE `ambassador`
-  MODIFY `aid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `aid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
 
 --
 -- AUTO_INCREMENT for table `event`
@@ -259,7 +263,7 @@ ALTER TABLE `event`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=48;
 
 --
 -- AUTO_INCREMENT for table `workshop`

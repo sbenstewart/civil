@@ -13,13 +13,16 @@ try {
     {
       $id = $row['cid'];
 
-      session_start();
-      /*session is started if you don't write this line can't use $_Session  global variable*/
-      $_SESSION["cid"]=$id;
 
-      echo "Logged in with cid as $_SESSION["cid"]";
+      /*session is started if you don't write this line can't use $_Session  global variable*/
 
   }
+  session_start();
+  $_SESSION["cid"]=$id;
+
+  echo "Logged in as ";
+  echo $_SESSION["cid"];
+
 } catch (PDOException $pe) {
     die("Could not connect to the database $dbname :" . $pe->getMessage());
 }

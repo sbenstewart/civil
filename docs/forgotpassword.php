@@ -53,6 +53,8 @@ try {
 
 					mail($to, $subject, $message, $headers);
 
+					echo "Password has been mailed.";
+
 
         }
         else {

@@ -3,7 +3,7 @@ require_once 'dbconfig.php';
 $table2 = $_POST["name"];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-      $sql = "SELECT * from ambassador where aid in (SELECT aid FROM user GROUP BY aid HAVING COUNT(*) > 10)";
+      $sql = "SELECT * from ambassador where aid in (SELECT aid FROM user GROUP BY aid HAVING COUNT(*) > 10);";
       //Prepare our SQL query.
       $statement = $conn->prepare($sql);
       //Executre our SQL query.

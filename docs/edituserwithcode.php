@@ -12,8 +12,7 @@ $cid2 = $_POST['cid1'];
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-    //echo "Connected to $dbname at $host successfully.";
-
+    
     $sql = "SELECT COUNT(*) from ambassador where code='$code2'";
     if ($res = $conn->query($sql)) {
 
@@ -23,10 +22,9 @@ try {
           {
             $aid2 = $row['aid'];
           }
-          //echo "update user set name='$name2', emailid='$mail2', phoneno='$phone2', aid='$aid2', college='$college2', year='$year2', dept='$dept2', course='$course2' where cid='$cid2'";
           $count = $conn->exec("update user set name='$name2', emailid='$mail2', phoneno='$phone2', aid='$aid2', college='$college2', year='$year2', dept='$dept2', course='$course2' where cid='$cid2'");
-          
-          echo "Form Submitted succesfully $id";
+
+          echo "Details modified succesfully $id";
 
         }
         /* No rows matched -- do something else */

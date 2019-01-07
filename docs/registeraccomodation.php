@@ -9,17 +9,15 @@ try {
     //echo "Connected to $dbname at $host successfully.";
 
     $cookie_name = "user";
-    if(!isset($_COOKIE[$cookie_name]))
+    if(!isset($_SESSION["cid"])
     {
-      echo "Please register.";
+      echo "Please login / register.";
       exit();
     }
     else
     {
-      echo "Cookie '" . $cookie_name . "' is set!";
-      echo "Value is: " . $_COOKIE[$cookie_name];
-      $count = $conn->exec("insert into accomodation(id, entrydate, entrytime, hours) values ('$_COOKIE[$cookie_name]', '$date2', '$time2' ,'$hours2')");
-      foreach ($conn->query("SELECT name from user where cid='$_COOKIE[$cookie_name]'") as $row)
+      $count = $conn->exec("insert into accomodation(id, entrydate, entrytime, hours) values ('$_SESSION["cid"]', '$date2', '$time2' ,'$hours2')");
+      foreach ($conn->query("SELECT name from user where cid='$_SESSION["cid"]'") as $row)
       {
         $name = $row['name'];
       }

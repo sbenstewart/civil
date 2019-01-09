@@ -50,9 +50,8 @@ function regAccomodation() {
 var date = document.getElementById("datepicker").value;
 var time = document.getElementById("timepicker").value;
 var hours = document.getElementById("hours").value;
-var extras = document.getElementById("extras").value;
 // Returns successful data submission message when the entered information is stored in database.
-var dataString = '&date1=' + date + '&time1=' + time + '&hours1=' + hours + '&extras1=' + extras;
+var dataString = '&date1=' + date + '&time1=' + time + '&hours1=' + hours;
 if (date == '' || time == '' || hours == '') {
 alert("Please Fill All Fields");
 } else {
@@ -67,19 +66,26 @@ alert(html);
 }
 });
 }
-if(extras=''){
-
+return false;
 }
-else{
-  jQuery.ajax({
-  type: "POST",
-  url: "registerextras.php",
-  data: dataString,
-  cache: false,
-  success: function(html) {
-  alert(html);
-  }
-  });
+
+function regExtras() {
+var extras = document.getElementById("extras").value;
+// Returns successful data submission message when the entered information is stored in database.
+var dataString ='&extras1=' + extras;
+if (extras == '') {
+alert("Don't you want lunch and a T-shirt?");
+} else {
+// AJAX code to submit form.
+jQuery.ajax({
+type: "POST",
+url: "registerextras.php",
+data: dataString,
+cache: false,
+success: function(html) {
+alert(html);
+}
+});
 }
 return false;
 }

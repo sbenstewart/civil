@@ -50,8 +50,9 @@ function regAccomodation() {
 var date = document.getElementById("datepicker").value;
 var time = document.getElementById("timepicker").value;
 var hours = document.getElementById("hours").value;
+var extras = document.getElementById("extras").value;
 // Returns successful data submission message when the entered information is stored in database.
-var dataString = '&date1=' + date + '&time1=' + time + '&hours1=' + hours;
+var dataString = '&date1=' + date + '&time1=' + time + '&hours1=' + hours + '&extras1=' + extras;
 if (date == '' || time == '' || hours == '') {
 alert("Please Fill All Fields");
 } else {
@@ -65,6 +66,20 @@ success: function(html) {
 alert(html);
 }
 });
+}
+if(extras=''){
+
+}
+else{
+  jQuery.ajax({
+  type: "POST",
+  url: "registerextras.php",
+  data: dataString,
+  cache: false,
+  success: function(html) {
+  alert(html);
+  }
+  });
 }
 return false;
 }

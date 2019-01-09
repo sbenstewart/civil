@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Jan 07, 2019 at 08:24 AM
+-- Generation Time: Jan 09, 2019 at 03:16 AM
 -- Server version: 5.7.23
 -- PHP Version: 7.2.10
 
@@ -28,7 +28,7 @@ USE `database`;
 -- Table structure for table `accomodation`
 --
 -- Creation: Dec 31, 2018 at 10:10 AM
--- Last update: Jan 07, 2019 at 08:20 AM
+-- Last update: Jan 09, 2019 at 03:04 AM
 --
 
 DROP TABLE IF EXISTS `accomodation`;
@@ -40,16 +40,11 @@ CREATE TABLE `accomodation` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
--- Truncate table before insert `accomodation`
---
-
-TRUNCATE TABLE `accomodation`;
---
 -- Dumping data for table `accomodation`
 --
 
 INSERT INTO `accomodation` (`id`, `entrydate`, `entrytime`, `hours`) VALUES
-(47, '01/04/2019', '16:45', '48');
+(47, '01/04/2019', '08:34', '72');
 
 -- --------------------------------------------------------
 
@@ -68,11 +63,6 @@ CREATE TABLE `ambassador` (
   `code` varchar(10) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Truncate table before insert `ambassador`
---
-
-TRUNCATE TABLE `ambassador`;
 --
 -- Dumping data for table `ambassador`
 --
@@ -94,11 +84,6 @@ CREATE TABLE `event` (
   `name` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Truncate table before insert `event`
---
-
-TRUNCATE TABLE `event`;
 -- --------------------------------------------------------
 
 --
@@ -117,26 +102,22 @@ CREATE TABLE `event1` (
 --
 -- Table structure for table `registrations`
 --
--- Creation: Dec 31, 2018 at 04:35 AM
+-- Creation: Jan 09, 2019 at 03:15 AM
 --
 
 DROP TABLE IF EXISTS `registrations`;
 CREATE TABLE `registrations` (
   `cid` varchar(100) NOT NULL,
-  `id` varchar(100) NOT NULL
+  `id` varchar(100) NOT NULL,
+  `Paid` varchar(100) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Truncate table before insert `registrations`
---
-
-TRUNCATE TABLE `registrations`;
 --
 -- Dumping data for table `registrations`
 --
 
-INSERT INTO `registrations` (`cid`, `id`) VALUES
-('4', 'sample');
+INSERT INTO `registrations` (`cid`, `id`, `Paid`) VALUES
+('47', 'lunch-tshirt', NULL);
 
 -- --------------------------------------------------------
 
@@ -161,11 +142,6 @@ CREATE TABLE `user` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
--- Truncate table before insert `user`
---
-
-TRUNCATE TABLE `user`;
---
 -- Dumping data for table `user`
 --
 
@@ -186,11 +162,6 @@ CREATE TABLE `workshop` (
   `name` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Truncate table before insert `workshop`
---
-
-TRUNCATE TABLE `workshop`;
 -- --------------------------------------------------------
 
 --

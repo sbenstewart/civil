@@ -11,6 +11,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
 
+    <link rel="stylesheet" href="css/loader.css">
+
     <!-- FontAwesome CSS -->
     <link rel="stylesheet" href="css/fontawesome-all.min.css">
 
@@ -23,6 +25,7 @@
 </head>
 
 <body>
+
     <header class="site-header">
         <div class="header-bar">
             <div class="container-fluid">
@@ -34,7 +37,7 @@
                         </h1>
                     </div>
 
-                    <div id="menu" class="col-2 col-lg-8">
+                    <div class="col-2 col-lg-8">
                         <nav class="site-navigation">
                             <div class="hamburger-menu d-lg-none">
                                 <span></span>
@@ -42,17 +45,16 @@
                                 <span></span>
                                 <span></span>
                             </div><!-- .hamburger-menu -->
-                            <div id="submenu">
+
                             <ul>
-                                <li><a onclick="hide()" href="#home">HOME</a></li>
-                                <li><a onclick="hide()" href="#workshops">WORKSHOPS</a></li>
-                                <li><a onclick="hide()" href="#events">EVENTS</a></li>
-                                <li><a onclick="hide()" href="#lectures">LECTURES</a></li>
-                                <li><a onclick="hide()" href="contact.html">CONTACT</a></li>
-                                <li><a onclick="hide()" href="signup.html">LOGIN</a></li>
+                                <li><a href="#home">HOME</a></li>
+                                <li><a href="#workshops">WORKSHOPS</a></li>
+                                <li><a href="#events">EVENTS</a></li>
+                                <li><a href="#lectures">LECTURES</a></li>
+                                <li><a href="contact.html">CONTACT</a></li>
+                                <li><a href="signup.html">LOGIN</a></li>
 
                             </ul><!-- flex -->
-                          </div>
                         </nav><!-- .site-navigation -->
                     </div><!-- .col-12 -->
                 </div><!-- .row -->
@@ -64,15 +66,36 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 offset-lg-2 col-lg-10">
-
                     <div class="entry-header">
                         <!--<h2>Symposium!</h2>
 
                         <div class="entry-meta-date">
 
-                        </div>entry-meta-date -->
+                        </div><!-- .entry-meta-date -->
                     </div><!-- .entry-header -->
 
+
+                    <!--<div class="countdown flex flex-wrap justify-content-between" data-date="2018/06/06">
+                        <div class="countdown-holder">
+                            <div class="dday"></div>
+                            <label>Days</label>
+                        </div>
+
+                        <div class="countdown-holder">
+                            <div class="dhour"></div>
+                            <label>Hours</label>
+                        </div>
+
+                        <div class="countdown-holder">
+                            <div class="dmin"></div>
+                            <label>Minutes</label>
+                        </div>
+
+                        <div class="countdown-holder">
+                            <div class="dsec"></div>
+                            <label>Seconds</label>
+                        </div>
+                    </div><!-- .countdown -->
                 </div><!-- .col-12 -->
 
             </div><!-- row -->
@@ -270,9 +293,108 @@
             </div><!-- row -->
         </div><!-- container -->
 
-</div>
 
 
+        <!--<div class="homepage-next-events">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="entry-title">
+                            <p>JUST THE BEST</p>
+                            <h2>Our Next Events</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="next-event-slider-wrap">
+                <div class="swiper-container next-event-slider">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-1.jpg" alt="">
+
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-2.jpg" alt="">
+
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-3.jpg" alt="">
+
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-1.jpg" alt="">
+
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-2.jpg" alt="">
+
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-3.jpg" alt="">
+
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="swiper-button-next">
+                    <img src="images/button.png" alt="">
+                </div>
+            </div>
+        </div>-->
 
         <div class="home-page-last-news" id="ambassador">
           <div class="row">
@@ -414,6 +536,7 @@
             </div><!-- container -->
         </div><!-- home-page-last-news -->
     </div>
+</div>
 
     <footer class="site-footer">
         <div class="footer-cover-title flex justify-content-center align-items-center">
@@ -455,7 +578,6 @@
 
 
 
-
     <script type='text/javascript' src='js/jquery.js'></script>
     <script type='text/javascript' src='js/masonry.pkgd.min.js'></script>
     <script type='text/javascript' src='js/jquery.collapsible.min.js'></script>
@@ -464,7 +586,7 @@
     <script type='text/javascript' src='js/circle-progress.min.js'></script>
     <script type='text/javascript' src='js/jquery.countTo.min.js'></script>
     <script type='text/javascript' src='js/custom.js'></script>
-    <script type='text/javascript' src='js/loader.js'></script>
-    <script type='text/javascript' src='js/main.js'></script>
+    <script type='text/javascript' src="js/main.js"></script>
+
 </body>
 </html>

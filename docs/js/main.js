@@ -1,3 +1,12 @@
+function hide() {
+  var x = document.getElementById("submenu");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+
 function regUser() {
 var name = document.getElementById("name").value;
 var mail = document.getElementById("mail").value;

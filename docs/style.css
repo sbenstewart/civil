@@ -542,11 +542,7 @@ body {
 }
 
 .the-complete-lineup-artists .artist-single {
-    margin-bottom: 0px;
-}
-
-.the-complete-lineup-artists .artist-single:nth-of-type(even) {
-    margin-top: 120px;
+    margin-bottom: 25px;
 }
 
 .the-complete-lineup-artists .artist-single figure {
@@ -578,47 +574,6 @@ body {
     font-weight: 600;
     color: hsl(0, 0%, 2%);
     text-align: center;
-}
-
-@media screen and (min-width: 768px) {
-    .the-complete-lineup-artists .artist-single:nth-child(6) {
-        margin-top: 0;
-    }
-}
-
-
-@media screen and (min-width: 1200px) {
-    .the-complete-lineup-artists .artist-single:nth-child(1) {
-        margin-top: 2px;
-    }
-
-    .the-complete-lineup-artists .artist-single:nth-child(2) {
-        margin-top: 90px;
-    }
-
-    .the-complete-lineup-artists .artist-single:nth-child(3) {
-        margin-top: 48px;
-    }
-
-    .the-complete-lineup-artists .artist-single:nth-child(4) {
-        margin-top: 0;
-    }
-
-    .the-complete-lineup-artists .artist-single:nth-child(5) {
-        margin-top: 75px;
-    }
-
-    .the-complete-lineup-artists .artist-single:nth-child(6) {
-        margin-top: 165px;
-    }
-
-    .the-complete-lineup-artists .artist-single:nth-child(7) {
-        margin-top: 25px;
-    }
-
-    .the-complete-lineup-artists .artist-single:nth-child(8) {
-        margin-top: 75px;
-    }
 }
 
 /*------------------------------------------------------------

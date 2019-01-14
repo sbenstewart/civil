@@ -105,8 +105,9 @@ function regEvent() {
   var name = 'temp';
   var mail = 'temp';
   var phone = 'temp';
+  var event = document.getElementById("event").value;
   // Returns successful data submission message when the entered information is stored in database.
-  var dataString = 'event1=' + "sample";
+  var dataString = 'event1=' + event;
   if (name == '' || mail == '' || phone == '') {
   alert("Please Fill All Fields");
   } else {

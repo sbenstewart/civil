@@ -7,6 +7,21 @@
 		document.getElementById("tid").value = d;
 	};
 </script>
+<style>
+table, td, th {
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+}
+</style>
 </head>
 <body>
 	<form method="POST" name="customerData" action="ccavRequestHandler.php">
@@ -22,25 +37,25 @@
 					<td>TID	:</td><td><input type="text" name="tid" id="tid" readonly /></td>
 				</tr>
 				<tr>
-					<td>Merchant Id	:</td><td><input type="text" name="merchant_id" value="130345"/></td>
+					<td>Merchant Id	:</td><td><input type="text" name="merchant_id" value="130345" readonly/></td>
 				</tr>
 				<tr>
-					<td>Order Id	:</td><td><input type="text" name="order_id" value="123654789"/></td>
+					<td>Order Id	:</td><td><input type="text" name="order_id" value="123654789" readonly/></td>
 				</tr>
 				<tr>
-					<td>Amount	:</td><td><input type="text" name="amount" value="5.00"/></td>
+					<td>Amount	:</td><td><input type="text" name="amount" value="5.00" readonly/></td>
 				</tr>
 				<tr>
-					<td>Currency	:</td><td><input type="text" name="currency" value="INR"/></td>
+					<td>Currency	:</td><td><input type="text" name="currency" value="INR" readonly/></td>
 				</tr>
 				<tr>
-					<td>Redirect URL	:</td><td><input type="text" name="redirect_url" value="/ccavResponseHandler.php"/></td>
+					<td>Redirect URL	:</td><td><input type="text" name="redirect_url" value="/ccavResponseHandler.php" readonly/></td>
 				</tr>
 			 	<tr>
-			 		<td>Cancel URL	:</td><td><input type="text" name="cancel_url" value="/ccavResponseHandler.php"/></td>
+			 		<td>Cancel URL	:</td><td><input type="text" name="cancel_url" value="/ccavResponseHandler.php" readonly/></td>
 			 	</tr>
 			 	<tr>
-					<td>Language	:</td><td><input type="text" name="language" value="EN"/></td>
+					<td>Language	:</td><td><input type="text" name="language" value="EN" readonly/></td>
 				</tr>
 		     	<tr>
 		     		<td colspan="2">Billing information(optional):</td>
@@ -69,45 +84,7 @@
 		        <tr>
 		        	<td>Billing Email	:</td><td><input type="text" name="billing_email" value="test@test.com"/></td>
 		        </tr>
-		        <tr>
-		        	<td colspan="2">Shipping information(optional)</td>
-		        </tr>
-		        <tr>
-		        	<td>Shipping Name	:</td><td><input type="text" name="delivery_name" value="Chaplin"/></td>
-		        </tr>
-		        <tr>
-		        	<td>Shipping Address	:</td><td><input type="text" name="delivery_address" value="room no.701 near bus stand"/></td>
-		        </tr>
-		        <tr>
-		        	<td>shipping City	:</td><td><input type="text" name="delivery_city" value="Hyderabad"/></td>
-		        </tr>
-		        <tr>
-		        	<td>shipping State	:</td><td><input type="text" name="delivery_state" value="Andhra"/></td>
-		        </tr>
-		        <tr>
-		        	<td>shipping Zip	:</td><td><input type="text" name="delivery_zip" value="425001"/></td>
-		        </tr>
-		        <tr>
-		        	<td>shipping Country	:</td><td><input type="text" name="delivery_country" value="India"/></td>
-		        </tr>
-		        <tr>
-		        	<td>Shipping Tel	:</td><td><input type="text" name="delivery_tel" value="5555555555"/></td>
-		        </tr>
-		        <tr>
-		        	<td>Merchant Param1	:</td><td><input type="text" name="merchant_param1" value="additional Info."/></td>
-		        </tr>
-		        <tr>
-		        	<td>Merchant Param2	:</td><td><input type="text" name="merchant_param2" value="additional Info."/></td>
-		        </tr>
-				<tr>
-					<td>Merchant Param3	:</td><td><input type="text" name="merchant_param3" value="additional Info."/></td>
-				</tr>
-				<tr>
-					<td>Merchant Param4	:</td><td><input type="text" name="merchant_param4" value="additional Info."/></td>
-				</tr>
-				<tr>
-					<td>Merchant Param5	:</td><td><input type="text" name="merchant_param5" value="additional Info."/></td>
-				</tr>
+		        
 
 				 <tr>
 		     		<td colspan="2">Payment information:</td>
@@ -428,7 +405,6 @@
          var mobilePayments=[];
          $.each(data, function() {
          	 // this.error shows if any error
-             console.log(this.error);
               paymentOptions.push(this.payOpt);
               switch(this.payOpt){
                 case 'OPTCRDC':

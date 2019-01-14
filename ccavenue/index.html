@@ -8,26 +8,49 @@
 	};
 </script>
 <style>
-table, td, th {
+#kit, #kit th, #kit tr {
   border: 1px solid #ddd;
   text-align: left;
 }
 
-table {
+#kit {
   border-collapse: collapse;
   width: 100%;
 }
 
-th, td {
+#kit th,#kit td {
   padding: 15px;
 }
+#payment {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#payment td, #payment th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#payment tr:nth-child(even){background-color: #f2f2f2;}
+
+#payment tr:hover {background-color: #ddd;}
+
+#payment th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
 </style>
 </head>
 <body>
 	<form method="POST" name="customerData" action="ccavRequestHandler.php">
-		<table width="40%" height="100" border='1' align="center"><caption><font size="4" color="blue"><b>Integration Kit</b></font></caption></table>
+		<table id="kit" width="40%" height="100" border='1' align="center"><caption><font size="4" color="blue"><b>Integration Kit</b></font></caption></table>
 
-			<table width="50%" height="100" border='1' align="center">
+			<table width="50%" height="100" border='1' align="center" id="payment">
 				<tr>
 					<td>Parameter Name:</td><td>Parameter Value:</td>
 				</tr>

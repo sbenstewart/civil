@@ -1833,6 +1833,14 @@ body {
     line-height: 2;
 }
 
+.tabs-container .tab-content li {
+    margin-top: 15px;
+    color: #989898;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+
 .accordion-and-tabs-wrap .accordion-wrap {
     position: relative;
 }

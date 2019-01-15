@@ -21,12 +21,23 @@
 #kit th,#kit td {
   padding: 15px;
 }
-
-
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#A7A1AE;
+  background-color:#1F2739;
+}
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
 </style>
 </head>
 <body>
-	<form method="POST" name="customerData" action="ccavRequestHandler.php">
+	<form method="POST" name="customerData" action="ccavRequestHandler.php" >
 		<table id="kit" width="40%" height="100" border='1' align="center"><caption><font size="4" color="blue"><b>Integration Kit</b></font></caption></table>
 
 			<table width="50%" height="100" border='1' align = "center"  id="payment" colour="green">
@@ -64,7 +75,7 @@
 		     		<td colspan="2">Billing information(optional):</td>
 		     	</tr>
 		        <tr>
-		        	<td>Billing Name	:</td><td><input type="text" name="billing_name" value="Charli"/></td>
+		        	<td>Billing Name	:</td><td><input type="text" name="billing_name" value="Charli"  /></td>
 		        </tr>
 		        <tr>
 		        	<td>Billing Address	:</td><td><input type="text" name="billing_address" value="Room no 1101, near Railway station Ambad"/></td>

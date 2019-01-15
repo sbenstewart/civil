@@ -1,46 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<link rel="stylesheet" href="index.css">
 <script>
 	window.onload = function() {
 		var d = new Date().getTime();
 		document.getElementById("tid").value = d;
 	};
 </script>
-<style>
-#kit, #kit th, #kit tr {
-  border: 1px solid #ddd;
-  text-align: left;
-}
-
-#kit {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#kit th,#kit td {
-  padding: 15px;
-}
-body {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
-  line-height: 1.42em;
-  color:#A7A1AE;
-  background-color:#1F2739;
-}
-input {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-}
-</style>
 </head>
 <body>
 	<form method="POST" name="customerData" action="ccavRequestHandler.php" >
 		<table id="kit" width="40%" height="100" border='1' align="center"><caption><font size="4" color="blue"><b>Integration Kit</b></font></caption></table>
 
-			<table width="50%" height="100" border='1' align = "center"  id="payment" colour="green">
+			<table width="50%" height="100" border='1' align = "center"  class="payment" colour="green">
 				<tr>
 					<td>Parameter Name:</td><td>Parameter Value:</td>
 				</tr>

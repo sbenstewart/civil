@@ -1,33 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<link rel="stylesheet" href="index.css">
 <script>
 	window.onload = function() {
 		var d = new Date().getTime();
 		document.getElementById("tid").value = d;
 	};
 </script>
-<style>
-table, td, th {
-  border: 1px solid #ddd;
-  text-align: left;
-}
-
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-th, td {
-  padding: 15px;
-}
-</style>
 </head>
 <body>
-	<form method="POST" name="customerData" action="ccavRequestHandler.php">
-		<table width="40%" height="100" border='1' align="center"><caption><font size="4" color="blue"><b>Integration Kit</b></font></caption></table>
+	<form method="POST" name="customerData" action="ccavRequestHandler.php" >
+		<table id="kit" width="40%" height="100" border='1' align="center"><caption><font size="4" color="blue"><b>Integration Kit</b></font></caption></table>
 
-			<table width="50%" height="100" border='1' align="center">
+			<table width="50%" height="100" border='1' align = "center"  class="payment" colour="green">
 				<tr>
 					<td>Parameter Name:</td><td>Parameter Value:</td>
 				</tr>
@@ -62,7 +48,7 @@ th, td {
 		     		<td colspan="2">Billing information(optional):</td>
 		     	</tr>
 		        <tr>
-		        	<td>Billing Name	:</td><td><input type="text" name="billing_name" value="Charli"/></td>
+		        	<td>Billing Name	:</td><td><input type="text" name="billing_name" value="Charli"  /></td>
 		        </tr>
 		        <tr>
 		        	<td>Billing Address	:</td><td><input type="text" name="billing_address" value="Room no 1101, near Railway station Ambad"/></td>

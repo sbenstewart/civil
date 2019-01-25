@@ -3,11 +3,13 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Jan 09, 2019 at 03:16 AM
+-- Generation Time: Jan 25, 2019 at 02:57 PM
 -- Server version: 5.7.23
 -- PHP Version: 7.2.10
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
 SET time_zone = "+00:00";
 
 
@@ -19,16 +21,11 @@ SET time_zone = "+00:00";
 --
 -- Database: `database`
 --
-CREATE DATABASE IF NOT EXISTS `database` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `database`;
 
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `accomodation`
---
--- Creation: Dec 31, 2018 at 10:10 AM
--- Last update: Jan 09, 2019 at 03:04 AM
 --
 
 DROP TABLE IF EXISTS `accomodation`;
@@ -39,6 +36,11 @@ CREATE TABLE `accomodation` (
   `hours` varchar(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+--
+-- Truncate table before insert `accomodation`
+--
+
+TRUNCATE TABLE `accomodation`;
 --
 -- Dumping data for table `accomodation`
 --
@@ -51,8 +53,6 @@ INSERT INTO `accomodation` (`id`, `entrydate`, `entrytime`, `hours`) VALUES
 --
 -- Table structure for table `ambassador`
 --
--- Creation: Jan 04, 2019 at 02:10 PM
---
 
 DROP TABLE IF EXISTS `ambassador`;
 CREATE TABLE `ambassador` (
@@ -64,25 +64,16 @@ CREATE TABLE `ambassador` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
+-- Truncate table before insert `ambassador`
+--
+
+TRUNCATE TABLE `ambassador`;
+--
 -- Dumping data for table `ambassador`
 --
 
 INSERT INTO `ambassador` (`aid`, `name`, `phoneno`, `emailid`, `code`) VALUES
 (16, 'Ben Stewart', '9489408090', 'sbenstewart@gmail.com', 'ZS7801');
-
--- --------------------------------------------------------
-
---
--- Table structure for table `event`
---
--- Creation: Dec 27, 2018 at 12:57 AM
---
-
-DROP TABLE IF EXISTS `event`;
-CREATE TABLE `event` (
-  `id` int(11) NOT NULL,
-  `name` varchar(100) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- --------------------------------------------------------
 
@@ -102,8 +93,6 @@ CREATE TABLE `event1` (
 --
 -- Table structure for table `registrations`
 --
--- Creation: Jan 09, 2019 at 03:15 AM
---
 
 DROP TABLE IF EXISTS `registrations`;
 CREATE TABLE `registrations` (
@@ -113,18 +102,22 @@ CREATE TABLE `registrations` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
+-- Truncate table before insert `registrations`
+--
+
+TRUNCATE TABLE `registrations`;
+--
 -- Dumping data for table `registrations`
 --
 
 INSERT INTO `registrations` (`cid`, `id`, `Paid`) VALUES
-('47', 'lunch-tshirt', NULL);
+('47', 'lunch-tshirt', NULL),
+('47', 'sample', NULL);
 
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `user`
---
--- Creation: Jan 06, 2019 at 03:54 PM
 --
 
 DROP TABLE IF EXISTS `user`;
@@ -142,6 +135,11 @@ CREATE TABLE `user` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
+-- Truncate table before insert `user`
+--
+
+TRUNCATE TABLE `user`;
+--
 -- Dumping data for table `user`
 --
 
@@ -151,25 +149,11 @@ INSERT INTO `user` (`cid`, `name`, `phoneno`, `emailid`, `aid`, `college`, `year
 -- --------------------------------------------------------
 
 --
--- Table structure for table `workshop`
---
--- Creation: Dec 27, 2018 at 12:57 AM
---
-
-DROP TABLE IF EXISTS `workshop`;
-CREATE TABLE `workshop` (
-  `id` int(11) NOT NULL,
-  `name` varchar(100) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
--- --------------------------------------------------------
-
---
 -- Structure for view `event1`
 --
 DROP TABLE IF EXISTS `event1`;
 
-CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `event1`  AS  select `user`.`name` AS `name`,`user`.`emailid` AS `emailid`,`user`.`phoneno` AS `phoneno` from (`registrations` left join `user` on(((`registrations`.`cid` = `user`.`cid`) and (`registrations`.`id` = 'sample')))) ;
+CREATE VIEW `event1`  AS  select `user`.`name` AS `name`,`user`.`emailid` AS `emailid`,`user`.`phoneno` AS `phoneno` from (`registrations` left join `user` on(((`registrations`.`cid` = `user`.`cid`) and (`registrations`.`id` = 'sample')))) ;
 
 --
 -- Indexes for dumped tables
@@ -189,12 +173,6 @@ ALTER TABLE `ambassador`
   ADD UNIQUE KEY `name` (`name`);
 
 --
--- Indexes for table `event`
---
-ALTER TABLE `event`
-  ADD PRIMARY KEY (`id`);
-
---
 -- Indexes for table `registrations`
 --
 ALTER TABLE `registrations`
@@ -209,12 +187,6 @@ ALTER TABLE `user`
   ADD UNIQUE KEY `emailid` (`emailid`);
 
 --
--- Indexes for table `workshop`
---
-ALTER TABLE `workshop`
-  ADD PRIMARY KEY (`id`);
-
---
 -- AUTO_INCREMENT for dumped tables
 --
 
@@ -225,22 +197,11 @@ ALTER TABLE `ambassador`
   MODIFY `aid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
 
 --
--- AUTO_INCREMENT for table `event`
---
-ALTER TABLE `event`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
-
---
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
   MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=48;
-
---
--- AUTO_INCREMENT for table `workshop`
---
-ALTER TABLE `workshop`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

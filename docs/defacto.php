@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Cricket Quiz</h2>
+                            <h2 class="entry-title">Defacto</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -105,43 +106,39 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>Champions never sleep, the eternal spirit keep them alert and awake
-                                              </b></strong>
+                                              <p><strong><b>“One sees qualities at a distance and defects at a close range.”<br>
+                                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-Victor Hugo
+                                                </b></strong>
                                                 <br>
                                                 <br>
-                                                To all the Cricket fanatics out there..<br>
-                                                Are you mesmerised towards cricket wherever the venue and whatever the country and not bothered by different timezones?<br>
-                                                Are you another HARSHA BHOGLE in the making?<br>
-                                                Do you have what it takes to be the UNIVERSAL BOSS of cricket world?<br>
-                                                Do you think you know stats about Cricket ”INSIDE OUT” from 5 day tests to the fast paced T20?<br>
-                                                Society of civil engineers brings forth the event CRICKET QUIZ in CIVILISATION 19 for you to test your cricketing brain. So RUN IN FULL STEAM, BOUNCE OUT your opponents and SWEEP the cash prizes
-                                                </p>
-                                                <h2 class="entry-header">FORMAT:</h2>
-                                                <ol>
-                                                  <li>PRELIMS:
-                                                    <ul>
-                                                      <li>The participants will be given a set of 30 questions from various topics.</li>
-                                                      <li>30 minutes will be given from the starting time.</li>
-                                                      <li>The top 5 teams will be selected for the finals.</li>
-                                                    </ul>
-                                                  </li>
-                                                  <li>FINALS:
-                                                    <ul>
-                                                      <li>The finals will consist of two to three small rounds.</li>
-                                                      <li>The marks secured in each of the rounds(prelims will not be added) will be aggregated.</li>
+                                                <br>  Construction defects can devalue your property by undermining structural integrity or aesthetic qualities thereby rendering the property to be unusable. Also we’ve come across various laboratory experiments that are of utmost importance in Civil engineering. Are you a Civil Engineer who ponders about constructing defect free buildings? Do you think you know all the field uses of the laboratory experiments? Do you aspire to become a building pathologist? Be at the right event and test your abilities to investigate the defects in construction.
+                                                <br>
 
-                                                    </ul>
-                                                  </li>
+                                              </p>
+                                              <h2 class="entry-header">FORMAT:</h2>
+                                              <ol>
+                                                <li>PRELIMS:
+                                                  <ul>
+                                                    <li>First round is a pen and paper based round.</li>
+                                                    <li>Each team will given a set questions with choices.</li>
+                                                    <li>Top 5 teams will be selected for finals.</li>
+                                                  </ul>
+                                                </li>
+                                                <li>FINALS:
+                                                  <ul>
+                                                    <li>It is a picture description round. You have to describe the defect in the picture.</li>
 
-                                                </ol>
-                                                <h2 class="entry-header">RULES:</h2>
-                                                <ol>
-                                                  <li>Civilization 19 ID is mandatory.</li>
-                                                  <li>Mobile phone usage will definitely lead to disqualification.</li>
-                                                  <li>A team can have minimum of 2 to maximum of 3 participants.</li>
-                                                  <li>Decision made by the judges is final.</li>
-                                                </ol>
+                                                  </ul>
+                                                </li>
 
+                                              </ol>
+                                              <h2 class="entry-header">RULES:</h2>
+                                              <ol>
+                                                <li>College ID card is mandatory.</li>
+                                                <li>Usage of mobile phones is strictly prohibited.</li>
+                                                <li>A team can have a maximum of three participants.</li>
+                                                <li>Judges decision will be final.</li>
+                                              </ol>
 
 
                                           </div>
@@ -156,8 +153,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Mathivanan&emsp;9715048044</li>
-                                              <li>	Velayudham &emsp;7339257076</li>
+                                                <li>Sivaram S&emsp;8220597322</li>
+                                                <li>Nandhini T&emsp;8610417096</li>
                                             </ul>
                                           </div>
 
@@ -171,8 +168,15 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                                  <?php
+                                                  // Start the session
 
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->

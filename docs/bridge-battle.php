@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">KOLLYWOOD QUIZ</h2>
+                            <h2 class="entry-title">Bridge Battle</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -104,53 +105,45 @@
 
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
-
-                                              <p>🎬Here's to the ones who dream about showing off their movie knowledge..!🎬<br>
-    🎞Are you the one among your group who goes an extra mile after watching a movie and researches it on the web?🎞<br>
-           We present you a movie quiz to showcase your wit in ``Tamil Cinema``.
+                                              <p><strong><b>“The good engineer is a person, who makes a design that works with as few original ideas as possible.”<br>
+                                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Freeman Dyson
+                                                </b></strong>
                                                 <br>
-                                                <strong>"📽No Godfather!But Nayagan.<br>
-No Making Mr.Right!But Endhiran. <br>
-No Conjuring!But Kanchana.📽"<br>
-
-                                                </strong>It’s time to get bragging rights for your Filmy Quotient!📽
-
+                                                <br>
                                               </p>
+                                              <p>
+                                                Engineering is the improvement to satisfy the mankind's need. As structural engineers, we have a duty not only to make our structures safe and sustainable but also to the highest standards at our disposal. .Bridge battle is a event in which the participants will have to model a bridge using the materials provided.And to build a model that  would stand firm and sustain more load.
+                                              </p>
+
                                               <h2 class="entry-header">FORMAT:</h2>
                                               <ol>
                                                 <li>PRELIMS:
                                                   <ul>
-                                                    <li>The first round will have 30 questions.</li>
-                                                    <li>Duration of the round is 30 minutes.</li>
-                                                    <li>Star (*) marked questions will be considered for selection in case of tie.</li>
+                                                    <li>it's pen and paper round.</li>
+                                                    <li>30 questions will be given.</li>
+                                                    <li>The Top 6 teams will be selected for final.</li>
                                                   </ul>
                                                 </li>
                                                 <li>FINALS:
                                                   <ul>
-                                                    <li>The final round will have several rounds.</li>
-                                                    <li>Judges decision will be final and binding.</li>
-
+                                                    <li>The participants should build a bridge based on the criteria.</li>
+                                                    <li>Testing of bridge.</li>
+                                                    <li>Duration is 1:30 hours </li>
                                                   </ul>
                                                 </li>
-
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>Minimum of two participants and maximum of three participants must be in a team.</li>
-                                                <li>Judges decision will be final and binding.</li>
-                                                <li>Use of mobile phones is strictly prohibited.</li>
-
+                                                <li>A group of participants must be 3 only.</li>
+                                                <li>Phone is not allowed.</li>
+                                                <li>Participants build a bridge within the given time.</li>
+                                                <li>Everyone should bring a calculator.</li>
+                                                <li>Judge can finalize the winners.</li>
                                               </ol>
-                                              <h2 class="entry-header">FAQ'S:</h2>
-                                              <ol>
-                                                <li>Can I come as a lone wolf?<br>
-No, only teams are allowed to participate in the event. The team can be of either two or three members.</li>
-<li>Will certificates be given to all the participants?<br>
-The teams that are on final round of finals will receive participation certificates. Certificate of merit and cash prize will be given only to the winners.
 
-</li>
 
-                                              </ol>
+
+
 
                                           </div>
 
@@ -164,8 +157,8 @@ The teams that are on final round of finals will receive participation certifica
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>Kanishk&emsp;9840126486</li>
-                                                <li>Rahul Aravind&emsp;8778145784</li>
+                                                <li>	Ajith A&emsp;9159010114</li>
+                                              <li>	Gayathri T &emsp;9688629182</li>
                                             </ul>
                                           </div>
 
@@ -179,7 +172,17 @@ The teams that are on final round of finals will receive participation certifica
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+
+                                                  <?php
+                                                  // Start the session
+
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
+
 
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
@@ -193,22 +196,22 @@ The teams that are on final round of finals will receive participation certifica
                               </div><!-- col-7 -->
                                 <!--<div class="col-12 col-lg-5">
                                     <div class="accordion-wrap type-accordion">
-                                        <h3 class="entry-title active flex justify-content-between">Question1?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title active flex justify-content-between">How do we register for the event?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
+                                            <p>There will be a common registration for CIVILISATION’19. 	There is no separate registration.</p>
                                         </div>
 
-                                        <h3 class="entry-title flex justify-content-between">Question2?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title flex justify-content-between">Who can participate in this event?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
+                                            <p>Students studying in any college or universities can participate in the event.</p>
                                         </div>
 
-                                        <h3 class="entry-title flex justify-content-between">Question3?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title flex justify-content-between">Will I get a certificate of participation?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
+                                            <p>Top 3 participants will receive cash prize and certificate of merit. The other participants entering the final round will receive a certificate of participation.</p>
                                         </div>
                                     </div>
                                 </div><!-- col-5 -->

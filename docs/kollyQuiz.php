@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Breaker of Codes</h2>
+                            <h2 class="entry-title">KOLLYWOOD QUIZ</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -105,43 +106,52 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p>
-                                                Excited seeing the title?<br>
-                                                Don’t fantasize. You are no techie.<br>
-                                                Ever thought that you mastered the IS code?<br>
-                                                Do you think you don’t need an IS code book to solve?<br>
-                                                Prove your worth here. <br>
-                                                <b><strong>Break the code to make your way to glory!</strong></b>
+                                              <p>🎬Here's to the ones who dream about showing off their movie knowledge..!🎬<br>
+    🎞Are you the one among your group who goes an extra mile after watching a movie and researches it on the web?🎞<br>
+           We present you a movie quiz to showcase your wit in ``Tamil Cinema``.
+                                                <br>
+                                                <strong>"📽No Godfather!But Nayagan.<br>
+No Making Mr.Right!But Endhiran. <br>
+No Conjuring!But Kanchana.📽"<br>
+
+                                                </strong>It’s time to get bragging rights for your Filmy Quotient!📽
 
                                               </p>
-                                              <br>
-
                                               <h2 class="entry-header">FORMAT:</h2>
                                               <ol>
                                                 <li>PRELIMS:
                                                   <ul>
-                                                    <li>It is a pen and paper based round where 30 questions will be asked.</li>
-                                                    <li>Each team will be given a set of questions with and without choices.</li>
-                                                    <li>The top 5 teams will be selected for the finals.</li>
+                                                    <li>The first round will have 30 questions.</li>
+                                                    <li>Duration of the round is 30 minutes.</li>
+                                                    <li>Star (*) marked questions will be considered for selection in case of tie.</li>
                                                   </ul>
                                                 </li>
                                                 <li>FINALS:
                                                   <ul>
-                                                    <li>The final round will be given a design problem.</li>
-                                                    <li>Judges decision will be final.</li>
+                                                    <li>The final round will have several rounds.</li>
+                                                    <li>Judges decision will be final and binding.</li>
+
                                                   </ul>
                                                 </li>
+
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>College ID card is mandatory.</li>
-                                                <li>Usage of mobile phones is strictly prohibited.</li>
-                                                <li>A team can have a maximum of three participants.</li>
+                                                <li>Minimum of two participants and maximum of three participants must be in a team.</li>
+                                                <li>Judges decision will be final and binding.</li>
+                                                <li>Use of mobile phones is strictly prohibited.</li>
+
                                               </ol>
+                                              <h2 class="entry-header">FAQ'S:</h2>
+                                              <ol>
+                                                <li>Can I come as a lone wolf?<br>
+No, only teams are allowed to participate in the event. The team can be of either two or three members.</li>
+<li>Will certificates be given to all the participants?<br>
+The teams that are on final round of finals will receive participation certificates. Certificate of merit and cash prize will be given only to the winners.
 
+</li>
 
-
-
+                                              </ol>
 
                                           </div>
 
@@ -155,8 +165,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Bibisha Anlet T&emsp;9487504836&emsp;bibishaceg@gmail.com</li>
-                                              <li>	Pasumponni R &emsp;8825847093&emsp;pasumponni@gmail.com</li>
+                                                <li>Kanishk&emsp;9840126486</li>
+                                                <li>Rahul Aravind&emsp;8778145784</li>
                                             </ul>
                                           </div>
 
@@ -170,8 +180,15 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                                  <?php
+// Start the session
 
+if(isset($_SESSION["cid"]))
+{
+  $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+}
+echo  $print;
+?>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->

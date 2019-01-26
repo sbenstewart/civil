@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Primametry</h2>
+                            <h2 class="entry-title">Acropolis</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -105,38 +106,38 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>“One accurate measurement is worth a thousand expert opinions.”<br>
-                                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Grace Cooper
-                                                </b></strong>
+                                              <p><strong><b>“Architecture is a visual art, and the building speak for themselves.”
+                                                &emsp;&emsp;&emsp;&emsp;- Julia Morgan</b></strong>
                                                 <br>
                                                 <br>
-                                                In the application-based field of engineering measurement is a very fundamental thing. Accurate measurements are the key to a sucessful Construction.Are you a civil engineer who thrives in doing a work with utmost precision eventhough it’s a challenging prospect?? Then you are looking at the right event. Primametry is an event in which you have to find the measurements of the given structure using the given survey instruments
-                                              </p>
-                                              <h2 class="entry-header">FORMAT:</h2>
-                                              <ol>
-                                                <li>PRELIMS:
-                                                  <ul>
-                                                    <li>It is a pen and paper based round</li>
-                                                    <li>Each team will be given a set of questions with multiple choices</li>
-                                                    <li>The top 5 teams will be selected for the finals</li>
-                                                  </ul>
-                                                </li>
-                                                <li>FINALS:
-                                                  <ul>
-                                                    <li>The finalists will be asked to measure the height of a specific building</li>
-                                                    <li>Required instruments will be provided</li>
-                                                    <li>Winners will be determined based on their accuracy</li>
-                                                  </ul>
-                                                </li>
+                                                When you look at a city, you know, it looks so unique. You feel this kind of uniqueness, you know, and especially if you go from a big city to a small city or if you go from one country to another. Cities look very different, often. They even feel very different. You know, and they are, of course. They certainly are. If you are one of this kind and having more knowledge about city buildings, here is the challenging platform for your knowledge about buildings.
+                                                </p>
+                                                <br>
+                                                <h2 class="entry-header">FORMAT:</h2>
+                                                <ol>
+                                                  <li>PRELIMS:
+                                                    <ul>
+                                                      <li>First round is a pen and paper based round.</li>
+                                                      <li>Each team will given a set questions with choices.</li>
+                                                      <li>Top 5 teams will be selected for finals.</li>
+                                                    </ul>
+                                                  </li>
+                                                  <li>FINALS:
+                                                    <ul>
+                                                      <li>It is a picture description round. You have to describe the defect in the picture.</li>
 
-                                              </ol>
-                                              <h2 class="entry-header">RULES:</h2>
-                                              <ol>
-                                                <li>College ID card is mandatory.</li>
-                                                <li>Usage of mobille phones will lead to disqualification</li>
-                                                <li>A team can have a maximum of three participants</li>
-                                                <li>Decision made by the judges is final</li>
-                                              </ol>
+                                                    </ul>
+                                                  </li>
+
+                                                </ol>
+                                                <h2 class="entry-header">RULES:</h2>
+                                                <ol>
+                                                  <li>College ID card is mandatory.</li>
+                                                  <li>Usage of mobile phones is strictly prohibited.</li>
+                                                  <li>A team can have a maximum of three participants.</li>
+                                                  <li>Judges decision will be final.</li>
+                                                </ol>
+
 
 
                                           </div>
@@ -151,8 +152,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Suriya K&emsp;9566575351</li>
-                                                <li>	Jothika T S &emsp;8883991091</li>
+                                                <li>	Sivaram&emsp;8220597322</li>
+                                              <li>	Nandhini T&emsp;8610417096</li>
                                             </ul>
                                           </div>
 
@@ -166,7 +167,18 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+
+                                                  <?php
+                                                  // Start the session
+
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
+
+
 
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>

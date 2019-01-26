@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Bridge Battle</h2>
+                            <h2 class="entry-title">Quriosity</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -104,42 +105,37 @@
 
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
-                                              <p><strong><b>“The good engineer is a person, who makes a design that works with as few original ideas as possible.”<br>
-                                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Freeman Dyson
-                                                </b></strong>
+
+                                              <p><strong><b>"If knowledge is not put into practice, it does not benefit one."
+                                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Muhammad Tahir-ul-Qadri</b></strong>
                                                 <br>
                                                 <br>
-                                              </p>
-                                              <p>
-                                                Engineering is the improvement to satisfy the mankind's need. As structural engineers, we have a duty not only to make our structures safe and sustainable but also to the highest standards at our disposal. .Bridge battle is a event in which the participants will have to model a bridge using the materials provided.And to build a model that  would stand firm and sustain more load.
-                                              </p>
-
-                                              <h2 class="entry-header">FORMAT:</h2>
-                                              <ol>
-                                                <li>PRELIMS:
-                                                  <ul>
-                                                    <li>it's pen and paper round.</li>
-                                                    <li>30 questions will be given.</li>
-                                                    <li>The Top 6 teams will be selected for final.</li>
-                                                  </ul>
-                                                </li>
-                                                <li>FINALS:
-                                                  <ul>
-                                                    <li>The participants should build a bridge based on the criteria.</li>
-                                                    <li>Testing of bridge.</li>
-                                                    <li>Duration is 1:30 hours </li>
-                                                  </ul>
-                                                </li>
-                                              </ol>
-                                              <h2 class="entry-header">RULES:</h2>
-                                              <ol>
-                                                <li>A group of participants must be 3 only.</li>
-                                                <li>Phone is not allowed.</li>
-                                                <li>Participants build a bridge within the given time.</li>
-                                                <li>Everyone should bring a calculator.</li>
-                                                <li>Judge can finalize the winners.</li>
-                                              </ol>
-
+                                                The process of attaining Knowledge is incomplete without knowing how to apply it in needed situations. Are you a honeybee who gathers each and every affair happening in the current world.?? Are you an expert in cracking the questions based on past and present events in and around the world?<br>
+                                                Register your entries, test yourself by competing with other challengers and take home worthy prizes.
+                                                </p>
+                                                <h2 class="entry-header">FORMAT:</h2>
+                                                <ol>
+                                                  <li>PRELIMS:
+                                                    <ul>
+                                                      <li>It is a pen and paper based round.</li>
+                                                      <li>Each team will be given a set of questions with and without choices</li>
+                                                      <li>The top 5 teams will be selected for the finals </li>
+                                                    </ul>
+                                                  </li>
+                                                  <li>FINALS:
+                                                    <ul>
+                                                      <li>The final will be conducted as two rounds.</li>
+                                                      <li>One as pen and paper and other as buzzer based round.</li>
+                                                      <li>Winner will be determined based on the marks secured in the two rounds.</li>
+                                                    </ul>
+                                                  </li>
+                                                </ol>
+                                                <h2 class="entry-header">RULES:</h2>
+                                                <ol>
+                                                  <li>College ID card is mandatory.</li>
+                                                  <li>Usage of mobile phones is strictly prohibited.</li>
+                                                  <li>A team can have a maximum of three participants.</li>
+                                                </ol>
 
 
 
@@ -156,8 +152,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Ajith A&emsp;9159010114</li>
-                                              <li>	Gayathri T &emsp;9688629182</li>
+                                                <li>	Mathivanan&emsp;9715048044</li>
+                                              <li>	Mani &emsp;8939307277</li>
                                             </ul>
                                           </div>
 
@@ -171,8 +167,15 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                                  <?php
+// Start the session
 
+if(isset($_SESSION["cid"]))
+{
+  $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+}
+echo  $print;
+?>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
@@ -185,22 +188,22 @@
                               </div><!-- col-7 -->
                                 <!--<div class="col-12 col-lg-5">
                                     <div class="accordion-wrap type-accordion">
-                                        <h3 class="entry-title active flex justify-content-between">How do we register for the event?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title active flex justify-content-between">Question1?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>There will be a common registration for CIVILISATION’19. 	There is no separate registration.</p>
+                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
                                         </div>
 
-                                        <h3 class="entry-title flex justify-content-between">Who can participate in this event?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title flex justify-content-between">Question2?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>Students studying in any college or universities can participate in the event.</p>
+                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
                                         </div>
 
-                                        <h3 class="entry-title flex justify-content-between">Will I get a certificate of participation?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title flex justify-content-between">Question3?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>Top 3 participants will receive cash prize and certificate of merit. The other participants entering the final round will receive a certificate of participation.</p>
+                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
                                         </div>
                                     </div>
                                 </div><!-- col-5 -->

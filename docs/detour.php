@@ -1,4 +1,5 @@
-"https://www.townscript.com/e/events-232334"<!DOCTYPE html>
+<?php session_start();?>
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
     <!-- Required meta tags -->
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Walk-In</h2>
+                            <h2 class="entry-title">Detour</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -104,36 +105,13 @@
 
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
-                                              <p><b><strong>Good luck for your new job, this is the opportunity you were waiting for, give it your best shot, good luck!!”</strong></b></p>
 
-                                              <p>
-                                                A Job interview is not a test of your knowledge, but your ability to use it at the right time. It takes courage to grow up and become who you really are.<br>
-                                                Interviews may be tough and leave you feeling nervous. But your talent and focus will win them over.<br>
-                                                Yes here is the opportunity to show your  skill through an interview….!!
-                                              </p>
-
-                                              <h2 class="entry-header">FORMAT:</h2>
-                                              <p> C ’19 provides an opportunity for testing one’s placement skills.</p>
-                                              <ol>
-                                                <li>PRELIMS:
-                                                  <ul>
-                                                    <li>The prelims will have 15 questions and duration of 30 minutes will be given. Basic Interview questions will be given in prelims.</li>
-                                                    <li>Top 10 participants will be selected for final.</li>
-                                                  </ul>
-                                                </li>
-                                                <li>FINALS:
-                                                  <ul>
-                                                    <li>The finalists will be interviewed by the judges.</li>
-                                                  </ul>
-                                                </li>
-                                              </ol>
-                                              <h2 class="entry-header">RULES:</h2>
-                                              <ol>
-                                                <li>Usage of mobile phones is strictly prohibited.</li>
-                                                <li>Judges decision will be final.</li>
-                                              </ol>
-
-
+                                              <p><strong><b>"Travel is a new experience that can transport you out of your everyday routine to create memories with the ones you love."
+                                                &emsp;&emsp;&emsp;&emsp;- Brian Chesky</b></strong>
+                                                <br>
+                                                <br>
+                                                Traffic is not only a word, it is the biggest problem in our daily life. It affects the economy too. So, as an engineer, we want to find the solution for reduce that in scientific manner. By using our knowledge in transportation, we can plan and design a transport layout of a city. Use this platform, to prove your knowledge in this domain.....
+                                                </p>
 
 
 
@@ -149,8 +127,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Bibisha Anlet T&emsp;9487504836&emsp;bibishaceg@gmail.com</li>
-                                              <li>	Pasumponni R &emsp;8825847093&emsp;pasumponni@gmail.com</li>
+                                                <li>	Guruprasath J&emsp;9025702803</li>
+                                              <li>	Sanmugam &emsp;7449024379</li>
                                             </ul>
                                           </div>
 
@@ -164,8 +142,15 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href=""><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                                  <?php
+                                                  // Start the session
 
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
@@ -178,22 +163,22 @@
                               </div><!-- col-7 -->
                                 <!--<div class="col-12 col-lg-5">
                                     <div class="accordion-wrap type-accordion">
-                                        <h3 class="entry-title active flex justify-content-between">How do we register for the event?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title active flex justify-content-between">Question1?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>There will be a common registration for CIVILISATION’19. 	There is no separate registration.</p>
+                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
                                         </div>
 
-                                        <h3 class="entry-title flex justify-content-between">Who can participate in this event?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title flex justify-content-between">Question2?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>Students studying in any college or universities can participate in the event.</p>
+                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
                                         </div>
 
-                                        <h3 class="entry-title flex justify-content-between">Will I get a certificate of participation?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title flex justify-content-between">Question3?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>Top 3 participants will receive cash prize and certificate of merit. The other participants entering the final round will receive a certificate of participation.</p>
+                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
                                         </div>
                                     </div>
                                 </div><!-- col-5 -->

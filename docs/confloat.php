@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">ARCHI BUILDO</h2>
+                            <h2 class="entry-title">Confloat</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -105,37 +106,13 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                            <p>Apart from the structural significance of an Arch, such as strengthening and supporting a structure, it symbolizes a universal law, <br><strong>"There is always another way”</strong>.<br> Arches have existed since the pre-historic era. Moreover, Mankind has been constantly reforming the techniques and enhancing the materials used to construct arches. We present to you ARCHIBUILDO, this event provides you a platform to exhibit your expertise in building an Arch which is structurally sound and aesthetically appealing.<br> Show us what you’ve got!
+                                              <p><strong><b>"Conflict is the primary engine of Creativity and Innovation."
+                                                &emsp;&emsp;&emsp;&emsp;- Ronald a Heifetz</b></strong>
                                                 <br>
+                                                <br>
+                                                Have you ever felt tired of constructing buildings on land???.Are you a creative person??  Here is a great chance to showcaseyour innovative ideas.As a innovative engineer you have to build abuoyant concrete structure which can float in water.
+                                                </p>
 
-
-                                              </p>
-                                              <h2 class="entry-header">FORMAT:</h2>
-                                              <ol>
-                                                <li>PRELIMS:
-                                                  <ul>
-                                                    <li>A preliminary test will be conducted with a questionnaire consisting of 25 questions.</li>
-                                                    <li>Duration of prelims : 30 minutes.</li>
-                                                    <li>Negative marking is applicable.</li>
-                                                    <li>The top 5 teams will be qualified for the final round.</li>
-                                                  </ul>
-                                                </li>
-                                                <li>FINALS:
-                                                  <ul>
-                                                    <li>Materials will be provided at the venue.</li>
-                                                    <li>Duration of final round : 2 hours</li>
-                                                    <li>The completed arch will be subjected to load testing.</li>
-                                                    <li>The arches will be evaluated based on the strength and aesthetics.</li>
-                                                  </ul>
-                                                </li>
-
-                                              </ol>
-                                              <h2 class="entry-header">RULES:</h2>
-                                              <ol>
-                                                <li>Use of mobile phones is prohibited.</li>
-                                                <li>The decision made by the judges is final.</li>
-                                                <li>A team can only consist of 2 or 3 participants.</li>
-                                              </ol>
 
 
                                           </div>
@@ -150,8 +127,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>USHA.K&emsp;8940635095</li>
-                                                <li>SRINITHI&emsp;8939722244</li>
+                                                <li>Sathish K&emsp;9444666807</li>
+                                              <li>	Parul S &emsp;8754585655</li>
                                             </ul>
                                           </div>
 
@@ -165,8 +142,15 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href=""><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                                  <?php
+                                                  // Start the session
 
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->

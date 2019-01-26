@@ -88,7 +88,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Defacto</h2>
+                            <h2 class="entry-title">Walk-In</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -104,40 +104,37 @@
 
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
+                                              <p><b><strong>Good luck for your new job, this is the opportunity you were waiting for, give it your best shot, good luck!!”</strong></b></p>
 
-                                              <p><strong><b>“One sees qualities at a distance and defects at a close range.”<br>
-                                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-Victor Hugo
-                                                </b></strong>
-                                                <br>
-                                                <br>
-                                                <br>  Construction defects can devalue your property by undermining structural integrity or aesthetic qualities thereby rendering the property to be unusable. Also we’ve come across various laboratory experiments that are of utmost importance in Civil engineering. Are you a Civil Engineer who ponders about constructing defect free buildings? Do you think you know all the field uses of the laboratory experiments? Do you aspire to become a building pathologist? Be at the right event and test your abilities to investigate the defects in construction.
-                                                <br>
-
+                                              <p>
+                                                A Job interview is not a test of your knowledge, but your ability to use it at the right time. It takes courage to grow up and become who you really are.<br>
+                                                Interviews may be tough and leave you feeling nervous. But your talent and focus will win them over.<br>
+                                                Yes here is the opportunity to show your  skill through an interview….!!
                                               </p>
+
                                               <h2 class="entry-header">FORMAT:</h2>
+                                              <p> C ’19 provides an opportunity for testing one’s placement skills.</p>
                                               <ol>
                                                 <li>PRELIMS:
                                                   <ul>
-                                                    <li>First round is a pen and paper based round.</li>
-                                                    <li>Each team will given a set questions with choices.</li>
-                                                    <li>Top 5 teams will be selected for finals.</li>
+                                                    <li>The prelims will have 15 questions and duration of 30 minutes will be given. Basic Interview questions will be given in prelims.</li>
+                                                    <li>Top 10 participants will be selected for final.</li>
                                                   </ul>
                                                 </li>
                                                 <li>FINALS:
                                                   <ul>
-                                                    <li>It is a picture description round. You have to describe the defect in the picture.</li>
-
+                                                    <li>The finalists will be interviewed by the judges.</li>
                                                   </ul>
                                                 </li>
-
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>College ID card is mandatory.</li>
                                                 <li>Usage of mobile phones is strictly prohibited.</li>
-                                                <li>A team can have a maximum of three participants.</li>
                                                 <li>Judges decision will be final.</li>
                                               </ol>
+
+
+
 
 
                                           </div>
@@ -152,8 +149,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>Sivaram S&emsp;8220597322</li>
-                                                <li>Nandhini T&emsp;8610417096</li>
+                                                <li>	Bibisha Anlet T&emsp;9487504836&emsp;bibishaceg@gmail.com</li>
+                                              <li>	Pasumponni R &emsp;8825847093&emsp;pasumponni@gmail.com</li>
                                             </ul>
                                           </div>
 
@@ -167,8 +164,15 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                                  <?php
+// Start the session
 
+if(isset($_SESSION["cid"]))
+{
+  $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+}
+echo  $print;
+?>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
@@ -181,22 +185,22 @@
                               </div><!-- col-7 -->
                                 <!--<div class="col-12 col-lg-5">
                                     <div class="accordion-wrap type-accordion">
-                                        <h3 class="entry-title active flex justify-content-between">Question1?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title active flex justify-content-between">How do we register for the event?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
+                                            <p>There will be a common registration for CIVILISATION’19. 	There is no separate registration.</p>
                                         </div>
 
-                                        <h3 class="entry-title flex justify-content-between">Question2?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title flex justify-content-between">Who can participate in this event?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
+                                            <p>Students studying in any college or universities can participate in the event.</p>
                                         </div>
 
-                                        <h3 class="entry-title flex justify-content-between">Question3?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title flex justify-content-between">Will I get a certificate of participation?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
+                                            <p>Top 3 participants will receive cash prize and certificate of merit. The other participants entering the final round will receive a certificate of participation.</p>
                                         </div>
                                     </div>
                                 </div><!-- col-5 -->

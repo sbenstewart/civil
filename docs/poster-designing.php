@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Confloat</h2>
+                            <h2 class="entry-title">Poster Designing</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -105,13 +106,27 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>"Conflict is the primary engine of Creativity and Innovation."
-                                                &emsp;&emsp;&emsp;&emsp;- Ronald a Heifetz</b></strong>
+                                              <p><strong><b>“Design is what you do when you don’t yet know what you are doing.”<br>
+                                                </b></strong>
                                                 <br>
                                                 <br>
-                                                Have you ever felt tired of constructing buildings on land???.Are you a creative person??  Here is a great chance to showcaseyour innovative ideas.As a innovative engineer you have to build abuoyant concrete structure which can float in water.
-                                                </p>
-
+                                                Creating a poster can be one of the most fun or frustrating design projects that you ever take on. Posters are highly visible, public design project that can lead people to attend an event or generate buzz about something. Here, we’ve created up a platform to show your great ideas in your posters.
+                                              </p>
+                                              <h2 class="entry-header">FORMAT:</h2>
+                                              <ol>
+                                                <li>The participant should design a poster and content should be given to the posters related to the topics given.</li>
+                                                <li>The poster along with content should be mailed to posterdesignc19@gmail.com before March 1 (Friday) 12:00 PM.</li>
+                                                <li>Top 3 participants will receive certificate of merit and cash prize.</li>
+                                                <li>The entry must contain the name of the participant, civilization 19 ID, College name and Year of study.</li>
+                                              </ol>
+                                              <h2 class="entry-header">RULES:</h2>
+                                              <ol>
+                                                <li>Only lone wolves are welcome and team participation is not encouraged.</li>
+                                                <li>Abusive content and pictures are strictly prohibited.</li>
+                                                <li>Final decision will be taken according to the number of shares and likes given to the posters.</li>
+                                                <li>Multiple entries are allowed.</li>
+                                                <li>Multiple sharing is not considered.  </li>
+                                              </ol>
 
 
                                           </div>
@@ -126,8 +141,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>Sathish K&emsp;9444666807</li>
-                                              <li>	Parul S &emsp;8754585655</li>
+                                                <li>	Suriya K&emsp;9566575351</li>
+                                                <li>	Jothika T S &emsp;8883991091</li>
                                             </ul>
                                           </div>
 
@@ -141,8 +156,15 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                                  <?php
+// Start the session
 
+if(isset($_SESSION["cid"]))
+{
+  $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+}
+echo  $print;
+?>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->

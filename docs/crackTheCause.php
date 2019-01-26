@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Paper Presentation</h2>
+                            <h2 class="entry-title">Crack The Cause</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -105,46 +106,31 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>“If you’ve got an idea,<br> start it today .”<br>
-                                                &emsp;&emsp;&emsp;&emsp;- Kevin Systrom ( founder of Instagram) </b></strong>
+                                              <p><strong><b>“Those who will not reason, perish in the act. Those who will not act, perish for that reason.”<br>
+                                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--W H Auden
+                                                </b></strong>
                                                 <br>
                                                 <br>
-                                                Civil Engineers work in an intellectually demanding field that requires the ability to think logically and creatively. If you are someone who could persuade others with your speech, here is a platform to exhibit your technical know-how . Participate in this event and showcase your talents.
-                                            <br>  </p>
-                                            <h2 class="entry-header">TOPIC:</h2>
-                                            <ul>
-                                            <li>
-                                              Open topic related to civil engineering
-                                            </li>
-                                            </ul>
-                                            <br>
-                                            <h2 class="entry-header">FORMAT:</h2>
-                                            <ol>
-                                              <li>PRESENTATION:
-                                                <ul>
-                                                  <li>The presentation time is for 8 mins and queries for 2 mins for each other.</li>
-                                                  <li>Candidates should bring their identity card at the time of presentation.</li>
-                                                  <li>Maximum two participants per team.</li>
-                                                  <li>Presenter should be in their formal attire during the presentation.</li>
-                                                </ul>
-                                              </li>
-                                              <li>PAPER SUBMISSION:
-                                                <ul>
-                                                  <li>Working models, samples fetch you extra points.</li>
-                                                  <li>Candidates should  bring hard copy and soft copy of the paper at the time of presentation.</li>
-                                                  <li>Bring your soft copies in pendrive.</li>
-                                                  <li>Judgement criteria : Based on the presentation mark were alloted to the teams.</li>
-                                                </ul>
-                                              </li>
+                                                <br>We are aware that everything in the world happens for a reason.
+                                                <br>But how aware are we of the reasons? Here is a chance for you to test your ability to analyse instances and try your luck with reasoning it.<br>
 
-                                            </ol>
-                                            <h2 class="entry-header">RULES:</h2>
-                                            <ol>
-                                              <li>ID card is mandatory.</li>
-                                              <li>Decision of the judges will be final and will not be subjected to further any discussion.</li>
-                                              <li>Registration required.</li>
-                                            </ol>
+                                              </p>
+                                              <h2 class="entry-header">FORMAT:</h2>
+                                              <ol>
 
+                                                    <li>Set of 20 questions will be given.</li>
+                                                    <li>Duration : 30 minutes</li>
+                                                    <li>The top 10 teams will be selected for the final round.</li>
+
+
+                                              </ol>
+                                              <h2 class="entry-header">RULES:</h2>
+                                              <ol>
+                                                <li>You can participate only as a team of two participants.</li>
+                                                <li>The team can have only two participants from the same institution/college.</li>
+                                                <li>Use of mobile phones is strictly prohibited.</li>
+                                                <li>Decision made by the judges is final.</li>
+                                              </ol>
 
 
                                           </div>
@@ -159,9 +145,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Govardhini&emsp;9994202202</li>
-                                                <li>	Gopika&emsp;9952079512</li>
-                                                <li>	Pavithra&emsp;9487714296</li>
+                                                <li>SRINITHI&emsp;8939722244</li>
+                                                <li>USHA.K&emsp;8940635095</li>
                                             </ul>
                                           </div>
 
@@ -175,8 +160,15 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                                  <?php
+                                                  // Start the session
 
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->

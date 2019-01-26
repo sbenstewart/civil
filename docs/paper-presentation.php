@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Draft Decree</h2>
+                            <h2 class="entry-title">Paper Presentation</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -99,33 +100,51 @@
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
                                           <!--<li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Venue</li>-->
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organizers</li>
-                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Registration and Problem Statement</li>
+                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                                       </ul><!-- tabs-nav -->
 
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>“To be a winner, you must plan , prepare and expect to winner.”
-                                                &emsp;&emsp;&emsp;&emsp;- Zig Ziglar</b></strong>
+                                              <p><strong><b>“If you’ve got an idea,<br> start it today .”<br>
+                                                &emsp;&emsp;&emsp;&emsp;- Kevin Systrom ( founder of Instagram) </b></strong>
                                                 <br>
                                                 <br>
-                                                Are you people excited in exploring your skills in planning. Make your first step as a civil engineer. Plan prepare and expect to win the prizes !
-                                                </p>
-                                                <h2 class="entry-header">FORMAT:</h2>
-                                                <ol>
-                                                  <li>The participant must draw the plan for the given problem statement in AutoCAD.</li>
-                                                  <li>The original .dwg file and the .pdf file must be mailed to draftdecree19@gmail.com  before March 2 ( Saturday ) 12.00 PM</li>
-                                                  <li>The TDP (Team Description Paper) must also be sent along the above files.</li>
-                                                  <li>The top 2 participants will receive certificate of merit and cash prize.</li>
-                                                  <li>The .dwg file must contain the Name of the participants,  CIVILISATION’19 I’D, College Name and Year of study in a Table.</li>
-                                                </ol>
-                                                <h2 class="entry-header">RULES:</h2>
-                                                <ol>
-                                                  <li>The team can consist of maximum of 2-3 participants. Lone wolfs are welcome.</li>
-                                                  <li>Plagiarism strictly prohibited. The team shall be disqualified in case of any discrepancies.</li>
-                                                  <li>The organisers decision will be final and binding.</li>
-                                                </ol>
+                                                Civil Engineers work in an intellectually demanding field that requires the ability to think logically and creatively. If you are someone who could persuade others with your speech, here is a platform to exhibit your technical know-how . Participate in this event and showcase your talents.
+                                            <br>  </p>
+                                            <h2 class="entry-header">TOPIC:</h2>
+                                            <ul>
+                                            <li>
+                                              Open topic related to civil engineering
+                                            </li>
+                                            </ul>
+                                            <br>
+                                            <h2 class="entry-header">FORMAT:</h2>
+                                            <ol>
+                                              <li>PRESENTATION:
+                                                <ul>
+                                                  <li>The presentation time is for 8 mins and queries for 2 mins for each other.</li>
+                                                  <li>Candidates should bring their identity card at the time of presentation.</li>
+                                                  <li>Maximum two participants per team.</li>
+                                                  <li>Presenter should be in their formal attire during the presentation.</li>
+                                                </ul>
+                                              </li>
+                                              <li>PAPER SUBMISSION:
+                                                <ul>
+                                                  <li>Working models, samples fetch you extra points.</li>
+                                                  <li>Candidates should  bring hard copy and soft copy of the paper at the time of presentation.</li>
+                                                  <li>Bring your soft copies in pendrive.</li>
+                                                  <li>Judgement criteria : Based on the presentation mark were alloted to the teams.</li>
+                                                </ul>
+                                              </li>
 
+                                            </ol>
+                                            <h2 class="entry-header">RULES:</h2>
+                                            <ol>
+                                              <li>ID card is mandatory.</li>
+                                              <li>Decision of the judges will be final and will not be subjected to further any discussion.</li>
+                                              <li>Registration required.</li>
+                                            </ol>
 
 
 
@@ -141,61 +160,59 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Prithipa R&emsp;8754442714</li>
-                                              <li>	Vanmathi&emsp;8428358347</li>
+                                                <li>	Govardhini&emsp;9994202202</li>
+                                                <li>	Gopika&emsp;9952079512</li>
+                                                <li>	Pavithra&emsp;9487714296</li>
                                             </ul>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">
-                                              <h2 class="entry-header">Problem Statement</h2>
-                                              <p>Draw  Detailed plan, Elevation & Section (with sectional details including the subsurface details) for the block of an IT company with approximately 1000 employees (preferably G+7 or G+8), Annotations, Dimensioning, Ventilation, Natural lighting aspects, Sanitation facilities, Emergency exits and lift facilities.<br><br>
-                                              NOTE:<br>
-                                                  Soil has bearing capacity less than 150kPa.<br>
-                                              </p>
-                                                <h2 class="entry-header">Click the button below to register.</h2>
-                                                <p>If you have registered for any workshop, you can attend all the events conducted for the symposium. The registration entitiles you to attend all the technical and non-technical events.</p>
+                                            <h2 class="entry-header">Click the button below to register.</h2>
+                                            <p>If you have registered for any workshop, you can attend all the events conducted for the symposium. The registration entitiles you to attend all the technical and non-technical events.</p>
 
-                                                  <form id="registration" class="entry-content">
+                                              <form id="registration" class="entry-content">
 
-                                                  <!--<div class="entry-content flex">-->
-                                                      <input type="hidden" value="sample" id="event" />
-                                                      <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
-                                                      <br>
-                                                      <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                              <!--<div class="entry-content flex">-->
+                                                  <input type="hidden" value="sample" id="event" />
+                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
+                                                  <br>
+                                                  <?php
+// Start the session
 
-                                                      <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
-                                                      <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
-                                                      <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
-                                                  <!--</div>-->
-                                                  </form>
+if(isset($_SESSION["cid"]))
+{
+  $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+}
+echo  $print;
+?>
+                                                  <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
+                                                  <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
+                                                  <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
+                                              <!--</div>-->
+                                              </form>
 
-                                                  </div>
+                                              </div>
                                       </div>
                                   </div>
                               </div><!-- col-7 -->
                                 <!--<div class="col-12 col-lg-5">
                                     <div class="accordion-wrap type-accordion">
-                                        <h3 class="entry-title active flex justify-content-between">How do we register for the event?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title active flex justify-content-between">Question1?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>There will be online registration for CIVILISATION’19. The participant must include the registration number of CIVILISATION’19 in the drawing file failing which the team will be disqualified.</p>
+                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
                                         </div>
 
-                                        <h3 class="entry-title flex justify-content-between">How many members can be there in a team?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title flex justify-content-between">Question2?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>The team can comprise of a minimum of 2-3 members.</p>
+                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
                                         </div>
 
-                                        <h3 class="entry-title flex justify-content-between">Can a team have members of different college?<span class="arrow-r"></span></h3>
+                                        <h3 class="entry-title flex justify-content-between">Question3?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
-                                            <p>No, a team cannot have members from a different college.</p>
-                                        </div>
-                                        <h3 class="entry-title flex justify-content-between">Will I get a certificate?<span class="arrow-r"></span></h3>
-
-                                        <div class="entry-content">
-                                            <p>Top 2 teams will receive cash prize and certificate of merit.</p>
+                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
                                         </div>
                                     </div>
                                 </div><!-- col-5 -->

@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Acropolis</h2>
+                            <h2 class="entry-title">Breaker of Codes</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -105,37 +106,41 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>“Architecture is a visual art, and the building speak for themselves.”
-                                                &emsp;&emsp;&emsp;&emsp;- Julia Morgan</b></strong>
-                                                <br>
-                                                <br>
-                                                When you look at a city, you know, it looks so unique. You feel this kind of uniqueness, you know, and especially if you go from a big city to a small city or if you go from one country to another. Cities look very different, often. They even feel very different. You know, and they are, of course. They certainly are. If you are one of this kind and having more knowledge about city buildings, here is the challenging platform for your knowledge about buildings.
-                                                </p>
-                                                <br>
-                                                <h2 class="entry-header">FORMAT:</h2>
-                                                <ol>
-                                                  <li>PRELIMS:
-                                                    <ul>
-                                                      <li>First round is a pen and paper based round.</li>
-                                                      <li>Each team will given a set questions with choices.</li>
-                                                      <li>Top 5 teams will be selected for finals.</li>
-                                                    </ul>
-                                                  </li>
-                                                  <li>FINALS:
-                                                    <ul>
-                                                      <li>It is a picture description round. You have to describe the defect in the picture.</li>
+                                              <p>
+                                                Excited seeing the title?<br>
+                                                Don’t fantasize. You are no techie.<br>
+                                                Ever thought that you mastered the IS code?<br>
+                                                Do you think you don’t need an IS code book to solve?<br>
+                                                Prove your worth here. <br>
+                                                <b><strong>Break the code to make your way to glory!</strong></b>
 
-                                                    </ul>
-                                                  </li>
+                                              </p>
+                                              <br>
 
-                                                </ol>
-                                                <h2 class="entry-header">RULES:</h2>
-                                                <ol>
-                                                  <li>College ID card is mandatory.</li>
-                                                  <li>Usage of mobile phones is strictly prohibited.</li>
-                                                  <li>A team can have a maximum of three participants.</li>
-                                                  <li>Judges decision will be final.</li>
-                                                </ol>
+                                              <h2 class="entry-header">FORMAT:</h2>
+                                              <ol>
+                                                <li>PRELIMS:
+                                                  <ul>
+                                                    <li>It is a pen and paper based round where 30 questions will be asked.</li>
+                                                    <li>Each team will be given a set of questions with and without choices.</li>
+                                                    <li>The top 5 teams will be selected for the finals.</li>
+                                                  </ul>
+                                                </li>
+                                                <li>FINALS:
+                                                  <ul>
+                                                    <li>The final round will be given a design problem.</li>
+                                                    <li>Judges decision will be final.</li>
+                                                  </ul>
+                                                </li>
+                                              </ol>
+                                              <h2 class="entry-header">RULES:</h2>
+                                              <ol>
+                                                <li>College ID card is mandatory.</li>
+                                                <li>Usage of mobile phones is strictly prohibited.</li>
+                                                <li>A team can have a maximum of three participants.</li>
+                                              </ol>
+
+
 
 
 
@@ -151,8 +156,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Sivaram&emsp;8220597322</li>
-                                              <li>	Nandhini T&emsp;8610417096</li>
+                                                <li>	Bibisha Anlet T&emsp;9487504836&emsp;bibishaceg@gmail.com</li>
+                                              <li>	Pasumponni R &emsp;8825847093&emsp;pasumponni@gmail.com</li>
                                             </ul>
                                           </div>
 
@@ -166,7 +171,16 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+
+                                                  <?php
+                                                  // Start the session
+
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
 
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>

@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Bob the Builder</h2>
+                            <h2 class="entry-title">Corporate Roadies</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -105,15 +106,41 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>"You can't have a healthy civilization without healthy soil. You can't have junk food and have healthy people."
-                                                &emsp;&emsp;&emsp;&emsp;- Joel Salatin</b></strong>
+                                              <p><strong><b>"All our dreams can come true, if we have the courage to pursue them."
+                                                &emsp;&emsp;&emsp;&emsp;- Walt Disney</b></strong>
                                                 <br>
                                                 <br>
-                                                Soil  mechanics is an art of science and Engineering. The observation of the performance of the soli is an essential part of any construction not only in laboratory and also in field.
-                                                Are you a genius in mechanics of soil and hydraulics?
-                                                Can you build a model with deep knowledge of that?
-                                                Then open your skills in making the model!!!
+                                                Entrepreneurship is neither a science nor an art it’s a practice and it’s not about ideas, it’s about making ideas happen.<br>
+                                                Make your ideas happen.<br>
+                                                You don't have to see the whole staircase just take the FIRST STEP.<br>
+                                                Take your first step here and explore your Entrepreneurship potential!
                                                 </p>
+
+                                                <h2 class="entry-header">FORMAT:</h2>
+                                                <ol>
+                                                  <li>PRELIMS:
+                                                    <ul>
+                                                	     <li>It’s a pen and paper round.</li>
+                                                       <li>Candidates will be given a question paper having 20 objective type questions which are related to the topics of commerce, Economics and Mainly Business.</li>
+                                                       <li>The top 6 teams will be selected for the finals.</li>
+                                                     </ul>
+                                                    </li>
+                                                <li>
+                                                FINALS:
+                                                <ul>
+                                                  <li>	The selected teams will be given a hint of any entrepreneurship idea. They have to develop the idea and demonstrate for 5-10 minutes.</li>
+                                                  <li>	Example for hint: “Event Planner”.</li>
+                                                </ul>
+                                                </li>
+                                              </ol>
+                                                <h2 class="entry-header">RULES:</h2>
+                                                <ol>
+                                                  <li>	A team can have maximum 3 participants per team.</li>
+                                                  <li>	College ID is mandatory.</li>
+                                                  <li>	Decision by judges is final.</li>
+                                                  <li>	Use of mobile is strictly prohibited.</li>
+                                                </ol>
+
 
 
 
@@ -129,8 +156,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Guruprasath J&emsp;9025702803</li>
-                                              <li>	Sanmugam &emsp;7449024379</li>
+                                                <li>	Jothika T S &emsp;6381831659</li>
+                                              <li>	Prithipa R  &emsp;8754442714</li>
                                             </ul>
                                           </div>
 
@@ -144,8 +171,15 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                                  <?php
+                                                  // Start the session
 
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->

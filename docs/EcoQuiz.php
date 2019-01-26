@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Detour</h2>
+                            <h2 class="entry-title">ECO QUIZ</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -105,13 +106,41 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>"Travel is a new experience that can transport you out of your everyday routine to create memories with the ones you love."
-                                                &emsp;&emsp;&emsp;&emsp;- Brian Chesky</b></strong>
-                                                <br>
-                                                <br>
-                                                Traffic is not only a word, it is the biggest problem in our daily life. It affects the economy too. So, as an engineer, we want to find the solution for reduce that in scientific manner. By using our knowledge in transportation, we can plan and design a transport layout of a city. Use this platform, to prove your knowledge in this domain.....
-                                                </p>
 
+                                              <p><strong><b>“Fire made us human,fossil fuels made us modern,but now we need a new fire that makes us safe, secure, healthy and durable”<br>
+                                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-Amory Lovins
+                                                </b></strong>
+                                                <br>
+                                                <br>
+                                                <br>Taking care of the earth isn't all fun and games,but it can be sometimes.So test your knowledge and see just how much you know.<br>Do you consider yourself eco,or do you think this new trend in the world is totally a waste of time and money? This quiz will help you discover how green you are!Dig in!
+                                                <br>
+
+                                              </p>
+                                              <h2 class="entry-header">FORMAT:</h2>
+                                              <ol>
+                                                <li>PRELIMS:
+                                                  <ul>
+                                                    <li>It's pen and paper round.</li>
+                                                    <li>Set of questions will be given with multiple choice.</li>
+                                                    <li>Top 10 teams will be selected for final.</li>
+                                                  </ul>
+                                                </li>
+                                                <li>FINALS:
+                                                  <ul>
+                                                    <li>It's pen and paper round.</li>
+                                                    <li>Set of question will be relavant to environmental issues.</li>
+                                                    <li>Based on the performance winner will be selected.</li>
+                                                  </ul>
+                                                </li>
+
+                                              </ol>
+                                              <h2 class="entry-header">RULES:</h2>
+                                              <ol>
+                                                <li>Phone is not allowed.</li>
+                                                <li>A group can have atmost 2 members.</li>
+                                                <li>There will be negative mark.</li>
+                                                <li>Everyone should bring the calculator.</li>
+                                              </ol>
 
 
                                           </div>
@@ -126,8 +155,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Guruprasath J&emsp;9025702803</li>
-                                              <li>	Sanmugam &emsp;7449024379</li>
+                                                <li>Ajith.A&emsp;9159010114</li>
+                                                <li>Gayathri.T&emsp;9688629182</li>
                                             </ul>
                                           </div>
 
@@ -141,8 +170,15 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                                  <?php
+// Start the session
 
+if(isset($_SESSION["cid"]))
+{
+  $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+}
+echo  $print;
+?>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->

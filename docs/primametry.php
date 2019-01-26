@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -88,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">GeoWiz</h2>
+                            <h2 class="entry-title">Primametry</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -105,42 +106,38 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>“The soil is the great connector of our lives, The source and destination of all.”
-                                                &emsp;&emsp;&emsp;&emsp;- Wendell Berry</b></strong>
+                                              <p><strong><b>“One accurate measurement is worth a thousand expert opinions.”<br>
+                                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Grace Cooper
+                                                </b></strong>
                                                 <br>
                                                 <br>
-                                                Civil Engineering structures like buildings , bridge, Highway, tunnels ,dams etc are founded below or on the surface of the earth.For their stability , suitable soil is required. Different geotechnical property of soil has different influence on civil engineering structures.<br>
-                                                Are you interested in showcasing your knowledge in soil mechanics and pavement designing ?<br>
-                                                Here is a unique opportunity to bring to view your knowledge in this multi-disciplinary field. If you are someone who is fascinated by the peerless properties of soil, attend this technical quiz to perform the CBR test and design the pavements as per IRC standards.<br>
-                                                </p>
-                                                <br>
-                                                <h2 class="entry-header">FORMAT:</h2>
-                                                <ol>
-                                                  <li>PRELIMS:
-                                                    <ul>
-                                                      <li>The prelims will contain a set of 25 questions for which a time of 30 minutes will be given.</li>
-                                                      <li>More weightage for questions will be from Soil Mechanics and Highway Engineering.</li>
-                                                      <li>‘*’ (STAR) questions will be used for tie breaks.</li>
-                                                      <li>Top 3 teams will be qualified for finals.</li>
-                                                    </ul>
-                                                  </li>
-                                                  <li>FINALS:
-                                                    <ul>
-                                                      <li>The participants will be asked to prepare the soil sample in a CBR mould and the CBR experiment will be carried out. By using the obtained CBR percentage the participants will have to design a Flexible pavement for the given problem statement as per the IRC standards.</li>
+                                                In the application-based field of engineering measurement is a very fundamental thing. Accurate measurements are the key to a sucessful Construction.Are you a civil engineer who thrives in doing a work with utmost precision eventhough it’s a challenging prospect?? Then you are looking at the right event. Primametry is an event in which you have to find the measurements of the given structure using the given survey instruments
+                                              </p>
+                                              <h2 class="entry-header">FORMAT:</h2>
+                                              <ol>
+                                                <li>PRELIMS:
+                                                  <ul>
+                                                    <li>It is a pen and paper based round</li>
+                                                    <li>Each team will be given a set of questions with multiple choices</li>
+                                                    <li>The top 5 teams will be selected for the finals</li>
+                                                  </ul>
+                                                </li>
+                                                <li>FINALS:
+                                                  <ul>
+                                                    <li>The finalists will be asked to measure the height of a specific building</li>
+                                                    <li>Required instruments will be provided</li>
+                                                    <li>Winners will be determined based on their accuracy</li>
+                                                  </ul>
+                                                </li>
 
-                                                    </ul>
-                                                  </li>
-
-                                                </ol>
-                                                <h2 class="entry-header">RULES:</h2>
-                                                <ol>
-                                                  <li>Minimum of 2 participants and maximum of 4 participants must be in a team.</li>
-                                                  <li>Judges decision will be final and binding.</li>
-                                                  <li>The team will be disqualified in case of any discrepancies.</li>
-                                                  <li>Participants are requested to bring calculators.</li>
-                                                  <li>Use of mobile phone is strictly prohibited.</li>
-                                                </ol>
-
+                                              </ol>
+                                              <h2 class="entry-header">RULES:</h2>
+                                              <ol>
+                                                <li>College ID card is mandatory.</li>
+                                                <li>Usage of mobille phones will lead to disqualification</li>
+                                                <li>A team can have a maximum of three participants</li>
+                                                <li>Decision made by the judges is final</li>
+                                              </ol>
 
 
                                           </div>
@@ -155,9 +152,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Govardhini&emsp;9994202202</li>
-                                                <li>	Gopika&emsp;9952079512</li>
-                                                <li>	Pavithra&emsp;9487714296</li>
+                                                <li>	Suriya K&emsp;9566575351</li>
+                                                <li>	Jothika T S &emsp;8883991091</li>
                                             </ul>
                                           </div>
 
@@ -171,8 +167,15 @@
                                                   <input type="hidden" value="sample" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a>
+                                                  <?php
+// Start the session
 
+if(isset($_SESSION["cid"]))
+{
+  $print .="<div><a href="https://www.townscript.com/e/events-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay and Register"></input></a></div>";
+}
+echo  $print;
+?>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->

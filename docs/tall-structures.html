@@ -130,7 +130,9 @@
                                                   <input type="hidden" value="tall-structures" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
+                                                <div class="fuck">
                                                   <a href="https://www.townscript.com/e/tall-structures-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button"  value="Pay and Register"></input></a>
+                                                </div>
 
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
@@ -338,6 +340,7 @@
         </div><!-- footer-content-wrapper -->
     </footer><!-- site-footer -->
 
+
     <script type='text/javascript' src='js/jquery.js'></script>
     <script type='text/javascript' src='js/masonry.pkgd.min.js'></script>
     <script type='text/javascript' src='js/jquery.collapsible.min.js'></script>
@@ -347,5 +350,13 @@
     <script type='text/javascript' src='js/jquery.countTo.min.js'></script>
     <script type='text/javascript' src='js/custom.js'></script>
     <script type='text/javascript' src='js/main.js'></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+      if (sessionStorage.getItem('status') != null){
+    $('.fuck').css('display','block');
+    }
+
+    });
+</script>
 </body>
 </html>

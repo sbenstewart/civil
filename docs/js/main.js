@@ -211,6 +211,7 @@ success: function(html) {
 alert(html);
 }
 });
+sessionStorage.setItem('status','loggedIn');
 }
 return false;
 }

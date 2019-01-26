@@ -35,7 +35,7 @@ try {
           $count = $conn->exec("update user set password='$code' where emailid='$mail2'");
           //echo "New password is $code";
 
-					$to   = "sbenstewart@gmail.com";
+					$to   = $mail2;
 					$from = 'him@sbenstewart.in';
 
 					$subject = "Password Changed";
@@ -48,7 +48,7 @@ try {
 
 					$message = '<html><body>';
 					$message .= '<h1>Civilisation 2019</h1>';
-					$message .= "Password is $code";
+					$message .= "Password is $code. Please use this password for logging into the website.\"";
 					$message .= "</body></html>";
 
 					mail($to, $subject, $message, $headers);

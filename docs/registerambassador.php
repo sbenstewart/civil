@@ -28,7 +28,7 @@ $code=random_num(6);
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-    echo "Connected to $dbname at $host successfully.";
+    //echo "Connected to $dbname at $host successfully.";
     $count = $conn->exec("insert into ambassador(name, code, emailid, phoneno) values ('$name2', '$code', '$mail2', '$phone2') ON DUPLICATE KEY UPDATE emailid='$mail2', phoneno='$phone2'");
     foreach ($conn->query("SELECT code from ambassador where emailid='$mail2'") as $row)
     {
@@ -37,7 +37,7 @@ try {
 
     echo "You are an ambassador and the referal code is $id";
 } catch (PDOException $pe) {
-    die("Could not connect to the database $dbname :" . $pe->getMessage());
+    die("Could not connect to the server. Please check your internet connection.");
 }
  // Connection Closed
 ?>

@@ -26,7 +26,7 @@ $code=random_num(6);
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-    echo "Connected to $dbname at $host successfully.";
+    //echo "Connected to $dbname at $host successfully.";
     $sql = "SELECT COUNT(*) from user where emailid='$mail2'";
     if ($res = $conn->query($sql)) {
 
@@ -65,7 +65,7 @@ try {
 
 
 } catch (PDOException $pe) {
-    die("Could not connect to the database $dbname :" . $pe->getMessage());
+    die("Could not connect to the server. Please check your internet connection.");
 }
  // Connection Closed
 ?>

@@ -24,7 +24,7 @@ try {
   echo $_SESSION["cid"];
 
 } catch (PDOException $pe) {
-    die("Could not connect to the database $dbname :" . $pe->getMessage());
+    die("Could not connect to the server. Please check your internet connection.");
 }
  // Connection Closed
 ?>

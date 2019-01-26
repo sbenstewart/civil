@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -28,6 +29,7 @@
     <!--Favicon-->
     <link rel="icon" href="favicon.ico" type="image/x-icon"/>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+
 
 
 </head>
@@ -130,9 +132,17 @@
                                                   <input type="hidden" value="tall-structures" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                <div class="fuck">
-                                                  <a href="https://www.townscript.com/e/tall-structures-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button"  value="Pay and Register"></input></a>
-                                                </div>
+
+                                                  <?php
+                                                  // Start the session
+
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href='https://www.townscript.com/e/tall-structures-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
+
 
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
@@ -350,6 +360,7 @@
     <script type='text/javascript' src='js/jquery.countTo.min.js'></script>
     <script type='text/javascript' src='js/custom.js'></script>
     <script type='text/javascript' src='js/main.js'></script>
-</script>
+
+
 </body>
 </html>

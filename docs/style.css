@@ -259,11 +259,11 @@ body {
 -----------------------------------------------------------*/
 .hero-content {
     padding: 220px 0;
-    background: url("images/logo.png"),url("images/words.png"),url("images/cover.jpg") no-repeat;
+    background: url("images/logo.png"),url("images/cover.jpg") no-repeat;
     background-size: 100% 100%,100% 100%;
-    height: auto;
+    height: 100%;
     width: 100%;
-    padding-top: 63%;
+    padding-top: 53%;
 }
 
 .hero-content .entry-header {

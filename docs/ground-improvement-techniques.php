@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -140,7 +141,18 @@
                                                   <input type="hidden" value="ground-improvement-techniques" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
-                                                  <a href="https://www.townscript.com/e/solid-waste-management-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button"  value="Pay and Register"></input></a>
+
+                                                  <?php
+                                                  // Start the session
+
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href="https://www.townscript.com/e/solid-waste-management-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button"  value="Pay and Register"></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
+
+
 
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>

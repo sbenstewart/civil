@@ -21,11 +21,11 @@ try {
           }
       }
       //Setup the filename that our CSV will have when it is downloaded.
-      $fileName = 'mysql-export.csv';
+      $fileName = 'mysql-ambassador.csv';
       ob_clean();
       header("Pragma: no-cache");
       header('Content-Type: application/octet-stream');
-      header('Content-Disposition: attachment;filename=export.csv');
+      header('Content-Disposition: attachment;filename=ambassador.csv');
 
       //Open up a file pointer
       $fp = fopen('php://output', 'w');

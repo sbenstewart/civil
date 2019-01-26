@@ -3,7 +3,7 @@ require_once 'dbconfig.php';
 $table2 = $_POST["name"];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-      $sql = "SELECT user.cid,user.name,user.emailid,user.phoneno,accomodation.entrydate,accomodation.entrytime,accomodation.hours FROM accomodation LEFT JOIN user ON accomodation.id = user.cid";
+      $sql = "SELECT user.cid,user.name,user.emailid,user.phoneno,registrations.Paid FROM registrations LEFT JOIN user ON registrations.cid = user.cid and registrations.id='tall-structures'";
       //Prepare our SQL query.
       $statement = $conn->prepare($sql);
       //Executre our SQL query.
@@ -21,11 +21,11 @@ try {
           }
       }
       //Setup the filename that our CSV will have when it is downloaded.
-      $fileName = 'mysql-accomodation.csv';
+      $fileName = 'mysql-tallstructures.csv';
       ob_clean();
       header("Pragma: no-cache");
       header('Content-Type: application/octet-stream');
-      header('Content-Disposition: attachment;filename=accomodation.csv');
+      header('Content-Disposition: attachment;filename=tallstructures.csv');
 
       //Open up a file pointer
       $fp = fopen('php://output', 'w');

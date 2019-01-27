@@ -113,6 +113,31 @@
                                                 Traffic is not only a word, it is the biggest problem in our daily life. It affects the economy too. So, as an engineer, we want to find the solution for reduce that in scientific manner. By using our knowledge in transportation, we can plan and design a transport layout of a city. Use this platform, to prove your knowledge in this domain.....
                                                 </p>
 
+                                                <ol>
+                                                  <li>PRELIMS:
+                                                    <ul>
+                                                      <li>Its a pen and paper round.</li>
+                                                      <li>Set of questions will be given with answer choices.</li>
+                                                      <li>The top 6 teams will be selected for the finals.</li>
+                                                    </ul>
+                                                  </li>
+                                                  <li>FINALS:
+                                                    <ul>
+                                                      <li>The selected teams will be given a question statement.</li>
+                                                      <li>They will be given 12 hours to find the solution for the question.</li>
+                                                      <li>The teams may present their solutions in way they like (Bring laptop if necessary)</li>
+                                                    </ul>
+                                                  </li>
+                                                </ol>
+                                                <h2 class="entry-header">RULES:</h2>
+                                                <ol>
+                                                  <li>A team can have maximum 3 participants per team.</li>
+                                                  <li>Civilization 19 ID is mandatory</li>
+                                                  <li>College ID is mandatory.</li>
+                                                  <li>Decision by judges is final.</li>
+                                                  <li>Use of mobile is strictly prohibited.</li>
+                                                </ol>
+
 
 
                                           </div>
@@ -128,7 +153,7 @@
 
                                               <ul>
                                                 <li>	Guruprasath J&emsp;9025702803</li>
-                                              <li>	Sanmugam &emsp;7449024379</li>
+                                              <li>	Sanmugam G&emsp;7449024379</li>
                                             </ul>
                                           </div>
 

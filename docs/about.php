@@ -151,135 +151,46 @@
                                     </div>
                                 </div><!-- col-7 -->
 
+                                <div class="col-12 col-lg-7 mt-5 mt-lg-0 top-buffer">
+                                    <div class="tabs">
+
+
+                                        <div class="tabs-container">
+                                            <div id="tab_details" class="tab-content">
+                                                <h2 class="entry-header">Joint Secretaires</h2>
+
+                                                <p><ul>
+                                                  <li>Sundar M&emsp;8489732365</li>
+                                                  <li>Vijayalakshmi G&emsp;8531924272</li>
+                                              </ul></p>
+                                            </div>
+
+
+
+                                            <!--<div id="tab_about" class="tab-content">
+                                                <h2 class="entry-header">10 years a mission</h2>
+
+                                                <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>
+                                            </div>-->
+                                        </div>
+                                    </div>
+                                </div><!-- col-7 -->
+
 
                             </div><!-- row -->
                         </div><!-- entry-content -->
                     </div><!-- col-12 -->
                 </div><!-- row elements-wrap -->
 
-                <div class="row elements-wrap">
-                    <div class="col-12">
-                        <div class="entry-header">
-                            <h2 class="entry-title">Milestones</h2>
-                        </div><!-- entry-header -->
-
-                        <div class="milestones">
-                            <div class="row flex flex-wrap justify-content-between">
-                                <div class="d-col-n mt-5 mt-lg-0">
-                                    <div class="counter-box">
-                                        <div class="flex justify-content-center">
-                                            <div class="start-counter" data-to="390" data-speed="2000"></div>
-                                        </div>
-
-                                        <h3 class="entry-title">Hours of Music</h3><!-- entry-title -->
-                                    </div><!-- counter-box -->
-                                </div><!-- d-col-n -->
-
-                                <div class="d-col-n mt-5 mt-lg-0">
-                                    <div class="counter-box">
-                                        <div class="flex justify-content-center">
-                                            <div class="start-counter" data-to="68" data-speed="2000"></div>
-                                        </div>
-
-                                        <h3 class="entry-title">DJ's Playing</h3><!-- entry-title -->
-                                    </div><!-- counter-box -->
-                                </div><!-- d-col-n -->
-
-                                <div class="d-col-n mt-5 mt-lg-0">
-                                    <div class="counter-box">
-                                        <div class="flex justify-content-center">
-                                            <div class="start-counter" data-to="120" data-speed="2000"></div>
-                                            <div class="counter-k">K</div>
-                                        </div>
-
-                                        <h3 class="entry-title">Visitors</h3><!-- entry-title -->
-                                    </div><!-- counter-box -->
-                                </div><!-- d-col-n -->
-
-                                <div class="d-col-n mt-5 mt-lg-0">
-                                    <div class="counter-box">
-                                        <div class="flex justify-content-center">
-                                            <div class="start-counter" data-to="8" data-speed="2000"></div>
-                                        </div>
-
-                                        <h3 class="entry-title">Stages</h3><!-- entry-title -->
-                                    </div><!-- counter-box -->
-                                </div><!-- d-col-n -->
-
-                                <div class="d-col-n mt-5 mt-lg-0">
-                                    <div class="counter-box">
-                                        <div class="flex justify-content-center">
-                                            <div class="start-counter" data-to="325" data-speed="2000"></div>
-                                            <div class="counter-k">K</div>
-                                        </div>
-
-                                        <h3 class="entry-title">Followers</h3><!-- entry-title -->
-                                    </div><!-- counter-box -->
-                                </div><!-- d-col-n -->
-                            </div>
-                        </div>
-                    </div><!-- col-12 -->
-                </div><!-- row elements-wrap -->
 
 
 
-                <div class="row elements-wrap">
-                    <div class="col-12">
-                        <div class="entry-header">
-                            <h2 class="entry-title">Icon Boxes</h2>
-                        </div><!-- entry-header -->
 
-                        <div class="entry-content">
-                            <div class="row">
-                                <div class="col-12 col-md-6 col-lg-4">
-                                    <div class="icon-box icon-box-1">
-                                        <div class="entry-header">
-                                            <h3 class="entry-title">The mission</h3>
-                                        </div><!-- entry-header -->
 
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus.
-                                                Nullam vestibulum convallis risus vel condimentum. </p>
-                                        </div><!-- entry-content -->
-                                    </div><!-- icon-box -->
-                                </div><!-- col-4 -->
-
-                                <div class="col-12 col-md-6 col-lg-4 mt-5 mt-md-0">
-                                    <div class="icon-box icon-box-2">
-                                        <div class="entry-header">
-                                            <h3 class="entry-title">The mission</h3>
-                                        </div><!-- entry-header -->
-
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus.
-                                                Nullam vestibulum convallis risus vel condimentum. </p>
-                                        </div><!-- entry-content -->
-                                    </div><!-- icon-box -->
-                                </div><!-- col-4 -->
-
-                                <div class="col-12 col-md-6 col-lg-4 mt-5 mt-lg-0">
-                                    <div class="icon-box icon-box-3">
-                                        <div class="entry-header">
-                                            <h3 class="entry-title">The mission</h3>
-                                        </div><!-- entry-header -->
-
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus.
-                                                Nullam vestibulum convallis risus vel condimentum. </p>
-                                        </div><!-- entry-content -->
-                                    </div><!-- icon-box -->
-                                </div><!-- col-4 -->
-                            </div><!-- row -->
-                        </div><!-- entry-content -->
-                    </div><!-- col-12 -->
-                </div><!-- row elements-wrap -->
             </div><!-- container -->
     </div><!-- main-content -->
 
-    <footer class="site-footer">
-        <div class="footer-cover-title flex justify-content-center align-items-center">
-            <h2>SUNFEST</h2>
-        </div><!-- .site-footer -->
+
 
         <footer class="site-footer">
             <div class="footer-cover-title flex justify-content-center align-items-center">

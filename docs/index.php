@@ -63,7 +63,7 @@
                                 <li><a href="#workshops">WORKSHOPS</a></li>
                                 <li><a href="#events">EVENTS</a></li>
                                 <li><a href="#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">STAY</a></li>
+                                <li><a href="accomodation.php">ACCOMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session

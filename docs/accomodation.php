@@ -46,7 +46,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">STAY</a></li>
+                                <li><a href="accomodation.php">ACCOMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -75,7 +75,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="entry-header">
-                        <h2 class="entry-title">Stay</h2>
+                        <h2 class="entry-title">ACCOMODATION</h2>
 
                         <!--<ul class="breadcrumbs flex align-items-center">
                             <li><a href="#">Home</a></li>

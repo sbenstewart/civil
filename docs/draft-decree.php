@@ -115,7 +115,7 @@
                                                 <h2 class="entry-header">FORMAT:</h2>
                                                 <ol>
                                                   <li>The participant must draw the plan for the given problem statement in AutoCAD.</li>
-                                                  <li>The original .dwg file and the .pdf file must be mailed to draftdecree19@gmail.com  before March 2 ( Saturday ) 12.00 PM</li>
+                                                  <li>The original .dwg file and the .pdf file must be mailed to draftdecree.c19@gmail.com  before March 2 ( Saturday ) 12.00 PM</li>
                                                   <li>The TDP (Team Description Paper) must also be sent along the above files.</li>
                                                   <li>The top 2 participants will receive certificate of merit and cash prize.</li>
                                                   <li>The .dwg file must contain the Name of the participants,  CIVILISATION’19 I’D, College Name and Year of study in a Table.</li>

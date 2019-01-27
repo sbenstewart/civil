@@ -132,6 +132,9 @@
                                             {
                                               $print1 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
                                             }
+                                            else {
+                                              $print1 .="<p><b><strong>You must be logged in to register online or onsite.</strong></b></p>";
+                                            }
                                             echo  $print1;
                                             ?>
 
@@ -149,6 +152,9 @@
                                                   if(isset($_SESSION["cid"]))
                                                   {
                                                     $print .="<div><a href='https://www.townscript.com/e/tall-structures-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
+                                                  }
+                                                  else {
+                                                    $print .="<div><a href='login.html'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
                                                   }
                                                   echo  $print;
                                                   ?>

@@ -231,15 +231,15 @@
                         </div>
 
                         <div class="col-12 submit flex justify-content-center">
-                        <a href="login.html" class="btn gradient flex justify-content-center align-items-center">Click here to login.</a>
+                        <a href="login.php" class="btn gradient flex justify-content-center align-items-center">Click here to login.</a>
                         </div>
 
                         <div class="col-12 submit flex justify-content-center">
-                        <a href="change-details.html" class="btn gradient flex justify-content-center align-items-center">Change details.</a>
+                        <a href="change-details.php" class="btn gradient flex justify-content-center align-items-center">Change details.</a>
                         </div>
 
                         <div class="col-12 submit flex justify-content-center">
-                        <a href="accomodation-signup.html" class="btn gradient flex justify-content-center align-items-center">Click here after signup for accomodation.</a>
+                        <a href="accomodation-signup.php" class="btn gradient flex justify-content-center align-items-center">Click here after signup for accomodation.</a>
                         </div>
 
                     </div><!-- row -->

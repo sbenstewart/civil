@@ -126,7 +126,7 @@
                                                 <br>
                                                 Traffic is not only a word, it is the biggest problem in our daily life. It affects the economy too. So, as an engineer, we want to find the solution for reduce that in scientific manner. By using our knowledge in transportation, we can plan and design a transport layout of a city. Use this platform, to prove your knowledge in this domain.....
                                                 </p>
-
+                                                <h2 class="entry-header">FORMAT:</h2>
                                                 <ol>
                                                   <li>PRELIMS:
                                                     <ul>
@@ -204,7 +204,7 @@
                                                     $print .="<div><a href='https://www.townscript.com/e/events-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
                                                   }
                                                   else {
-                                                    $print .="<div><a href='login.html'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
+                                                    $print .="<div><a href='login.php'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
                                                   }
                                                   echo  $print;
                                                   ?>

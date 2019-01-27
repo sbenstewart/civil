@@ -138,13 +138,6 @@
                                                       <li>The questionnaire consists of 25 questions</li>
                                                       <li>Allocated time for answering the questions is 30 minutes</li>
                                                       <li>If there is tie between 2 or more teams the evaluation will be based upon *(Star) question. A team which has correctly answered the maximum number of star questions will be given priority.</li>
-                                                      <li>If there is a tie in the * (Star) question, the evaluation will be                               based on the marks obtained in each section in the following order of priority:
-                                                          1)	Soil Mechanics<br>
-                                                          2)	Structural Analysis<br>
-                                                          3)	Concrete Structures<br>
-                                                          4)	Hydraulics<br>
-                                                          5)	Construction techniques & practices<br>
-                                                      </li>
                                                     </ul>
                                                   </li>
                                                   <li>FINALS:
@@ -218,7 +211,7 @@
                                                     $print .="<div><a href='https://www.townscript.com/e/events-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
                                                   }
                                                   else {
-                                                    $print .="<div><a href='login.html'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
+                                                    $print .="<div><a href='login.php'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
                                                   }
                                                   echo  $print;
                                                   ?>

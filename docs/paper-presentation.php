@@ -145,6 +145,7 @@
                                               </li>
                                               <li>PAPER SUBMISSION:
                                                 <ul>
+                                                  <li>The softcopy of the abstract should be submitted to paperpresentation.c19@gmail.com on or before Feb22,2019.</li>
                                                   <li>Working models, samples fetch you extra points.</li>
                                                   <li>Candidates should  bring hard copy and soft copy of the paper at the time of presentation.</li>
                                                   <li>Bring your soft copies in pendrive.</li>
@@ -212,7 +213,7 @@
                                                     $print .="<div><a href='https://www.townscript.com/e/events-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
                                                   }
                                                   else {
-                                                    $print .="<div><a href='login.html'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
+                                                    $print .="<div><a href='login.php'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
                                                   }
                                                   echo  $print;
                                                   ?>

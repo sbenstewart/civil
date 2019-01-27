@@ -139,7 +139,7 @@
                                               echo  $print1;
                                               ?>
                                               <div class="entry-content flex">
-                                                  <a href="accomodation-signup.html" class="btn gradient flex justify-content-center align-items-center">Register</a>
+                                                  <a href="accomodation-signup.php" class="btn gradient flex justify-content-center align-items-center">Register</a>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->

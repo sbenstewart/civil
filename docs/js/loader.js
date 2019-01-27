@@ -14,6 +14,6 @@ $(document).ready(function($) {
     Body.addClass('preloader-site');
 });
 $(window).load(function() {
-    $('.preloader-wrapper').delay(5000).fadeOut();
+    $('.preloader-wrapper').delay(1000).fadeOut();
     $('body').removeClass('preloader-site');
 });

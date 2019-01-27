@@ -134,31 +134,39 @@
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
                                             <p>The workshop costs INR 500 for one indiviual. Group registrations have to be done onsite.</p>
-                                            <?php
-                                            // Start the session
-
-                                            if(isset($_SESSION["cid"]))
-                                            {
-                                              $print1 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
-                                            }
-                                            echo  $print1;
-                                            ?>
-                                              <form id="registration" class="entry-content">
-
-                                              <!--<div class="entry-content flex">-->
-                                                  <input type="hidden" value="ground-improvement-techniques" id="event" />
-                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
-                                                  <br>
-
                                                   <?php
                                                   // Start the session
 
                                                   if(isset($_SESSION["cid"]))
                                                   {
-                                                    $print .="<div><a href="https://www.townscript.com/e/solid-waste-management-232334"><input class="btn gradient flex justify-content-center align-items-center" type="button"  value="Pay and Register"></input></a></div>";
+                                                    $print1 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
                                                   }
-                                                  echo  $print;
+                                                  else {
+                                                    $print1 .="<p><b><strong>You must be logged in to register online or onsite.</strong></b></p>";
+                                                  }
+                                                  echo  $print1;
                                                   ?>
+
+
+                                                    <form id="registration" class="entry-content">
+
+                                                    <!--<div class="entry-content flex">-->
+                                                        <input type="hidden" value="tall-structures" id="event" />
+                                                        <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
+                                                        <br>
+
+                                                        <?php
+                                                        // Start the session
+
+                                                        if(isset($_SESSION["cid"]))
+                                                        {
+                                                          $print .="<div><a href='https://www.townscript.com/e/ground-improvement-techniques-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
+                                                        }
+                                                        else {
+                                                          $print .="<div><a href='login.html'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
+                                                        }
+                                                        echo  $print;
+                                                        ?>
 
 
 

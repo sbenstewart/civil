@@ -402,7 +402,7 @@
                         <div class="footer-social">
                             <ul class="flex justify-content-center align-items-center">
                                 <li><a href="https://fb.com/au.civilisation"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="tel:+91‭9092859699‬"><i class="fa fa-phone fa-rotate-90"></i></a></li>
+                                <li><a href="tel:+91‭8489732365‬"><i class="fa fa-phone fa-rotate-90"></i></a></li>
                                 <li><a href="mailto:help@civilisationceg.in?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
                                 <!--<li><a href="#"><i class="fa fa-address-book"></i></a></li>-->
                                 <li><a href="https://api.whatsapp.com/send?phone=91‭9092859699‬"><i class="fab fa-whatsapp"></i></a></li>

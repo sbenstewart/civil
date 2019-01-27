@@ -46,7 +46,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">accomodation</a></li>
+                                <li><a href="accomodation.php">ACCOMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -151,27 +151,7 @@
                                     </div>
                                 </div><!-- col-7 -->
 
-                                <div class="col-12 col-lg-5">
-                                    <div class="accordion-wrap type-accordion">
-                                        <h3 class="entry-title active flex justify-content-between">Venenatis efficitur lorem sed tempor?<span class="arrow-r"></span></h3>
 
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
-                                        </div>
-
-                                        <h3 class="entry-title flex justify-content-between">Mauris tempus vestibulum mauris?<span class="arrow-r"></span></h3>
-
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
-                                        </div>
-
-                                        <h3 class="entry-title flex justify-content-between">Curabitur venenatis efficitur lorem sed?<span class="arrow-r"></span></h3>
-
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
-                                        </div>
-                                    </div>
-                                </div><!-- col-5 -->
                             </div><!-- row -->
                         </div><!-- entry-content -->
                     </div><!-- col-12 -->
@@ -241,53 +221,7 @@
                     </div><!-- col-12 -->
                 </div><!-- row elements-wrap -->
 
-                <div class="row elements-wrap">
-                    <div class="col-12">
-                        <div class="entry-header">
-                            <h2 class="entry-title">Loaders</h2>
-                        </div><!-- entry-header -->
 
-                        <div class="entry-content elements-container">
-                            <div class="row">
-                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                    <div class="circular-progress-bar">
-                                        <div class="circle" id="hard_work">
-                                            <strong></strong>
-                                            <h3 class="entry-title">Hard Work</h3>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                    <div class="circular-progress-bar">
-                                        <div class="circle" id="good_music">
-                                            <strong></strong>
-                                            <h3 class="entry-title">Good Music</h3>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                    <div class="circular-progress-bar">
-                                        <div class="circle" id="power">
-                                            <strong></strong>
-                                            <h3 class="entry-title">Power</h3>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                    <div class="circular-progress-bar">
-                                        <div class="circle" id="fun_time">
-                                            <strong></strong>
-                                            <h3 class="entry-title">Fun times</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- col-12 -->
-                </div><!-- row elements-wrap -->
 
                 <div class="row elements-wrap">
                     <div class="col-12">

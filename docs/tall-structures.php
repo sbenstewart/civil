@@ -125,17 +125,18 @@
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
                                             <p>The workshop costs INR 500 for one indiviual. Group registrations have to be done onsite.</p>
+                                            <?php
+                                            // Start the session
+
+                                            if(isset($_SESSION["cid"]))
+                                            {
+                                              $print1 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
+                                            }
+                                            echo  $print1;
+                                            ?>
+
 
                                               <form id="registration" class="entry-content">
-                                                <?php
-                                                // Start the session
-
-                                                if(isset($_SESSION["cid"]))
-                                                {
-                                                  $print .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
-                                                }
-                                                echo  $print;
-                                                ?>
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="tall-structures" id="event" />

@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -114,7 +115,15 @@
                                           <div id="tab_about" class="tab-content">
                                               <h2 class="entry-header">10 years a mission</h2>
                                               <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>
+                                              <?php
+                                              // Start the session
 
+                                              if(isset($_SESSION["cid"]))
+                                              {
+                                                $print1 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
+                                              }
+                                              echo  $print1;
+                                              ?>
                                               <div class="entry-content flex">
                                                   <a href="accomodation-signup.html" class="btn gradient flex justify-content-center align-items-center">Register</a>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>

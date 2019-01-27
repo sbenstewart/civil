@@ -127,6 +127,15 @@
                                             <p>The workshop costs INR 500 for one indiviual. Group registrations have to be done onsite.</p>
 
                                               <form id="registration" class="entry-content">
+                                                <?php
+                                                // Start the session
+
+                                                if(isset($_SESSION["cid"]))
+                                                {
+                                                  $print .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
+                                                }
+                                                echo  $print;
+                                                ?>
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="tall-structures" id="event" />

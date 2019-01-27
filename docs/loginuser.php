@@ -17,9 +17,10 @@ try {
     }
   session_start();
   $_SESSION["cid"]=$id;
+  $_SESSION["name"]=$name;
 
   echo "Logged in as ";
-  echo $_SESSION["cid"];
+  echo $_SESSION["name"];
 
 } catch (PDOException $pe) {
     die("Could not connect to the server. Please check your internet connection.");

@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -5,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Hello World!</title>
+    <title>About us</title>
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
     <!-- Bootstrap CSS -->
@@ -41,12 +42,12 @@
                             </div><!-- .hamburger-menu -->
 
                             <ul>
-                                <li><a href="index.html#home">HOME</a></li>
-                                <li><a href="index.html#workshops">WORKSHOPS</a></li>
-                                <li><a href="index.html#events">EVENTS</a></li>
-                                <li><a href="index.html#lectures">LECTURES</a></li>
-                                <li><a href="contact.html">CONTACT</a></li>
-                                <li><a href="signup.html">LOGIN</a></li>
+                                <li><a href="index.php#home">HOME</a></li>
+                                <li><a href="index.php#workshops">WORKSHOPS</a></li>
+                                <li><a href="index.php#events">EVENTS</a></li>
+                                <li><a href="index.php#lectures">LECTURES</a></li>
+                                <li><a href="contact.php">CONTACT</a></li>
+                                <li><a href="signup.php">LOGIN</a></li>
                             </ul><!-- flex -->
                         </nav><!-- .site-navigation -->
                     </div><!-- .col-12 -->

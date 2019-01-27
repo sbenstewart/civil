@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -42,12 +43,25 @@
                             </div><!-- .hamburger-menu -->
 
                             <ul>
-                                <li><a href="index.html#home">HOME</a></li>
-                                <li><a href="index.html#workshops">WORKSHOPS</a></li>
-                                <li><a href="index.html#events">EVENTS</a></li>
-                                <li><a href="index.html#lectures">LECTURES</a></li>
-                                <li><a href="contact.html">CONTACT</a></li>
-                                <li><a href="signup.html">LOGIN</a></li>
+                                <li><a href="index.php#home">HOME</a></li>
+                                <li><a href="index.php#workshops">WORKSHOPS</a></li>
+                                <li><a href="index.php#events">EVENTS</a></li>
+                                <li><a href="index.php#lectures">LECTURES</a></li>
+                                <li><a href="accomodation.php">STAY</a></li>
+                                <li><a href="about.php">CONTACT</a></li>
+                                <?php
+                                // Start the session
+
+                                if(isset($_SESSION["cid"]))
+                                {
+                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
+                                }
+                                else {
+                                  $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
+                                }
+                                echo  $print1;
+                                ?>
+
 
                             </ul><!-- flex -->
                         </nav><!-- .site-navigation -->
@@ -62,7 +76,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="entry-header">
-                        <h2 class="entry-title">Admin</h2>
+                        <h2 class="entry-title">Signup</h2>
 
                         <!--<ul class="breadcrumbs flex align-items-center">
                             <li><a href="#">Home</a></li>
@@ -155,9 +169,9 @@
 
                 <div class="contact-form">
                     <div class="row">
-                        <!--<div class="col-12">
+                        <div class="col-12">
                             <input type="text" placeholder="Your name" id="name">
-                        </div>
+                        </div><!-- col-4 -->
 
                         <div class="col-12">
                             <input type="text" placeholder="Phone number - Ten digits only" id="phone">
@@ -165,42 +179,68 @@
 
                         <div class="col-12">
                             <input type="email" placeholder="Your email" id="mail">
-                        </div>-->
+                        </div><!-- col-6 -->
 
-                        <form action="download-tall-structures.php" method="post">
-                        <div class="col-12 submit  flex justify-content-center">
-                            <input type="submit" name="sample" value="Tall Structures" class="btn">
-                        </div>
-                        </form>
+                        <div class="col-12">
+                            <input type="password" placeholder="Password" id="password">
+                        </div><!-- col-6 -->
 
-                        <form action="download-solid-waste.php" method="post">
-                        <div class="col-12 submit  flex justify-content-center">
-                            <input type="submit" name="sample" value="Solid Waste Management" class="btn">
-                        </div>
-                        </form>
+                        <div class="col-12">
+                            <input type="password" placeholder="Confirm Password" id="confirmpassword">
+                        </div><!-- col-6 -->
 
-                        <form action="download-ground-improvement.php" method="post">
-                        <div class="col-12 submit  flex justify-content-center">
-                            <input type="submit" name="sample" value="Ground Improvement" class="btn">
-                        </div>
-                        </form>
+                        <div class="col-12">
+                            <input type="text" placeholder="College" id="college">
+                        </div><!-- col-6 -->
 
-                        <form action="download-event.php" method="post">
-                        <div class="col-12 submit  flex justify-content-center">
-                            <input type="submit" name="sample" value="Event list download button" class="btn">
+                        <div class="col-12">
+                        <select id="course">
+                          <option value="">&nbsp;&nbsp;&nbsp;&nbsp;Select your course</option>
+                          <option value="B.E.">&nbsp;&nbsp;&nbsp;&nbsp;B.E.</option>
+                          <option value="M.E.">&nbsp;&nbsp;&nbsp;&nbsp;M.E.</option>
+                          <option value="Research Scholar">&nbsp;&nbsp;&nbsp;&nbsp;Research Scholar</option>
+                          <option value="Other">&nbsp;&nbsp;&nbsp;&nbsp;Other</option>
+                        </select>
                         </div>
-                        </form>
-                        <form action="download-accomodation.php" method="post">
+
+
+                        <div class="col-12">
+                        <select id="year">
+                          <option value="">&nbsp;&nbsp;&nbsp;&nbsp;Select your year</option>
+                          <option value="1">&nbsp;&nbsp;&nbsp;&nbsp;1</option>
+                          <option value="2">&nbsp;&nbsp;&nbsp;&nbsp;2</option>
+                          <option value="3">&nbsp;&nbsp;&nbsp;&nbsp;3</option>
+                          <option value="4">&nbsp;&nbsp;&nbsp;&nbsp;4</option>
+                          <option value="5">&nbsp;&nbsp;&nbsp;&nbsp;5</option>
+                        </select>
+                        </div>
+
+
+                        <div class="col-12">
+                            <input type="text" placeholder="Department" id="dept">
+                        </div><!-- col-6 -->
+
+                        <div class="col-12">
+                            <input type="text" placeholder="Referal code (optional)" id="code">
+                        </div><!-- col-6 -->
+
+
+
                         <div class="col-12 submit flex justify-content-center">
-                            <input type="submit" name="download" value="Accomodation list download button" class="btn">
+                            <input type="button" onclick="regUser()" name="" value="Signup" class="btn">
                         </div>
-                      </form>
-                      <form action="download-ambassador.php" method="post">
-                      <div class="col-12 submit flex justify-content-center">
-                          <input type="submit" name="download" value="Ambassador list download button" class="btn">
-                      </div>
-                    </form>
 
+                        <div class="col-12 submit flex justify-content-center">
+                        <a href="login.html" class="btn gradient flex justify-content-center align-items-center">Click here to login.</a>
+                        </div>
+
+                        <div class="col-12 submit flex justify-content-center">
+                        <a href="change-details.html" class="btn gradient flex justify-content-center align-items-center">Change details.</a>
+                        </div>
+
+                        <div class="col-12 submit flex justify-content-center">
+                        <a href="accomodation-signup.html" class="btn gradient flex justify-content-center align-items-center">Click here after signup for accomodation.</a>
+                        </div>
 
                     </div><!-- row -->
                 </div><!-- contact-form -->

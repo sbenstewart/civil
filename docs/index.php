@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -63,7 +64,20 @@
                                 <li><a href="#events">EVENTS</a></li>
                                 <li><a href="#lectures">LECTURES</a></li>
                                 <li><a href="accomodation.php">STAY</a></li>
-                                <li><a href="signup.html">LOGIN</a></li>
+                                <li><a href="about.php">CONTACT</a></li>
+                                <?php
+                                // Start the session
+
+                                if(isset($_SESSION["cid"]))
+                                {
+                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
+                                }
+                                else {
+                                  $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
+                                }
+                                echo  $print1;
+                                ?>
+
 
                             </ul><!-- flex -->
                         </nav><!-- .site-navigation -->
@@ -475,12 +489,12 @@
                                 <h2>Draft Decree</h2></a>
                             </div><!-- artist-single -->
 
-                            <div class="col-6 col-md-4 col-lg-3 artist-single">
+                            <!--<div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
                                   <center>
                                   <a href="sample-event-workshop.html" target="_blank"> <img src="images/OnlineQuiz.jpg" alt="">
-                                </center><!--<a href="sample-event-workshop.html" target="_blank" class="box-link"> <img src="images/box.jpg" alt=""> </a>-->
-                                </figure><!-- featured-image -->
+                                </center><a href="sample-event-workshop.html" target="_blank" class="box-link"> <img src="images/box.jpg" alt=""> </a>
+                                </figure>
 
                                 <h2>Online Quiz</h2></a>
                             </div><!-- artist-single -->
@@ -629,7 +643,7 @@
 
                                   <div class="entry-content">
                                       <p>Be a part of the Symposium. Signup, share the referal code with your friends and classmates and get a free ticket to attend all events. The plan is subject to changes. </p>
-                                      <a href="ambassador.html" target="_blank" class="btn">Register</a>
+                                      <a href="ambassador.php" target="_blank" class="btn">Register</a>
                                   </div><!-- entry-content -->
                                 </div>
                               </div>

@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -19,6 +20,10 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://unpkg.com/gijgo@1.9.11/js/gijgo.min.js" type="text/javascript"></script>
+  <link href="https://unpkg.com/gijgo@1.9.11/css/gijgo.min.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body class="contact-page">
@@ -42,12 +47,25 @@
                             </div><!-- .hamburger-menu -->
 
                             <ul>
-                                <li><a href="index.html#home">HOME</a></li>
-                                <li><a href="index.html#workshops">WORKSHOPS</a></li>
-                                <li><a href="index.html#events">EVENTS</a></li>
-                                <li><a href="index.html#lectures">LECTURES</a></li>
-                                <li><a href="contact.html">CONTACT</a></li>
-                                <li><a href="login.html">LOGIN</a></li>
+                                <li><a href="index.php#home">HOME</a></li>
+                                <li><a href="index.php#workshops">WORKSHOPS</a></li>
+                                <li><a href="index.php#events">EVENTS</a></li>
+                                <li><a href="index.php#lectures">LECTURES</a></li>
+                                <li><a href="accomodation.php">STAY</a></li>
+                                <li><a href="about.php">CONTACT</a></li>
+                                <?php
+                                // Start the session
+
+                                if(isset($_SESSION["cid"]))
+                                {
+                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
+                                }
+                                else {
+                                  $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
+                                }
+                                echo  $print1;
+                                ?>
+
 
                             </ul><!-- flex -->
                         </nav><!-- .site-navigation -->
@@ -62,7 +80,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="entry-header">
-                        <h2 class="entry-title">Signup</h2>
+                        <h2 class="entry-title">Stay</h2>
 
                         <!--<ul class="breadcrumbs flex align-items-center">
                             <li><a href="#">Home</a></li>
@@ -139,7 +157,7 @@
             </div><!-- contact-details -->
 
             <div class="get-in-touch">
-                <!--<div class="entry-header">
+                <div class="entry-header">
                     <div class="entry-title">
                         <p>JUST THE BEST</p>
                         <h2>Get in touch</h2>
@@ -151,125 +169,124 @@
                         Ut semper purus metus, a euismod sapien sodales ac. Duis viverra eleifend fermentum.
                          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestibulum mauris quis aliquam.
                         Integer accumsan sodales odio, id tempus velit ullamcorper id.</p>
-                </div>-->
+                </div>
 
                 <div class="contact-form">
-                    <div class="row">
-                        <div class="col-12">
-                            <input type="text" placeholder="Your name" id="name">
+                    <div class="row"></p>
+                      <div class="col-12">
+                          <input id="datepicker" width="276" />
+                          <script>
+                          $('#datepicker').datepicker();
+                          </script>
+                      </div><!-- col-4 -->
+                        <p><BR></p>
+                          <div class="col-12">
+                            <input id="timepicker" width="276" />
+    <script>
+        $('#timepicker').timepicker();
+    </script>
+    <p><BR></p>
+                          </div>
+                        </div>
+                        <div class="row">
+
+
+                        <div class="col-6">
+                        <select id="hours">
+                          <option value="">&nbsp;&nbsp;&nbsp;&nbsp;Number of hours</option>
+                          <option value="24">&nbsp;&nbsp;&nbsp;&nbsp;24</option>
+                          <option value="48">&nbsp;&nbsp;&nbsp;&nbsp;48</option>
+                          <option value="72">&nbsp;&nbsp;&nbsp;&nbsp;72</option>
+                        </select>
+                        </div>
+                      </div>
+
+                        <!--<div class="col-12">
+                            <input id="when" name="when" type="date" min="2018-02-01" max="2018-12-01">
                         </div><!-- col-4 -->
 
-                        <div class="col-12">
-                            <input type="text" placeholder="Phone number - Ten digits only" id="phone">
-                        </div>
-
-                        <div class="col-12">
-                            <input type="email" placeholder="Your email" id="mail">
-                        </div><!-- col-6 -->
-
-                        <div class="col-12">
-                            <input type="password" placeholder="Password" id="password">
-                        </div><!-- col-6 -->
-
-                        <div class="col-12">
-                            <input type="password" placeholder="Confirm Password" id="confirmpassword">
-                        </div><!-- col-6 -->
-
-                        <div class="col-12">
-                            <input type="text" placeholder="College" id="college">
-                        </div><!-- col-6 -->
-
-                        <div class="col-12">
-                        <select id="course">
-                          <option value="">&nbsp;&nbsp;&nbsp;&nbsp;Select your course</option>
-                          <option value="B.E.">&nbsp;&nbsp;&nbsp;&nbsp;B.E.</option>
-                          <option value="M.E.">&nbsp;&nbsp;&nbsp;&nbsp;M.E.</option>
-                          <option value="Research Scholar">&nbsp;&nbsp;&nbsp;&nbsp;Research Scholar</option>
-                          <option value="Other">&nbsp;&nbsp;&nbsp;&nbsp;Other</option>
-                        </select>
-                        </div>
-
-
-                        <div class="col-12">
-                        <select id="year">
-                          <option value="">&nbsp;&nbsp;&nbsp;&nbsp;Select your year</option>
-                          <option value="1">&nbsp;&nbsp;&nbsp;&nbsp;1</option>
-                          <option value="2">&nbsp;&nbsp;&nbsp;&nbsp;2</option>
-                          <option value="3">&nbsp;&nbsp;&nbsp;&nbsp;3</option>
-                          <option value="4">&nbsp;&nbsp;&nbsp;&nbsp;4</option>
-                          <option value="5">&nbsp;&nbsp;&nbsp;&nbsp;5</option>
-                        </select>
-                        </div>
-
-
-                        <div class="col-12">
-                            <input type="text" placeholder="Department" id="dept">
-                        </div><!-- col-6 -->
-
-                        <div class="col-12">
-                            <input type="text" placeholder="Referal code (optional)" id="code">
-                        </div><!-- col-6 -->
-
-
-
                         <div class="col-12 submit flex justify-content-center">
-                            <input type="button" onclick="regUser()" name="" value="Signup" class="btn">
+                            <input type="button" onclick="regAccomodation()" value="Register" class="btn">
                         </div>
 
-                        <div class="col-12 submit flex justify-content-center">
-                        <a href="login.html" class="btn gradient flex justify-content-center align-items-center">Click here to login.</a>
+
+                        <!--<div class="entry-header">
+                            <div class="entry-title">
+                                <p>JUST THE BEST</p>
+                                <h2>Get in touch</h2>
+                            </div>
                         </div>
 
-                        <div class="col-12 submit flex justify-content-center">
-                        <a href="change-details.html" class="btn gradient flex justify-content-center align-items-center">Change details.</a>
+                        <div class="entry-content">
+                            <p>Quisque at erat eu libero consequat tempus. Quisque mole stie convallis tempus.
+                                Ut semper purus metus, a euismod sapien sodales ac. Duis viverra eleifend fermentum.
+                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestibulum mauris quis aliquam.
+                                Integer accumsan sodales odio, id tempus velit ullamcorper id.</p>
                         </div>
 
-                        <div class="col-12 submit flex justify-content-center">
-                        <a href="accomodation-signup.html" class="btn gradient flex justify-content-center align-items-center">Click here after signup for accomodation.</a>
-                        </div>
 
-                    </div><!-- row -->
+                        <div class="row">
+                          <div class="col-6">
+                          <select id="extras">
+                            <option value="">&nbsp;&nbsp;&nbsp;&nbsp;Select for lunch and T-Shirt</option>
+                            <option value="lunch">&nbsp;&nbsp;&nbsp;&nbsp;Lunch only</option>
+                            <option value="tshirt">&nbsp;&nbsp;&nbsp;&nbsp;T-Shirt only</option>
+                            <option value="lunch-tshirt">&nbsp;&nbsp;&nbsp;&nbsp;Lunch and T-Shirt</option>
+                          </select>
+                          </div>
+
+                          <!--<div class="col-12">
+                              <input id="when" name="when" type="date" min="2018-02-01" max="2018-12-01">
+                          </div>
+
+                          <div class="col-12 submit flex justify-content-center">
+                              <input type="button" onclick="regExtras()" value="Register" class="btn">
+                          </div>
+
+                    </div>
                 </div><!-- contact-form -->
             </div><!-- newsletter-subscribe -->
         </div><!-- main-content -->
     </div><!-- container -->
 
-    <footer class="site-footer">
-        <div class="footer-cover-title flex justify-content-center align-items-center">
-            <h2>CIVIL</h2>
-        </div><!-- .site-footer -->
 
-        <div class="footer-content-wrapper">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="entry-title">
-                            <a href="#">SYMPO!</a>
-                        </div><!-- entry-title -->
 
-                        <div class="entry-mail">
-                            <a href="mailto:help@civilisationceg.in?Subject=Hello%20again" target="_top">help@civilisationceg.in</a>
-                        </div><!-- .entry-mail -->
+        <footer class="site-footer">
+            <div class="footer-cover-title flex justify-content-center align-items-center">
+                <h2>CIVIL</h2>
+            </div><!-- .site-footer -->
 
-                        <div class="copyright-info">
-                            This site is made with <i class="fa fa-heart" aria-hidden="true"></i> in <a href="https://www.google.com/maps/place/College+of+Engineering,+Guindy/@13.0169607,80.2036514,13z/data=!4m5!3m4!1s0x3a52679f0d20f797:0x59f9f10c66e02a19!8m2!3d13.01094!4d80.2354462" style="color: #7443A1;" target="_blank">Chennai</a>
-                        </div><!-- copyright-info -->
+            <div class="footer-content-wrapper">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="entry-title">
+                                <a href="#">SYMPO!</a>
+                            </div><!-- entry-title -->
 
-                        <div class="footer-social">
-                            <ul class="flex justify-content-center align-items-center">
-                                <li><a href="https://fb.com/au.civilisation"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="tel:+91‭9092859699‬"><i class="fa fa-phone fa-rotate-90"></i></a></li>
-                                <li><a href="mailto:help@civilisationceg.in?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
-                                <!--<li><a href="#"><i class="fa fa-address-book"></i></a></li>-->
-                                <li><a href="https://api.whatsapp.com/send?phone=91‭9092859699‬"><i class="fab fa-whatsapp"></i></a></li>
-                                <li><a href="https://goo.gl/forms/7aUhSw8LaI6rfAn52"><i class="fab fa-github"></i></a></li>
-                            </ul>
-                        </div><!-- footer-social -->
-                    </div><!-- col -->
-                </div><!-- row -->
-            </div><!-- container -->
-        </div><!-- footer-content-wrapper -->
-    </footer><!-- site-footer -->
+                            <div class="entry-mail">
+                                <a href="mailto:help@civilisationceg.in?Subject=Hello%20again" target="_top">help@civilisationceg.in</a>
+                            </div><!-- .entry-mail -->
+
+                            <div class="copyright-info">
+                                This site is made with <i class="fa fa-heart" aria-hidden="true"></i> in <a href="https://www.google.com/maps/place/College+of+Engineering,+Guindy/@13.0169607,80.2036514,13z/data=!4m5!3m4!1s0x3a52679f0d20f797:0x59f9f10c66e02a19!8m2!3d13.01094!4d80.2354462" style="color: #7443A1;" target="_blank">Chennai</a>
+                            </div><!-- copyright-info -->
+
+                            <div class="footer-social">
+                                <ul class="flex justify-content-center align-items-center">
+                                    <li><a href="https://fb.com/au.civilisation"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="tel:+91‭9092859699‬"><i class="fa fa-phone fa-rotate-90"></i></a></li>
+                                    <li><a href="mailto:help@civilisationceg.in?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
+                                    <!--<li><a href="#"><i class="fa fa-address-book"></i></a></li>-->
+                                    <li><a href="https://api.whatsapp.com/send?phone=91‭9092859699‬"><i class="fab fa-whatsapp"></i></a></li>
+                                    <li><a href="https://goo.gl/forms/7aUhSw8LaI6rfAn52"><i class="fab fa-github"></i></a></li>
+                                </ul>
+                            </div><!-- footer-social -->
+                        </div><!-- col -->
+                    </div><!-- row -->
+                </div><!-- container -->
+            </div><!-- footer-content-wrapper -->
+        </footer><!-- site-footer -->
 
     <script type='text/javascript' src='js/jquery.js'></script>
     <script type='text/javascript' src='js/masonry.pkgd.min.js'></script>

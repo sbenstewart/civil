@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Hello World!</title>
+    <title>Civil Symposium!</title>
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
     <!-- Bootstrap CSS -->
@@ -42,12 +42,26 @@
                             </div><!-- .hamburger-menu -->
 
                             <ul>
-                                <li><a href="index.html#home">HOME</a></li>
-                                <li><a href="index.html#workshops">WORKSHOPS</a></li>
-                                <li><a href="index.html#events">EVENTS</a></li>
-                                <li><a href="index.html#lectures">LECTURES</a></li>
-                                <li><a href="contact.html">CONTACT</a></li>
-                                <li><a href="signup.html">LOGIN</a></li>
+                                <li><a href="index.php#home">HOME</a></li>
+                                <li><a href="index.php#workshops">WORKSHOPS</a></li>
+                                <li><a href="index.php#events">EVENTS</a></li>
+                                <li><a href="index.php#lectures">LECTURES</a></li>
+                                <li><a href="accomodation.php">STAY</a></li>
+                                <li><a href="about.php">CONTACT</a></li>
+                                <?php
+                                // Start the session
+
+                                if(isset($_SESSION["cid"]))
+                                {
+                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
+                                }
+                                else {
+                                  $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
+                                }
+                                echo  $print1;
+                                ?>
+
+
                             </ul><!-- flex -->
                         </nav><!-- .site-navigation -->
                     </div><!-- .col-12 -->

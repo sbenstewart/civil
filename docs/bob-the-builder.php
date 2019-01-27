@@ -106,15 +106,51 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>"You can't have a healthy civilization without healthy soil. You can't have junk food and have healthy people."
+                                              <p><strong><b>""You can't have a healthy civilization without healthy soil. You can't have junk food and have healthy people."
                                                 &emsp;&emsp;&emsp;&emsp;- Joel Salatin</b></strong>
                                                 <br>
                                                 <br>
-                                                Soil  mechanics is an art of science and Engineering. The observation of the performance of the soli is an essential part of any construction not only in laboratory and also in field.
+                                                Soil mechanics is an art of science and Engineering. The observation of the performance of the soil is an essential part of any construction not only in laboratory and also in field.
                                                 Are you a genius in mechanics of soil and hydraulics?
                                                 Can you build a model with deep knowledge of that?
                                                 Then open your skills in making the model!!!
                                                 </p>
+                                                <h2 class="entry-header">FORMAT:</h2>
+                                                <ol>
+                                                  <li>PRELIMS:
+                                                    <ul>
+                                                      <li>A team of 2 or 3 members are allowed.</li>
+                                                      <li>Participants are requested to bring their own calculators.</li>
+                                                      <li>The questionnaire consists of 25 questions</li>
+                                                      <li>Allocated time for answering the questions is 30 minutes</li>
+                                                      <li>If there is tie between 2 or more teams the evaluation will be based upon *(Star) question. A team which has correctly answered the maximum number of star questions will be given priority.</li>
+                                                      <li>If there is a tie in the * (Star) question, the evaluation will be                               based on the marks obtained in each section in the following order of priority:
+                                                          1)	Soil Mechanics<br>
+                                                          2)	Structural Analysis<br>
+                                                          3)	Concrete Structures<br>
+                                                          4)	Hydraulics<br>
+                                                          5)	Construction techniques & practices<br>
+                                                      </li>
+                                                    </ul>
+                                                  </li>
+                                                  <li>FINALS:
+                                                    <ul>
+                                                      <li>Participants has to make a model of water retaining structure based on the problem statement.</li>
+                                                      <li>The model must be completed within the given time.</li>
+                                                      <li>Only the materials provided must be used.</li>
+                                                      <li>In case of any discrepancies, the decision taken by the Judges and organisers will be final.</li>
+                                                    </ul>
+                                                  </li>
+                                                </ol>
+                                                <h2 class="entry-header">RULES:</h2>
+                                                <ol>
+                                                  <li>It is a duel day event.</li>
+                                                  <li>A team can have maximum 3 participants per team.</li>
+                                                  <li>College ID is mandatory.</li>
+                                                  <li>Decision by judges is final.</li>
+                                                  <li>Use of mobile is strictly prohibited.</li>
+                                                  <li>Civilization 19 ID is mandatory.</li>
+                                                </ol>
 
 
 
@@ -131,7 +167,7 @@
 
                                               <ul>
                                                 <li>	Guruprasath J&emsp;9025702803</li>
-                                              <li>	Sanmugam &emsp;7449024379</li>
+                                              <li>	Sanmugam G&emsp;7449024379</li>
                                             </ul>
                                           </div>
 

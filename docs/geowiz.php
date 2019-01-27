@@ -106,13 +106,13 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>“The soil is the great connector of our lives, The source and destination of all.”
+                                              <p><strong><b>“Soil is the great connector of our lives, the source and destination of all.”
                                                 &emsp;&emsp;&emsp;&emsp;- Wendell Berry</b></strong>
                                                 <br>
                                                 <br>
-                                                Civil Engineering structures like buildings , bridge, Highway, tunnels ,dams etc are founded below or on the surface of the earth.For their stability , suitable soil is required. Different geotechnical property of soil has different influence on civil engineering structures.<br>
-                                                Are you interested in showcasing your knowledge in soil mechanics and pavement designing ?<br>
-                                                Here is a unique opportunity to bring to view your knowledge in this multi-disciplinary field. If you are someone who is fascinated by the peerless properties of soil, attend this technical quiz to perform the CBR test and design the pavements as per IRC standards.<br>
+                                                Civil Engineering structures like buildings , bridges,highways,tunnels,dams etc are founded below or on the surface of the earth.For their stability,suitable soil is required. Different geotechnical property of soil has different influence on civil engineering structures.
+                                                Are you interested in showcasing your knowledge in soil mechanics and pavement designing ?
+                                                Here is a unique opportunity to bring to view your knowledge in this multidisciplinary field. If you are someone who is fascinated by the peerless properties of soil, attend this technical quiz to perform the CBR test and design the pavements as per IRC standards.
                                                 </p>
                                                 <br>
                                                 <h2 class="entry-header">FORMAT:</h2>
@@ -120,7 +120,7 @@
                                                   <li>PRELIMS:
                                                     <ul>
                                                       <li>The prelims will contain a set of 25 questions for which a time of 30 minutes will be given.</li>
-                                                      <li>More weightage for questions will be from Soil Mechanics and Highway Engineering.</li>
+                                                      <li>The questions will be from soil mechanics and highway engineering.</li>
                                                       <li>‘*’ (STAR) questions will be used for tie breaks.</li>
                                                       <li>Top 3 teams will be qualified for finals.</li>
                                                     </ul>

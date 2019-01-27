@@ -134,7 +134,7 @@
                                                   <li>Working models, samples fetch you extra points.</li>
                                                   <li>Candidates should  bring hard copy and soft copy of the paper at the time of presentation.</li>
                                                   <li>Bring your soft copies in pendrive.</li>
-                                                  <li>Judgement criteria : Based on the presentation mark were alloted to the teams.</li>
+                                                  <li>Judgement criteria : Based on the presentation, marks will be awarded to the teams.</li>
                                                 </ul>
                                               </li>
 

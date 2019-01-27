@@ -153,7 +153,6 @@
 
                                               <ul>
                                                 <li>	Mathivanan&emsp;9715048044</li>
-                                              <li>	Mani &emsp;8939307277</li>
                                             </ul>
                                           </div>
 

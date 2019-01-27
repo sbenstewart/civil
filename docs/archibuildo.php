@@ -89,7 +89,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">ARCHI BUILDO</h2>
+                            <h2 class="entry-title">ARCHIBUILDO</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">

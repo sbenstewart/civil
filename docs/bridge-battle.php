@@ -139,6 +139,7 @@
                                                 <li>Participants build a bridge within the given time.</li>
                                                 <li>Everyone should bring a calculator.</li>
                                                 <li>Judge can finalize the winners.</li>
+                                                <li>Participants are required to bring a calculator.</li>
                                               </ol>
 
 

@@ -136,6 +136,7 @@
                                                   <li>College ID is mandatory.</li>
                                                   <li>Decision by judges is final.</li>
                                                   <li>Use of mobile is strictly prohibited.</li>
+                                                  <li>Participants are required to bring a calculator.</li>
                                                 </ol>
 
 

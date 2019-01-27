@@ -136,6 +136,7 @@
                                                 <li>Use of mobile phones is prohibited.</li>
                                                 <li>The decision made by the judges is final.</li>
                                                 <li>A team can only consist of 2 or 3 participants.</li>
+                                                <li>Participants are required to bring a calculator.</li>
                                               </ol>
 
 

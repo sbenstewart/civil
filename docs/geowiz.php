@@ -140,6 +140,7 @@
                                                   <li>The team will be disqualified in case of any discrepancies.</li>
                                                   <li>Participants are requested to bring calculators.</li>
                                                   <li>Use of mobile phone is strictly prohibited.</li>
+                                                  <li>Participants are required to bring a calculator.</li>
                                                 </ol>
 
 

@@ -139,6 +139,7 @@
                                                       <li>The model must be completed within the given time.</li>
                                                       <li>Only the materials provided must be used.</li>
                                                       <li>In case of any discrepancies, the decision taken by the Judges and organisers will be final.</li>
+                                                      <li>Participants are required to bring a calculator.</li>
                                                     </ul>
                                                   </li>
                                                 </ol>

@@ -137,6 +137,7 @@
                                                 <li>Usage of mobille phones will lead to disqualification</li>
                                                 <li>A team can have a maximum of three participants</li>
                                                 <li>Decision made by the judges is final</li>
+                                                <li>Participants are required to bring a calculator.</li>
                                               </ol>
 
 

@@ -134,9 +134,9 @@
 
                                               if(isset($_SESSION["cid"]))
                                               {
-                                                $print1 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
+                                                $print2 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
                                               }
-                                              echo  $print1;
+                                              echo  $print2;
                                               ?>
                                               <div class="entry-content flex">
                                                   <a href="accomodation-signup.php" class="btn gradient flex justify-content-center align-items-center">Register</a>

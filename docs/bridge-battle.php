@@ -185,12 +185,12 @@
 
                                             if(isset($_SESSION["cid"]))
                                             {
-                                              $print1 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
+                                              $print2 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
                                             }
                                             else {
-                                              $print1 .="<p><b><strong>You must be logged in to register online or onsite.</strong></b></p>";
+                                              $print2 .="<p><b><strong>You must be logged in to register online or onsite.</strong></b></p>";
                                             }
-                                            echo  $print1;
+                                            echo  $print2;
                                             ?>
 
 

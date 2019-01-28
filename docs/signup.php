@@ -238,10 +238,7 @@
                         <a href="change-details.php" class="btn gradient flex justify-content-center align-items-center">Change details.</a>
                         </div>
 
-                        <div class="col-12 submit flex justify-content-center">
-                        <a href="accomodation-signup.php" class="btn gradient flex justify-content-center align-items-center">Click here after signup for accomodation.</a>
-                        </div>
-
+                        
                     </div><!-- row -->
                 </div><!-- contact-form -->
             </div><!-- newsletter-subscribe -->

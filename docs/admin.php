@@ -181,37 +181,81 @@
                             <input type="email" placeholder="Your email" id="mail">
                         </div>-->
 
+
+
                         <form action="download-tall-structures.php" method="post">
                         <div class="col-12 submit  flex justify-content-center">
-                            <input type="submit" name="sample" value="Tall Structures" class="btn">
+                          <?php
+
+                          if(isset($_SESSION["admin"]))
+                          {
+                            $print2 .="<input type='submit' name='sample' value='Tall Structures' class='btn'>";
+                          }
+                          echo  $print2;
+                          ?>
                         </div>
                         </form>
 
                         <form action="download-solid-waste.php" method="post">
                         <div class="col-12 submit  flex justify-content-center">
-                            <input type="submit" name="sample" value="Solid Waste Management" class="btn">
+                          <?php
+
+                          if(isset($_SESSION["admin"]))
+                          {
+                            $print3 .="<input type='submit' name='sample' value='Solid Waste Management' class='btn'>";
+                          }
+                          echo  $print3;
+                          ?>
                         </div>
                         </form>
 
                         <form action="download-ground-improvement.php" method="post">
                         <div class="col-12 submit  flex justify-content-center">
-                            <input type="submit" name="sample" value="Ground Improvement" class="btn">
+                          <?php
+
+                          if(isset($_SESSION["admin"]))
+                          {
+                            $print4 .="<input type='submit' name='sample' value='Ground Improvement' class='btn'>";
+                          }
+                          echo  $print4;
+                          ?>
                         </div>
                         </form>
 
                         <form action="download-event.php" method="post">
                         <div class="col-12 submit  flex justify-content-center">
-                            <input type="submit" name="sample" value="Event list download button" class="btn">
+                          <?php
+
+                          if(isset($_SESSION["admin"]))
+                          {
+                            $print5 .="<input type='submit' name='sample' value='Event list download button' class='btn'>";
+                          }
+                          echo  $print5;
+                          ?>
                         </div>
                         </form>
                         <form action="download-accomodation.php" method="post">
                         <div class="col-12 submit flex justify-content-center">
-                            <input type="submit" name="download" value="Accomodation list download button" class="btn">
+                          <?php
+
+                          if(isset($_SESSION["admin"]))
+                          {
+                            $print6 .="<input type='submit' name='sample' value='Accomodation list download button' class='btn'>";
+                          }
+                          echo  $print6;
+                          ?>
                         </div>
                       </form>
                       <form action="download-ambassador.php" method="post">
                       <div class="col-12 submit flex justify-content-center">
-                          <input type="submit" name="download" value="Ambassador list download button" class="btn">
+                        <?php
+
+                        if(isset($_SESSION["admin"]))
+                        {
+                          $print7 .="<input type='submit' name='sample' value='Ambassador list download button' class='btn'>";
+                        }
+                        echo  $print7;
+                        ?>
                       </div>
                     </form>
 

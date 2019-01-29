@@ -3,13 +3,11 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Jan 25, 2019 at 02:57 PM
+-- Generation Time: Jan 29, 2019 at 11:39 AM
 -- Server version: 5.7.23
 -- PHP Version: 7.2.10
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
-START TRANSACTION;
 SET time_zone = "+00:00";
 
 
@@ -19,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `database`
+-- Database: `u258139758_db`
 --
 
 -- --------------------------------------------------------
@@ -28,7 +26,6 @@ SET time_zone = "+00:00";
 -- Table structure for table `accomodation`
 --
 
-DROP TABLE IF EXISTS `accomodation`;
 CREATE TABLE `accomodation` (
   `id` int(11) NOT NULL,
   `entrydate` varchar(100) NOT NULL DEFAULT '1',
@@ -36,11 +33,6 @@ CREATE TABLE `accomodation` (
   `hours` varchar(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Truncate table before insert `accomodation`
---
-
-TRUNCATE TABLE `accomodation`;
 --
 -- Dumping data for table `accomodation`
 --
@@ -51,10 +43,29 @@ INSERT INTO `accomodation` (`id`, `entrydate`, `entrytime`, `hours`) VALUES
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `admin`
+--
+
+CREATE TABLE `admin` (
+  `cid` int(11) NOT NULL,
+  `name` varchar(100) NOT NULL,
+  `emailid` varchar(100) NOT NULL,
+  `password` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `admin`
+--
+
+INSERT INTO `admin` (`cid`, `name`, `emailid`, `password`) VALUES
+(1, 'S Ben Stewart', 'sbenstewart@gmail.com', 'test123');
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `ambassador`
 --
 
-DROP TABLE IF EXISTS `ambassador`;
 CREATE TABLE `ambassador` (
   `aid` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
@@ -63,11 +74,6 @@ CREATE TABLE `ambassador` (
   `code` varchar(10) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Truncate table before insert `ambassador`
---
-
-TRUNCATE TABLE `ambassador`;
 --
 -- Dumping data for table `ambassador`
 --
@@ -81,7 +87,6 @@ INSERT INTO `ambassador` (`aid`, `name`, `phoneno`, `emailid`, `code`) VALUES
 -- Stand-in structure for view `event1`
 -- (See below for the actual view)
 --
-DROP VIEW IF EXISTS `event1`;
 CREATE TABLE `event1` (
 `name` varchar(100)
 ,`emailid` varchar(100)
@@ -94,7 +99,6 @@ CREATE TABLE `event1` (
 -- Table structure for table `registrations`
 --
 
-DROP TABLE IF EXISTS `registrations`;
 CREATE TABLE `registrations` (
   `cid` varchar(100) NOT NULL,
   `id` varchar(100) NOT NULL,
@@ -102,17 +106,13 @@ CREATE TABLE `registrations` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
--- Truncate table before insert `registrations`
---
-
-TRUNCATE TABLE `registrations`;
---
 -- Dumping data for table `registrations`
 --
 
 INSERT INTO `registrations` (`cid`, `id`, `Paid`) VALUES
 ('47', 'lunch-tshirt', NULL),
-('47', 'sample', NULL);
+('47', 'sample', NULL),
+('47', 'tall-structures', NULL);
 
 -- --------------------------------------------------------
 
@@ -120,7 +120,6 @@ INSERT INTO `registrations` (`cid`, `id`, `Paid`) VALUES
 -- Table structure for table `user`
 --
 
-DROP TABLE IF EXISTS `user`;
 CREATE TABLE `user` (
   `cid` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
@@ -135,11 +134,6 @@ CREATE TABLE `user` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
--- Truncate table before insert `user`
---
-
-TRUNCATE TABLE `user`;
---
 -- Dumping data for table `user`
 --
 
@@ -153,7 +147,7 @@ INSERT INTO `user` (`cid`, `name`, `phoneno`, `emailid`, `aid`, `college`, `year
 --
 DROP TABLE IF EXISTS `event1`;
 
-CREATE VIEW `event1`  AS  select `user`.`name` AS `name`,`user`.`emailid` AS `emailid`,`user`.`phoneno` AS `phoneno` from (`registrations` left join `user` on(((`registrations`.`cid` = `user`.`cid`) and (`registrations`.`id` = 'sample')))) ;
+CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `event1`  AS  select `user`.`name` AS `name`,`user`.`emailid` AS `emailid`,`user`.`phoneno` AS `phoneno` from (`registrations` left join `user` on(((`registrations`.`cid` = `user`.`cid`) and (`registrations`.`id` = 'sample')))) ;
 
 --
 -- Indexes for dumped tables
@@ -164,6 +158,13 @@ CREATE VIEW `event1`  AS  select `user`.`name` AS `name`,`user`.`emailid` AS `em
 --
 ALTER TABLE `accomodation`
   ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `admin`
+--
+ALTER TABLE `admin`
+  ADD PRIMARY KEY (`cid`),
+  ADD UNIQUE KEY `emailid` (`emailid`);
 
 --
 -- Indexes for table `ambassador`
@@ -191,6 +192,12 @@ ALTER TABLE `user`
 --
 
 --
+-- AUTO_INCREMENT for table `admin`
+--
+ALTER TABLE `admin`
+  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+
+--
 -- AUTO_INCREMENT for table `ambassador`
 --
 ALTER TABLE `ambassador`
@@ -201,7 +208,6 @@ ALTER TABLE `ambassador`
 --
 ALTER TABLE `user`
   MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=48;
-COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

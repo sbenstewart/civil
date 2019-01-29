@@ -44,23 +44,8 @@
 
                             <ul>
                                 <li><a href="index.php#home">HOME</a></li>
-                                <li><a href="index.php#workshops">WORKSHOPS</a></li>
-                                <li><a href="index.php#events">EVENTS</a></li>
-                                <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
-                                <li><a href="about.php">CONTACT</a></li>
-                                <?php
-                                // Start the session
+                                <li><a href="admin-login.php">ADMIN LOGIN</a></li>
 
-                                if(isset($_SESSION["cid"]))
-                                {
-                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
-                                }
-                                else {
-                                  $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
-                                }
-                                echo  $print1;
-                                ?>
 
 
                             </ul><!-- flex -->

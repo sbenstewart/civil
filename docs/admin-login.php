@@ -44,11 +44,8 @@
 
                             <ul>
                                 <li><a href="index.php#home">HOME</a></li>
-                                <li><a href="index.php#workshops">WORKSHOPS</a></li>
-                                <li><a href="index.php#events">EVENTS</a></li>
-                                <li><a href="index.php#lectures">LECTURES</a></li>
                                 <li><a href="accomodation.php">ACCOMODATION</a></li>
-                                <li><a href="about.php">CONTACT</a></li>
+                                <li><a href="admin.php">ADMIN PAGE</a></li>
 
 
 

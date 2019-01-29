@@ -650,6 +650,30 @@
                             </div>
                           </div>
 
+
+                          <div class="lineup-artists">
+                              <div class="lineup-artists-wrap flex flex-wrap">
+                                  <figure class="featured-image">
+                                    <center>
+                                      <a href="#"> <img src="images/planning.png" alt=""> </a>
+                                    </center>
+                                  </figure><!-- featured-image -->
+
+                                  <div class="lineup-artists-description">
+                                      <div class="lineup-artists-description-container">
+                                          <div class="entry-title">
+                                              Project Demonstration
+                                          </div><!-- entry-title -->
+
+                                          <div class="entry-content">
+                                              <p>You can display your projects during the symposium alongside the very best workshops and events.</p>
+                                              <a href="project-submission.php" target="_blank" class="btn">Register</a>
+                                          </div><!-- entry-content -->
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+
                           <div class="lineup-artists">
                               <div class="lineup-artists-wrap flex flex-wrap">
                                   <figure class="featured-image">

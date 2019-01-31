@@ -27,8 +27,9 @@ try {
            $cid = $row['cid'];
          }
          echo $cid;
+         $paid='Paid';
          echo "insert into registrations(cid, id) values ('$cid', '$event')";
-         $count = $conn->exec("insert into registrations(cid, id) values ('$cid', '$event')");
+         $count = $conn->exec("insert into registrations(cid, id,Paid) values ('$cid', '$event','$paid')");
        }
      }
       else {
@@ -43,8 +44,9 @@ try {
        $cid = $row['cid'];
      }
      echo $cid;
+     $paid='Paid';
      echo "insert into registrations(cid, id) values ('$cid', '$event')";
-     $count = $conn->exec("insert into registrations(cid, id) values ('$cid', '$event')");
+     $count = $conn->exec("insert into registrations(cid, id,Paid) values ('$cid', '$event','$paid')");
    }
 
  }

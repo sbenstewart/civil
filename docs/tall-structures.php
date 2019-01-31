@@ -154,7 +154,7 @@
                                               <form id="registration" class="entry-content">
 
                                               <!--<div class="entry-content flex">-->
-                                                  <input type="hidden" value="tall-structures" id="event" />
+                                                  <input type="hidden" value="TALL STRUCTURES" id="event" />
                                                   <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
 

@@ -21,11 +21,11 @@ try {
           }
       }
       //Setup the filename that our CSV will have when it is downloaded.
-      $fileName = 'mysql-tallstructures.csv';
+      $fileName = 'mysql-tall-structures.csv';
       ob_clean();
       header("Pragma: no-cache");
       header('Content-Type: application/octet-stream');
-      header('Content-Disposition: attachment;filename=tallstructures.csv');
+      header('Content-Disposition: attachment;filename=tall-structures.csv');
 
       //Open up a file pointer
       $fp = fopen('php://output', 'w');

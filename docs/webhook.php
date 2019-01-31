@@ -18,7 +18,7 @@ try {
  } else {
      //print_r($_POST);
      $data = $_POST['data'];
-     print_r($data);
+     //print_r($data);
      $json = json_decode($data, true);
      if(is_array($json[0]))
      {

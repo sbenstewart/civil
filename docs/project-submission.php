@@ -167,9 +167,7 @@
                                               NOTE:<br>
                                                   Soil has bearing capacity less than 150kPa.<br>
                                               </p>
-                                                <h2 class="entry-header">Click the button below to register.</h2>
-                                                <p>If you have registered for any workshop, you can attend all the events conducted for the symposium. The registration entitiles you to attend all the technical and non-technical events.</p>
-
+                                                
 
 
                                                   <form id="registration" class="entry-content">

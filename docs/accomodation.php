@@ -346,11 +346,7 @@
             </div><!-- container -->
     </div><!-- main-content -->
 
-    <footer class="site-footer">
-        <div class="footer-cover-title flex justify-content-center align-items-center">
-            <h2>CIVIL</h2>
-        </div><!-- .site-footer -->
-
+    
         <footer class="site-footer">
             <div class="footer-cover-title flex justify-content-center align-items-center">
                 <h2>CIVIL</h2>

@@ -167,13 +167,13 @@
                                               NOTE:<br>
                                                   Soil has bearing capacity less than 150kPa.<br>
                                               </p>
-                                                
+
 
 
                                                   <form id="registration" class="entry-content">
 
                                                   <!--<div class="entry-content flex">-->
-                                                      <input type="hidden" value="tall-structures" id="event" />
+                                                      <input type="hidden" value="EVENTS" id="event" />
                                                       <!--<input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>-->
                                                       <br>
 

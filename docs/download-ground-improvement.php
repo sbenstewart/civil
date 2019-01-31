@@ -3,7 +3,7 @@ require_once 'dbconfig.php';
 $table2 = $_POST["name"];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-      $sql = "SELECT user.cid,user.name,user.emailid,user.phoneno,registrations.Paid FROM registrations LEFT JOIN user ON registrations.cid = user.cid and registrations.id='ground-improvement-techniques'";
+      $sql = "SELECT user.cid,user.name,user.emailid,user.phoneno,registrations.Paid FROM registrations LEFT JOIN user ON registrations.cid = user.cid and registrations.id='GROUND IMPROVEMENT TECHNIQUES'";
       //Prepare our SQL query.
       $statement = $conn->prepare($sql);
       //Executre our SQL query.

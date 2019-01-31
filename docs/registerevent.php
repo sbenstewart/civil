@@ -1,6 +1,6 @@
 <?php
 require_once 'dbconfig.php';
-$event2 = $_POST['event1'];
+$event2 = '$_POST['event1']';
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);

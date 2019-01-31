@@ -167,7 +167,7 @@
 
                                               <ul>
                                                 <li>	Mathivanan&emsp;9715048044</li>
-                                                <li>	Vanmadhi&emsp;8428358347<s/li>
+                                                <li>	Vanmadhi&emsp;8428358347</li>
                                             </ul>
                                           </div>
 

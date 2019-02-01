@@ -5,6 +5,8 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="This site was developed by Ben Stewart http://sbenstewart.in">
+    <meta name="author" content="Ben Stewart S">
 
     <title>Civil Symposium!</title>
 

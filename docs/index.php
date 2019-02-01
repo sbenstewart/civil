@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="This site was developed by Ben Stewart http://sbenstewart.in">
     <meta name="author" content="Ben Stewart S">
+    <meta name="keywords" content="civilisation,ceg,symposium,2019,civil,ben stewart">
 
     <title>Civil Symposium!</title>
 

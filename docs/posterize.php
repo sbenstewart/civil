@@ -120,37 +120,33 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>"Travel is a new experience that can transport you out of your everyday routine to create memories with the ones you love."
-                                                &emsp;&emsp;&emsp;&emsp;- Brian Chesky</b></strong>
+                                              <p><strong><b>"What you think, you become, What you feel, you attract. What  you imagine you create."
+                                                &emsp;&emsp;&emsp;&emsp;- Gautama Buddha</b></strong>
                                                 <br>
                                                 <br>
-                                                Traffic is not only a word, it is the biggest problem in our daily life. It affects the economy too. So, as an engineer, we want to find the solution for reduce that in scientific manner. By using our knowledge in transportation, we can plan and design a transport layout of a city. Use this platform, to prove your knowledge in this domain.....
+                                                For all innovative aspires!<br>
+                                                Creative thinking inspire ideas. posters allow you to visually present those ideas in an attractive way. Here is a wonderful opportunity to exhibit your creativity in this artistic field. Are you fascinated by designing the posters. This event is a good platform to explore your visionary ideas.
+
                                                 </p>
                                                 <h2 class="entry-header">FORMAT:</h2>
+                                                <p>Posterize will be conducted by given topics.</p>
                                                 <ol>
-                                                  <li>PRELIMS:
-                                                    <ul>
-                                                      <li>Its a pen and paper round.</li>
-                                                      <li>Set of questions will be given with answer choices.</li>
-                                                      <li>The top 6 teams will be selected for the finals.</li>
-                                                    </ul>
-                                                  </li>
-                                                  <li>FINALS:
-                                                    <ul>
-                                                      <li>The selected teams will be given a question statement.</li>
-                                                      <li>They will be given 12 hours to find the solution for the question.</li>
-                                                      <li>The teams may present their solutions in way they like (Bring laptop if necessary)</li>
-                                                    </ul>
-                                                  </li>
+                                                  <li>Recycle re-use reduce</li>
+                                                  <li>Steel testing</li>
+                                                  <li>Soil foundation</li>
+                                                  <li>Plastic bricks</li>
+                                                  <li>Global positioning system(GPS)</li>
                                                 </ol>
+                                                <p>Time duration: 1.30 hours<br>Requirements can be provided.<br>You are not allowed to use your own things.</p>
+
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
-                                                  <li>A team can have maximum 3 participants per team.</li>
-                                                  <li>Civilization 19 ID is mandatory</li>
+                                                  <li>The participants should register themselves for the event through the google form link given below.<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6cBZImddaTn7fv9OfuhopJcqxv6qYOZI9M3QRgErpYnKNYA/viewform" target="_blank">Click here to open link.</a></li>
+                                                  <li>The entries from a participant who has not registered will not be permitted to participate.</li>
                                                   <li>College ID is mandatory.</li>
-                                                  <li>Decision by judges is final.</li>
+                                                  <li>Individual participants only.</li>
                                                   <li>Use of mobile is strictly prohibited.</li>
-                                                  <li>Participants are required to bring a calculator.</li>
+                                                  <li>There are only limited slots. The slots will be filled on the basis of first come first served.</li>
                                                 </ol>
 
 
@@ -167,8 +163,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Guruprasath J&emsp;9025702803</li>
-                                              <li>	Sanmugam G&emsp;7449024379</li>
+                                                <li>	K.SHATHISH&emsp;9444666807</li>
+                                              <li>	S.PARUL&emsp;8754585655</li>
                                             </ul>
                                           </div>
 

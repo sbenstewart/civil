@@ -160,15 +160,12 @@
                 <div class="entry-header">
                     <div class="entry-title">
                         <p>JUST THE BEST</p>
-                        <h2>Get in touch</h2>
+                        <h2>Accomodations</h2>
                     </div>
                 </div>
 
                 <div class="entry-content">
-                    <p>Quisque at erat eu libero consequat tempus. Quisque mole stie convallis tempus.
-                        Ut semper purus metus, a euismod sapien sodales ac. Duis viverra eleifend fermentum.
-                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestibulum mauris quis aliquam.
-                        Integer accumsan sodales odio, id tempus velit ullamcorper id.</p>
+                    <p>Please enter the correct date, time and duration of the stay.<br> This will help us you plan accordingly and provide you with the best possible resources.</p>
                 </div>
 
                 <div class="contact-form">

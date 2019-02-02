@@ -103,7 +103,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Quriosity</h2>
+                            <h2 class="entry-title">Online Quiz (In-tell-ect)</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -120,36 +120,25 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>"If knowledge is not put into practice, it does not benefit one."
-                                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Muhammad Tahir-ul-Qadri</b></strong>
-                                                <br>
-                                                <br>
-                                                The process of attaining Knowledge is incomplete without knowing how to apply it in needed situations. Are you a honeybee who gathers each and every affair happening in the current world.?? Are you an expert in cracking the questions based on past and present events in and around the world?<br>
-                                                Register your entries, test yourself by competing with other challengers and take home worthy prizes.
-                                                </p>
-                                                <h2 class="entry-header">FORMAT:</h2>
-                                                <ol>
-                                                  <li>PRELIMS:
-                                                    <ul>
-                                                      <li>It is a pen and paper based round.</li>
-                                                      <li>Each team will be given a set of questions with and without choices</li>
-                                                      <li>The top 5 teams will be selected for the finals </li>
-                                                    </ul>
-                                                  </li>
-                                                  <li>FINALS:
-                                                    <ul>
-                                                      <li>The final will be conducted as two rounds.</li>
-                                                      <li>One as pen and paper and other as buzzer based round.</li>
-                                                      <li>Winner will be determined based on the marks secured in the two rounds.</li>
-                                                    </ul>
-                                                  </li>
-                                                </ol>
-                                                <h2 class="entry-header">RULES:</h2>
-                                                <ol>
-                                                  <li>College ID card is mandatory.</li>
-                                                  <li>Usage of mobile phones is strictly prohibited.</li>
-                                                  <li>A team can have a maximum of three participants.</li>
-                                                </ol>
+                                              <p>
+                                                Ever wondered how it would be like to playwith riddles on a technical topic?! C '19 introduces you to the brand new event, " " , an online quiz event. Are you the person who could connect the dots in a situation? Can you answer any type of question in the domain of Civil Engineering? Do you update yourself with general knowledge connected to Civil Engineering? If yes, Brace yourselves for the tech-gen war that is bound to happen on the  social media!
+                                              </p>
+                                              <h2 class="entry-header">FORMAT:</h2>
+                                              <ol>
+                                                <li>The event will take place on the following dates <br> 10-02-2019 , 17-02-2019 and 24-02-2019.</li>
+                                                <li>The questions will be posted in the civilisation ceg page of facebook at time intervals of one hour from 5 PM. Five questions will be posted on each day.</li>
+                                                <li>The answers can be commented on the post  or sent through messenger to our page.</li>
+                                                <li>The answers will be published on 2nd March 2019 along with the list of winners.</li>
+                                                <li>The winners will be awarded at the valediction ceremony of Civilisation '19.</li>
+                                              </ol>
+
+                                              <h2 class="entry-header">RULES:</h2>
+                                              <ol>
+                                                <li>The participants should register themselves for the event through the google form link given below.<br><a href="https://goo.gl/forms/psaYI47Mz1EbNuXB2" target="_blank">Click here to open link.</a></li>
+                                                <li>The entries from a participant who has not registered will not be permitted to participate.</li>
+                                                <li>An individual participant should not send  more than one answer for a question. If the participant ends up sending many answers for a question, his first answer will only be taken into account.</li>
+                                                <li>Multiple accounts should not be used by an individual participant.</li>
+                                              </ol>
 
 
 
@@ -166,9 +155,9 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Mathivanan&emsp;9715048044</li>
-                                                <li>	Vanmadhi&emsp;8428358347</li>
+                                                <li>Pooja&emsp;9884379212</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

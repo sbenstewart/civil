@@ -132,9 +132,11 @@
                                             <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                             <ul>
-                                              <li>	Raj Adithya&emsp;7402749636</li>
-                                              <li>	Surya&emsp;8428358347</li>
+                                              <li>	Raj Aditya&emsp;9629230056</li>
+                                              <li>	Priya&emsp;8675604979</li>
+                                              <li>	Dhivya&emsp;7373420906</li>
                                             </ul>
+                                            <h2 class="entry-header">You can also mail us at civilisationworkshop19@gmail.com</h2>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

@@ -109,9 +109,18 @@
 
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
-                                              <h2 class="entry-header">10 years a mission</h2>
+                                              <h2 class="entry-header">Instructions</h2>
 
-                                              <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>
+                                              <ul>
+                                                <li>On reaching the campus, report immediately to the Registration Desk for registration process and if accommodation is needed, approach the accommodation desk.</li>
+                                                <li>It is mandatory to bring your college ID card.</li>
+                                                <li>If registration was done online with the payment, bring hard/soft copy of the confirmation mail at the time of registration (for accommodation too).</li>
+                                                <li>At the time of check-in, the caution deposit of Rs.100 should be paid (which will be refunded at the time of check-out)</li>
+                                                <li>After Accommodation registration and payment of applicable fees, rooms/dormitories will be allotted by the civilisation,2019 Accommodation team.</li>
+                                                <li>During check-out the participants are required to return all the utilities (provided at the time of check-in) in order to redeem their refundable-deposit.</li>
+                                                <li>Refund of Caution deposit money will be made at the sole discretion of civilisation Accommodation  team.</li>
+                                                <li>No refund will be provided for the cancellation of room.</li>
+                                              </ul>
                                           </div>
 
                                           <!--<div id="tab_venue" class="tab-content">
@@ -146,8 +155,8 @@
                                           </div>
 
                                           <div id="tab_about" class="tab-content">
-                                              <h2 class="entry-header">10 years a mission</h2>
-                                              <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>
+                                              <h2 class="entry-header">Registration</h2>
+                                              <p>Click the button below to register.</p>
                                               <?php
                                               // Start the session
 
@@ -163,33 +172,96 @@
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
                                               </div>
+                                              <br>
+                                              <h2 class="entry-header">TO REACH CEG</h2>
+                                              <ol>
+                                                <li>FROM CHENNAI CENTRAL:
+                                                  <ul>
+                                                          <li>By Bus<br>
+                                                          Board 19G opposite to the railway station and ask for Anna University/Gandhi Mandapam.
+                                                          This bus is not that frequent.
+                                                          Board PP21(during 4 am to 7 am) at the bus stop just outside the railway station and ask for
+                                                          Anna University/Gandhi Mandapam. This bus is of very low frequency.
+                                                          Board 15B,15G,15F at the central bus stop and reach Broadway Bus Stand. Board 21G (or)
+                                                          21L from Broadway to Anna University. The buses are very frequent here and it is the
+                                                          recommended mode of reaching the University from Central.
+                                                          </li>
+                                                          <li>By Train<br>
+                                                          There is no direct train to Anna University. You have to reach Guindy and then board a bus
+                                                          to Anna University.
+                                                          Trains to Guindy depart from the Park Railway Station opposite to the Chennai Central
+                                                          Railway Station.
+                                                          Step out of the Guindy Railway Station (by taking a right in the crossover meant for
+                                                          pedestrians) and cross the road using the subway. Right near the subway you’ll find a lane
+                                                          towards the right side wherein you can find the bus stop. Board M21G, 21G, PP21, M19,
+                                                          M49, 54F, 577, 549,T70 and get down at Anna University.
+                                                          You’ll also find share autos to Anna University near the subway which would cost you Rs.
+                                                          20.
+                                                          You can also board the MRTS (Flying train) from the Park Town which is adjacent to
+                                                          government hospital and alight at Kasturibai Nagar Railway Station from where you can get a
+                                                          Share auto or a bus next to the Madhya Kailash Temple outside the Kasturibai Nagar station
+                                                          to Anna University. (Kindly note PARK is different from PARK TOWN)
+                                                          </li>
+                                                          <li>By Auto/Taxi<br>
+                                                          In case you have too much luggage, try Auto or Taxi. You can also avail the facility of
+                                                          prepaid auto service .The fare will be around Rs.160.
+                                                          State the destination as “Anna University Kotturpuram Gate.
+                                                          </li>
+                                                    </ul>
+                                                </li>
+                                                <li>FROM EGMORE RAILWAY STATION:
+                                                  <ul>
+                                                          <li>By Bus<br>
+                                                          In Egmore, near Pantheon Road and Haals Road junction, you can get 23C and the
+                                                          frequency of this bus is high. Travel time might be 45-50 minutes.
+                                                          </li>
+                                                          <li>By Train<br>
+                                                          You can take Electric train to Guindy. Step out of the Guindy Railway Station (by taking a
+                                                          right in the crossover meant for pedestrians) and cross the road using the subway. Right near
+                                                          the subway you’ll find a lane towards the right side wherein you can find the bus stop. Board
+                                                          M21G, 21G, PP21, M19, M49, 54F, 577, 549 and get down at Anna University.
+                                                          You’ll also find share autos to Anna University near the subway which would cost you Rs.20.
+                                                          </li>
+                                                          <li>By Auto/Taxi<br>
+                                                            The auto fare will be approximately Rs 120. Fix the rate before boarding.
+                                                            There is no prepaid auto service at Egmore station.
+                                                          </li>
+                                                    </ul>
+                                                </li>
+
+                                                <li>FROM KOYAMBEDU/CMBT:
+                                                  <ul>
+                                                          <li>CMBT expands as Chennai Moffusil Bus Terminus. Lot of buses are available either directly to Anna University or indirectly via T. Nagar or Guindy.</li>
+                                                          <li>Board bus 23M, PP49, T70, and 149 which are direct to Anna University. These buses are not so frequent.</li>
+                                                          <li>Board bus to T.Nagar (27C, M27) and from there get 5B, 19C, 19B, 47 , 47A , 47D to Anna University.</li>
+                                                          <li>You can use metro to travel Guindy from Koyambedu, it takes only 15 minutes.</li>
+                                                          <li>Board bus to Guindy(M70, M70D, B70, C70, D70, M170C, 170C) and then board buses are M21G, 21G, PP21, M19, M49, 54F, 577, 549 from Guindy to Anna University. Or you can take a share auto to Anna University from Guindy bus stop which you can pay only 20 rupees. . This is most recommended buses since these buses are very frequent.</li>
+                                                    </ul>
+                                                </li>
+
+                                                <li>FROM PERUNGULATHUR:
+                                                  <ul>
+                                                          <li>For persons from southern districts of Tamil Nadu, since the buses take the Bypass road to CMBT after 6 am, you cannot get down at the kathipara junction.</li>
+                                                          <li>Rather you can get down at Perungalathur and board 577 or PP21 to Anna University. These buses are not frequent.</li>
+                                                          <li>You can travel to guindy from the perungalathur by using this buses which are 549,M79.these are the buses to Guindy from Perangalathur.</li>
+                                                          <li>You may also take a train to Guindy from the Perungalathur junction just behind the bus stop and and then board M21G, 21G, PP21, M19, M49, 54F, 577, 549 from Guindy to Anna University. Or you can take a share auto from Guindy bus stop to Anna University which would cost you Rs. 20.</li>
+                                                  </ul>
+                                                </li>
+
+                                                <li>FROM KATHIPARA JUNCTION:
+                                                  <ul>
+                                                          <li>Persons coming from southern districts of Tamil Nadu can get down at Kathipara Junction, if your bus doesn’t take the bypass road before tambaram.</li>
+                                                          <li>Board 21G, PP21 to Anna University. This is the recommended way.</li>
+                                                          <li>Board any bus to Guindy (next stop) and catch M21G, 21G, PP21, M19, M49, 54F, 577, and 549 to Anna University. Or you can take a share auto to Anna University which would cost you Rs. 20.</li>
+                                                  </ul>
+                                                </li>
 
 
                                               </div>
                                       </div>
                                   </div>
                               </div><!-- col-7 -->
-                                <div class="col-12 col-lg-5">
-                                    <div class="accordion-wrap type-accordion">
-                                        <h3 class="entry-title active flex justify-content-between">Question1?<span class="arrow-r"></span></h3>
 
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
-                                        </div>
-
-                                        <h3 class="entry-title flex justify-content-between">Question2?<span class="arrow-r"></span></h3>
-
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
-                                        </div>
-
-                                        <h3 class="entry-title flex justify-content-between">Question3?<span class="arrow-r"></span></h3>
-
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
-                                        </div>
-                                    </div>
-                                </div><!-- col-5 -->
 
 
                             </div><!-- row -->
@@ -314,52 +386,9 @@
 
                 <div class="row elements-wrap">
                     <div class="col-12">
-                        <div class="entry-header">
-                            <h2 class="entry-title">Icon Boxes</h2>
-                        </div><!-- entry-header -->
 
-                        <div class="entry-content">
-                            <div class="row">
-                                <div class="col-12 col-md-6 col-lg-4">
-                                    <div class="icon-box icon-box-1">
-                                        <div class="entry-header">
-                                            <h3 class="entry-title">The mission</h3>
-                                        </div><!-- entry-header -->
 
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus.
-                                                Nullam vestibulum convallis risus vel condimentum. </p>
-                                        </div><!-- entry-content -->
-                                    </div><!-- icon-box -->
-                                </div><!-- col-4 -->
-
-                                <div class="col-12 col-md-6 col-lg-4 mt-5 mt-md-0">
-                                    <div class="icon-box icon-box-2">
-                                        <div class="entry-header">
-                                            <h3 class="entry-title">The mission</h3>
-                                        </div><!-- entry-header -->
-
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus.
-                                                Nullam vestibulum convallis risus vel condimentum. </p>
-                                        </div><!-- entry-content -->
-                                    </div><!-- icon-box -->
-                                </div><!-- col-4 -->
-
-                                <div class="col-12 col-md-6 col-lg-4 mt-5 mt-lg-0">
-                                    <div class="icon-box icon-box-3">
-                                        <div class="entry-header">
-                                            <h3 class="entry-title">The mission</h3>
-                                        </div><!-- entry-header -->
-
-                                        <div class="entry-content">
-                                            <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus.
-                                                Nullam vestibulum convallis risus vel condimentum. </p>
-                                        </div><!-- entry-content -->
-                                    </div><!-- icon-box -->
-                                </div><!-- col-4 -->
-                            </div><!-- row -->
-                        </div><!-- entry-content -->
+                        
                     </div><!-- col-12 -->
                 </div><!-- row elements-wrap -->
             </div><!-- container -->

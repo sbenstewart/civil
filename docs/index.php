@@ -348,7 +348,7 @@
                             <div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
                                   <center>
-                                  <a href="geowiz.php" target="_blank"> <img src="images/geowiz.jpg" alt="">
+                                  <a href="geowiz.php" target="_blank"> <img src="images/geowiz.jpeg" alt="">
                                 </center><!--<a href="sample-event-workshop.php" target="_blank" class="box-link"> <img src="images/box.jpg" alt=""> </a>-->
                                 </figure><!-- featured-image -->
 
@@ -408,7 +408,7 @@
                             <div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
                                   <center>
-                                  <a href="posterize.php" target="_blank"> <img src="images/Detour.jpg" alt="">
+                                  <a href="posterize.php" target="_blank"> <img src="images/posterize.jpeg" alt="">
                                 </center><!--<a href="sample-event-workshop.php" target="_blank" class="box-link"> <img src="images/box.jpg" alt=""> </a>-->
                                 </figure><!-- featured-image -->
 

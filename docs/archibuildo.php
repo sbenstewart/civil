@@ -120,7 +120,7 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                            <p>Apart from the structural significance of an Arch, such as strengthening and supporting a structure, it symbolizes a universal law, <br><strong>"There is always another way”</strong>.<br> Arches have existed since the pre-historic era. Moreover, Mankind has been constantly reforming the techniques and enhancing the materials used to construct arches. We present to you ARCHIBUILDO, this event provides you a platform to exhibit your expertise in building an Arch which is structurally sound and aesthetically appealing.<br> Show us what you’ve got!
+                                            <p>Apart from the structural significance of an Arch, such as strengthening and supporting a structure, it symbolizes a universal law, <br><strong>"There is always another way”</strong>.<br> Arches have existed since the pre-historic era. Moreover, Mankind has been constantly reforming the techniques and enhancing the materials used to construct arches. We present to you ARCHIBUILDO, the event that provides you a platform to exhibit your expertise in building an Arch which is structurally sound and aesthetically appealing.<br> Show us what you’ve got!
                                                 <br>
 
 
@@ -147,7 +147,7 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>Civilization 19 ID is mandatory</li>
+                                                <li>Civilisation 19 ID is mandatory</li>
                                                 <li>Use of mobile phones is prohibited.</li>
                                                 <li>The decision made by the judges is final.</li>
                                                 <li>A team can only consist of 2 or 3 participants.</li>

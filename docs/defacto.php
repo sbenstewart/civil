@@ -134,7 +134,7 @@
                                                 <li>PRELIMS:
                                                   <ul>
                                                     <li>First round is a pen and paper based round.</li>
-                                                    <li>Each team will given a set questions with choices.</li>
+                                                    <li>Each team will be given a set of questions with choices.</li>
                                                     <li>Top 5 teams will be selected for finals.</li>
                                                   </ul>
                                                 </li>
@@ -148,7 +148,7 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>Civilization 19 ID is mandatory</li>
+                                                <li>Civilisation 19 ID is mandatory</li>
                                                 <li>College ID card is mandatory.</li>
                                                 <li>Usage of mobile phones is strictly prohibited.</li>
                                                 <li>A team can have a maximum of three participants.</li>

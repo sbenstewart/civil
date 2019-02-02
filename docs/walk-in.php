@@ -143,7 +143,7 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>Civilization 19 ID is mandatory</li>
+                                                <li>Civilisation 19 ID is mandatory</li>
                                                 <li>Usage of mobile phones is strictly prohibited.</li>
                                                 <li>Judges decision will be final.</li>
                                               </ol>

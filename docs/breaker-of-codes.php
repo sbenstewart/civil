@@ -149,7 +149,7 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>Civilization 19 ID is mandatory</li>
+                                                <li>Civilisation 19 ID is mandatory</li>
                                                 <li>College ID card is mandatory.</li>
                                                 <li>Usage of mobile phones is strictly prohibited.</li>
                                                 <li>A team can have a maximum of three participants.</li>

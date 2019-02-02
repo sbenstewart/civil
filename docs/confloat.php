@@ -124,7 +124,7 @@
                                                 &emsp;&emsp;&emsp;&emsp;- Ronald a Heifetz</b></strong>
                                                 <br>
                                                 <br>
-                                                Have you ever felt tired of constructing buildings on land???.Are you a creative person??  Here is a great chance to showcaseyour innovative ideas.As a innovative engineer you have to build abuoyant concrete structure which can float in water.
+                                                Have you ever felt tired of constructing buildings on land???.Are you a creative person??  Here is a great chance to showcase your innovative ideas.As a innovative engineer you have to build a buoyant concrete structure which can float in water.
                                                 </p>
                                                 <h2 class="entry-header">FORMAT:</h2>
                                                 <ol>
@@ -148,14 +148,11 @@
                                                 </ol>
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
-                                                  <li>Civilization 19 ID is mandatory</li>
+                                                  <li>Civilisation 19 ID is mandatory</li>
                                                   <li>College ID card is mandatory.</li>
                                                   <li>Usage of mobile phones is strictly prohibited.</li>
                                                   <li>A team can have a maximum of three participants.</li>
                                                 </ol>
-
-
-
                                           </div>
 
                                           <!--<div id="tab_venue" class="tab-content">

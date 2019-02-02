@@ -147,9 +147,9 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>Civilization 19 ID is mandatory</li>
+                                                <li>Civilisation 19 ID is mandatory</li>
                                                 <li>College ID card is mandatory.</li>
-                                                <li>Usage of mobille phones will lead to disqualification</li>
+                                                <li>Usage of mobile phones will lead to disqualification</li>
                                                 <li>A team can have a maximum of three participants</li>
                                                 <li>Decision made by the judges is final</li>
                                                 <li>Participants are required to bring a calculator.</li>

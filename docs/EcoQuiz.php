@@ -150,10 +150,10 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>Civilization 19 ID is mandatory</li>
+                                                <li>Civilisation 19 ID is mandatory</li>
                                                 <li>Phone is not allowed.</li>
-                                                <li>A group can have atmost 2 members.</li>
-                                                <li>There will be negative mark.</li>
+                                                <li>A group can have at most 2 members.</li>
+                                                <li>There will be negative marks.</li>
                                                 <li>Everyone should bring the calculator.</li>
                                               </ol>
 

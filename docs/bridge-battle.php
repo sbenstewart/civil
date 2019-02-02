@@ -148,13 +148,12 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>Civilization 19 ID is mandatory</li>
+                                                <li>Civilisation 19 ID is mandatory</li>
                                                 <li>A group of participants must be 3 only.</li>
                                                 <li>Phone is not allowed.</li>
                                                 <li>Participants build a bridge within the given time.</li>
                                                 <li>Everyone should bring a calculator.</li>
                                                 <li>Judge can finalize the winners.</li>
-                                                <li>Participants are required to bring a calculator.</li>
                                               </ol>
 
 

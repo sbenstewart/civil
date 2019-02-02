@@ -152,8 +152,9 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>Nivaitha&emsp;8754712634</li>
-                                                <li>Senthamizhselvi&emsp;8248176795</li>
+                                                <li>Nivaitha S&emsp;8754712634</li>
+                                                <li>Senthamizhselvi K&emsp;9629324628</li>
+                                                <li>Revathipriya M&emsp;7448328838</li>
                                             </ul>
                                           </div>
 

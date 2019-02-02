@@ -118,8 +118,19 @@
 
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
+                                            <p>This event is conducted by</p>
 
-                                              <p>The design of tall buildings essentially involves conceptual design, approximate analysis, preliminary design and optimization to safely carry different loads acting on structure. The structural design for a skyscraper must ensure that the building is able to stand up safely, able to function without excessive deflections or movements which may cause fatigue of structural elements, cracking or failure of fixtures, fittings or partitions, or discomfort for occupants. Tall Building Design Workshop primarily aims at educating the participants about analysis and design of tall buildings.</p>
+                                            <h2 class="entry-header">Sthaladipti Saha</h2>
+                                            <p><b><strong>Vice President, Head of Public Space Business Unit of L&T Construction.</strong></b></p>
+                                            <p>
+                                              Mr. Sthaladipti Saha has completed his Bachelor of Civil Engineering, Jadavpur University, India in 1989 and has been with L&T since then.<br>
+                                              He played a key role in the design of many landmark precast structures like Jawarharlal Nehru Stadium, Chennai, which was completed in a record 260 days. He introduced prestressed concrete flat slabs for the project Cyber Gateway at Hyderabad for the first time in India.  He was responsible for many prestressed IT and office spaces for Cognizant Technologies, HSBC, DMRC and Deloitte, to name a few. He has led the design of the Delhi International Airport, world’s tallest 182m Sardar Vallabhai Patel’s Statue of Unity & presently the World’s largest Cricket Stadium with the seating capacity of 1,10,000 in Gujarat.
+                                              <br>
+                                              Currently he heads the Public Space business unit of commercial buildings & airports SBG.<br>
+                                              Saha has pioneered the shift from 2D drafting to 3D working platform in the design office, with the use of Building information Modelling (BIM) technology. He was instrumental in setting up of the 3D studio ‘Srishti’ in L&T campus and currently focusing on new technologies in virtual & mixed reality in the construction field.<br>
+                                              Saha has published and presented technical papers about concrete, concrete practices and unique projects design & constructed using concrete at various national and international forums. He is a member of various BIS Codal Committees as well a member of FIB commission in Europe on Prefabrication.
+
+                                            </p>
                                           </div>
 
                                           <!--<div id="tab_venue" class="tab-content">
@@ -136,7 +147,7 @@
                                               <li>	Priya&emsp;8675604979</li>
                                               <li>	Dhivya&emsp;7373420906</li>
                                             </ul>
-                                            <h2 class="entry-header">You can also mail us at civilisationworkshop19@gmail.com</h2>
+                                            <p>You can also mail us at civilisationworkshop19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

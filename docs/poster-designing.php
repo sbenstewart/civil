@@ -140,7 +140,6 @@
                                                 <li>Final decision will be taken according to the number of shares and likes given to the posters.</li>
                                                 <li>Multiple entries are allowed.</li>
                                                 <li>Multiple sharing is not considered.  </li>
-                                                <li>The entries from participants who have not registered will not be taken into account.</li>
                                               </ol>
 
 

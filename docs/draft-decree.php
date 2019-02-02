@@ -140,7 +140,6 @@
                                                   <li>The team can consist of maximum of 2-3 participants. Lone wolfs are welcome.</li>
                                                   <li>Plagiarism strictly prohibited. The team shall be disqualified in case of any discrepancies.</li>
                                                   <li>The organisers decision will be final and binding.</li>
-                                                  <li>The entries from participants who have not registered will not be taken into account.</li>
                                                 </ol>
 
 

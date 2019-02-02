@@ -665,7 +665,7 @@
                                   <div class="lineup-artists-description">
                                       <div class="lineup-artists-description-container">
                                           <div class="entry-title">
-                                              Project Demonstration
+                                              Project Display
                                           </div><!-- entry-title -->
 
                                           <div class="entry-content">

@@ -142,6 +142,7 @@
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
                                                   <li>The participants should register themselves for the event through the google form link given below.<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6cBZImddaTn7fv9OfuhopJcqxv6qYOZI9M3QRgErpYnKNYA/viewform" target="_blank">Click here to open link.</a></li>
+                                                  <li>C'19 ID is mandatory.</li>
                                                   <li>The entries from a participant who has not registered will not be permitted to participate.</li>
                                                   <li>College ID is mandatory.</li>
                                                   <li>Individual participants only.</li>

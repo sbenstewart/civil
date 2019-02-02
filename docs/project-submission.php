@@ -103,7 +103,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Project Submission</h2>
+                            <h2 class="entry-title">Project Display</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -114,31 +114,27 @@
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
                                           <!--<li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Venue</li>-->
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organizers</li>
-                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Registration and Problem Statement</li>
+                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Registration</li>
                                       </ul><!-- tabs-nav -->
 
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>“To be a winner, you must plan , prepare and expect to winner.”
-                                                &emsp;&emsp;&emsp;&emsp;- Zig Ziglar</b></strong>
-                                                <br>
-                                                <br>
-                                                Are you people excited in exploring your skills in planning. Make your first step as a civil engineer. Plan prepare and expect to win the prizes !
-                                                </p>
+                                              <h2 class="entry-header">TOPIC:</h2>
+                                              <p>Innovative projects related to Civil Engineering.</p>
+
                                                 <h2 class="entry-header">FORMAT:</h2>
                                                 <ol>
-                                                  <li>The participant must draw the plan for the given problem statement in AutoCAD.</li>
-                                                  <li>The original .dwg file and the .pdf file must be mailed to draftdecree.c19@gmail.com  before March 2 ( Saturday ) 12.00 PM</li>
-                                                  <li>The TDP (Team Description Paper) must also be sent along the above files.</li>
-                                                  <li>The top 2 participants will receive certificate of merit and cash prize.</li>
-                                                  <li>The .dwg file must contain the Name of the participants,  CIVILISATION’19 I’D, College Name and Year of study in a Table.</li>
+                                                  <li>In morning session, the project should be displayed with the working models and in afternoon session the presentation should be done for your project.</li>
+                                                  <li>Working model is mandatory.</li>
+                                                  <li>The softcopy of the abstract should be submitted to projectdisplay.c19@gmail.com on or before February 22,2019.You will receive a acknowledgment mail, if you are selected.</li>
+                                                  <li>The presentation time per team is 20 minutes.</li>
+                                                  <li>Maximum four participants per team.</li>
                                                 </ol>
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
-                                                  <li>The team can consist of maximum of 2-3 participants. Lone wolfs are welcome.</li>
-                                                  <li>Plagiarism strictly prohibited. The team shall be disqualified in case of any discrepancies.</li>
-                                                  <li>The organisers decision will be final and binding.</li>
+                                                  <li>College ID card is mandatory.</li>
+                                                  <li>Decision of judges will be final and will not be subjected to further any discussion.</li>
                                                 </ol>
 
 
@@ -156,35 +152,54 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Prithipa R&emsp;8754442714</li>
-                                              <li>	Vanmathi&emsp;8428358347</li>
+                                                <li>Nivaitha&emsp;8754712634</li>
+                                                <li>Senthamizhselvi&emsp;8248176795</li>
                                             </ul>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">
-                                              <h2 class="entry-header">Problem Statement</h2>
-                                              <p>Draw  Detailed plan, Elevation & Section (with sectional details including the subsurface details) for the block of an IT company with approximately 1000 employees (preferably G+7 or G+8), Annotations, Dimensioning, Ventilation, Natural lighting aspects, Sanitation facilities, Emergency exits and lift facilities.<br><br>
-                                              NOTE:<br>
-                                                  Soil has bearing capacity less than 150kPa.<br>
-                                              </p>
+                                            <h2 class="entry-header">Click the button below to register.</h2>
+                                            <p>If you have registered for any workshop, you can attend all the events conducted for the symposium. The registration entitiles you to attend all the technical and non-technical events.</p>
+                                            <?php
+                                            // Start the session
+
+                                            if(isset($_SESSION["cid"]))
+                                            {
+                                              $print2 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
+                                            }
+                                            else {
+                                              $print2 .="<p><b><strong>You must be logged in to register online or onsite.</strong></b></p>";
+                                            }
+                                            echo  $print2;
+                                            ?>
 
 
+                                              <form id="registration" class="entry-content">
 
-                                                  <form id="registration" class="entry-content">
+                                              <!--<div class="entry-content flex">-->
+                                                  <input type="hidden" value="EVENTS" id="event" />
+                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
+                                                  <br>
 
-                                                  <!--<div class="entry-content flex">-->
-                                                      <input type="hidden" value="EVENTS" id="event" />
-                                                      <!--<input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>-->
-                                                      <br>
+                                                  <?php
+                                                  // Start the session
 
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href='https://www.townscript.com/e/events-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
+                                                  }
+                                                  else {
+                                                    $print .="<div><a href='login.php'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
+                                                  <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
+                                                  <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
+                                                  <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
+                                              <!--</div>-->
+                                              </form>
 
-                                                      <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
-                                                      <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
-                                                      <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
-                                                  <!--</div>-->
-                                                  </form>
-
-                                                  </div>
+                                              </div>
                                       </div>
                                   </div>
                               </div><!-- col-7 -->

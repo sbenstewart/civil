@@ -127,7 +127,7 @@
                                                 Entrepreneurship is neither a science nor an art it’s a practice and it’s not about ideas, it’s about making ideas happen.<br>
                                                 Make your ideas happen.<br>
                                                 You don't have to see the whole staircase just take the FIRST STEP.<br>
-                                                Take your first step here and explore your Entrepreneurship potential!
+                                                Take your first step here and explore your Entrepreneurship potential!
                                                 </p>
 
                                                 <h2 class="entry-header">FORMAT:</h2>

@@ -151,21 +151,13 @@ No Conjuring!But Kanchana.📽"<br>
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
+                                                <li>Civilization 19 ID is mandatory</li>
                                                 <li>Minimum of two participants and maximum of three participants must be in a team.</li>
                                                 <li>Judges decision will be final and binding.</li>
                                                 <li>Use of mobile phones is strictly prohibited.</li>
 
                                               </ol>
-                                              <h2 class="entry-header">FAQ'S:</h2>
-                                              <ol>
-                                                <li>Can I come as a lone wolf?<br>
-No, only teams are allowed to participate in the event. The team can be of either two or three members.</li>
-<li>Will certificates be given to all the participants?<br>
-The teams that are on final round of finals will receive participation certificates. Certificate of merit and cash prize will be given only to the winners.
-
-</li>
-
-                                              </ol>
+                                              
 
                                           </div>
 

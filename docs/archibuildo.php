@@ -147,6 +147,7 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
+                                                <li>Civilization 19 ID is mandatory</li>
                                                 <li>Use of mobile phones is prohibited.</li>
                                                 <li>The decision made by the judges is final.</li>
                                                 <li>A team can only consist of 2 or 3 participants.</li>

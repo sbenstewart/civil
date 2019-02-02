@@ -148,6 +148,7 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
+                                                <li>Civilization 19 ID is mandatory</li>
                                                 <li>A group of participants must be 3 only.</li>
                                                 <li>Phone is not allowed.</li>
                                                 <li>Participants build a bridge within the given time.</li>

@@ -149,6 +149,7 @@
                                                 </ol>
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
+                                                  <li>Civilization 19 ID is mandatory</li>
                                                   <li>Minimum of 2 participants and maximum of 4 participants must be in a team.</li>
                                                   <li>Judges decision will be final and binding.</li>
                                                   <li>The team will be disqualified in case of any discrepancies.</li>

@@ -140,6 +140,7 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
+                                                <li>Civilization 19 ID is mandatory</li>
                                                 <li>You can participate only as a team of two participants.</li>
                                                 <li>The team can have only two participants from the same institution/college.</li>
                                                 <li>Use of mobile phones is strictly prohibited.</li>

@@ -134,6 +134,7 @@
 
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
+                                                <li>Civilization 19 ID is mandatory</li>
                                                 <li>The participants should register themselves for the event through the google form link given below.<br><a href="https://goo.gl/forms/psaYI47Mz1EbNuXB2" target="_blank">Click here to open link.</a></li>
                                                 <li>The entries from a participant who has not registered will not be permitted to participate.</li>
                                                 <li>An individual participant should not send  more than one answer for a question. If the participant ends up sending many answers for a question, his first answer will only be taken into account.</li>

@@ -103,7 +103,7 @@
                                       <ul class="tabs-nav flex">
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
                                           <!--<li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Venue</li>-->
-                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organizers</li>
+                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Rules</li>
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                                       </ul><!-- tabs-nav -->
 
@@ -121,9 +121,28 @@
                                           </div>-->
 
                                           <div id="tab_organizers" class="tab-content">
-                                              <h2 class="entry-header">10 years a mission</h2>
+                                              <h2 class="entry-header">Rules to be followed</h2>
 
-                                              <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>
+                                              <p>
+                                                <ul>
+                                                  <li>Only non-Chennai participants will be provided accommodation services. Participants must register online for availing our accommodation services.</li>
+                                                  <li>Registration for accommodation is not part of the Events registration, and is to be done separately.</li>
+                                                  <li>Accommodation services will be available from 6 PM on 3rd March,2019 to 8 PM on 6th march, 2019.</li>
+                                                  <li>Accommodation will be provided on a sharing basis. Any requests for individual rooms will not be entertained. However, we will try to accommodate students from the same college together in rooms and dorms (if possible).</li>
+                                                  <li>For Boys: Accommodation will be provided inside the campus. Incase there is no availability of space in our campus accommodation will be provided outside the college (i.e., at hotels).</li>
+                                                  <li>For Girls: Accommodation will be provided inside the college.</li>
+                                                  <li>Services will be offered on "First Register First Serve" basis.</li>
+                                                  <li>Accommodated students can have their food at their own expense in canteens and food stalls that are available. Food will not be provided by the Civilisation 2019 team.</li>
+                                                  <li>Mattresses and buckets will be provided. However, participants are encouraged to carry their own blankets since it is the month of March and nights might be cold.</li>
+                                                  <li>Random checks will be made to avoid any illegal stay in the campus. Any participant failing to produce his/her Accommodation Receipt will be fined and disqualified.</li>
+                                                  <li>Participants are responsible for their belongings during their stay. Neither the Civilisation,2019 Accommodation team nor the institute will take responsibility for any loss of property incurred.</li>
+                                                  <li>Girls in-time is 8.30 PM.</li>
+                                                  <li>Accommodation team has the right to cancel or wait-list accommodation while processing your request.</li>
+                                                  <li>Smoking and drinking is strictly prohibited inside the Accommodation site.</li>
+                                                  <li>Any act of misbehaviour inside the campus will be severely dealt with, leading to the immediate expulsion of the team (in question) from the campus and cancellation of registration.</li>
+                                                  <li>Any damage caused by the participants to institute property during their stay will result in forfeiture of the caution deposit and/or recovery of the amount due to the damage (whichever is higher)</li>
+                                                </ul>
+                                              </p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">
@@ -346,7 +365,7 @@
             </div><!-- container -->
     </div><!-- main-content -->
 
-    
+
         <footer class="site-footer">
             <div class="footer-cover-title flex justify-content-center align-items-center">
                 <h2>CIVIL</h2>

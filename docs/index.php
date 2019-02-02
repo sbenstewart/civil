@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="This site was developed by Ben Stewart http://sbenstewart.in">
+    <meta name="description" content="This is the official website of Civilisation CEG, a nation level intercollege technical symposium conducted by the Society of Civil Engineers in association with the department of Civil Engineering, College of Engineering Guindy.">
     <meta name="author" content="Ben Stewart S">
     <meta name="keywords" content="civilisation,ceg,symposium,2019,civil,ben stewart">
 
@@ -408,11 +408,11 @@
                             <div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
                                   <center>
-                                  <a href="detour.php" target="_blank"> <img src="images/Detour.jpg" alt="">
+                                  <a href="posterize.php" target="_blank"> <img src="images/Detour.jpg" alt="">
                                 </center><!--<a href="sample-event-workshop.php" target="_blank" class="box-link"> <img src="images/box.jpg" alt=""> </a>-->
                                 </figure><!-- featured-image -->
 
-                                <h2>Detour</h2></a>
+                                <h2>Posterize</h2></a>
                             </div><!-- artist-single -->
 
                             <div class="col-6 col-md-4 col-lg-3 artist-single">
@@ -492,11 +492,11 @@
                                 <h2>Draft Decree</h2></a>
                             </div><!-- artist-single -->
 
-                            <!--<div class="col-6 col-md-4 col-lg-3 artist-single">
+                            <div class="col-6 col-md-4 col-lg-3 artist-single">
                                 <figure class="featured-image">
                                   <center>
-                                  <a href="sample-event-workshop.html" target="_blank"> <img src="images/OnlineQuiz.jpg" alt="">
-                                </center><a href="sample-event-workshop.html" target="_blank" class="box-link"> <img src="images/box.jpg" alt=""> </a>
+                                  <a href="online-quiz.php" target="_blank"> <img src="images/OnlineQuiz.jpg" alt="">
+                                </center><!--<a href="sample-event-workshop.html" target="_blank" class="box-link"> <img src="images/box.jpg" alt=""> </a>-->
                                 </figure>
 
                                 <h2>Online Quiz</h2></a>

@@ -103,7 +103,7 @@
                 <div class="row elements-wrap">
                     <div class="col-12 accordion-and-tabs-wrap">
                         <div class="entry-header">
-                            <h2 class="entry-title">Acropolis</h2>
+                            <h2 class="entry-title">Quriosity</h2>
                         </div><!-- entry-header -->
 
                         <div class="entry-content">
@@ -120,39 +120,37 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>“Architecture is a visual art, and the building speak for themselves.”
-                                                &emsp;&emsp;&emsp;&emsp;- Julia Morgan</b></strong>
+                                              <p><strong><b>"If knowledge is not put into practice, it does not benefit one."
+                                                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Muhammad Tahir-ul-Qadri</b></strong>
                                                 <br>
                                                 <br>
-                                                When you look at a city, you know, it looks so unique. You feel this kind of uniqueness, you know, and especially if you go from a big city to a small city or if you go from one country to another. Cities look very different, often. They even feel very different. You know, and they are, of course. They certainly are. If you are one of this kind and having more knowledge about city buildings, here is the challenging platform for your knowledge about buildings.
+                                                The process of attaining Knowledge is incomplete without knowing how to apply it in needed situations. Are you a honeybee who gathers each and every affair happening in the current world.?? Are you an expert in cracking the questions based on past and present events in and around the world?<br>
+                                                Register your entries, test yourself by competing with other challengers and take home worthy prizes.
                                                 </p>
-                                                <br>
                                                 <h2 class="entry-header">FORMAT:</h2>
                                                 <ol>
                                                   <li>PRELIMS:
                                                     <ul>
-                                                      <li>First round is a pen and paper based round.</li>
-                                                      <li>Each team will given a set questions with choices.</li>
-                                                      <li>Top 5 teams will be selected for finals.</li>
+                                                      <li>It is a pen and paper based round.</li>
+                                                      <li>Each team will be given a set of questions with and without choices</li>
+                                                      <li>The top 5 teams will be selected for the finals </li>
                                                     </ul>
                                                   </li>
                                                   <li>FINALS:
                                                     <ul>
-                                                      <li>Town planning statement will be given atleast 8 hours before the final round to you. You can prepare a presentation about it and present it before the judges.</li>
-                                                      <li>The judges decision is final.</li>
+                                                      <li>The final will be conducted as two rounds.</li>
+                                                      <li>One as pen and paper and other as buzzer based round.</li>
+                                                      <li>Winner will be determined based on the marks secured in the two rounds.</li>
                                                     </ul>
                                                   </li>
-
                                                 </ol>
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
-                                                  <li>Civilization 19 ID is mandatory</li>
                                                   <li>College ID card is mandatory.</li>
                                                   <li>Usage of mobile phones is strictly prohibited.</li>
                                                   <li>A team can have a maximum of three participants.</li>
-                                                  <li>Judges decision will be final.</li>
-                                                  <li>Participants are required to bring a calculator.</li>
                                                 </ol>
+
 
 
 
@@ -168,8 +166,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Sivaram&emsp;8220597322</li>
-                                              <li>	Nandhini T&emsp;8610417096</li>
+                                                <li>	Mathivanan&emsp;9715048044</li>
+                                                <li>	Vanmadhi&emsp;8428358347</li>
                                             </ul>
                                           </div>
 
@@ -209,9 +207,6 @@
                                                   }
                                                   echo  $print;
                                                   ?>
-
-
-
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->

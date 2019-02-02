@@ -126,6 +126,32 @@
                                                 <br>
                                                 Have you ever felt tired of constructing buildings on land???.Are you a creative person??  Here is a great chance to showcaseyour innovative ideas.As a innovative engineer you have to build abuoyant concrete structure which can float in water.
                                                 </p>
+                                                <h2 class="entry-header">FORMAT:</h2>
+                                                <ol>
+                                                  <li>PRELIMS:
+                                                    <ul>
+                                                      <li>Problem statement will be given.</li>
+                                                      <li>You must design the mix and cast the concrete structure (in the shape of boat) that can actually float in water within the specified restrictions.</li>
+                                                      <li>The constituents should be cement, sand, water, and admixture, wire mesh (type and material can be decided by the participants).</li>
+                                                      <li>Preparing  a  detailed report of  the  design  mix and  its online submission to us  before  the  specified  dead line.</li>
+                                                      <li>(NOTE:  The participants will be selected to the next stage based on their abstract.)</li>
+                                                    </ul>
+                                                  </li>
+                                                  <li>FINALS:
+                                                    <ul>
+                                                      <li>Bring the cast concrete structure to our college during CIVILISATION-19.</li>
+                                                      <li>Density, Floating capability, Strength, Appearance of the block will be tested.</li>
+                                                      <li>The  submitted  design  reports   would  be  evaluated and the teams will  be asked to give a brief oral presentation of their work upon which they will be questioned.</li>
+                                                      <li>Points would be awarded according to the judging criteria and winners will be announced.</li>
+                                                    </ul>
+                                                  </li>
+                                                </ol>
+                                                <h2 class="entry-header">RULES:</h2>
+                                                <ol>
+                                                  <li>College ID card is mandatory.</li>
+                                                  <li>Usage of mobile phones is strictly prohibited.</li>
+                                                  <li>A team can have a maximum of three participants.</li>
+                                                </ol>
 
 
 
@@ -142,7 +168,7 @@
 
                                               <ul>
                                                 <li>Sathish K&emsp;9444666807</li>
-                                              <li>	Parul S &emsp;8754585655</li>
+                                              <li>Parul S &emsp;8754585655</li>
                                             </ul>
                                           </div>
 

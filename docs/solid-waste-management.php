@@ -132,14 +132,17 @@
                                           </div>-->
 
                                           <div id="tab_organizers" class="tab-content">
-                                              <h2 class="entry-header">10 years a mission</h2>
+                                            <h2 class="entry-header">Call for any doubts or queries</h2>
 
-                                              <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>
+                                            <ul>
+                                              <li>	Raj Adithya&emsp;7402749636</li>
+                                              <li>	Surya&emsp;8428358347</li>
+                                            </ul>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>The workshop costs INR 500 for one indiviual. Group registrations have to be done onsite.</p>
+                                            <p>The workshop costs INR 600 for one indiviual. Group registrations have to be done onsite.</p>
                                             <?php
                                             // Start the session
 

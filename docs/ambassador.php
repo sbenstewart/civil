@@ -103,15 +103,19 @@
                                       <ul class="tabs-nav flex">
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
                                           <!--<li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Venue</li>-->
-                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organizers</li>
+                                          <!--<li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organizers</li>-->
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                                       </ul><!-- tabs-nav -->
 
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
-                                              <h2 class="entry-header">10 years a mission</h2>
-
-                                              <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>
+                                              <h2 class="entry-header"></h2>
+                                              <ul>
+                                                <li>Any student can become a student ambassador if he/she is willing to.</li>
+                                                <li>After registering your name for any of the workshops and paying the registration fee, you will be able to avail the workshop fee waiver on spot.</li>
+                                                <li>If 10 or more registrations are done using the same referral code, you will be refunded the workshop fee after the completion of the workshop on spot.</li>
+                                                <li>In case you forget your referral code, you can signup again to generate a new referral code and all the new registrations will add up with the old ones.</li>
+                                              </ul>
                                           </div>
 
                                           <!--<div id="tab_venue" class="tab-content">
@@ -120,15 +124,11 @@
                                               <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>
                                           </div>-->
 
-                                          <div id="tab_organizers" class="tab-content">
-                                              <h2 class="entry-header">10 years a mission</h2>
 
-                                              <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>
-                                          </div>
 
                                           <div id="tab_about" class="tab-content">
-                                              <h2 class="entry-header">10 years a mission</h2>
-                                              <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>
+                                              <h2 class="entry-header">Click the button below to register.</h2>
+                                              <!--<p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>-->
 
                                               <a href="ambassadorsignup.php" class="btn gradient flex justify-content-center align-items-center">Register</a>
 
@@ -138,7 +138,7 @@
                                   </div>
                               </div><!-- col-7 -->
                                 <div class="col-12 col-lg-5">
-                                    <div class="accordion-wrap type-accordion">
+                                  <!--<div class="accordion-wrap type-accordion">
                                         <h3 class="entry-title active flex justify-content-between">Question1?<span class="arrow-r"></span></h3>
 
                                         <div class="entry-content">
@@ -156,7 +156,7 @@
                                         <div class="entry-content">
                                             <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus.</p>
                                         </div>
-                                    </div>
+                                    </div>-->
                                 </div><!-- col-5 -->
 
 

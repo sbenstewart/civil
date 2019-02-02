@@ -155,7 +155,7 @@
                                               <ul>
                                                 <li>Nivaitha S&emsp;8754712634</li>
                                                 <li>Senthamizhselvi K&emsp;9629324628</li>
-                                                <li>Revathipriya M&emsp;7448328838</li>
+                                                <li>Revathipriya C&emsp;7448328838</li>
                                             </ul>
                                           </div>
 

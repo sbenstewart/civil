@@ -149,8 +149,8 @@
                                               </ol>
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
-                                                  <li>Civilization 19 ID is mandatory</li>
-                                                  <li>	A team can have maximum 3 participants per team.</li>
+                                                  <li>Civilisation 19 ID is mandatory</li>
+                                                  <li>	A team can have maximum 3 participants.</li>
                                                   <li>	College ID is mandatory.</li>
                                                   <li>	Decision by judges is final.</li>
                                                   <li>	Use of mobile is strictly prohibited.</li>

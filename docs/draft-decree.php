@@ -136,8 +136,8 @@
                                                 </ol>
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
-                                                  <li>Civilization 19 ID is mandatory</li>
-                                                  <li>The team can consist of maximum of 2-3 participants. Lone wolfs are welcome.</li>
+                                                  <li>Civilisation 19 ID is mandatory</li>
+                                                  <li>The team can consist of maximum of 2-3 participants. Lone wolves are welcome.</li>
                                                   <li>Plagiarism strictly prohibited. The team shall be disqualified in case of any discrepancies.</li>
                                                   <li>The organisers decision will be final and binding.</li>
                                                 </ol>

@@ -131,7 +131,7 @@
                                                 <li>The participant should design a poster and content should be given to the posters related to the topics given.</li>
                                                 <li>The poster along with content should be mailed to posterdesignc19@gmail.com before March 1 (Friday) 12:00 PM.</li>
                                                 <li>Top 3 participants will receive certificate of merit and cash prize.</li>
-                                                <li>The entry must contain the name of the participant, civilization 19 ID, College name and Year of study.</li>
+                                                <li>The entry must contain the name of the participant, Civilisation 19 ID, College name and Year of study.</li>
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>

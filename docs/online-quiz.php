@@ -139,6 +139,7 @@
                                                 <li>The entries from a participant who has not registered will not be permitted to participate.</li>
                                                 <li>An individual participant should not send  more than one answer for a question. If the participant ends up sending many answers for a question, his first answer will only be taken into account.</li>
                                                 <li>Multiple accounts should not be used by an individual participant.</li>
+                                                <li>The entries from participants who have not registered will not be taken into account.</li>
                                               </ol>
 
 

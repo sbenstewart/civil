@@ -189,7 +189,7 @@
 
                                         <div class="entry-content">
                                             <p>Force the ground to adopt project requirements by altering the natural state of soil, state of having to alter the design response to the ground natural limitations. Save construction cost and  implementation time.</p>
-                                            <p>This workshop is conducted by the <b><strong>Keller Foundations</strong></b>.</p>
+                                            <p>This workshop is conducted by the <b><strong>Keller Ground Engineering</strong></b>.</p>
                                             <a href="ground-improvement-techniques.php" target="_blank" class="btn">Register</a>
                                         </div><!-- entry-content -->
 

@@ -165,7 +165,7 @@
 
                                         <div class="entry-content">
                                             <p>Ensure that the building is able to stand up safely, able to function without excessive deflections or movements which may cause fatigue of structural elements, cracking or failure of fixtures, fittings or partitions, or discomfort for occupants. </p>
-                                            <p>This workshop is conducted by L&T India</p>
+                                            <p>This workshop is conducted by <b><strong>L&T India</strong></b></p>
                                             <a href="tall-structures.php" target="_blank" class="btn">Register</a>
                                         </div><!-- entry-content -->
 
@@ -189,7 +189,7 @@
 
                                         <div class="entry-content">
                                             <p>Force the ground to adopt project requirements by altering the natural state of soil, state of having to alter the design response to the ground natural limitations. Save construction cost and  implementation time.</p>
-                                            <p>This workshop is conducted by the Keller Foundations.</p>
+                                            <p>This workshop is conducted by the <b><strong>Keller Foundations</strong></b>.</p>
                                             <a href="ground-improvement-techniques.php" target="_blank" class="btn">Register</a>
                                         </div><!-- entry-content -->
 

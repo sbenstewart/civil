@@ -173,6 +173,7 @@
                                                 <li>Ajith.A&emsp;9159010114</li>
                                                 <li>Gayathri.T&emsp;9688629182</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

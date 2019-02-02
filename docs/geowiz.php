@@ -176,6 +176,7 @@
                                                 <li>	Gopika&emsp;9952079512</li>
                                                 <li>	Pavithra&emsp;9487714296</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

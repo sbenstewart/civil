@@ -157,7 +157,7 @@ No Conjuring!But Kanchana.📽"<br>
                                                 <li>Use of mobile phones is strictly prohibited.</li>
 
                                               </ol>
-                                              
+
 
                                           </div>
 
@@ -174,6 +174,7 @@ No Conjuring!But Kanchana.📽"<br>
                                                 <li>Kanishk&emsp;9840126486</li>
                                                 <li>Rahul Aravind&emsp;8778145784</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

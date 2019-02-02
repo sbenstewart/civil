@@ -170,6 +170,7 @@
                                                 <li>	Mathivanan&emsp;9715048044</li>
                                                 <li>	Vanmadhi&emsp;8428358347</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

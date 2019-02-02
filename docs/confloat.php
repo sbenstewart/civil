@@ -171,6 +171,7 @@
                                                 <li>Sathish K&emsp;9444666807</li>
                                               <li>Parul S &emsp;8754585655</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

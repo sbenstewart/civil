@@ -170,6 +170,7 @@
                                                 <li>USHA.K&emsp;8940635095</li>
                                                 <li>SRINITHI&emsp;8939722244</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

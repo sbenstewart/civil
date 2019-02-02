@@ -171,6 +171,7 @@
                                                 <li>	Suriya K&emsp;9566575351</li>
                                                 <li>	Velayudham &emsp;7339257076</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

@@ -171,6 +171,7 @@
                                                 <li>	Sivaram&emsp;8220597322</li>
                                               <li>	Nandhini T&emsp;8610417096</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

@@ -174,6 +174,7 @@
                                                 <li>	Bibisha Anlet T&emsp;9487504836&emsp;bibishaceg@gmail.com</li>
                                               <li>	Pasumponni R &emsp;8825847093&emsp;pasumponni@gmail.com</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

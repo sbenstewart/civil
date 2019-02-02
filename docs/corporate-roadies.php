@@ -174,6 +174,7 @@
                                                 <li>	Jothika T S &emsp;6381831659</li>
                                               <li>	Prithipa R  &emsp;8754442714</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

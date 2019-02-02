@@ -177,6 +177,7 @@
                                                 <li>	Guruprasath J&emsp;9025702803</li>
                                               <li>	Sanmugam G&emsp;7449024379</li>
                                             </ul>
+                                            <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 
                                           <div id="tab_about" class="tab-content">

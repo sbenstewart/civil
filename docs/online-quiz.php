@@ -121,7 +121,7 @@
                                           <div id="tab_details" class="tab-content">
 
                                               <p>
-                                                Ever wondered how it would be like to playwith riddles on a technical topic?! C '19 introduces you to the brand new event, " " , an online quiz event. Are you the person who could connect the dots in a situation? Can you answer any type of question in the domain of Civil Engineering? Do you update yourself with general knowledge connected to Civil Engineering? If yes, Brace yourselves for the tech-gen war that is bound to happen on the  social media!
+                                                Ever wondered how it would be like to playwith riddles on a technical topic?! C '19 introduces you to the brand new event, <b><strong>In-tell-ect</strong></b> , an online quiz event. Are you the person who could connect the dots in a situation? Can you answer any type of question in the domain of Civil Engineering? Do you update yourself with general knowledge connected to Civil Engineering? If yes, Brace yourselves for the tech-gen war that is bound to happen on the  social media!
                                               </p>
                                               <h2 class="entry-header">FORMAT:</h2>
                                               <ol>

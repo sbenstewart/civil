@@ -164,9 +164,9 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	K.SHATHISH&emsp;9444666807</li>
-                                              <li>	S.PARUL&emsp;8754585655</li>
-                                            </ul>
+                                                <li>K.SATHISH&emsp;9444666807</li>
+                                                <li>S.PARUL&emsp;8754585655</li>
+                                              </ul>
                                             <p>Mail your queries to events.c19@gmail.com</p>
                                           </div>
 

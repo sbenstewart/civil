@@ -23,6 +23,7 @@ try {
   echo $_SESSION["name"];
   echo " with cid ";
   echo $id;
+  echo " Please reload the page to change your details.";
 
 } catch (PDOException $pe) {
     die("Could not connect to the server. Please check your internet connection.");

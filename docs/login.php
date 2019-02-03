@@ -1,4 +1,4 @@
-<?php session_start();session_destroy();?>
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
@@ -49,6 +49,19 @@
                                 <li><a href="index.php#lectures">LECTURES</a></li>
                                 <li><a href="accomodation.php">ACCOMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
+
+                                <?php
+                                // Start the session
+
+                                if(isset($_SESSION["cid"]))
+                                {
+                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
+                                }
+                                else {
+                                  $print1 .="<li><a href='login.php'>LOGIN</a></li>";
+                                }
+                                echo  $print1;
+                                ?>
 
 
 
@@ -215,11 +228,34 @@
                         </div>
 
                         <div class="col-12 submit flex justify-content-center">
-                        <a href="change-details.php" class="btn gradient flex justify-content-center align-items-center">Change details.</a>
+
+                          <?php
+
+                          if(isset($_SESSION["cid"]))
+                          {
+                            $print2 .="<a href='change-details.php' class='btn gradient flex justify-content-center align-items-center'>Change details.</a>";
+                          }
+                          else {
+                            $print2 .="";
+                          }
+                          ?>
+
                         </div>
 
                         <div class="col-12 submit flex justify-content-center">
-                        <a href="accomodation-signup.php" class="btn gradient flex justify-content-center align-items-center">Click here after signup for accomodation.</a>
+
+                          <?php
+
+                          if(isset($_SESSION["cid"]))
+                          {
+                            $print2 .="<a href='accomodation-signup.php' class='btn gradient flex justify-content-center align-items-center'>Accomodation.</a>";
+                          }
+                          else {
+                            $print2 .="";
+                          }
+                          echo  $print2;
+                          ?>
+
                         </div>
 
                     </div><!-- row -->

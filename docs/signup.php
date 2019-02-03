@@ -234,9 +234,7 @@
                         <a href="login.php" class="btn gradient flex justify-content-center align-items-center">Click here to login.</a>
                         </div>
 
-                        <div class="col-12 submit flex justify-content-center">
-                        <a href="change-details.php" class="btn gradient flex justify-content-center align-items-center">Change details.</a>
-                        </div>
+                        
 
 
                     </div><!-- row -->

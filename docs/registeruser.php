@@ -13,7 +13,7 @@ try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
     //echo "Connected to $dbname at $host successfully.";
     $count = $conn->exec("insert into user(name, emailid, phoneno, college, year, dept, course, password) values ('$name2', '$mail2', '$phone2', '$college2', '$year2', '$dept2', '$course2', '$password2')");
-    echo "Registered as $id. Login to your account.";
+    echo "Registered as $name2. Login to your account.";
 } catch (PDOException $pe) {
     die("Could not connect to the server. Please check your internet connection.");
 }

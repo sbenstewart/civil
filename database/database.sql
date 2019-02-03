@@ -37,8 +37,6 @@ CREATE TABLE `accomodation` (
 -- Dumping data for table `accomodation`
 --
 
-INSERT INTO `accomodation` (`id`, `entrydate`, `entrytime`, `hours`) VALUES
-(47, '01/04/2019', '08:34', '72');
 
 -- --------------------------------------------------------
 
@@ -57,8 +55,6 @@ CREATE TABLE `admin` (
 -- Dumping data for table `admin`
 --
 
-INSERT INTO `admin` (`cid`, `name`, `emailid`, `password`) VALUES
-(1, 'S Ben Stewart', 'sbenstewart@gmail.com', 'test123');
 
 -- --------------------------------------------------------
 
@@ -78,8 +74,6 @@ CREATE TABLE `ambassador` (
 -- Dumping data for table `ambassador`
 --
 
-INSERT INTO `ambassador` (`aid`, `name`, `phoneno`, `emailid`, `code`) VALUES
-(16, 'Ben Stewart', '9489408090', 'sbenstewart@gmail.com', 'ZS7801');
 
 -- --------------------------------------------------------
 
@@ -109,10 +103,6 @@ CREATE TABLE `registrations` (
 -- Dumping data for table `registrations`
 --
 
-INSERT INTO `registrations` (`cid`, `id`, `Paid`) VALUES
-('47', 'lunch-tshirt', NULL),
-('47', 'sample', NULL),
-('47', 'tall-structures', NULL);
 
 -- --------------------------------------------------------
 
@@ -137,17 +127,12 @@ CREATE TABLE `user` (
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`cid`, `name`, `phoneno`, `emailid`, `aid`, `college`, `year`, `dept`, `course`, `password`) VALUES
-(47, 'Ben Stewart', '09489408090', 'sbenstewart@gmail.com', 16, 'CEG', '2', 'CSE', 'B.E.', 'IL8437');
-
 -- --------------------------------------------------------
 
 --
 -- Structure for view `event1`
 --
 DROP TABLE IF EXISTS `event1`;
-
-CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `event1`  AS  select `user`.`name` AS `name`,`user`.`emailid` AS `emailid`,`user`.`phoneno` AS `phoneno` from (`registrations` left join `user` on(((`registrations`.`cid` = `user`.`cid`) and (`registrations`.`id` = 'sample')))) ;
 
 --
 -- Indexes for dumped tables
@@ -195,19 +180,19 @@ ALTER TABLE `user`
 -- AUTO_INCREMENT for table `admin`
 --
 ALTER TABLE `admin`
-  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
 
 --
 -- AUTO_INCREMENT for table `ambassador`
 --
 ALTER TABLE `ambassador`
-  MODIFY `aid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
+  MODIFY `aid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
 
 --
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=48;
+  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

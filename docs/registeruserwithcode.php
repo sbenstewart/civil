@@ -23,7 +23,7 @@ try {
             $id = $row['aid'];
           }
           $count = $conn->exec("insert into user(name, emailid, phoneno, aid, college, year, dept, course, password) values ('$name2', '$mail2', '$phone2', '$id', '$college2', '$year2', '$dept2', '$course2', '$password2')");
-          echo "Registered as $id. Login to your account.";
+          echo "Registered as $name2. Login to your account.";
           }
           /* No rows matched -- do something else */
           else {

@@ -57,7 +57,7 @@
                                   $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
                                 }
                                 else {
-                                  $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
+                                  $print1 .="<li><a href='login.php'>LOGIN</a></li>";
                                 }
                                 echo  $print1;
                                 ?>
@@ -238,7 +238,7 @@
                         <a href="change-details.php" class="btn gradient flex justify-content-center align-items-center">Change details.</a>
                         </div>
 
-                        
+
                     </div><!-- row -->
                 </div><!-- contact-form -->
             </div><!-- newsletter-subscribe -->

@@ -153,7 +153,7 @@
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <figure class="featured-image">
                                   <center>
-                                    <a href="#"> <img src="images/tall buildingsCompressed.jpg" alt=""> </a>
+                                    <a href="tall-structures.php" target="_blank"> <img src="images/tall buildingsCompressed.jpg" alt=""> </a>
                                   </center>
                                 </figure><!-- featured-image -->
 
@@ -178,7 +178,7 @@
                                 <div class="lineup-artists-description">
                                     <figure class="featured-image d-md-none">
                                       <center>
-                                        <a href="#"> <img src="images/GroundAlterResized.jpg" alt=""> </a>
+                                        <a href="ground-improvement-techniques.php" target="_blank"> <img src="images/GroundAlterResized.jpg" alt=""> </a>
                                       </center>
                                     </figure><!-- featured-image -->
 
@@ -207,7 +207,7 @@
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <figure class="featured-image">
                                   <center>
-                                    <a href="#"> <img src="images/WasteManagementResized.jpg" alt=""> </a>
+                                    <a href="solid-waste-management.php" target="_blank"> <img src="images/WasteManagementResized.jpg" alt=""> </a>
                                   </center>
                                 </figure><!-- featured-image -->
 
@@ -636,7 +636,7 @@
                       <div class="lineup-artists-wrap flex flex-wrap">
                           <figure class="featured-image">
                             <center>
-                              <a href="#"> <img src="images/ambassador.png" alt=""> </a>
+                              <a href="ambassador.php" target="_blank"> <img src="images/ambassador.png" alt=""> </a>
                             </center>
                           </figure><!-- featured-image -->
 
@@ -660,7 +660,7 @@
                               <div class="lineup-artists-wrap flex flex-wrap">
                                   <figure class="featured-image">
                                     <center>
-                                      <a href="#"> <img src="images/planning.png" alt=""> </a>
+                                      <a href="project-submission.php" target="_blank"> <img src="images/planning.png" alt=""> </a>
                                     </center>
                                   </figure><!-- featured-image -->
 
@@ -683,7 +683,7 @@
                               <div class="lineup-artists-wrap flex flex-wrap">
                                   <figure class="featured-image">
                                     <center>
-                                      <a href="#"> <img src="images/home.png" alt=""> </a>
+                                      <a href="accomodation.php" target="_blank"> <img src="images/home.png" alt=""> </a>
                                     </center>
                                   </figure><!-- featured-image -->
 

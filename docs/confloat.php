@@ -114,7 +114,7 @@
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
                                           <!--<li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Venue</li>-->
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organizers</li>
-                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
+                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Problem Statement and Registration</li>
                                       </ul><!-- tabs-nav -->
 
                                       <div class="tabs-container">
@@ -153,6 +153,15 @@
                                                   <li>Usage of mobile phones is strictly prohibited.</li>
                                                   <li>A team can have a maximum of three participants.</li>
                                                 </ol>
+                                                <h2 class="entry-header">JUDGING CRITERIA:</h2>
+                                                <ol>
+                                                  <li>Models which do not adhere to the specified dimensions will be rejected.</li>
+                                                  <li>The model will be subjected to external loads.</li>
+                                                  <li>The model will be tested for it's volume of water displaced.</li>
+                                                  <li>The model will be tested for it's floating capacity.</li>
+                                                  <li>Finish of the model will be taken into account.</li>
+                                                  <li>Brief oral presentaion to the judge.</li>
+                                                </ol>
                                           </div>
 
                                           <!--<div id="tab_venue" class="tab-content">
@@ -172,6 +181,17 @@
                                           </div>
 
                                           <div id="tab_about" class="tab-content">
+
+                                            <h2 class="entry-header">PROBLEM STATEMENT:</h2>
+                                            <p>Design concrete boat model of the dimensions 50X30X30cm. The primary constituents must be cement and sand. The strength of the concrete should lie between 20-30MPa. The model with low density and high floating capacity will be awarded. The density of the model should lie between 1400-1800kg/m<sup>3</sup> and the model must be able to float with it's self weight. Chemical admixture can be used. The design should be done with IS code provisions, suitable penalty will be given for the teams who fail to follow the above constraints.</p>
+                                            <ol>
+                                              <li>Civilisation 19 ID is mandatory</li>
+                                              <li>College ID card is mandatory.</li>
+                                              <li>Usage of mobile phones is strictly prohibited.</li>
+                                              <li>A team can have a maximum of three participants.</li>
+                                            </ol>
+
+
                                             <h2 class="entry-header">Click the button below to register.</h2>
                                             <p>If you have registered for any one event, you can also attend all the events conducted during the symposium. This registration entitiles you to attend all the technical and non-technical events.</p>
                                             <?php
@@ -189,6 +209,8 @@
 
 
                                               <form id="registration" class="entry-content">
+
+
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="EVENTS" id="event" />

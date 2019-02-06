@@ -146,6 +146,7 @@
                                                 <li>Civilisation 19 ID is mandatory</li>
                                                 <li>Usage of mobile phones is strictly prohibited.</li>
                                                 <li>Judges decision will be final.</li>
+                                                <li>Interviews are for a single person only.</li>
                                               </ol>
 
 

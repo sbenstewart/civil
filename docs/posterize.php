@@ -145,7 +145,7 @@
                                                   <li>C'19 ID is mandatory.</li>
                                                   <li>The entries from a participant who has not registered will not be permitted to participate.</li>
                                                   <li>College ID is mandatory.</li>
-                                                  <li>Individual participants only.</li>
+                                                  <li>A team can have a maximum of two participants.</li>
                                                   <li>Use of mobile is strictly prohibited.</li>
                                                   <li>There are only limited slots. The slots will be filled on the basis of first come first served.</li>
                                                 </ol>

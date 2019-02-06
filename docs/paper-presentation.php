@@ -160,6 +160,7 @@
                                               <li>ID card is mandatory.</li>
                                               <li>Decision of the judges will be final and will not be subjected to further any discussion.</li>
                                               <li>Registration required.</li>
+                                              <li>A team should not have more than three participants.</li>
                                             </ol>
 
 

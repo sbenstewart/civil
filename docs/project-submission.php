@@ -136,7 +136,6 @@
                                                   <li>Civilisation 19 ID is mandatory</li>
                                                   <li>College ID card is mandatory.</li>
                                                   <li>Decision of judges will be final and will not be subjected to further any discussion.</li>
-                                                  <li>A team should not have more than four members.</li>
                                                 </ol>
 
 

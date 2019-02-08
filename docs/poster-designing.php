@@ -139,7 +139,8 @@
                                                 <li>Abusive content and pictures are strictly prohibited.</li>
                                                 <li>Final decision will be taken according to the number of shares and likes given to the posters.</li>
                                                 <li>Multiple entries are allowed.</li>
-                                                <li>Multiple sharing is not considered.  </li>
+                                                <li>Multiple sharing is not considered.</li>
+                                                <li>C'19 id is not required.</li>
                                               </ol>
 
                                               <h2 class="entry-header">TOPICS:</h2>

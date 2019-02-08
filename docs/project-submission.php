@@ -114,7 +114,6 @@
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
                                           <!--<li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Venue</li>-->
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organizers</li>
-                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Registration</li>
                                       </ul><!-- tabs-nav -->
 
                                       <div class="tabs-container">
@@ -160,49 +159,7 @@
                                             </ul>
                                           </div>
 
-                                          <div id="tab_about" class="tab-content">
-                                            <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>If you have registered for any one event, you can also attend all the events conducted during the symposium. This registration entitiles you to attend all the technical and non-technical events.</p>
-                                            <?php
-                                            // Start the session
 
-                                            if(isset($_SESSION["cid"]))
-                                            {
-                                              $print2 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
-                                            }
-                                            else {
-                                              $print2 .="<p><b><strong>You must be logged in to register online or onsite.</strong></b></p>";
-                                            }
-                                            echo  $print2;
-                                            ?>
-
-
-                                              <form id="registration" class="entry-content">
-
-                                              <!--<div class="entry-content flex">-->
-                                                  <input type="hidden" value="EVENTS" id="event" />
-                                                  <!--<input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>-->
-                                                  <br>
-
-                                                  <?php
-                                                  // Start the session
-
-                                                  if(isset($_SESSION["cid"]))
-                                                  {
-                                                    $print .="<div><a href='https://www.townscript.com/e/events-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
-                                                  }
-                                                  else {
-                                                    $print .="<div><a href='login.php'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
-                                                  }
-                                                  echo  $print;
-                                                  ?>
-                                                  <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
-                                                  <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
-                                                  <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
-                                              <!--</div>-->
-                                              </form>
-
-                                              </div>
                                       </div>
                                   </div>
                               </div><!-- col-7 -->

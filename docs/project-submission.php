@@ -129,6 +129,7 @@
                                                   <li>The softcopy of the abstract should be submitted to projectdisplay.c19@gmail.com on or before February 22,2019.You will receive a acknowledgment mail, if you are selected.</li>
                                                   <li>The presentation time per team is 20 minutes.</li>
                                                   <li>Maximum four participants per team.</li>
+                                                  <li>The fee is Rs.200 which must be paid onspot for each member whose team has been selected and recieve the acknowledgment email.</li>
                                                 </ol>
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>

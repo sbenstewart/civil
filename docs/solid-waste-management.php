@@ -142,6 +142,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
+                                            <p>The workshop has been scheduled for March 6.</p><br>
                                             <p>The workshop costs INR 600 for one indiviual. Group registrations have to be done onsite. T-Shirts and Food can be availed only for online payments.</p>
                                             <?php
                                             // Start the session

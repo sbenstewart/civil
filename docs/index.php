@@ -769,7 +769,7 @@
                         </div><!-- entry-title -->
 
                         <div class="entry-mail">
-                            <a href="mailto:him@sbenstewart.in?Subject=Hello%20again" target="_top">him@sbenstewart.in</a>
+                            <a href="mailto:help@civilisationceg.in?Subject=Hello%20again" target="_top">help@civilisationceg.in</a>
                         </div><!-- .entry-mail -->
 
                         <div class="copyright-info">

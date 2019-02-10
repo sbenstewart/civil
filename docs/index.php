@@ -220,9 +220,9 @@
                             <input type="text" placeholder="Department" id="dept">
                         </div><!-- col-6 -->
 
-                        <div class="col-12">
+                        <!--<div class="col-12">
                             <input type="text" placeholder="Referal code (optional)" id="code">
-                        </div><!-- col-6 -->
+                        </div>-->
 
 
 

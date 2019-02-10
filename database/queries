@@ -1,1 +1,0 @@
-SELECT * from ambassador where aid in (SELECT aid FROM user GROUP BY aid HAVING COUNT(*) > 10);

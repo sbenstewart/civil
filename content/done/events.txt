@@ -1,2 +1,0 @@
-mail id events.c19@gmail.com
-cid is mandatory

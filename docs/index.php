@@ -253,11 +253,11 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="entry-title">
-                            <a href="#">SYMPO!</a>
+                            <a href="#">WELCOME!</a>
                         </div><!-- entry-title -->
 
                         <div class="entry-mail">
-                            <a href="mailto:help@civilisationceg.in?Subject=Hello%20again" target="_top">help@civilisationceg.in</a>
+                            <a href="mailto:help@civilisationceg.in?Subject=Hello%20again" target="_top">him@sbenstewart.in</a>
                         </div><!-- .entry-mail -->
 
                         <div class="copyright-info">

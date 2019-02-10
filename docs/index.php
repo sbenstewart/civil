@@ -43,12 +43,12 @@
                             </div><!-- .hamburger-menu -->
 
                             <ul>
-                                <li><a href="index.php#home">HOME</a></li>
-                                <li><a href="index.php#workshops">WORKSHOPS</a></li>
-                                <li><a href="index.php#events">EVENTS</a></li>
-                                <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
-                                <li><a href="about.php">CONTACT</a></li>
+                                <li><a href="#">HOME</a></li>
+                                <li><a href="#">WORKSHOPS</a></li>
+                                <li><a href="#">EVENTS</a></li>
+                                <li><a href="#">LECTURES</a></li>
+                                <li><a href="#">ACCOMODATION</a></li>
+                                <li><a href="#">CONTACT</a></li>
                                 <?php
                                 // Start the session
 
@@ -192,6 +192,15 @@
                         <div class="col-12">
                             <input type="text" placeholder="College" id="college">
                         </div><!-- col-6 -->
+
+                        <div class="col-12">
+                        <select id="member">
+                          <option value="">&nbsp;&nbsp;&nbsp;&nbsp;Are you an association member?</option>
+                          <option value="yes">&nbsp;&nbsp;&nbsp;&nbsp;Yes</option>
+                          <option value="no">&nbsp;&nbsp;&nbsp;&nbsp;No</option>
+                        </select>
+                        </div>
+
 
                         <div class="col-12">
                         <select id="course">

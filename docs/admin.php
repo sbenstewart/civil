@@ -172,9 +172,9 @@
 
                           if(isset($_SESSION["admin"]))
                           {
-                            $print2 .="<input type='submit' name='sample' value='Tall Structures' class='btn'>";
+                            $print102 .="<input type='submit' name='sample' value='Registrations' class='btn'>";
                           }
-                          echo  $print2;
+                          echo  $print102;
                           ?>
                         </div>
                         </form>

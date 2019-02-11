@@ -1,5 +1,5 @@
 <?php
     $host = 'localhost';
-    $dbname = 'aaceg';
-    $username = 'root';
-    $password = 'root';
+    $dbname = 'u258139758_db';
+    $username = 'u258139758_admin';
+    $password = 'test123';

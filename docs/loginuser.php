@@ -23,6 +23,7 @@ try {
           echo $_SESSION["name"];
           echo " with cid ";
           echo $id;
+          echo " Please reload the page to change your details.";
 
           /*session is started if you don't write this line can't use $_Session  global variable*/
         }

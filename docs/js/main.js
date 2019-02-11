@@ -209,6 +209,7 @@ data: dataString,
 cache: false,
 success: function(html) {
 alert(html);
+location.reload(true);
 }
 });
 }

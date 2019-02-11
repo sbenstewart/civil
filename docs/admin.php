@@ -166,6 +166,19 @@
                             <input type="email" placeholder="Your email" id="mail">
                         </div>-->
 
+                        <form action="download-registrations.php" method="post">
+                        <div class="col-12 submit  flex justify-content-center">
+                          <?php
+
+                          if(isset($_SESSION["admin"]))
+                          {
+                            $print2 .="<input type='submit' name='sample' value='Tall Structures' class='btn'>";
+                          }
+                          echo  $print2;
+                          ?>
+                        </div>
+                        </form>
+
 
 
                         <form action="download-tall-structures.php" method="post">

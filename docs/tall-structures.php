@@ -126,12 +126,9 @@
                                             <p>
                                               Mr. Sthaladipti Saha has completed his Bachelor of Civil Engineering, Jadavpur University, India in 1989 and has been with L&T since then.<br>
                                               He played a key role in the design of many landmark precast structures like Jawarharlal Nehru Stadium, Chennai, which was completed in a record 260 days. He introduced prestressed concrete flat slabs for the project Cyber Gateway at Hyderabad for the first time in India.  He was responsible for many prestressed IT and office spaces for Cognizant Technologies, HSBC, DMRC and Deloitte, to name a few. He has led the design of the Delhi International Airport, world’s tallest 182m Sardar Vallabhai Patel’s Statue of Unity & presently the World’s largest Cricket Stadium with the seating capacity of 1,10,000 in Gujarat.
-                                              <br>
-                                              Currently he heads the Public Space business unit of commercial buildings & airports SBG.<br>
-                                              Saha has pioneered the shift from 2D drafting to 3D working platform in the design office, with the use of Building information Modelling (BIM) technology. He was instrumental in setting up of the 3D studio ‘Srishti’ in L&T campus and currently focusing on new technologies in virtual & mixed reality in the construction field.<br>
-                                              Saha has published and presented technical papers about concrete, concrete practices and unique projects design & constructed using concrete at various national and international forums. He is a member of various BIS Codal Committees as well a member of FIB commission in Europe on Prefabrication.
 
                                             </p>
+                                            <p><b><strong>You will learn about the Statue of Unity.</strong></b></p>
                                           </div>
 
                                           <!--<div id="tab_venue" class="tab-content">

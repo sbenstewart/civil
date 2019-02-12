@@ -147,6 +147,7 @@
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Workshops</h2>
+                            <p>OD will be provided for the attendees</p>
                         </div><!-- entry-title -->
 
                         <div class="lineup-artists">
@@ -237,6 +238,7 @@
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Non-Tech Events</h2>
+                            <p>OD will be provided for the attendees</p>
                         </div><!-- entry-title -->
 
                         <div class="row the-complete-lineup-artists">
@@ -302,6 +304,7 @@
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Tech Events</h2>
+                            <p>OD will be provided for the attendees</p>
                         </div><!-- entry-title -->
 
                         <div class="row the-complete-lineup-artists">

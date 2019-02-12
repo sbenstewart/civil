@@ -115,7 +115,7 @@
                                                 <li>On reaching the campus, report immediately to the Registration Desk for registration process and if accommodation is needed, approach the accommodation desk.</li>
                                                 <li>It is mandatory to bring your college ID card.</li>
                                                 <li>At the time of check-in, the caution deposit of Rs.100 should be paid (which will be refunded at the time of check-out)</li>
-                                                <li>The charge for a day's stay will be Rs.350 (24 hours only).</li>
+                                                <li><b><strong>The charge for a day's stay will be Rs.300 (24 hours only).</strong></b></li>
                                                 <li>After Accommodation registration and payment of applicable fees, rooms/dormitories will be allotted by the Civilisation 2019 Accommodation team.</li>
                                                 <li>During check-out the participants are required to return all the utilities (provided at the time of check-in) in order to redeem their refundable-deposit.</li>
                                                 <li>Refund of Caution deposit money will be made at the sole discretion of Civilisation Accommodation team.</li>

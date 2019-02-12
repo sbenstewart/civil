@@ -127,6 +127,7 @@
                                                 Have you ever felt tired of constructing buildings on land???.Are you a creative person??  Here is a great chance to showcase your innovative ideas.As a innovative engineer you have to build a buoyant concrete structure which can float in water.
                                                 </p>
                                                 <h2 class="entry-header">FORMAT:</h2>
+
                                                 <ol>
                                                   <li>PRELIMS:
                                                     <ul>
@@ -135,6 +136,7 @@
                                                       <li>The constituents should be cement, sand, water, and admixture, wire mesh (type and material can be decided by the participants).</li>
                                                       <li>Preparing  a  detailed report of  the  design  mix and  its online submission to us  before  the  specified  dead line.</li>
                                                       <li>(NOTE:  The participants will be selected to the next stage based on their abstract.)</li>
+                                                      <li><b><strong>Please send your abstracts on or before February 25 to confloat.c19@gmail.com</strong></b></li>
                                                     </ul>
                                                   </li>
                                                   <li>FINALS:

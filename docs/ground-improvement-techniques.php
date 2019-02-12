@@ -120,13 +120,21 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p>Improvement is the most imaginative field in geotechnical engineering. It is a field in which the engineer forces the ground to adopt project requirements by altering the natural state of soil, state of having to alter the design response to the ground natural limitations. The result usually includes saving construction cost and implementation time. On the basis of mechanism by which they improve the engineering properties of soil the most common of these can be divided into the following major categories:</p>
-
+                                              <p>Improvement is the most imaginative field in geotechnical engineering. It is a field in which the engineer forces the ground to adopt project requirements by altering the natural state of soil.</p>
+                                              <p>You will learn</p>
                                               <ol>
-                                                <li>	densification techniques</li>
-                                              <li>	reinforcement techniques</li>
-                                              <li>	stabilization techniques</li>
-                                              <li>	 miscellaneous methods</li>
+                                                <li>The fundamentals of ground improvement</li>
+                                                <li>Vibro replacement / Displacement</li>
+                                                <li>Vibro compaction</li>
+                                                <li>Grouting techniques
+                                                  <ul>
+                                                    <li>Permeation grouting</li>
+                                                    <li>Compaction grouting</li>
+                                                    <li>Jet grouting</li>
+                                                    <li>Deep soil mixing</li>
+                                                  </ul>
+                                                </li>
+                                                <li>Micropiles / Anchoring</li>
                                               </ol>
                                               <p>
                                               Apart from the methods listed above there are some other simple methods like removal and replacement of soil.

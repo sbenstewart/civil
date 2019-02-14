@@ -145,7 +145,7 @@
                                               </li>
                                               <li>PAPER SUBMISSION:
                                                 <ul>
-                                                  <li>The softcopy of the abstract should be submitted to paperpresentation.c19@gmail.com on or before Feb22,2019.</li>
+                                                  <li>The softcopy of the abstract should be submitted to paperpresentation.c2019@gmail.com on or before Feb22,2019.</li>
                                                   <li>Working models, samples fetch you extra points.</li>
                                                   <li>Candidates should  bring hard copy and soft copy of the paper at the time of presentation.</li>
                                                   <li>Bring your soft copies in pendrive.</li>

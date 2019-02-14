@@ -136,7 +136,7 @@
                                                 </li>
                                                 <li>Micropiles / Anchoring</li>
                                               </ol>
-                                              
+
                                           </div>
 
                                           <div id="tab_venue" class="tab-content">
@@ -147,7 +147,7 @@
                                             <ul>
                                               <li>	Raj Aditya&emsp;9629230056</li>
                                               <li>	Priya&emsp;8675604979</li>
-                                              <li>	Dhivya&emsp;7373420906</li>
+                                              <li>	Dhivya&emsp;8489126689</li>
                                             </ul>
                                             <p>You can also mail us at civilisationworkshop19@gmail.com</p>
                                           </div>

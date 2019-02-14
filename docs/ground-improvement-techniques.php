@@ -136,9 +136,7 @@
                                                 </li>
                                                 <li>Micropiles / Anchoring</li>
                                               </ol>
-                                              <p>
-                                              Apart from the methods listed above there are some other simple methods like removal and replacement of soil.
-                                              </p>
+                                              
                                           </div>
 
                                           <div id="tab_venue" class="tab-content">

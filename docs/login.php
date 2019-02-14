@@ -226,6 +226,10 @@
 
                         <div class="col-12 submit flex justify-content-center">
                           <a href="signup.php"><input type="button" onclick="" name="" value="Signup as new user" class="btn"></a>
+
+                        </div>
+
+                        <div class="col-12 submit flex justify-content-center">
                             <input type="button" onclick="forgotPassword()" name="" value="Forgot Password" class="btn">
 
                         </div>

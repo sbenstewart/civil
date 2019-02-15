@@ -125,7 +125,7 @@
                                                 <br>
                                                 Urban design is an inter-disciplinary field that utilizes elements of many built environment professions, including landscape architecture, urban planning, architecture, civil engineering and municipal engineering.
 <br>Another important aspect is town planning.Town planning maintains the best of the past while encouraging creativity and innovation in the development of a sustainable future.
-<br>So, if you have interest in the above mentioned fields, here is an exciting oppurtunity to test your knowledge... 
+<br>So, if you have interest in the above mentioned fields, here is an exciting oppurtunity to test your knowledge...
                                                 </p>
                                                 <br>
                                                 <h2 class="entry-header">FORMAT:</h2>
@@ -178,7 +178,7 @@
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
                                             <p>The registrations will be open till the 20th of February.</p><br>
-                                            <p>If you have registered for any one event, you can also attend all the events conducted during the symposium. This registration entitiles you to attend all the technical and non-technical events.</p>
+                                            <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session
 

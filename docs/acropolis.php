@@ -123,8 +123,9 @@
                                               <p><strong><b>“Architecture is a visual art, and the building speak for themselves.”
                                                 &emsp;&emsp;&emsp;&emsp;- Julia Morgan</b></strong>
                                                 <br>
-                                                <br>
-                                                When you look at a city, you know, it looks so unique. You feel this kind of uniqueness, you know, and especially if you go from a big city to a small city or if you go from one country to another. Cities look very different, often. They even feel very different. You know, and they are, of course. They certainly are. If you are one of this kind and having more knowledge about city buildings, here is the challenging platform for your knowledge about buildings.
+                                                Urban design is an inter-disciplinary field that utilizes elements of many built environment professions, including landscape architecture, urban planning, architecture, civil engineering and municipal engineering.
+<br>Another important aspect is town planning.Town planning maintains the best of the past while encouraging creativity and innovation in the development of a sustainable future.
+<br>So, if you have interest in the above mentioned fields, here is an exciting oppurtunity to test your knowledge... 
                                                 </p>
                                                 <br>
                                                 <h2 class="entry-header">FORMAT:</h2>

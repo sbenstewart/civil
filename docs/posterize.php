@@ -125,7 +125,7 @@
                                                 <br>
                                                 <br>
                                                 For all the artists!<br>
-                                                Creative thinking inspires ideas and posters allow you to visually present those in an attractive way. Here is a wonderful platform to exhibit your creativity in this field. Are you fascinated by designing posters?<br>
+                                                Creative thinking inspires ideas and posters allow you to visually present those in an attractive way. Here is a wonderful platform to exhibit your creativity in this field.<br>
 
                                                 </p>
                                                 <h2 class="entry-header">FORMAT:</h2>

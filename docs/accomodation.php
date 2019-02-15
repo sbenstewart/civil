@@ -102,7 +102,7 @@
                                   <div class="tabs">
                                       <ul class="tabs-nav flex">
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
-                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Venue</li>
+                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Organizers</li>
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Rules</li>
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                                       </ul><!-- tabs-nav -->

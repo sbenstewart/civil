@@ -148,12 +148,12 @@
                                             <li><b>Mr.Madan Kumar Annam</b>
 <p>Post Graduate Geotechnical Engineer having more than 23 years of Professional Experience in Geotechnical Engineering field in both Consultancy & Construction firms.
 Madan Kumar worked for 16 years in Indian & Multi National Consultancy Organizations at various levels (e.g. L&T, L&T-RAMBOLL, DAR Group in Dubai and COWI Consultants in India & Denmark).
-Presently, he is working with Keller Group in India since 2011, as Head of Engineering and has been active in the design and construction of foundation systems for several major infrastructure projects.
-Handled variety of Geotechnical Engineering problems during his career.
-Successfully fulfilled his role of ‘Design Team Leader’ for the prestigious ‘Underground LPG Storage Cavern Project at Vizag’.
+<br>Presently, he is working with Keller Group in India since 2011, as Head of Engineering and has been active in the design and construction of foundation systems for several major infrastructure projects.
+Handled variety of Geotechnical Engineering problems during his career.<br>
+Successfully fulfilled his role of ‘Design Team Leader’ for the prestigious ‘Underground LPG Storage Cavern Project at Vizag’.<br>
 Madan Kumar has published several technical papers in National and International Conferences and Journals.</p></li>
                                             <li><b>Mr. P. V. S. R. Prasad </b>
-                                              <p>Experienced Senior Geotechnical Engineer with a demonstrated history of working in the construction industry. Skilled in Geotechnics, Highways, Earthworks, Site Investigation, and Ground Improvement. Strong engineering professional with a M.Tech focused in Geotechnical and Geoenvironmental Engineering from Indian Institute of Technology, Delhi.
+                                              <p>Experienced Senior Geotechnical Engineer with a demonstrated history of working in the construction industry.<br> Skilled in Geotechnics, Highways, Earthworks, Site Investigation, and Ground Improvement. Strong engineering professional with a M.Tech focused in Geotechnical and Geoenvironmental Engineering from Indian Institute of Technology, Delhi.
                                           </p>  </li>
                                           </ul>
                                           </div>

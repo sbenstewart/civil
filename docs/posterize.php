@@ -129,7 +129,7 @@
 
                                                 </p>
                                                 <h2 class="entry-header">FORMAT:</h2>
-                                                <p>Posterize will be conducted by given topics.</p>
+                                                <p>The following are the topics for the posterize event.</p>
                                                 <ol>
                                                   <li>Recycle re-use reduce</li>
                                                   <li>Steel testing</li>
@@ -137,7 +137,7 @@
                                                   <li>Plastic bricks</li>
                                                   <li>Global positioning system(GPS)</li>
                                                 </ol>
-                                                <p>Time duration: 1.30 hours<br>Requirements can be provided.<br>You are not allowed to use your own things.</p>
+                                                <p>Time duration: 1.30 hours<br>Required stationaries will be provided.<br>Don't use your own stationaries.</p>
 
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>

@@ -57,14 +57,14 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
 
                                 if(isset($_SESSION["cid"]))
                                 {
-                                  $print1 .="<li><a href='logout.php'>LOGOUT</a></li>";
+                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
                                 }
                                 else {
                                   $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
@@ -124,29 +124,29 @@
                                                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Muhammad Tahir-ul-Qadri</b></strong>
                                                 <br>
                                                 <br>
-                                                The process of attaining Knowledge is incomplete without knowing how to apply it in needed situations. Are you a honeybee who gathers each and every affair happening in the current world.?? Are you an expert in cracking the questions based on past and present events in and around the world?<br>
+                                                The process of attaining knowledge is incomplete without knowing how to apply it in needed situations. Are you a honeybee who gathers each and every affair happening in the current world.? Are you an expert in cracking the questions based on past and present events in and around the world?<br>
                                                 Register your entries, test yourself by competing with other challengers and take home worthy prizes.
                                                 </p>
                                                 <h2 class="entry-header">FORMAT:</h2>
                                                 <ol>
                                                   <li>PRELIMS:
                                                     <ul>
-                                                      <li>It is a pen and paper based round.</li>
-                                                      <li>Each team will be given a set of questions with and without choices</li>
+                                                      <li>It is a pen and paper round.</li>
+                                                      <li>Each team will be given a set of questions </li>
                                                       <li>The top 5 teams will be selected for the finals </li>
                                                     </ul>
                                                   </li>
                                                   <li>FINALS:
                                                     <ul>
                                                       <li>The final will be conducted as two rounds.</li>
-                                                      <li>One as pen and paper and other as buzzer based round.</li>
+                                                      <li>One as pen and paper and other as buzzer round.</li>
                                                       <li>Winner will be determined based on the marks secured in the two rounds.</li>
                                                     </ul>
                                                   </li>
                                                 </ol>
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
-                                                  <li>Civilisation 19 ID is mandatory</li>
+                                                  <li>Civilization 19 ID is mandatory</li>
                                                   <li>College ID card is mandatory.</li>
                                                   <li>Usage of mobile phones is strictly prohibited.</li>
                                                   <li>A team can have a maximum of three participants.</li>
@@ -175,8 +175,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>The registrations will be open till the 20th of February.</p><br>
-                                            <p>If you have registered for any one event, you can also attend all the events conducted during the symposium. This registration entitiles you to attend all the technical and non-technical events.</p>
+                                            <p>If you have registered for any workshop, you can attend all the events conducted for the symposium. The registration entitiles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session
 
@@ -195,7 +194,7 @@
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="EVENTS" id="event" />
-                                                  <!--<input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>-->
+                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
 
                                                   <?php

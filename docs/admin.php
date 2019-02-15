@@ -238,7 +238,7 @@
 
                           if(isset($_SESSION["admin"]))
                           {
-                            $print6 .="<input type='submit' name='sample' value='Accomodation list download button' class='btn'>";
+                            $print6 .="<input type='submit' name='sample' value='Accommodation list download button' class='btn'>";
                           }
                           echo  $print6;
                           ?>

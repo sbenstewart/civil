@@ -66,14 +66,14 @@
                                 <li><a href="#workshops">WORKSHOPS</a></li>
                                 <li><a href="#events">EVENTS</a></li>
                                 <li><a href="#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
 
                                 if(isset($_SESSION["cid"]))
                                 {
-                                  $print1 .="<li><a href='logout.php'>LOGOUT</a></li>";
+                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
                                 }
                                 else {
                                   $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
@@ -147,14 +147,13 @@
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Workshops</h2>
-                            <p>OD will be provided for the attendees</p>
                         </div><!-- entry-title -->
 
                         <div class="lineup-artists">
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <figure class="featured-image">
                                   <center>
-                                    <a href="tall-structures.php" target="_blank"> <img src="images/tall buildingsCompressed.jpg" alt=""> </a>
+                                    <a href="#"> <img src="images/tall buildingsCompressed.jpg" alt=""> </a>
                                   </center>
                                 </figure><!-- featured-image -->
 
@@ -179,7 +178,7 @@
                                 <div class="lineup-artists-description">
                                     <figure class="featured-image d-md-none">
                                       <center>
-                                        <a href="ground-improvement-techniques.php" target="_blank"> <img src="images/GroundAlterResized.jpg" alt=""> </a>
+                                        <a href="#"> <img src="images/GroundAlterResized.jpg" alt=""> </a>
                                       </center>
                                     </figure><!-- featured-image -->
 
@@ -208,7 +207,7 @@
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <figure class="featured-image">
                                   <center>
-                                    <a href="solid-waste-management.php" target="_blank"> <img src="images/WasteManagementResized.jpg" alt=""> </a>
+                                    <a href="#"> <img src="images/WasteManagementResized.jpg" alt=""> </a>
                                   </center>
                                 </figure><!-- featured-image -->
 
@@ -238,7 +237,6 @@
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Non-Tech Events</h2>
-                            <p>OD will be provided for the attendees</p>
                         </div><!-- entry-title -->
 
                         <div class="row the-complete-lineup-artists">
@@ -304,7 +302,6 @@
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Tech Events</h2>
-                            <p>OD will be provided for the attendees</p>
                         </div><!-- entry-title -->
 
                         <div class="row the-complete-lineup-artists">
@@ -639,7 +636,7 @@
                       <div class="lineup-artists-wrap flex flex-wrap">
                           <figure class="featured-image">
                             <center>
-                              <a href="ambassador.php" target="_blank"> <img src="images/ambassador.png" alt=""> </a>
+                              <a href="#"> <img src="images/ambassador.png" alt=""> </a>
                             </center>
                           </figure><!-- featured-image -->
 
@@ -663,7 +660,7 @@
                               <div class="lineup-artists-wrap flex flex-wrap">
                                   <figure class="featured-image">
                                     <center>
-                                      <a href="project-submission.php" target="_blank"> <img src="images/planning.png" alt=""> </a>
+                                      <a href="#"> <img src="images/planning.png" alt=""> </a>
                                     </center>
                                   </figure><!-- featured-image -->
 
@@ -686,18 +683,18 @@
                               <div class="lineup-artists-wrap flex flex-wrap">
                                   <figure class="featured-image">
                                     <center>
-                                      <a href="accomodation.php" target="_blank"> <img src="images/home.png" alt=""> </a>
+                                      <a href="#"> <img src="images/home.png" alt=""> </a>
                                     </center>
                                   </figure><!-- featured-image -->
 
                                   <div class="lineup-artists-description">
                                       <div class="lineup-artists-description-container">
                                           <div class="entry-title">
-                                              Accomodation
+                                              Accommodation
                                           </div><!-- entry-title -->
 
                                           <div class="entry-content">
-                                              <p>Providing you the best possible stay during the symposium. Register as quickly as possible as we have only a limited number of accomodation slots available.</p>
+                                              <p>Providing you the best possible stay during the symposium. Register as quickly as possible as we have only a limited number of accommodation slots available.</p>
                                               <a href="accomodation.php" target="_blank" class="btn">Register</a>
                                           </div><!-- entry-content -->
                                         </div>

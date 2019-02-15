@@ -57,14 +57,14 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
 
                                 if(isset($_SESSION["cid"]))
                                 {
-                                  $print1 .="<li><a href='logout.php'>LOGOUT</a></li>";
+                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
                                 }
                                 else {
                                   $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
@@ -119,7 +119,7 @@
 
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
-                                              <p><strong><b>“The good engineer is a person, who makes a design that works with as few original ideas as possible.”<br>
+                                              <p><strong><b>“A good engineer is a person, who makes a design that works with as few original ideas as possible.”<br>
                                                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Freeman Dyson
                                                 </b></strong>
                                                 <br>
@@ -148,12 +148,13 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>Civilisation 19 ID is mandatory</li>
+                                                <li>Civilization 19 ID is mandatory</li>
                                                 <li>A group of participants must be 3 only.</li>
                                                 <li>Phone is not allowed.</li>
                                                 <li>Participants build a bridge within the given time.</li>
                                                 <li>Everyone should bring a calculator.</li>
                                                 <li>Judge can finalize the winners.</li>
+                                                <li>Participants are required to bring a calculator.</li>
                                               </ol>
 
 
@@ -180,8 +181,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-<p>The registrations will be open till the 20th of February.</p><br>
-                                            <p>If you have registered for any one event, you can also attend all the events conducted during the symposium. This registration entitiles you to attend all the technical and non-technical events.</p>
+                                            <p>If you have registered for any workshop, you can attend all the events conducted for the symposium. The registration entitiles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session
 
@@ -200,7 +200,7 @@
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="EVENTS" id="event" />
-                                                  <!--<input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>-->
+                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
 
                                                   <?php

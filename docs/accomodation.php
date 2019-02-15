@@ -46,14 +46,14 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
 
                                 if(isset($_SESSION["cid"]))
                                 {
-                                  $print1 .="<li><a href='logout.php'>LOGOUT</a></li>";
+                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
                                 }
                                 else {
                                   $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
@@ -75,7 +75,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="entry-header">
-                        <h2 class="entry-title">ACCOMODATION</h2>
+                        <h2 class="entry-title">ACCOMMODATION</h2>
 
                         <!--<ul class="breadcrumbs flex align-items-center">
                             <li><a href="#">Home</a></li>
@@ -102,7 +102,7 @@
                                   <div class="tabs">
                                       <ul class="tabs-nav flex">
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
-                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Organizers</li>
+                                          <!--<li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Venue</li>-->
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Rules</li>
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                                       </ul><!-- tabs-nav -->
@@ -115,7 +115,6 @@
                                                 <li>On reaching the campus, report immediately to the Registration Desk for registration process and if accommodation is needed, approach the accommodation desk.</li>
                                                 <li>It is mandatory to bring your college ID card.</li>
                                                 <li>At the time of check-in, the caution deposit of Rs.100 should be paid (which will be refunded at the time of check-out)</li>
-                                                <li><b><strong>The charge for a day's stay will be Rs.300 (24 hours only).</strong></b></li>
                                                 <li>After Accommodation registration and payment of applicable fees, rooms/dormitories will be allotted by the Civilisation 2019 Accommodation team.</li>
                                                 <li>During check-out the participants are required to return all the utilities (provided at the time of check-in) in order to redeem their refundable-deposit.</li>
                                                 <li>Refund of Caution deposit money will be made at the sole discretion of Civilisation Accommodation team.</li>
@@ -124,15 +123,11 @@
                                               </ul>
                                           </div>
 
-                                          <div id="tab_venue" class="tab-content">
-                                            <h2 class="entry-header">Call for any doubts or queries</h2>
+                                          <!--<div id="tab_venue" class="tab-content">
+                                              <h2 class="entry-header">10 years a mission</h2>
 
-                                            <ul>
-                                              <li>Bharath&emsp;8489808900</li>
-                                              <li>Muhammad Mukhthar M K&emsp;8903936211</li>
-                                              <li>Thamizharasi&emsp;7010413102</li>
-                                          </ul>
-                                        </div>
+                                              <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus. Nullam vestibulum convallis risus vel condimentum. Nullam auctor lorem in libero luctus, vel volutpat quam tincidunt. Morbi sodales, dolor id ultricies dictum, diam odio tempor purus, at ultrices elit nulla ac nisl. Vestibulum enim sapien, blandit finibus elit vitae, venenatis tempor enim.</p>
+                                          </div>-->
 
                                           <div id="tab_organizers" class="tab-content">
                                               <h2 class="entry-header">Rules to be followed</h2>

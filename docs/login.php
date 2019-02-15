@@ -47,7 +47,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
 
                                 <?php
@@ -243,7 +243,7 @@
 
                           if(isset($_SESSION["cid"]))
                           {
-                            $print2 .="<a href='change-details.php' class='btn gradient flex justify-content-center align-items-center'>Change details.</a><a href='accomodation-signup.php' class='btn gradient flex justify-content-center align-items-center'>Accomodation.</a>";
+                            $print2 .="<a href='change-details.php' class='btn gradient flex justify-content-center align-items-center'>Change details.</a><a href='accomodation-signup.php' class='btn gradient flex justify-content-center align-items-center'>Accommodation.</a>";
                           }
                           else {
                             $print2 .="";

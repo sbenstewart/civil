@@ -57,14 +57,14 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
 
                                 if(isset($_SESSION["cid"]))
                                 {
-                                  $print1 .="<li><a href='logout.php'>LOGOUT</a></li>";
+                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
                                 }
                                 else {
                                   $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
@@ -124,10 +124,10 @@
                                                 &emsp;&emsp;&emsp;&emsp;- Walt Disney</b></strong>
                                                 <br>
                                                 <br>
-                                                Entrepreneurship is neither a science nor an art it’s a practice and it’s not about ideas, it’s about making ideas happen.<br>
+                                                Entrepreneurship is neither a science nor an art.It’s a practice and it’s not about ideas, it’s about making ideas happen.<br>
                                                 Make your ideas happen.<br>
-                                                You don't have to see the whole staircase just take the FIRST STEP.<br>
-                                                Take your first step here and explore your Entrepreneurship potential!
+                                                You don't have to see the whole staircase, just take the FIRST STEP.<br>
+                                                Take your first step here and explore your entrepreneurship potential!
                                                 </p>
 
                                                 <h2 class="entry-header">FORMAT:</h2>
@@ -149,8 +149,8 @@
                                               </ol>
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
-                                                  <li>Civilisation 19 ID is mandatory</li>
-                                                  <li>	A team can have maximum 3 participants.</li>
+                                                  <li>Civilization 19 ID is mandatory</li>
+                                                  <li>	A team can have maximum 3 participants per team.</li>
                                                   <li>	College ID is mandatory.</li>
                                                   <li>	Decision by judges is final.</li>
                                                   <li>	Use of mobile is strictly prohibited.</li>
@@ -179,7 +179,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>If you have registered for any one event, you can also attend all the events conducted during the symposium. This registration entitiles you to attend all the technical and non-technical events.</p>
+                                            <p>If you have registered for any workshop, you can attend all the events conducted for the symposium. The registration entitiles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session
 
@@ -198,7 +198,7 @@
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="EVENTS" id="event" />
-                                                  <!--<input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>-->
+                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
 
                                                   <?php

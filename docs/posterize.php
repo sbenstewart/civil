@@ -57,7 +57,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -124,8 +124,8 @@
                                                 &emsp;&emsp;&emsp;&emsp;- Gautama Buddha</b></strong>
                                                 <br>
                                                 <br>
-                                                For all innovative aspires!<br>
-                                                Creative thinking inspire ideas. posters allow you to visually present those ideas in an attractive way. Here is a wonderful opportunity to exhibit your creativity in this artistic field. Are you fascinated by designing the posters. This event is a good platform to explore your visionary ideas.
+                                                For all the artists!<br>
+                                                Creative thinking inspires ideas and posters allow you to visually present those in an attractive way. Here is a wonderful platform to exhibit your creativity in this field. Are you fascinated by designing posters?<br>
 
                                                 </p>
                                                 <h2 class="entry-header">FORMAT:</h2>

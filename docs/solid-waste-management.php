@@ -126,7 +126,7 @@
                                           </div>
 
                                           <div id="tab_venue" class="tab-content">
-                                            <p>6<sup>th</sup>March from 8:00 AM at TAG Auditorium.</p>
+                                            <p>6<sup>th</sup>March from 8:00 AM at Vivek Auditorium.</p>
 
                                           </div>
 

@@ -66,7 +66,7 @@
                                 <li><a href="#workshops">WORKSHOPS</a></li>
                                 <li><a href="#events">EVENTS</a></li>
                                 <li><a href="#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -147,7 +147,6 @@
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Workshops</h2>
-                            <p>OD will be provided for the attendees</p>
                         </div><!-- entry-title -->
 
                         <div class="lineup-artists">
@@ -189,8 +188,10 @@
                                         </div><!-- entry-title -->
 
                                         <div class="entry-content">
-                                            <p>Force the ground to adopt project requirements by altering the natural state of soil, state of having to alter the design response to the ground natural limitations. Save construction cost and  implementation time.</p>
-                                            <p>This workshop is conducted by the <b><strong>Keller Ground Engineering</strong></b>.</p>
+                                            <p>Ground improvement involves the modification of soil properties or constructing inclusions within the soil to achieve a required performance.
+This method also saves construction and implementation time!</p>
+<p>The workshop is conducted by KELLER GROUND ENGINEERING
+Keller's experience in India in providing optimal ground improvement solutions spans two decades and hundreds of projects!</p>
                                             <a href="ground-improvement-techniques.php" target="_blank" class="btn">Register</a>
                                         </div><!-- entry-content -->
 
@@ -208,7 +209,7 @@
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <figure class="featured-image">
                                   <center>
-                                    <a href="solid-waste-management.php" target="_blank"> <img src="images/WasteManagementResized.jpg" alt=""> </a>
+                                   <a href="solid-waste-management.php" target="_blank"> <img src="images/WasteManagementResized.jpg" alt=""> </a>
                                   </center>
                                 </figure><!-- featured-image -->
 
@@ -639,7 +640,7 @@
                       <div class="lineup-artists-wrap flex flex-wrap">
                           <figure class="featured-image">
                             <center>
-                              <a href="ambassador.php" target="_blank"> <img src="images/ambassador.png" alt=""> </a>
+                               <a href="ambassador.php" target="_blank"> <img src="images/ambassador.png" alt=""> </a>
                             </center>
                           </figure><!-- featured-image -->
 
@@ -686,18 +687,18 @@
                               <div class="lineup-artists-wrap flex flex-wrap">
                                   <figure class="featured-image">
                                     <center>
-                                      <a href="accomodation.php" target="_blank"> <img src="images/home.png" alt=""> </a>
+                                    <a href="accomodation.php" target="_blank"> <img src="images/home.png" alt=""> </a>
                                     </center>
                                   </figure><!-- featured-image -->
 
                                   <div class="lineup-artists-description">
                                       <div class="lineup-artists-description-container">
                                           <div class="entry-title">
-                                              Accomodation
+                                              Accommodation
                                           </div><!-- entry-title -->
 
                                           <div class="entry-content">
-                                              <p>Providing you the best possible stay during the symposium. Register as quickly as possible as we have only a limited number of accomodation slots available.</p>
+                                              <p>Providing you the best possible stay during the symposium. Register as quickly as possible as we have only a limited number of accommodation slots available.</p>
                                               <a href="accomodation.php" target="_blank" class="btn">Register</a>
                                           </div><!-- entry-content -->
                                         </div>

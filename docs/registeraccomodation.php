@@ -25,7 +25,7 @@ try {
       {
         $name = $row['name'];
       }
-      echo "Accomodation registered succesfully for $name";
+      echo "Accommodation registered succesfully for $name";
     }
 
 } catch (PDOException $pe) {

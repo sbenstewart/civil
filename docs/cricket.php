@@ -57,7 +57,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -124,8 +124,8 @@
                                               </b></strong>
                                                 <br>
                                                 <br>
-                                                To all the Cricket fanatics out there..<br>
-                                                Are you mesmerised towards cricket wherever the venue and whatever the country and not bothered by different timezones?<br>
+                                                To all the Cricket fanatics out there.<br>
+                                                Are you mesmerised towards cricket irrespective of different timezones?<br>
                                                 Are you another HARSHA BHOGLE in the making?<br>
                                                 Do you have what it takes to be the UNIVERSAL BOSS of cricket world?<br>
                                                 Do you think you know stats about Cricket ”INSIDE OUT” from 5 day tests to the fast paced T20?<br>
@@ -179,8 +179,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>The registrations will be open till the 20th of February.</p><br>
-                                            <p>If you have registered for any one event, you can also attend all the events conducted during the symposium. This registration entitiles you to attend all the technical and non-technical events.</p>
+                                            <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session
 

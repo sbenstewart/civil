@@ -57,7 +57,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -124,12 +124,12 @@
                                                 &emsp;&emsp;&emsp;&emsp;- Gautama Buddha</b></strong>
                                                 <br>
                                                 <br>
-                                                For all innovative aspires!<br>
-                                                Creative thinking inspire ideas. posters allow you to visually present those ideas in an attractive way. Here is a wonderful opportunity to exhibit your creativity in this artistic field. Are you fascinated by designing the posters. This event is a good platform to explore your visionary ideas.
+                                                For all the artists!<br>
+                                                Creative thinking inspires ideas and posters allow you to visually present those in an attractive way. Here is a wonderful platform to exhibit your creativity in this field.<br>
 
                                                 </p>
                                                 <h2 class="entry-header">FORMAT:</h2>
-                                                <p>Posterize will be conducted by given topics.</p>
+                                                <p>The following are the topics for the posterize event.</p>
                                                 <ol>
                                                   <li>Recycle re-use reduce</li>
                                                   <li>Steel testing</li>
@@ -137,7 +137,7 @@
                                                   <li>Plastic bricks</li>
                                                   <li>Global positioning system(GPS)</li>
                                                 </ol>
-                                                <p>Time duration: 1.30 hours<br>Requirements can be provided.<br>You are not allowed to use your own things.</p>
+                                                <p>Time duration: 1.30 hours<br>Required stationaries will be provided.<br>Don't use your own stationaries.</p>
 
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
@@ -172,8 +172,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>The registrations will be open till the 20th of February.</p><br>
-                                            <p>If you have registered for any one event, you can also attend all the events conducted during the symposium. This registration entitiles you to attend all the technical and non-technical events.</p>
+                                              <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session
 

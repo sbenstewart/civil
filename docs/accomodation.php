@@ -46,7 +46,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -75,7 +75,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="entry-header">
-                        <h2 class="entry-title">ACCOMODATION</h2>
+                        <h2 class="entry-title">ACCOMMODATION</h2>
 
                         <!--<ul class="breadcrumbs flex align-items-center">
                             <li><a href="#">Home</a></li>
@@ -126,13 +126,13 @@
 
                                           <div id="tab_venue" class="tab-content">
                                             <h2 class="entry-header">Call for any doubts or queries</h2>
-
                                             <ul>
                                               <li>Bharath&emsp;8489808900</li>
                                               <li>Muhammad Mukhthar M K&emsp;8903936211</li>
                                               <li>Thamizharasi&emsp;7010413102</li>
                                           </ul>
-                                        </div>
+
+                                          </div>
 
                                           <div id="tab_organizers" class="tab-content">
                                               <h2 class="entry-header">Rules to be followed</h2>

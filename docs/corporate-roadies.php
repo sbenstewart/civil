@@ -57,7 +57,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -124,10 +124,10 @@
                                                 &emsp;&emsp;&emsp;&emsp;- Walt Disney</b></strong>
                                                 <br>
                                                 <br>
-                                                Entrepreneurship is neither a science nor an art it’s a practice and it’s not about ideas, it’s about making ideas happen.<br>
+                                                Entrepreneurship is neither a science nor an art.It’s a practice and it’s not about ideas, it’s about making ideas happen.<br>
                                                 Make your ideas happen.<br>
-                                                You don't have to see the whole staircase just take the FIRST STEP.<br>
-                                                Take your first step here and explore your Entrepreneurship potential!
+                                                You don't have to see the whole staircase, just take the FIRST STEP.<br>
+                                                Take your first step here and explore your entrepreneurship potential!
                                                 </p>
 
                                                 <h2 class="entry-header">FORMAT:</h2>
@@ -179,7 +179,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>If you have registered for any one event, you can also attend all the events conducted during the symposium. This registration entitiles you to attend all the technical and non-technical events.</p>
+                                              <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session
 

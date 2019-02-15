@@ -44,7 +44,7 @@
 
                             <ul>
                                 <li><a href="index.php#home">HOME</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="admin.php">ADMIN PAGE</a></li>
 
 

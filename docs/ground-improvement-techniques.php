@@ -57,7 +57,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -113,6 +113,7 @@
                                       <ul class="tabs-nav flex">
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Venue</li>
+
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organizers</li>
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                                       </ul><!-- tabs-nav -->
@@ -142,7 +143,7 @@
                                           <div id="tab_venue" class="tab-content">
                                             <p>4<sup>th</sup>March from 8:00 AM at Vivek Auditorium.</p>
                                           </div>
-
+                                          
                                           <div id="tab_organizers" class="tab-content">
                                             <ul>
                                               <li>	Raj Aditya&emsp;9629230056</li>

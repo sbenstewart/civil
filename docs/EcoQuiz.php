@@ -57,7 +57,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -126,7 +126,7 @@
                                                 </b></strong>
                                                 <br>
                                                 <br>
-                                                <br>Taking care of the earth isn't all fun and games,but it can be sometimes.So test your knowledge and see just how much you know.<br>Do you consider yourself eco,or do you think this new trend in the world is totally a waste of time and money? This quiz will help you discover how green you are!Dig in!
+                                                <br>Taking care of the earth isn't all fun and games,but it can be sometimes.So test your knowledge and see just how much you know.<br>Do you consider yourself eco friendly,or do you think this new trend in the world is totally a waste of time and money? This quiz will help you discover how green you are!Dig in!
                                                 <br>
 
                                               </p>
@@ -142,8 +142,8 @@
                                                 <li>FINALS:
                                                   <ul>
                                                     <li>It's pen and paper round.</li>
-                                                    <li>Set of question will be relavant to environmental issues.</li>
-                                                    <li>Based on the performance winner will be selected.</li>
+                                                    <li>Set of question will be given relavant to environmental issues.</li>
+                                                    <li>Based on the performance, winner will be selected.</li>
                                                   </ul>
                                                 </li>
 
@@ -154,7 +154,7 @@
                                                 <li>Phone is not allowed.</li>
                                                 <li>A group can have at most 2 members.</li>
                                                 <li>There will be negative marks.</li>
-                                                <li>Everyone should bring the calculator.</li>
+                                                <li>Everyone should bring a calculator.</li>
                                               </ol>
 
 
@@ -178,8 +178,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>The registrations will be open till the 20th of February.</p><br>
-                                            <p>If you have registered for any one event, you can also attend all the events conducted during the symposium. This registration entitiles you to attend all the technical and non-technical events.</p>
+                                            <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session
 
@@ -198,7 +197,7 @@
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="EVENTS" id="event" />
-                                                  <!--<input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>-->
+                                                <!--  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input> -->
                                                   <br>
 
                                                   <?php

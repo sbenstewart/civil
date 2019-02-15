@@ -57,7 +57,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -125,7 +125,7 @@
                                                 </b></strong>
                                                 <br>
                                                 <br>
-                                                <br>  Construction defects can devalue your property by undermining structural integrity or aesthetic qualities thereby rendering the property to be unusable. Also we’ve come across various laboratory experiments that are of utmost importance in Civil engineering. Are you a Civil Engineer who ponders about constructing defect free buildings? Do you think you know all the field uses of the laboratory experiments? Do you aspire to become a building pathologist? Be at the right event and test your abilities to investigate the defects in construction.
+                                                <br>  Construction defects can devalue your property by undermining structural integrity or aesthetic qualities thereby rendering the property to be unusable. Also we’ve come across various laboratory experiments that are of utmost importance in Civil engineering. Are you a Civil Engineer who ponders over constructing defect free buildings? Do you think you know all the field uses of the laboratory experiments? Do you aspire to become a building pathologist? Be at the right event and test your abilities to investigate the defects in construction.
                                                 <br>
 
                                               </p>
@@ -133,7 +133,7 @@
                                               <ol>
                                                 <li>PRELIMS:
                                                   <ul>
-                                                    <li>First round is a pen and paper based round.</li>
+                                                    <li>First round is a pen and paper round.</li>
                                                     <li>Each team will be given a set of questions with choices.</li>
                                                     <li>Top 5 teams will be selected for finals.</li>
                                                   </ul>
@@ -176,8 +176,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>The registrations will be open till the 20th of February.</p><br>
-                                            <p>If you have registered for any one event, you can also attend all the events conducted during the symposium. This registration entitiles you to attend all the technical and non-technical events.</p>
+                                            <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session
 

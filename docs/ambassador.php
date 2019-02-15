@@ -46,7 +46,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMODATION</a></li>
+                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
                                 <li><a href="about.php">CONTACT</a></li>
                                 <?php
                                 // Start the session
@@ -290,56 +290,56 @@
                             </div>
                         </div>
                     </div>
-                </div><!-- row elements-wrap -->
+                </div> row elements-wrap -->
 
-                <div class="row elements-wrap">
+              <!--  <div class="row elements-wrap">
                     <div class="col-12">
                         <div class="entry-header">
                             <h2 class="entry-title">Icon Boxes</h2>
-                        </div><!-- entry-header -->
+                        </div> entry-header -->
 
-                        <div class="entry-content">
+                <!--        <div class="entry-content">
                             <div class="row">
                                 <div class="col-12 col-md-6 col-lg-4">
                                     <div class="icon-box icon-box-1">
                                         <div class="entry-header">
                                             <h3 class="entry-title">The mission</h3>
-                                        </div><!-- entry-header -->
+                                        </div> entry-header -->
 
-                                        <div class="entry-content">
+                                    <!--    <div class="entry-content">
                                             <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus.
                                                 Nullam vestibulum convallis risus vel condimentum. </p>
-                                        </div><!-- entry-content -->
-                                    </div><!-- icon-box -->
-                                </div><!-- col-4 -->
+                                        </div> entry-content -->
+                              <!--      </div> icon-box -->
+                                <!--  </div> col-4 -->
 
-                                <div class="col-12 col-md-6 col-lg-4 mt-5 mt-md-0">
+                          <!--        <div class="col-12 col-md-6 col-lg-4 mt-5 mt-md-0">
                                     <div class="icon-box icon-box-2">
                                         <div class="entry-header">
                                             <h3 class="entry-title">The mission</h3>
-                                        </div><!-- entry-header -->
+                                        </div> entry-header -->
 
-                                        <div class="entry-content">
+                                    <!--      <div class="entry-content">
                                             <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus.
                                                 Nullam vestibulum convallis risus vel condimentum. </p>
-                                        </div><!-- entry-content -->
-                                    </div><!-- icon-box -->
-                                </div><!-- col-4 -->
+                                        </div> entry-content -->
+                                <!--      </div> icon-box -->
+                            <!--      </div> col-4 -->
 
-                                <div class="col-12 col-md-6 col-lg-4 mt-5 mt-lg-0">
+                          <!--        <div class="col-12 col-md-6 col-lg-4 mt-5 mt-lg-0">
                                     <div class="icon-box icon-box-3">
                                         <div class="entry-header">
                                             <h3 class="entry-title">The mission</h3>
-                                        </div><!-- entry-header -->
+                                        </div> entry-header -->
 
-                                        <div class="entry-content">
+                                    <!--      <div class="entry-content">
                                             <p>Curabitur venenatis efficitur lorem sed tempor. Integer aliquet tempor cursus.
                                                 Nullam vestibulum convallis risus vel condimentum. </p>
-                                        </div><!-- entry-content -->
-                                    </div><!-- icon-box -->
-                                </div><!-- col-4 -->
-                            </div><!-- row -->
-                        </div><!-- entry-content -->
+                                        </div> entry-content -->
+                            <!--          </div> icon-box -->
+                              <!--    </div> col-4 -->
+                        <!--      </div> row -->
+                      <!--    </div> entry-content -->
                     </div><!-- col-12 -->
                 </div><!-- row elements-wrap -->
             </div><!-- container -->

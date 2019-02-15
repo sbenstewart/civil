@@ -73,7 +73,7 @@
 
                                 if(isset($_SESSION["cid"]))
                                 {
-                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
+                                  $print1 .="<li><a href='logout.php'>LOGOUT</a></li>";
                                 }
                                 else {
                                   $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
@@ -153,7 +153,7 @@
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <figure class="featured-image">
                                   <center>
-                                    <a href="#"> <img src="images/tall buildingsCompressed.jpg" alt=""> </a>
+                                    <a href="tall-structures.php" target="_blank"> <img src="images/tall buildingsCompressed.jpg" alt=""> </a>
                                   </center>
                                 </figure><!-- featured-image -->
 
@@ -178,7 +178,7 @@
                                 <div class="lineup-artists-description">
                                     <figure class="featured-image d-md-none">
                                       <center>
-                                        <a href="#"> <img src="images/GroundAlterResized.jpg" alt=""> </a>
+                                        <a href="ground-improvement-techniques.php" target="_blank"> <img src="images/GroundAlterResized.jpg" alt=""> </a>
                                       </center>
                                     </figure><!-- featured-image -->
 
@@ -209,7 +209,7 @@ Keller's experience in India in providing optimal ground improvement solutions s
                             <div class="lineup-artists-wrap flex flex-wrap">
                                 <figure class="featured-image">
                                   <center>
-                                    <a href="#"> <img src="images/WasteManagementResized.jpg" alt=""> </a>
+                                   <a href="solid-waste-management.php" target="_blank"> <img src="images/WasteManagementResized.jpg" alt=""> </a>
                                   </center>
                                 </figure><!-- featured-image -->
 
@@ -239,6 +239,7 @@ Keller's experience in India in providing optimal ground improvement solutions s
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Non-Tech Events</h2>
+                            <p>OD will be provided for the attendees</p>
                         </div><!-- entry-title -->
 
                         <div class="row the-complete-lineup-artists">
@@ -304,6 +305,7 @@ Keller's experience in India in providing optimal ground improvement solutions s
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Tech Events</h2>
+                            <p>OD will be provided for the attendees</p>
                         </div><!-- entry-title -->
 
                         <div class="row the-complete-lineup-artists">
@@ -638,7 +640,7 @@ Keller's experience in India in providing optimal ground improvement solutions s
                       <div class="lineup-artists-wrap flex flex-wrap">
                           <figure class="featured-image">
                             <center>
-                              <a href="#"> <img src="images/ambassador.png" alt=""> </a>
+                               <a href="ambassador.php" target="_blank"> <img src="images/ambassador.png" alt=""> </a>
                             </center>
                           </figure><!-- featured-image -->
 
@@ -662,7 +664,7 @@ Keller's experience in India in providing optimal ground improvement solutions s
                               <div class="lineup-artists-wrap flex flex-wrap">
                                   <figure class="featured-image">
                                     <center>
-                                      <a href="#"> <img src="images/planning.png" alt=""> </a>
+                                      <a href="project-submission.php" target="_blank"> <img src="images/planning.png" alt=""> </a>
                                     </center>
                                   </figure><!-- featured-image -->
 
@@ -685,7 +687,7 @@ Keller's experience in India in providing optimal ground improvement solutions s
                               <div class="lineup-artists-wrap flex flex-wrap">
                                   <figure class="featured-image">
                                     <center>
-                                      <a href="#"> <img src="images/home.png" alt=""> </a>
+                                    <a href="accomodation.php" target="_blank"> <img src="images/home.png" alt=""> </a>
                                     </center>
                                   </figure><!-- featured-image -->
 

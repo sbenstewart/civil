@@ -64,7 +64,7 @@
 
                                 if(isset($_SESSION["cid"]))
                                 {
-                                  $print1 .="<li><a href='login.php'>LOGOUT</a></li>";
+                                  $print1 .="<li><a href='logout.php'>LOGOUT</a></li>";
                                 }
                                 else {
                                   $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
@@ -148,7 +148,7 @@
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>Civilization 19 ID is mandatory</li>
+                                                <li>Civilisation 19 ID is mandatory</li>
                                                 <li>A group of participants must be 3 only.</li>
                                                 <li>Phone is not allowed.</li>
                                                 <li>Participants build a bridge within the given time.</li>
@@ -200,7 +200,7 @@
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="EVENTS" id="event" />
-                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
+                                                  <!--<input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>-->
                                                   <br>
 
                                                   <?php

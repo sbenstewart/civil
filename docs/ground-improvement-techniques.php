@@ -108,12 +108,11 @@
 
                         <div class="entry-content">
                             <div class="row">
-                              <div class="col-12 col-lg-9 mt-5 mt-lg-0">
+                              <div class="col-12 col-lg-9 mt-5 mt-lg-0">       
                                   <div class="tabs">
                                       <ul class="tabs-nav flex">
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
-                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Venue</li>
-                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_presenters">Presenters</li>
+                                          <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Presenters and Venue</li>
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organizers</li>
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                                       </ul><!-- tabs-nav -->
@@ -141,17 +140,16 @@
                                           </div>
 
                                           <div id="tab_venue" class="tab-content">
-                                            <p>4<sup>th</sup>March from 8:00 AM at Vivek Auditorium.</p>
-                                          </div>
-                                          <div id="tab_presenters" class="tab-content">
+                                            <p>The workshop will be conducted on <b><strong>4<sup>th</sup> March from 8:00 AM at Vivek Auditorium.</strong></b></p>
+
                                           <ul>
-                                            <li><b>Mr.Madan Kumar Annam</b>
-<p>Post Graduate Geotechnical Engineer having more than 23 years of Professional Experience in Geotechnical Engineering field in both Consultancy & Construction firms.
-Madan Kumar worked for 16 years in Indian & Multi National Consultancy Organizations at various levels (e.g. L&T, L&T-RAMBOLL, DAR Group in Dubai and COWI Consultants in India & Denmark).
-<br>Presently, he is working with Keller Group in India since 2011, as Head of Engineering and has been active in the design and construction of foundation systems for several major infrastructure projects.
-Handled variety of Geotechnical Engineering problems during his career.<br>
-Successfully fulfilled his role of ‘Design Team Leader’ for the prestigious ‘Underground LPG Storage Cavern Project at Vizag’.<br>
-Madan Kumar has published several technical papers in National and International Conferences and Journals.</p></li>
+                                            <li>The worshop will be conducted by <b>Mr.Madan Kumar Annam</b>
+                                            <p>Post Graduate Geotechnical Engineer having more than 23 years of Professional Experience in Geotechnical Engineering field in both Consultancy & Construction firms.
+                                            Madan Kumar worked for 16 years in Indian & Multi National Consultancy Organizations at various levels (e.g. L&T, L&T-RAMBOLL, DAR Group in Dubai and COWI Consultants in India & Denmark).
+                                            <br>Presently, he is working with Keller Group in India since 2011, as Head of Engineering and has been active in the design and construction of foundation systems for several major infrastructure projects.
+                                            Handled variety of Geotechnical Engineering problems during his career.<br>
+                                            Successfully fulfilled his role of ‘Design Team Leader’ for the prestigious ‘Underground LPG Storage Cavern Project at Vizag’.<br>
+                                            Madan Kumar has published several technical papers in National and International Conferences and Journals.</p></li>
                                             <li><b>Mr. P. V. S. R. Prasad </b>
                                               <p>Experienced Senior Geotechnical Engineer with a demonstrated history of working in the construction industry.<br> Skilled in Geotechnics, Highways, Earthworks, Site Investigation, and Ground Improvement. Strong engineering professional with a M.Tech focused in Geotechnical and Geoenvironmental Engineering from Indian Institute of Technology, Delhi.
                                           </p>  </li>

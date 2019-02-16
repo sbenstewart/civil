@@ -108,7 +108,7 @@
 
                         <div class="entry-content">
                             <div class="row">
-                              <div class="col-12 col-lg-7 mt-5 mt-lg-0">
+                              <div class="col-12 col-lg-9 mt-5 mt-lg-0">
                                   <div class="tabs">
                                       <ul class="tabs-nav flex">
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>

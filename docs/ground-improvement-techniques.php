@@ -157,7 +157,6 @@ Madan Kumar has published several technical papers in National and International
                                           </p>  </li>
                                           </ul>
                                           </div>
-
                                           <div id="tab_organizers" class="tab-content">
                                             <ul>
                                               <li>	Raj Aditya&emsp;9629230056</li>
@@ -168,7 +167,7 @@ Madan Kumar has published several technical papers in National and International
                                           </div>
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>The workshop has been scheduled for March 4. The registrations will be open till the 20th of February.</p><br>
+                                            <p>The workshop has been scheduled for March 4.</p><br>
                                             <p>The workshop costs INR 800 for one indiviual. Group registrations have to be done onsite. T-Shirts and Food can be availed only for online payments.</p>
                                                   <?php
                                                   // Start the session

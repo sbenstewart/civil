@@ -139,13 +139,12 @@
                                                 <ul>
                                                   <li>The presentation time is for 8 mins and queries for 2 mins for each other.</li>
                                                   <li>Candidates should bring their identity card at the time of presentation.</li>
-                                                  <li>Maximum two participants per team.</li>
                                                   <li>Presenter should be in their formal attire during the presentation.</li>
                                                 </ul>
                                               </li>
                                               <li>PAPER SUBMISSION:
                                                 <ul>
-                                                  <li>The softcopy of the abstract should be submitted to paperpresentation.c2019@gmail.com on or before Feb22,2019.</li>
+                                                  <li>The softcopy of the abstract should be submitted to paperpresentation.c2019@gmail.com on or before Feb25,2019.</li>
                                                   <li>Working models, samples fetch you extra points.</li>
                                                   <li>Candidates should  bring hard copy and soft copy of the paper at the time of presentation.</li>
                                                   <li>Bring your soft copies in pendrive.</li>

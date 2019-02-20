@@ -136,7 +136,7 @@
                                                       <li>The constituents should be cement, sand, water, and admixture, wire mesh (type and material can be decided by the participants).</li>
                                                       <li>Preparing  a  detailed report of  the  design  mix and  its online submission to us  before  the  specified  dead line.</li>
                                                       <li>(NOTE:  The participants will be selected to the next stage based on their abstract.)</li>
-                                                      <li><b><strong>Please send your abstracts on or before February 25 to confloat.c19@gmail.com</strong></b></li>
+                                                      <li><b><strong>Please send your abstracts on or before February 28 to confloat.c19@gmail.com</strong></b></li>
                                                     </ul>
                                                   </li>
                                                   <li>FINALS:
@@ -195,7 +195,7 @@
 
 
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            
+
                                             <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session

@@ -133,19 +133,10 @@
 
                                               <h2 class="entry-header">FORMAT:</h2>
                                               <ol>
-                                                <li>PRELIMS:
-                                                  <ul>
                                                     <li>It is a pen and paper based round where 30 questions will be asked.</li>
                                                     <li>Each team will be given a set of questions with and without choices.</li>
-                                                    <li>The top 5 teams will be selected for the finals.</li>
-                                                  </ul>
-                                                </li>
-                                                <li>FINALS:
-                                                  <ul>
                                                     <li>The final round will be given a design problem.</li>
                                                     <li>Judges decision will be final.</li>
-                                                  </ul>
-                                                </li>
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
@@ -179,7 +170,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                          
+
                                             <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session

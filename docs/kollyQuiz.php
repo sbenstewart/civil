@@ -179,6 +179,7 @@ No Conjuring!But Kanchana.📽"<br>
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
+                                            <p>The registrations will be open till the 28th of February.</p>
                                             <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session

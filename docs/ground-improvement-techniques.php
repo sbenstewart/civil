@@ -108,7 +108,7 @@
 
                         <div class="entry-content">
                             <div class="row">
-                              <div class="col-12 col-lg-9 mt-5 mt-lg-0">       
+                              <div class="col-12 col-lg-9 mt-5 mt-lg-0">
                                   <div class="tabs">
                                       <ul class="tabs-nav flex">
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
@@ -166,6 +166,7 @@
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
                                             <p>The workshop has been scheduled for March 4.</p><br>
+                                            <p>The registrations will be open till the 28th of February.</p><br>
                                             <p>The workshop costs INR 800 for one indiviual. Group registrations have to be done onsite. T-Shirts and Food can be availed only for online payments.</p>
                                                   <?php
                                                   // Start the session

@@ -186,7 +186,7 @@
 
                                                     <!--<div class="entry-content flex">-->
                                                         <input type="hidden" value="GROUND IMPROVEMENT TECHNIQUES" id="event" />
-                                                        <!--<input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>-->
+                                                        <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                         <br>
 
                                                         <?php

@@ -524,6 +524,13 @@ body {
     color: hsl(0, 0%, 48%);
 }
 
+.the-complete-lineup .entry-title a {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-weight: 600;
+}
+
 .the-complete-lineup .entry-title h2 {
     width: 100%;
     margin: 0;
@@ -531,6 +538,7 @@ body {
     font-weight: 600;
     color: hsl(0, 0%, 0%);
 }
+
 
 /*------------------------------------------------------------
 ## the-complete-lineup-artists

@@ -168,7 +168,8 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>Sivaram S&emsp;8220597322</li>
+                                                
+                                                <li>	Kowshika&emsp;7598377447</li>
                                                 <li>Nandhini T&emsp;8610417096</li>
                                             </ul>
                                             <p>Mail your queries to events.c19@gmail.com</p>

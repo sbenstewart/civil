@@ -148,6 +148,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
+                                            <p>The registrations will be open till the 28th of February.</p>
                                             <p>The workshop has been scheduled for March 5.</p><br>
                                             <p>The workshop costs INR 800 for one indiviual. Group registrations have to be done onsite. T-Shirts and Food can be availed only for online payments.</p>
                                             <?php
@@ -168,7 +169,7 @@
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="TALL STRUCTURES" id="event" />
-                                                  <!--<input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>-->
+                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
                                                   <br>
 
                                                   <?php

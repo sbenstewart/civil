@@ -239,6 +239,7 @@ Keller's experience in India in providing optimal ground improvement solutions s
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Non-Tech Events</h2>
+                            <a href="dates.pdf" target="_blank">CLICK HERE to view the Schedule</a>
                             <p>OD will be provided for the attendees</p>
                         </div><!-- entry-title -->
 
@@ -305,6 +306,7 @@ Keller's experience in India in providing optimal ground improvement solutions s
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Tech Events</h2>
+                            <a href="dates.pdf" target="_blank">CLICK HERE to view the Schedule</a>
                             <p>OD will be provided for the attendees</p>
                         </div><!-- entry-title -->
 

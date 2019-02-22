@@ -139,8 +139,29 @@
         </div><!-- .container -->
     </div><!-- .hero-content -->
 
+
     <div class="content-section" id="workshops">
         <div class="container">
+          <div class="entry-title">
+              <p></p>
+              <h1 style="color:black;"><b>Sponsors</b></h1>
+          </div><!-- entry-title -->
+          <div class="row">
+            <div class="col-md-5">
+              <div class="thumbnail">
+                <a href="http://www.lntecc.com/" target="_blank">
+                  <img src="images/slogo1.png" alt="L&T" style="width:100%;height:300%;margin:15px;">
+                </a>
+              </div>
+            </div>
+            <div class="col-md-5">
+              <div class="thumbnail">
+                <a href="https://www.terzaghiinstitute.com/" target="_blank">
+                  <img src="images/slogo2.jpg" alt="Therazaghi" style="width:100%;height:300%;margin:15px;">
+                </a>
+              </div>
+            </div>
+          </div>
             <div class="row">
                 <div class="col-12">
                     <div class="lineup-artists-headline">

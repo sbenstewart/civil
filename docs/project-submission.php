@@ -126,7 +126,7 @@
                                                 <ol>
                                                   <li>In morning session, the project should be displayed with the working models and in afternoon session the presentation should be done for your project.</li>
                                                   <li>Working model is mandatory.</li>
-                                                  <li>The softcopy of the abstract should be submitted to projectdisplay.c19@gmail.com on or before February 22,2019.You will receive a acknowledgement mail, if you are selected.</li>
+                                                  <li>The softcopy of the abstract should be submitted to projectdisplay.c19@gmail.com on or before February 28,2019.You will receive a acknowledgement mail, if you are selected.</li>
                                                   <li>The presentation time per team is 20 minutes.</li>
                                                   <li>Any number of participants are allowed per team.</li>
                                                   <li>The fee is Rs.150 which must be paid onspot for each member whose team has been selected and recieve the acknowledgement email.</li>

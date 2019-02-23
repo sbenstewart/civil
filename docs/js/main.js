@@ -208,8 +208,8 @@ url: "loginuser.php",
 data: dataString,
 cache: false,
 success: function(html) {
-alert(html);
-location.reload(true);
+if(html.startsWith("Logged")){window.location = "index.php";}
+else{alert(html);}
 }
 });
 }

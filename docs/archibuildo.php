@@ -185,7 +185,7 @@
                                               $print2 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
                                             }
                                             else {
-                                              $print2 .="<p><b><strong>You must be logged in to register online or onsite.</strong></b></p>";
+                                              $print2 .="<p><b><strong>You must be logged in to register online or onspot.</strong></b></p>";
                                             }
                                             echo  $print2;
                                             ?>
@@ -195,7 +195,7 @@
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="EVENTS" id="event" />
-                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
+                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
                                                   <br>
 
                                                   <?php

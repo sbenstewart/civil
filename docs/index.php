@@ -143,7 +143,7 @@
     <div class="content-section" id="workshops">
         <div class="container">
           <div class="entry-title">
-              <p></p>
+              
               <h1 style="color:black;"><b>Sponsors</b></h1>
           </div><!-- entry-title -->
           <div class="row">

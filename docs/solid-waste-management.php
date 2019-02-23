@@ -143,7 +143,7 @@
                                             <h2 class="entry-header">Click the button below to register.</h2>
                                             <p>The registrations will be open till the 28th of February.</p>
                                             <p>The workshop has been scheduled for March 6.</p><br>
-                                            <p>The workshop costs INR 600 for one indiviual. Group registrations have to be done onsite. T-Shirts and Food can be availed only for online payments.</p>
+                                            <p>The workshop costs INR 600 for one indiviual. Group registrations have to be done onspot. T-Shirts and Food can be availed only for online payments.</p>
                                             <?php
                                             // Start the session
 
@@ -152,7 +152,7 @@
                                               $print2 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
                                             }
                                             else {
-                                              $print2 .="<p><b><strong>You must be logged in to register online or onsite.</strong></b></p>";
+                                              $print2 .="<p><b><strong>You must be logged in to register online or onspot.</strong></b></p>";
                                             }
                                             echo  $print2;
                                             ?>
@@ -162,7 +162,7 @@
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="SOLID WASTE MANAGEMENT" id="event" />
-                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay OnSite"></input>
+                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
                                                   <br>
 
                                                   <?php

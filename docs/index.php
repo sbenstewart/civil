@@ -210,7 +210,7 @@
                                         </div><!-- entry-title -->
 
                                         <div class="entry-content">
-                                          <p><b><strong>Avail the special discount of INR 200 on the tickets from 4 P.M. till midnight.</strong></b></p>
+                                          <p><b><strong>Avail the special discount of INR 200 on the tickets till midnight of 25th February.</strong></b></p>
                                             <p>Ground improvement involves the modification of soil properties or constructing inclusions within the soil to achieve a required performance.
 This method also saves construction and implementation time!</p>
 <p>The workshop is conducted by KELLER GROUND ENGINEERING

@@ -143,7 +143,7 @@
     <div class="content-section" id="workshops">
         <div class="container">
           <div class="entry-title">
-              
+
               <h1 style="color:black;"><b>Sponsors</b></h1>
           </div><!-- entry-title -->
           <div class="row">
@@ -185,6 +185,7 @@
                                         </div><!-- entry-title -->
 
                                         <div class="entry-content">
+                                          <p><b><strong>Avail the special discount of INR 200 on the tickets from 4 P.M. till midnight.</strong></b></p>
                                             <p>To ensure that the building is able to stand up safely, function without excessive deflections which may cause fatigue of structural elements, cracking or failure of fixtures or fittings, or discomfort for occupants. </p>
                                             <p>This workshop is conducted by <b><strong>Larsen & Toubro(L&T India)</strong></b></p>
                                             <a href="tall-structures.php" target="_blank" class="btn">Register</a>

@@ -168,7 +168,6 @@
                                             <p>The workshop has been scheduled for March 4.</p><br>
                                             <p>The registrations will be open till the 28th of February.</p><br>
                                             <p>The workshop costs INR 800 for one indiviual. Group registrations have to be done onspot. T-Shirts and Food can be availed only for online payments.</p>
-                                            <p><b><strong>Avail the special discount of INR 200 on the tickets from 4 P.M. till the midnight of 25th February. Offer valid till slots last.</strong></b></p>
                                                   <?php
                                                   // Start the session
 

@@ -188,6 +188,7 @@
 
                                             <p>To ensure that the building is able to stand up safely, function without excessive deflections which may cause fatigue of structural elements, cracking or failure of fixtures or fittings, or discomfort for occupants. </p>
                                             <p>This workshop is conducted by <b><strong>Larsen & Toubro(L&T India)</strong></b></p>
+                                            <p><b><strong>The workshop has been scheduled for the 5<sup>th</sup> of March from 8:00 AM at Vivek Auditorium.</strong></b></p>
                                             <a href="tall-structures.php" target="_blank" class="btn">Register</a>
                                         </div><!-- entry-content -->
 
@@ -210,11 +211,12 @@
                                         </div><!-- entry-title -->
 
                                         <div class="entry-content">
-                                          <p><b><strong>Avail the special discount of INR 200 on the tickets till midnight of 25th February.</strong></b></p>
+                                          <p><b><strong>Avail the special discount of INR 200 on the tickets.</strong></b></p>
                                             <p>Ground improvement involves the modification of soil properties or constructing inclusions within the soil to achieve a required performance.
 This method also saves construction and implementation time!</p>
 <p>The workshop is conducted by KELLER GROUND ENGINEERING
 Keller's experience in India in providing optimal ground improvement solutions spans two decades and hundreds of projects!</p>
+                                            <p><b><strong>The workshop has been scheduled for the 4<sup>th</sup> of March from 8:00 AM at Vivek Auditorium.</strong></b></p>
                                             <a href="ground-improvement-techniques.php" target="_blank" class="btn">Register</a>
                                         </div><!-- entry-content -->
 
@@ -244,6 +246,7 @@ Keller's experience in India in providing optimal ground improvement solutions s
 
                                         <div class="entry-content">
                                             <p>What direction should India's waste management take? What does the future hold in store? Are landfills the answer? Is Waste-to-energy technology still a good bet? Why segregation is the key?</p>
+                                            <p><b><strong>The workshop has been scheduled for the 6<sup>th</sup> of March from 8:00 AM at Vivek Auditorium.</strong></b></p>
                                             <a href="solid-waste-management.php" target="_blank" class="btn">Register</a>
                                         </div><!-- entry-content -->
 

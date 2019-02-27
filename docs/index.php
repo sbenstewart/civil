@@ -154,6 +154,8 @@
                 </a>
               </div>
             </div>
+          </div>
+          <div class="row">
             <div class="col-md-5">
               <div class="thumbnail">
                 <h3 style="color:black;">Corporate Co-Sponsor</h3>
@@ -164,7 +166,7 @@
             <div class="col-md-5">
               <div class="thumbnail">
                 <h3 style="color:black;">Corporate Co-Sponsor</h3>
-                  <img src="images/ultracon.png" alt="Ultracon" style="width:100%;height:300%;padding-top:15px;">
+                  <img src="images/utracon.png" alt="Ultracon" style="width:100%;height:300%;padding-top:15px;">
                 </a>
               </div>
             </div>

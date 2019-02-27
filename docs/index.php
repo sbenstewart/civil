@@ -161,6 +161,13 @@
                 </a>
               </div>
             </div>
+            <div class="col-md-5">
+              <div class="thumbnail">
+                <h3 style="color:black;">Corporate Co-Sponsor</h3>
+                  <img src="images/ultracon.png" alt="Ultracon" style="width:100%;height:300%;padding-top:15px;">
+                </a>
+              </div>
+            </div>
           </div>
             <div class="row">
                 <div class="col-12">

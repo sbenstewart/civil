@@ -135,7 +135,6 @@
                                               <ol>
                                                     <li>It is a pen and paper based round where 30 questions will be asked.</li>
                                                     <li>Each team will be given a set of questions with and without choices.</li>
-                                                    <li>The final round will be given a design problem.</li>
                                                     <li>Judges decision will be final.</li>
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>

@@ -762,23 +762,23 @@ Keller's experience in India in providing optimal ground improvement solutions s
                             </figure><!-- featured-image -->
 
                             <div class="box-link-date">
-                                <a href="#">TBA</a>
+                                <a href="#">6/3/2019</a>
                             </div>
 
                             <div class="content-wrapper">
                                 <div class="entry-content">
                                     <div class="entry-header">
-                                        <h2><a href="#">Lecture</a></h2>
+                                        <h2><a href="guestlecture1.php">The Civil Engineer-The Shifting Pradigm</a></h2>
                                     </div><!-- entry-header -->
 
                                     <div class="entry-meta">
-                                        <span class="author-name"><a href="#"> Coming Soon</a></span>
+                                        <span class="author-name"><a href="guestlecture1.php"> Dr. Abdussamad Siddiqui</a></span>
                                         <span class="space">|</span>
-                                        <span class="comments-count"><a href="#">2 hours</a></span>
+                                        <span class="comments-count"><a href="guestlecture1.php">March 6, 2019 10.00 a.m</a></span>
                                     </div><!-- entry-meta -->
 
                                     <div class="entry-description">
-                                        <p>The guest lecture list will be announced shortly. We are working hard to schedule them to cause the least inconvenience for those who attend the workshops and events.</p>
+                                        <p>Mohammed Abdussamad is a Director with Starmass Environment Technologies, Canada. He is responsible for Starmass activities both in the middle-east and India. He leads a highly specialized team of 150 - in areas of Infrastructure health monitoring. This includes structural health monitoring, environmental monitoring, sub-surface water flow, and distribution networks. His focus is on Structural Health Monitoring. He has 35 years of experience behind him, with a large part in auditing existing infrastructure and providing SHM systems to new infrastructure. </p>
                                     </div><!-- entry-description -->
                                 </div><!-- entry-content -->
                             </div><!-- content-wrapper -->

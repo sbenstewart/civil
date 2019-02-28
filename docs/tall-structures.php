@@ -148,7 +148,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>The registrations will be open till the 28th of February.</p>
+                                            <p>The registrations will be open till the 3rd of March.</p>
                                             <p>The workshop has been scheduled for March 5.</p><br>
                                             <p>The workshop costs INR 800 for one indiviual. Group registrations have to be done onspot. Food can be availed only for online payments.</p>
                                             <?php

@@ -114,7 +114,7 @@
                                           <li class="tab-nav flex justify-content-center align-items-center active" data-target="#tab_details">Details</li>
                                           <!--<li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Venue</li>-->
                                           <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organizers</li>
-                                          
+
                                       </ul><!-- tabs-nav -->
 
                                       <div class="tabs-container">
@@ -150,7 +150,10 @@
                                               <h2 class="entry-header">Call for any doubts or queries</h2>
 
                                               <ul>
-                                                <li>	Kiran&emsp;8940150356</li>
+                                                <li>Rajasekar&emsp;7339192289</li>
+                                                <li>Sainisha B&emsp;9840095133</li>
+                                                <li>Razool Jazmeen M&emsp;7530085186</li>
+
                                             </ul>
                                             <p>Mail your queries to Sceceg225@gmail.com</p>
                                           </div>

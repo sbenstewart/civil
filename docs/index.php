@@ -177,7 +177,7 @@
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Workshops</h2>
-                            <a href="https://www.townscript.com/e/flash-discount-232334" target="_blank">Attend Ground Improvment and Solid Waste Management for only INR 1000.</a>
+                            <a href="https://www.townscript.com/e/flash-discount-232334" target="_blank">Click here to attend Ground Improvment and Solid Waste Management for only INR 1000.</a>
                         </div><!-- entry-title -->
 
                         <div class="lineup-artists">
@@ -679,6 +679,38 @@ Keller's experience in India in providing optimal ground improvement solutions s
 
                                     <div class="entry-description">
                                         <p>Mohammed Abdussamad is a Director with Starmass Environment Technologies, Canada. He is responsible for Starmass activities both in the middle-east and India. He leads a highly specialized team of 150 - in areas of Infrastructure health monitoring. This includes structural health monitoring, environmental monitoring, sub-surface water flow, and distribution networks. His focus is on Structural Health Monitoring. He has 35 years of experience behind him, with a large part in auditing existing infrastructure and providing SHM systems to new infrastructure. </p>
+                                    </div><!-- entry-description -->
+                                </div><!-- entry-content -->
+                            </div><!-- content-wrapper -->
+                        </div><!-- .col-6 -->
+
+
+                        <div class="col-12 col-md-6">
+                            <figure class="featured-image">
+                              <center>
+                                <a href="#"> <img src="images/guest-lecture.png" alt="fesival+celebration"> </a>
+                              </center>
+                            </figure><!-- featured-image -->
+
+                            <div class="box-link-date">
+                                <a href="#">5/3/2019</a>
+                            </div>
+
+                            <div class="content-wrapper">
+                                <div class="entry-content">
+                                    <div class="entry-header">
+                                        <h2><a href="guestlecture2.php">Explore the Environmental Space - Clean Tech ​Innovations and entrepreneurship</a></h2>
+                                    </div><!-- entry-header -->
+
+                                    <div class="entry-meta">
+                                        <span class="author-name"><a href="guestlecture1.php"> Dr. Indumathi M Nambi</a></span>
+                                        <span class="space">|</span>
+                                        <span class="comments-count"><a href="guestlecture1.php">March 5, 2019 10.30 a.m</a></span>
+                                    </div><!-- entry-meta -->
+
+                                    <div class="entry-description">
+                                        <p>Dr. Indumathi Nambi  serves as a Professor in the Environment and Water Resources Division of the Department of Civil Engineering at IIT Madras .
+                                        Dr. Indumathi's research focus is on understanding groundwater contaminant transport and transformation  and developing technologies for remediation involving hydrocarbon and solvent spills, and is currently involved in Petroleum, pesticide and heavy metal contaminated site investigations in India.  </p>
                                     </div><!-- entry-description -->
                                 </div><!-- entry-content -->
                             </div><!-- content-wrapper -->

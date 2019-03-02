@@ -177,6 +177,7 @@
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Workshops</h2>
+                            <a href="https://www.townscript.com/e/flash-discount-232334" target="_blank">Attend Ground Improvment and Solid Waste Management for only INR 1000.</a>
                         </div><!-- entry-title -->
 
                         <div class="lineup-artists">

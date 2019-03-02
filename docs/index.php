@@ -654,6 +654,37 @@ Keller's experience in India in providing optimal ground improvement solutions s
                 <div class="home-page-last-news-wrap">
                     <div class="row">
 
+                      <div class="col-12 col-md-6">
+                          <figure class="featured-image">
+                            <center>
+                              <a href="#"> <img src="images/guest-lecture.png" alt="fesival+celebration"> </a>
+                            </center>
+                          </figure><!-- featured-image -->
+
+                          <div class="box-link-date">
+                              <a href="#">5/3/2019</a>
+                          </div>
+
+                          <div class="content-wrapper">
+                              <div class="entry-content">
+                                  <div class="entry-header">
+                                      <h2><a href="guestlecture2.php">Explore the Environmental Space - Clean Tech ​Innovations and entrepreneurship</a></h2>
+                                  </div><!-- entry-header -->
+
+                                  <div class="entry-meta">
+                                      <span class="author-name"><a href="guestlecture1.php"> Dr. Indumathi M Nambi</a></span>
+                                      <span class="space">|</span>
+                                      <span class="comments-count"><a href="guestlecture1.php">March 5, 2019 10.30 a.m</a></span>
+                                  </div><!-- entry-meta -->
+
+                                  <div class="entry-description">
+                                      <p>Dr. Indumathi Nambi  serves as a Professor in the Environment and Water Resources Division of the Department of Civil Engineering at IIT Madras .
+                                      Dr. Indumathi's research focus is on understanding groundwater contaminant transport and transformation  and developing technologies for remediation involving hydrocarbon and solvent spills, and is currently involved in Petroleum, pesticide and heavy metal contaminated site investigations in India.  </p>
+                                  </div><!-- entry-description -->
+                              </div><!-- entry-content -->
+                          </div><!-- content-wrapper -->
+                      </div><!-- .col-6 -->
+
                         <div class="col-12 col-md-6">
                             <figure class="featured-image">
                               <center>
@@ -685,36 +716,7 @@ Keller's experience in India in providing optimal ground improvement solutions s
                         </div><!-- .col-6 -->
 
 
-                        <div class="col-12 col-md-6">
-                            <figure class="featured-image">
-                              <center>
-                                <a href="#"> <img src="images/guest-lecture.png" alt="fesival+celebration"> </a>
-                              </center>
-                            </figure><!-- featured-image -->
 
-                            <div class="box-link-date">
-                                <a href="#">5/3/2019</a>
-                            </div>
-
-                            <div class="content-wrapper">
-                                <div class="entry-content">
-                                    <div class="entry-header">
-                                        <h2><a href="guestlecture2.php">Explore the Environmental Space - Clean Tech ​Innovations and entrepreneurship</a></h2>
-                                    </div><!-- entry-header -->
-
-                                    <div class="entry-meta">
-                                        <span class="author-name"><a href="guestlecture1.php"> Dr. Indumathi M Nambi</a></span>
-                                        <span class="space">|</span>
-                                        <span class="comments-count"><a href="guestlecture1.php">March 5, 2019 10.30 a.m</a></span>
-                                    </div><!-- entry-meta -->
-
-                                    <div class="entry-description">
-                                        <p>Dr. Indumathi Nambi  serves as a Professor in the Environment and Water Resources Division of the Department of Civil Engineering at IIT Madras .
-                                        Dr. Indumathi's research focus is on understanding groundwater contaminant transport and transformation  and developing technologies for remediation involving hydrocarbon and solvent spills, and is currently involved in Petroleum, pesticide and heavy metal contaminated site investigations in India.  </p>
-                                    </div><!-- entry-description -->
-                                </div><!-- entry-content -->
-                            </div><!-- content-wrapper -->
-                        </div><!-- .col-6 -->
 
 
 

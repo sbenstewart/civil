@@ -154,6 +154,8 @@
                 </a>
               </div>
             </div>
+          </div>
+          <div class="row">
             <div class="col-md-5">
               <div class="thumbnail">
                 <h3 style="color:black;">Corporate Co-Sponsor</h3>
@@ -218,7 +220,8 @@
                                         </div><!-- entry-title -->
 
                                         <div class="entry-content">
-                                          <p>Ground improvement involves the modification of soil properties or constructing inclusions within the soil to achieve a required performance.
+                                          <p><b><strong>Avail the special discount of INR 200 on the tickets.</strong></b></p>
+                                            <p>Ground improvement involves the modification of soil properties or constructing inclusions within the soil to achieve a required performance.
 This method also saves construction and implementation time!</p>
 <p>The workshop is conducted by KELLER GROUND ENGINEERING
 Keller's experience in India in providing optimal ground improvement solutions spans two decades and hundreds of projects!</p>

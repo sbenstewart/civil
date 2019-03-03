@@ -166,49 +166,12 @@
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
                                             <p>The workshop has been scheduled for March 4.</p><br>
-                                            <p>The registrations will be open till the 3rd of March.</p><br>
+                                            <p>The registrations can be done onspot.</p><br>
                                             <p>The workshop costs INR 800 for one indiviual. Group registrations have to be done onspot. Food can be availed only for online payments.</p>
-                                                  <?php
-                                                  // Start the session
-
-                                                  if(isset($_SESSION["cid"]))
-                                                  {
-                                                    $print2 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
-                                                  }
-                                                  else {
-                                                    $print2 .="<p><b><strong>You must be logged in to register online or onspot.</strong></b></p>";
-                                                  }
-                                                  echo  $print2;
-                                                  ?>
-
-
-                                                    <form id="registration" class="entry-content">
-
-                                                    <!--<div class="entry-content flex">-->
-                                                        <input type="hidden" value="GROUND IMPROVEMENT TECHNIQUES" id="event" />
-                                                        <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
-                                                        <br>
-
-                                                        <?php
-                                                        // Start the session
-
-                                                        if(isset($_SESSION["cid"]))
-                                                        {
-                                                          $print .="<div><a href='https://www.townscript.com/e/ground-improvement-techniques-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
-                                                        }
-                                                        else {
-                                                          $print .="<div><a href='login.php'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
-                                                        }
-                                                        echo  $print;
-                                                        ?>
 
 
 
-                                                  <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
-                                                  <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
-                                                  <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
-                                              <!--</div>-->
-                                              </form>
+
 
                                               </div>
                                       </div>

@@ -194,30 +194,22 @@
                                             ?>
 
 
-                                              <form id="registration" class="entry-content">
+                                            <form id="registration" class="entry-content">
 
-                                              <!--<div class="entry-content flex">-->
-                                                  <input type="hidden" value="EVENTS" id="event" />
-                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
-                                                  <br>
+                                            <!--<div class="entry-content flex">-->
+                                                <input type="hidden" value="TALL STRUCTURES" id="event" />
+                                                <input class="btn gradient flex justify-content-center align-items-center" type="button" value="Closed."></input>
+                                                <p><b><strong>You can pay and register for the event onspot.</strong></b></p>
+                                                <br>
 
-                                                  <?php
-                                                  // Start the session
 
-                                                  if(isset($_SESSION["cid"]))
-                                                  {
-                                                    $print .="<div><a href='https://www.townscript.com/e/events-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
-                                                  }
-                                                  else {
-                                                    $print .="<div><a href='login.php'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
-                                                  }
-                                                  echo  $print;
-                                                  ?>
-                                                  <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
-                                                  <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
-                                                  <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
-                                              <!--</div>-->
-                                              </form>
+
+
+                                                <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
+                                                <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
+                                                <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
+                                            <!--</div>-->
+                                            </form>
 
                                               </div>
                                       </div>

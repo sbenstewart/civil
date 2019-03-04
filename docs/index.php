@@ -177,7 +177,6 @@
                         <div class="entry-title">
                             <p>JUST THE BEST</p>
                             <h2>Workshops</h2>
-                            <p>You can register onspot to attend both the Ground Improvment and Solid Waste Management workshops for only INR 1000.</p>
                         </div><!-- entry-title -->
 
                         <div class="lineup-artists">

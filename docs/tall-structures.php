@@ -148,42 +148,20 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>The registrations will be open till the 28th of February.</p>
                                             <p>The workshop has been scheduled for March 5.</p><br>
-                                            <p>The workshop costs INR 800 for one indiviual. Group registrations have to be done onspot. T-Shirts and Food can be availed only for online payments.</p>
-                                            <?php
-                                            // Start the session
-
-                                            if(isset($_SESSION["cid"]))
-                                            {
-                                              $print2 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
-                                            }
-                                            else {
-                                              $print2 .="<p><b><strong>You must be logged in to register online or onspot.</strong></b></p>";
-                                            }
-                                            echo  $print2;
-                                            ?>
+                                            <p>The workshop costs INR 800 for one indiviual. Group registrations have to be done onspot. Food can be availed only for online payments.</p>
+                                            
 
 
                                               <form id="registration" class="entry-content">
 
                                               <!--<div class="entry-content flex">-->
                                                   <input type="hidden" value="TALL STRUCTURES" id="event" />
-                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
+                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" value="Closed."></input>
+                                                  <p><b><strong>You can pay and register for the workshop onspot.</strong></b></p>
                                                   <br>
 
-                                                  <?php
-                                                  // Start the session
 
-                                                  if(isset($_SESSION["cid"]))
-                                                  {
-                                                    $print .="<div><a href='https://www.townscript.com/e/tall-structures-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
-                                                  }
-                                                  else {
-                                                    $print .="<div><a href='login.php'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
-                                                  }
-                                                  echo  $print;
-                                                  ?>
 
 
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>

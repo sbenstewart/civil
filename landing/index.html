@@ -1,171 +1,82 @@
-<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
 <!DOCTYPE html>
-<html lang="en-US">
-    <!--<![endif]-->
+<html lang="en" >
 
-    <head>
-        <meta charset="utf-8">
-        <title>
-            Ben Stewart
-        </title><!-- Behavioral Meta Data -->
-        <meta content="yes" name="apple-mobile-web-app-capable">
-        <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"><!-- Core Meta Data -->
-        <meta content="S Ben Stewart" name="author">
-        <meta content="Site under construction" name="description">
-        <meta content="Ben, construction, freelancer, developer" name="keywords"><!-- Open Graph Meta Data -->
-        <link href="favicon.png" rel="shortcut icon" type="image/png">
+<head>
+  <meta charset="UTF-8">
+  <title>Under Construction</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
 
-        <!--[if lt IE 9]>
-            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+  <script src="js/jquery.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-        <!-- CSS -->
-        <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,900' rel='stylesheet' type='text/css'><!-- Styles -->
-        <link href="css/loader.css" rel="stylesheet" type="text/css">
-        <link href="css/normalize.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link href="css/style.css" rel="stylesheet" type="text/css">
-        <!--[if lt IE 9]>
-            <link rel="stylesheet" type="text/css" href="css/ie.css" />
-        <![endif]-->
-        <!-- Javascript -->
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:400,500,700'>
 
-        <script src="js/jquery.js"></script>
-    </head>
-    <body>
-        <div class="preloader">
-            <div class="loading">
-                <h2>
-                    Loading...
-                </h2>
-                <span class="progress"></span>
-            </div>
-        </div>
+      <link rel="stylesheet" href="css/style.css">
 
-        <div class="wrapper">
-            <ul class="scene unselectable" data-friction-x="0.1" data-friction-y="0.1" data-scalar-x="25" data-scalar-y="15" id="scene">
-                <li class="layer" data-depth="0.00">
-                </li>
-                <!-- BG -->
+  
+</head>
 
-                <li class="layer" data-depth="0.10">
-                    <div class="background">
-                    </div>
-                </li>
+<body>
 
-                <!-- Hero -->
+		
 
-                <li class="layer" data-depth="0.20">
-                    <div class="title">
-                        <h2>
-                            <img src="logo-footer.png">
-                        </h2>
-                        <span class="line"></span>
-                    </div>
-                </li>
+  <main>
+			<div class="preloader-wrapper">
+					<div class="preloader">
+							<img src="img/BuzzarkLOGO.jpg" alt="NILA">
+					</div>
+			</div>
+			
+	<ul id="scene" 
+		data-friction-x="0.1"
+		data-friction-y="0.1"
+		data-scalar-x="25"
+		data-scalar-y="15"
+		data-limit-y="50"
+		class="scene">
+		<li class="layer" data-depth="0.40">
+				
+			<div class="content">
+				<h1 id="title" style="font-size:425%">Site Launching Soon!</h1>
+				<p style="font-size:225%">We at BuzzArk are working really hard<br>to bring an awesome website</p>
+			</div>
+		</li>
+		<li class="layer" data-depth="1.00">
+			<div class="footer"></div>
+		</li>
+		<li class="layer" data-depth="0.65">
+			<div class="cloud-back">
+				<img src="https://res.cloudinary.com/jasonheecs/image/upload/v1480353347/construction/rocket_cloud_back.svg" alt="Site Launching Soon!" />
+			</div>
+		</li>
+		<li class="layer" data-depth="0.70">
+			<div class="rocket">
+				<img src="https://res.cloudinary.com/jasonheecs/image/upload/v1480353347/construction/rocket.svg" alt="Site Launching Soon!" />
+			</div>
+		</li>
+		<li class="layer" data-depth="0.75">
+			<div class="cloud-front">
+				<img src="https://res.cloudinary.com/jasonheecs/image/upload/v1480353347/construction/rocket_cloud_front.svg" alt="Site Launching Soon!" />
+			</div>
+		</li>
+	</ul>
+	<div class="social"> <a class="social__link" href="#"><img src="img/BuzzarkLOGO.jpg" alt="Facebook" /></a></div> 
+	
+</main>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/parallax/2.1.3/parallax.min.js'></script>
 
-                <li class="layer" data-depth="0.25">
-                    <div class="sphere">
-                        <img alt="sphere" src="images/sphere.png">
-                    </div>
-                </li>
+  
+	<script type="text/javascript" src="js/main.js"></script>
 
-                <li class="layer" data-depth="0.30">
-                    <div class="hero">
-                        <h1> SITE IS CURRENTLY UNDER CONSTRUCTION </h1>
 
-                        <p class="sub-title">
-                            The site will be up shortly. Check back soon.
-                        </p>
-                    </div>
-                </li>
-                <!-- Flakes -->
 
-                <li class="layer" data-depth="0.40">
-                    <div class="depth-1 flake1">
-                        <img alt="flake" src="images/flakes/depth1/flakes1.png">
-                    </div>
 
-                    <div class="depth-1 flake2">
-                        <img alt="flake" src="images/flakes/depth1/flakes2.png">
-                    </div>
+</body>
 
-                    <div class="depth-1 flake3">
-                        <img alt="flake" src="images/flakes/depth1/flakes3.png">
-                    </div>
-
-                    <div class="depth-1 flake4">
-                        <img alt="flake" src="images/flakes/depth1/flakes4.png">
-                    </div>
-                </li>
-
-                <li class="layer" data-depth="0.50">
-                    <div class="depth-2 flake1">
-                        <img alt="flake" src="images/flakes/depth2/flakes1.png">
-                    </div>
-
-                    <div class="depth-2 flake2">
-                        <img alt="flake" src="images/flakes/depth2/flakes2.png">
-                    </div>
-                </li>
-
-                <li class="layer" data-depth="0.60">
-                    <div class="depth-3 flake1">
-                        <img alt="flake" src="images/flakes/depth3/flakes1.png">
-                    </div>
-
-                    <div class="depth-3 flake2">
-                        <img alt="flake" src="images/flakes/depth3/flakes2.png">
-                    </div>
-
-                    <div class="depth-3 flake3">
-                        <img alt="flake" src="images/flakes/depth3/flakes3.png">
-                    </div>
-
-                    <div class="depth-3 flake4">
-                        <img alt="flake" src="images/flakes/depth3/flakes4.png">
-                    </div>
-                </li>
-
-                <li class="layer" data-depth="0.80">
-                    <div class="depth-4">
-                        <img alt="flake" src="images/flakes/depth4/flakes.png">
-                    </div>
-                </li>
-
-                <li class="layer" data-depth="1.00">
-                    <div class="depth-5">
-                        <img alt="flake" src="images/flakes/depth5/flakes.png">
-                    </div>
-                </li>
-                <!-- Contact -->
-
-                <li class="layer" data-depth="0.20">
-                    <div class="contact">
-                        <ul class="icons">
-                          <li>
-                      <a href="tel:9489408090"><i class="fa fa-phone"></i></a>
-                  </li>
-                  <li>
-                      <a href="mailto:sbenstewart@gmail.com"><i class="fa fa-google"></i></a>
-                  </li>
-                  <li>
-                      <a href="https://api.whatsapp.com/send?phone=919489408090" target="_blank"><i class="fa fa-whatsapp"></i></a>
-                  </li>
-                  <li>
-                      <a href="https://github.com/sbenstewart" target="_blank"><i class="fa fa-github"></i></a>
-                  </li>
-                        </ul>
-                    </div>
-                </li>
-            </ul>
-        </div>
-
-        <!-- Javascript -->
-        <script src="js/plugins.js"></script>
-        <script src="js/jquery.countdown.min.js"></script>
-        <script src="js/main.js"></script>
-
-    </body>
 </html>

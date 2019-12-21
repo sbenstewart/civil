@@ -31,7 +31,7 @@ alert("Passwords don't match.");
   {
     jQuery.ajax({
     type: "POST",
-    url: "registeruser.php",
+    url: "php/registeruser.php",
     data: dataString,
     cache: false,
     success: function(html) {
@@ -43,7 +43,7 @@ alert("Passwords don't match.");
 // AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "registeruserwithcode.php",
+url: "php/registeruserwithcode.php",
 data: dataString,
 cache: false,
 success: function(html) {
@@ -67,7 +67,7 @@ alert("Please Fill All Fields");
 // AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "registeraccomodation.php",
+url: "php/registeraccomodation.php",
 data: dataString,
 cache: false,
 success: function(html) {
@@ -88,7 +88,7 @@ alert("Don't you want lunch and a T-shirt?");
 // AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "registerextras.php",
+url: "php/registerextras.php",
 data: dataString,
 cache: false,
 success: function(html) {
@@ -114,7 +114,7 @@ function regEvent() {
   // AJAX code to submit form.
   jQuery.ajax({
   type: "POST",
-  url: "registerevent.php",
+  url: "php/registerevent.php",
   data: dataString,
   cache: false,
   success: function(html) {
@@ -137,7 +137,7 @@ alert("Please Fill All Fields");
 // AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "registerambassador.php",
+url: "php/registerambassador.php",
 data: dataString,
 cache: false,
 success: function(html) {
@@ -168,7 +168,7 @@ if(code =='')
 {
   jQuery.ajax({
   type: "POST",
-  url: "edituser.php",
+  url: "php/edituser.php",
   data: dataString,
   cache: false,
   success: function(html) {
@@ -180,7 +180,7 @@ else {
 // AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "edituserwithcode.php",
+url: "php/edituserwithcode.php",
 data: dataString,
 cache: false,
 success: function(html) {
@@ -204,7 +204,7 @@ alert("Please Fill All Fields");
 // AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "loginuser.php",
+url: "php/loginuser.php",
 data: dataString,
 cache: false,
 success: function(html) {
@@ -226,7 +226,7 @@ alert("Please Fill All Fields");
 // AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "loginadmin.php",
+url: "php/loginadmin.php",
 data: dataString,
 cache: false,
 success: function(html) {
@@ -247,7 +247,7 @@ alert("Please Fill All Fields");
 // AJAX code to submit form.
 jQuery.ajax({
 type: "POST",
-url: "forgotpassword.php",
+url: "php/forgotpassword.php",
 data: dataString,
 cache: false,
 success: function(html) {

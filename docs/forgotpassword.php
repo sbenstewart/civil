@@ -32,7 +32,8 @@ try {
 
         /* Check the number of rows that match the SELECT statement */
         if ($res->fetchColumn() > 0) {
-          $count = $conn->exec("update user set password='$code' where emailid='$mail2'");
+		  $code2 = password_hash($code, PASSWORD_BCRYPT);
+          $count = $conn->exec("update user set password='$code2' where emailid='$mail2'");
           //echo "New password is $code";
 
 					$to   = $mail2;

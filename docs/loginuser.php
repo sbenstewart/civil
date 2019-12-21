@@ -7,13 +7,19 @@ try {
 
   $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
 
-  $sql = "SELECT COUNT(*) from user where emailid='$mail2' and password='$password2'";
+  $sql = "SELECT COUNT(*) from user where emailid='$mail2'";
   if ($res = $conn->query($sql)) {
 
       /* Check the number of rows that match the SELECT statement */
       if ($res->fetchColumn() > 0) {
-        foreach ($conn->query("SELECT cid,name from user where emailid='$mail2' and password='$password2'") as $row)
+        foreach ($conn->query("SELECT cid,name,password from user where emailid='$mail2'") as $row)
         {
+          $passwordIsCorrect = password_verify($password2, $row['password']);
+          if ($passwordIsCorrect == false)
+          {
+          echo "Incorrect Password";
+          break;
+          }
           $id = $row['cid'];
           $name = $row['name'];
           session_start();
@@ -21,9 +27,9 @@ try {
           $_SESSION["name"]=$name;
           echo "Logged in as ";
           echo $_SESSION["name"];
-          echo " with cid. ";
+          echo " with cid ";
           echo $id;
-          echo "Please note this number for future reference.";
+          echo ". Please note this number for future reference.";
 
           /*session is started if you don't write this line can't use $_Session  global variable*/
         }
@@ -31,7 +37,7 @@ try {
         }
         /* No rows matched -- do something else */
         else {
-        echo "User name / password is incorrect.";
+        echo "User name is incorrect.";
 
         }
         }

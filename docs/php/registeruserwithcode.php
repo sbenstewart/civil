@@ -22,6 +22,7 @@ try {
           {
             $id = $row['aid'];
           }
+          $password2 = password_hash($password2, PASSWORD_BCRYPT);
           $count = $conn->exec("insert into user(name, emailid, phoneno, aid, college, year, dept, course, password) values ('$name2', '$mail2', '$phone2', '$id', '$college2', '$year2', '$dept2', '$course2', '$password2')");
           echo "Registered as $name2. Login to your account.";
           }

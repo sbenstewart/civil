@@ -178,7 +178,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                             <h2 class="entry-header">Click the button below to register.</h2>
-                                            <p>The registrations can be done onspot.</p>
+                                             <p>The registrations will be open till the 28th of February.</p>
                                             <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                                             <?php
                                             // Start the session
@@ -196,20 +196,27 @@
 
                                             <form id="registration" class="entry-content">
 
-                                            <!--<div class="entry-content flex">-->
-                                                <input type="hidden" value="TALL STRUCTURES" id="event" />
-                                                <input class="btn gradient flex justify-content-center align-items-center" type="button" value="Closed."></input>
-                                                <p><b><strong>You can pay and register for the event onspot.</strong></b></p>
-                                                <br>
+                                              <!--<div class="entry-content flex">-->
+                                                  <input type="hidden" value="EVENTS" id="event" />
+                                                  <input class="btn gradient flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
+                                                  <br>
 
-
-
-
-                                                <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
-                                                <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
-                                                <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
-                                            <!--</div>-->
-                                            </form>
+                                                  <?php
+                                                  // Start the session
+                                                  if(isset($_SESSION["cid"]))
+                                                  {
+                                                    $print .="<div><a href='https://www.townscript.com/e/events-232334'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
+                                                  }
+                                                  else {
+                                                    $print .="<div><a href='login.php'><input class='btn gradient flex justify-content-center align-items-center' type='button'  value='Pay and Register'></input></a></div>";
+                                                  }
+                                                  echo  $print;
+                                                  ?>
+                                                  <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
+                                                  <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
+                                                  <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->
+                                              <!--</div>-->
+                                              </form>
 
                                               </div>
                                       </div>

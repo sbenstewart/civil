@@ -161,7 +161,7 @@
 
                                           <div id="tab_about" class="tab-content">
                                               <h2 class="entry-header">Registration</h2>
-                                              <p>Registration may be done onspot.</p>
+                                               <p>Click the button below to register.</p>
                                               <?php
                                               // Start the session
 
@@ -172,6 +172,7 @@
                                               echo  $print2;
                                               ?>
                                               <div class="entry-content flex">
+                                                <a href="accomodation-signup.php" class="btn gradient flex justify-content-center align-items-center">Register</a>
                                                   <!--<a href="#" class="btn white flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn border-blu flex justify-content-center align-items-center">Load More</a>
                                                   <a href="#" class="btn color-border flex justify-content-center align-items-center">Load More</a>-->

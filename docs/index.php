@@ -154,8 +154,6 @@
                 </a>
               </div>
             </div>
-          </div>
-          <div class="row">
             <div class="col-md-5">
               <div class="thumbnail">
                 <h3 style="color:black;">Corporate Co-Sponsor</h3>
@@ -163,14 +161,7 @@
                 </a>
               </div>
             </div>
-            <div class="col-md-5">
-              <div class="thumbnail">
-                <h3 style="color:black;">Workshop Co-Sponsor</h3>
-                  <img src="images/utracon.png" alt="Ultracon" style="width:100%;height:300%;padding-top:15px;">
-                </a>
-              </div>
             </div>
-          </div>
             <div class="row">
                 <div class="col-12">
                     <div class="lineup-artists-headline">
@@ -653,36 +644,93 @@ Keller's experience in India in providing optimal ground improvement solutions s
                 <div class="home-page-last-news-wrap">
                     <div class="row">
 
-                      <div class="col-12 col-md-6">
-                          <figure class="featured-image">
-                            <center>
-                              <a href="#"> <img src="images/guest-lecture.png" alt="fesival+celebration"> </a>
-                            </center>
-                          </figure><!-- featured-image -->
-
-                          <div class="box-link-date">
-                              <a href="#">5/3/2019</a>
-                          </div>
-
-                          <div class="content-wrapper">
-                              <div class="entry-content">
-                                  <div class="entry-header">
-                                      <h2><a href="guestlecture2.php">Explore the Environmental Space - Clean Tech ​Innovations and entrepreneurship</a></h2>
-                                  </div><!-- entry-header -->
-
-                                  <div class="entry-meta">
-                                      <span class="author-name"><a href="guestlecture1.php"> Dr. Indumathi M Nambi</a></span>
-                                      <span class="space">|</span>
-                                      <span class="comments-count"><a href="guestlecture1.php">March 5, 2019 10.30 a.m</a></span>
-                                  </div><!-- entry-meta -->
-
-                                  <div class="entry-description">
-                                      <p>Dr. Indumathi Nambi  serves as a Professor in the Environment and Water Resources Division of the Department of Civil Engineering at IIT Madras .
-                                      Dr. Indumathi's research focus is on understanding groundwater contaminant transport and transformation  and developing technologies for remediation involving hydrocarbon and solvent spills, and is currently involved in Petroleum, pesticide and heavy metal contaminated site investigations in India.  </p>
-                                  </div><!-- entry-description -->
-                              </div><!-- entry-content -->
-                          </div><!-- content-wrapper -->
-                      </div><!-- .col-6 -->
+                      <!--<div class="homepage-next-events">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="entry-title">
+                            <p>JUST THE BEST</p>
+                            <h2>Our Next Events</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="next-event-slider-wrap">
+                <div class="swiper-container next-event-slider">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-1.jpg" alt="">
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-2.jpg" alt="">
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-3.jpg" alt="">
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-1.jpg" alt="">
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-2.jpg" alt="">
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="next-event-content">
+                                <figure class="featured-image">
+                                    <img src="images/next-event-3.jpg" alt="">
+                                    <a href="#" class="entry-content flex flex-column justify-content-center align-items-center">
+                                        <h3>Welcoming Party 2018</h3>
+                                        <p>Green Palace, 22 Street, 23-28, Los Angeles California</p>
+                                    </a>
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-button-next">
+                    <img src="images/button.png" alt="">
+                </div>
+            </div>
+        </div>-->
 
                         <div class="col-12 col-md-6">
                             <figure class="featured-image">

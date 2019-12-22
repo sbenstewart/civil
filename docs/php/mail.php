@@ -1,7 +1,7 @@
 <?php
 
 $to   = "sbenstewart@gmail.com";
-$from = 'him@sbenstewart.in';
+$from = 'sbenstewart@gmail.com';
 
 $subject = "Password Changed";
 

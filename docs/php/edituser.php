@@ -19,7 +19,6 @@ try {
         /* Check the number of rows that match the SELECT statement */
         if ($res->fetchColumn() > 0) {
 
-          $password2 = password_hash($password2, PASSWORD_BCRYPT);
           $count = $conn->exec("update user set name='$name2', phoneno='$phone2', college='$college2', year='$year2', dept='$dept2', course='$course2' where cid='$cid2' and  emailid='$mail2'");
 
           echo "Details modified succesfully $id";

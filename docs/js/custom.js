@@ -8,8 +8,26 @@
         $('.site-navigation').toggleClass('show');
     });
 
+    // Hero Slider
+    var mySwiper = new Swiper('.hero-slider', {
+        slidesPerView: 1,
+        spaceBetween: 0,
+        loop: true,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+            renderBullet: function (index, className) {
+                return '<span class="' + className + '">' + (index + 1) + '</span>';
+            }
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev'
+        }
+    });
 
-    var countdown_date = $('.countdown').data("date");
+    var current_slide = mySwiper.activeIndex;
+    var countdown_date = $('.swiper-slide').eq(current_slide).data("date");
 
     $('.countdown').countdown(countdown_date, function(event) {
         $('.dday').html(event.strftime('%-D'));
@@ -18,49 +36,66 @@
         $('.dsec').html(event.strftime('%-S'));
     });
 
+    mySwiper.on('slideChange', function (slider) {
+        var current_slide = mySwiper.activeIndex;
+        var countdown_date = $('.swiper-slide').eq(current_slide).data("date");
+
+        $('.countdown').countdown(countdown_date, function(event) {
+            $('.dday').html(event.strftime('%-D'));
+            $('.dhour').html(event.strftime('%-H'));
+            $('.dmin').html(event.strftime('%-M'));
+            $('.dsec').html(event.strftime('%-S'));
+        });
+    });
+
     // Events Slider
-    var next_event_slider = new Swiper('.next-event-slider', {
-        slidesPerView: 4,
-        spaceBetween: 20,
+    var swiper = new Swiper('.homepage-regional-events-slider', {
+        slidesPerView: 6,
+        spaceBetween: 30,
         loop: true,
-        centeredSlides: true,
         breakpoints: {
             // when window width is <= 320px
             576: {
-                slidesPerView: 1
+                slidesPerView: 2,
             },
-            // when window width is <= 480px
             768: {
-                slidesPerView: 2
-            },
-            // when window width is <= 640px
-            1200: {
                 slidesPerView: 3
+            },
+            992: {
+                slidesPerView: 4
+            },
+            1200: {
+                slidesPerView: 5
             }
         },
         navigation: {
-            nextEl: '.next-event-slider-wrap .swiper-button-next'
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev'
         }
     });
 
-    // Testimonial slider
-    var testimonialsSlider = new Swiper('.testimonials-slider', {
-        slidesPerView: 1,
-        spaceBetween: 0,
-        loop: true,
-        pagination: {
-            el: '.swiper-pagination',
-            clickable: true,
-        },
-        navigation: {
-            nextEl: '.testimonials-container .swiper-button-next'
-        }
+    // Load more events
+    var $container      = $('.events-list');
+    var $item           = $('.single-event');
+
+    $item.slice(0, 6).addClass('visible');
+
+    $('.load-more-btn a').on('click', function (e) {
+        e.preventDefault();
+
+        $('.single-event:hidden').slice(0, 6).addClass('visible');
+        $container.masonry('layout');
+    });
+
+    // Events Page
+    $container.masonry({
+        itemSelector: '.single-event'
     });
 
     // Buy Tickets Form
     $(".increase-ticket").click(function() {
         var $n = $(this)
-            .parent(".number-of-tickets")
+            .parent(".number-of-ticket")
             .parent(".flex")
             .parent(".ticket-row")
             .find(".ticket-count");
@@ -69,7 +104,7 @@
 
     $(".decrease-ticket").click(function() {
         var $n = $(this)
-            .parent(".number-of-tickets")
+            .parent(".number-of-ticket")
             .parent(".flex")
             .parent(".ticket-row")
             .find(".ticket-count");
@@ -115,52 +150,48 @@
     });
 
     // Circular Progress Bar
-    $('#hard_work').circleProgress({
+    $('#festivals').circleProgress({
         startAngle: -Math.PI / 4 * 2,
         value: 0.75,
-        size: 220,
-        thickness: 3,
+        size: 124,
         fill: {
-            gradient: ["#00d1ff", "#1effc5"]
+            gradient: ["#581687", "#ab00ff"]
         }
     }).on('circle-animation-progress', function(event, progress) {
-        $(this).find('strong').html(Math.round(75 * progress) + '<span>%</span>');
+        $(this).find('strong').html(Math.round(75 * progress) + '<i>%</i>');
     });
 
-    $('#good_music').circleProgress({
+    $('#concerts').circleProgress({
         startAngle: -Math.PI / 4 * 2,
         value: 0.83,
-        size: 220,
-        thickness: 3,
+        size: 124,
         fill: {
-            gradient: ["#00d1ff", "#1effc5"]
+            gradient: ["#581687", "#ab00ff"]
         }
     }).on('circle-animation-progress', function(event, progress) {
-        $(this).find('strong').html(Math.round(83 * progress) + '<span>%</span>');
+        $(this).find('strong').html(Math.round(83 * progress) + '<i>%</i>');
     });
 
-    $('#power').circleProgress({
+    $('#conference').circleProgress({
         startAngle: -Math.PI / 4 * 2,
-        value: 0.65,
-        size: 220,
-        thickness: 3,
+        value: 0.25,
+        size: 124,
         fill: {
-            gradient: ["#00d1ff", "#1effc5"]
+            gradient: ["#581687", "#ab00ff"]
         }
     }).on('circle-animation-progress', function(event, progress) {
-        $(this).find('strong').html(Math.round(65 * progress) + '<span>%</span>');
+        $(this).find('strong').html(Math.round(25 * progress) + '<i>%</i>');
     });
 
-    $('#fun_time').circleProgress({
+    $('#new_artists').circleProgress({
         startAngle: -Math.PI / 4 * 2,
-        value: 1,
-        size: 220,
-        thickness: 3,
+        value: 0.82,
+        size: 124,
         fill: {
-            gradient: ["#00d1ff", "#1effc5"]
+            gradient: ["#581687", "#ab00ff"]
         }
     }).on('circle-animation-progress', function(event, progress) {
-        $(this).find('strong').html(Math.round(100 * progress) + '<span>%</span>');
+        $(this).find('strong').html(Math.round(82 * progress) + '<i>%</i>');
     });
 
     // Counter
@@ -172,19 +203,6 @@
                 return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, ',');
             }
         });
-    });
-
-    // Load more events
-    var $container      = $('.blog-list-page');
-    var $item           = $('.single-blog-content');
-
-    $item.slice(0, 6).addClass('visible');
-
-    $('.load-more .btn').on('click', function (e) {
-        e.preventDefault();
-
-        $('.single-blog-content:hidden').slice(0, 6).addClass('visible');
-        $container.masonry();
     });
 
     // Back to Top

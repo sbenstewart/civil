@@ -1,0 +1,18 @@
+body {
+  background : #ff0f0f;
+
+}
+.Hero {
+  width: auto;
+  height: auto;
+  text-align: center;
+  background : #ff0f0f;
+  margin-top: 10%;
+  
+}
+
+.Buildings {
+  max-width: 800px;
+  visibility: hidden;
+  overflow: visible;
+}

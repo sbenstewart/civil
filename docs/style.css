@@ -912,6 +912,7 @@ a:hover, a:active {
     margin-top: 100px;
     color: #fff;
     text-align: center;
+    padding-bottom: 50px;
 }
 
 .homepage-regional-events-slider figure {
@@ -996,6 +997,61 @@ a:hover, a:active {
     text-align: center;
 }
 
+
+.homepage-regional-events-slider-false {
+    position: relative;
+    margin-top: 100px;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.homepage-regional-events-slider-false figure {
+    position: relative;
+    margin: 0;
+}
+
+.homepage-regional-events-slider-false figure img {
+    display: block;
+    width: 100%;
+}
+
+.homepage-regional-events-slider-false .entry-title {
+    margin-top: 28px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.homepage-regional-events-slider-false .entry-footer {
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.homepage-regional-events-slider-false .entry-footer span {
+    color: #9a28d7;
+}
+
+.homepage-regional-events-slider-false .swiper-button-next,
+.homepage-regional-events-slider-false .swiper-button-prev {
+    top: calc(50% - 40px);
+}
+
+.homepage-regional-events-slider-false .swiper-button-next {
+    right: 20px;
+}
+
+.homepage-regional-events-slider-false .swiper-button-prev {
+    left: 20px;
+}
+
+
+.homepage-regional-events-slider-false .swiper-slide:hover .event-overlay-link {
+    visibility: visible;
+    opacity: 1;
+}
+
+
 /*--------------------------------------------------------------
 # Newsletter
 --------------------------------------------------------------*/
@@ -1007,6 +1063,12 @@ a:hover, a:active {
 }
 
 .newsletter-subscribe .entry-title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.entry-title {
     font-size: 36px;
     font-weight: bold;
     color: #fff;

@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello World</title>
+    <title>Civilisation</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="This is the official website of Civilisation CEG, a nation level intercollege technical symposium conducted by the Society of Civil Engineers in association with the department of Civil Engineering, College of Engineering Guindy.">
+    <meta name="author" content="Ben Stewart S">
+    <meta name="keywords" content="civilisation,ceg,symposium,2020,civil,ben stewart,chennai,guindy,college">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -28,7 +31,7 @@
                 <div class="col-10 col-lg-2 order-lg-1">
                     <div class="site-branding">
                         <div class="site-title">
-                            <a href="#"><img src="images/logo.png" alt="logo"></a>
+                            <a href="index.html"><img src="images/weblogo.png" alt="CIVIL"></a>
                         </div><!-- .site-title -->
                     </div><!-- .site-branding -->
                 </div><!-- .col -->
@@ -43,18 +46,30 @@
                         </div><!-- .hamburger-menu -->
 
                         <ul>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">Events</a></li>
-                            <li><a href="#">News</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="#workshops">WORKSHOPS</a></li>
+                            <li><a href="#events">EVENTS</a></li>
+                            <li><a href="#lectures">LECTURES</a></li>
+                            <li><a href="accomodation.html">ACCOMMODATION</a></li>
+                            <li><a href="about.html">CONTACT</a></li>
+                            <!--<?php
+                            // Start the session
+
+                            if(isset($_SESSION["cid"]))
+                            {
+                                $print1 .="<li><a href='php/logout.php'>LOGOUT</a></li>";
+                            }
+                            else {
+                                $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
+                            }
+                            echo  $print1;
+                            ?>-->
                         </ul>
                     </nav><!-- .site-navigation -->
                 </div><!-- .col -->
 
                 <div class="col-lg-3 d-none d-lg-block order-2 order-lg-3">
                     <div class="buy-tickets">
-                        <a class="btn gradient-bg" href="#">Buy Tickets</a>
+                        <a class="btn gradient-bg" href="signup.html">LOGIN</a>
                     </div><!-- .buy-tickets -->
                 </div><!-- .col -->
             </div><!-- .row -->
@@ -63,7 +78,7 @@
 
     <div class="swiper-container hero-slider">
         <div class="swiper-wrapper">
-            <div class="swiper-slide" data-date="2018/05/01" style="background: url('images/header-bg.jpg') no-repeat">
+            <div class="swiper-slide" data-date="2020/03/05" style="background: url('images/header-bg.jpg') no-repeat">
                 <div class="hero-content">
                     <div class="container">
                         <div class="row">
@@ -91,19 +106,19 @@
                                         </div><!-- .countdown-holder -->
                                     </div><!-- .countdown -->
 
-                                    <h2 class="entry-title">1 We have the best events. <br>Get your tiket now!</h2>
+                                    <h2 class="entry-title">See you at <br>Civilisation 2020</h2>
                                 </div><!--- .entry-header -->
 
-                                <div class="entry-footer">
+                                <!--<div class="entry-footer">
                                     <a class="btn gradient-bg" href="#">Order here</a>
-                                </div><!-- .entry-footer" -->
+                                </div> .entry-footer" -->
                             </div><!-- .col -->
                         </div><!-- .container -->
                     </div><!-- .hero-content -->
                 </div><!-- .swiper-slide -->
             </div><!-- .swiper-wrapper -->
 
-            <div class="swiper-slide" data-date="2019/05/01" style="background: url('images/header-bg.jpg') no-repeat">
+            <div class="swiper-slide" data-date="2020/03/05" style="background: url('images/header-bg.jpg') no-repeat">
                 <div class="hero-content">
                     <div class="container">
                         <div class="row">
@@ -131,19 +146,19 @@
                                         </div><!-- .countdown-holder -->
                                     </div><!-- .countdown -->
 
-                                    <h2 class="entry-title">2 We have the best events. <br>Get your tiket now!</h2>
+                                    <h2 class="entry-title">Site developed by <br>Enigma Enterprises</h2>
                                 </div><!--- .entry-header -->
-
+                                <!--
                                 <div class="entry-footer">
                                     <a class="btn gradient-bg" href="#">Order here</a>
-                                </div><!-- .entry-footer" -->
+                                </div> .entry-footer" -->
                             </div><!-- .col -->
                         </div><!-- .container -->
                     </div><!-- .hero-content -->
                 </div><!-- .swiper-slide -->
             </div><!-- .swiper-wrapper -->
 
-            <div class="swiper-slide" data-date="2020/05/01" style="background: url('images/header-bg.jpg') no-repeat">
+            <div class="swiper-slide" data-date="2020/03/05" style="background: url('images/header-bg.jpg') no-repeat">
                 <div class="hero-content">
                     <div class="container">
                         <div class="row">
@@ -171,12 +186,13 @@
                                         </div><!-- .countdown-holder -->
                                     </div><!-- .countdown -->
 
-                                    <h2 class="entry-title">3 We have the best events. <br>Get your tiket now!</h2>
+                                    <h2 class="entry-title">One of the best<br>Civil Symposiums</h2>
                                 </div><!--- .entry-header -->
 
+                                <!--
                                 <div class="entry-footer">
                                     <a class="btn gradient-bg" href="#">Order here</a>
-                                </div><!-- .entry-footer" -->
+                                </div> .entry-footer" -->
                             </div><!-- .col -->
                         </div><!-- .container -->
                     </div><!-- .hero-content -->
@@ -188,13 +204,14 @@
         <div class="swiper-pagination"></div>
 
         <!-- Add Arrows -->
+        
         <div class="swiper-button-next flex justify-content-center align-items-center">
             <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1171 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"/></svg></span>
         </div>
-
+        <!--
         <div class="swiper-button-prev flex justify-content-center align-items-center">
             <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z"/></svg></span>
-        </div>
+        </div>-->
     </div><!-- .swiper-container -->
 </header><!-- .site-header -->
 
@@ -203,13 +220,13 @@
         <div class="row">
             <div class="col-12 col-md-4 col-lg-5">
                 <figure>
-                    <img src="images/logo-2.png" alt="logo">
+                    <img src="images/logo.jpg" alt="logo">
                 </figure>
             </div>
 
             <div class="col-12 col-md-8 col-lg-7">
                 <header class="entry-header">
-                    <h2 class="entry-title">What is Agenda and why choose our services?</h2>
+                    <h2 class="entry-title">Who are the <br>Society of Civil Engineers</h2>
                 </header>
 
                 <div class="entry-content">
@@ -218,7 +235,6 @@
 
                 <footer class="entry-footer">
                     <a href="#" class="btn gradient-bg">Read More</a>
-                    <a href="#" class="btn dark">Register Now</a>
                 </footer>
             </div>
         </div>
@@ -231,105 +247,87 @@
             <div class="col-12">
                 <div class="featured-events-wrap flex flex-wrap justify-content-between">
                     <div class="event-content-wrap positioning-event-1">
-                        <figure>
-                            <a href="#"><img src="images/1.jpg" alt="1"></a>
-                        </figure>
+                        <a href="#">
+                            <figure>
+                                <img src="images/1.jpg" alt="1">
+                            </figure>
 
-                        <header class="entry-header">
-                            <h3 class="entry-title">Michael Smith in concert</h3>
+                            <header class="entry-header">
+                                <h3 class="entry-title">Ambassador</h3>
 
-                            <div class="posted-date">August 25</div>
-                        </header>
+                                <div class="posted-date">Get your referral code now!</div>
+                            </header>
+                        </a>
                     </div>
 
                     <div class="event-content-wrap positioning-event-2">
-                        <figure>
-                            <a href="#"><img src="images/2.jpg" alt=""></a>
-                        </figure>
+                        <a href="#">
+                            <figure>
+                                <img src="images/2.jpg" alt="">
+                            </figure>
 
-                        <header class="entry-header">
-                            <h3 class="entry-title">Street art fest</h3>
+                            <header class="entry-header">
+                                <h3 class="entry-title">Accomodation</h3>
 
-                            <div class="posted-date">November 28</div>
-                        </header>
+                                <div class="posted-date">Limited capacity only</div>
+                            </header>
+                        </a>
                     </div>
 
                     <div class="event-content-wrap positioning-event-3">
-                        <figure>
-                            <a href="#"><img src="images/3.jpg" alt=""></a>
-                        </figure>
+                        <a href="#">
+                            <figure>
+                                <img src="images/3.jpg" alt="">
+                            </figure>
 
-                        <header class="entry-header">
-                            <h3 class="entry-title">Anabelle in concert</h3>
+                            <header class="entry-header">
+                                <h3 class="entry-title">Project Display</h3>
 
-                            <div class="posted-date">August 28</div>
-                        </header>
-                    </div>
-
-                    <div class="event-content-wrap positioning-event-4 half">
-                        <figure>
-                            <a href="#"><img src="images/events-in-london.jpg" alt=""></a>
-                        </figure>
-                    </div>
-
-                    <div class="event-content-wrap positioning-event-5 half">
-                        <figure>
-                            <a href="#"><img src="images/check-july.png" alt=""></a>
-                        </figure>
-                    </div>
-
-                    <div class="event-content-wrap positioning-event-6 half">
-                        <figure>
-                            <a href="#"><img src="images/summer-festivals.jpg" alt=""></a>
-                        </figure>
+                                <div class="posted-date">Showcase your works</div>
+                            </header>
+                        </a>
                     </div>
 
                     <div class="event-content-wrap positioning-event-7">
-                        <figure>
-                            <a href="#"><img src="images/90.jpg" alt=""></a>
-                        </figure>
+                        <a href="#">
+                            <figure>
+                                <img src="images/90.jpg" alt="">
+                            </figure>
 
-                        <header class="entry-header">
-                            <h3 class="entry-title">90’s Disco Night</h3>
+                            <header class="entry-header">
+                                <h3 class="entry-title">Project Display</h3>
 
-                            <div class="posted-date">August 28</div>
-                        </header>
+                                <div class="posted-date">Showcase your works</div>
+                            </header>
+                        </a>
                     </div>
 
                     <div class="event-content-wrap positioning-event-8">
-                        <figure>
-                            <a href="#"><img src="images/modern.jpg" alt="1"></a>
-                        </figure>
+                        <a href="#">
+                            <figure>
+                                <img src="images/modern.jpg" alt="1">
+                            </figure>
 
-                        <header class="entry-header">
-                            <h3 class="entry-title">Modern Ballet</h3>
+                            <header class="entry-header">
+                                <h3 class="entry-title">Guest Lectures</h3>
 
-                            <div class="posted-date">August 25</div>
-                        </header>
+                                <div class="posted-date">Do attend them</div>
+                            </header>
+                        </a>
                     </div>
 
                     <div class="event-content-wrap positioning-event-9">
-                        <figure>
-                            <a href="#"><img src="images/smoke.jpg" alt=""></a>
-                        </figure>
+                        <a href="#">
+                            <figure>
+                                <img src="images/smoke.jpg" alt="">
+                            </figure>
 
-                        <header class="entry-header">
-                            <h3 class="entry-title">Smoke show</h3>
+                            <header class="entry-header">
+                                <h3 class="entry-title">Project Display</h3>
 
-                            <div class="posted-date">August 28</div>
-                        </header>
-                    </div>
-
-                    <div class="event-content-wrap positioning-event-10 half">
-                        <figure>
-                            <a href="#"><img src="images/summer-festival.jpg" alt=""></a>
-                        </figure>
-                    </div>
-
-                    <div class="event-content-wrap positioning-event-11 half">
-                        <figure>
-                            <a href="#"><img src="images/autumn.jpg" alt=""></a>
-                        </figure>
+                                <div class="posted-date">Showcase your works</div>
+                            </header>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -337,12 +335,13 @@
     </div>
 </div>
 
-<div class="homepage-next-events">
+
+<div class="homepage-next-events" id="workshops">
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-center align-items-center">
             <div class="next-events-section-header">
-                <h2 class="entry-title">Our next events</h2>
-                <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risus, pellentesque at facilisis et, scelerisque sit amet metus. Duis vel semper turpis, ac tempus libero. Maecenas id ultrices risus. Aenean nec ornare ipsum, lacinia.</p>
+                <h2 class="entry-title">Workshops</h2>
+                <p>We as the Society of Civil Engineers have taken the effort to bring the best workshops to the college.</p>
             </div>
         </div>
 
@@ -352,21 +351,22 @@
                     <figure>
                         <a href="#"><img src="images/next1.jpg" alt="1"></a>
 
-                        <div class="event-rating">8.9</div>
+                        <div class="event-rating">5-3-20</div>
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">U2 Concert in Detroitt</h3>
+                        <h3 class="entry-title">Workshop 1</h3>
 
-                        <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                        <div class="posted-date">Thursday <span>March 5, 2020</span></div>
+                        <div class="posted-date">Vivek Audi <span>8 AM</span></div>
                     </header>
 
                     <div class="entry-content">
-                        <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risus.</p>
+                        <p>This sample event can be explained here so that the students will have a basic idea of what to expect and also to garner interest.</p>
                     </div>
 
                     <footer class="entry-footer">
-                        <a href="#">Buy Tikets</a>
+                        <a href="#">Register</a>
                     </footer>
                 </div>
             </div>
@@ -376,21 +376,22 @@
                     <figure>
                         <a href="#"><img src="images/next1.jpg" alt="1"></a>
 
-                        <div class="event-rating">7.9</div>
+                        <div class="event-rating">6-3-20</div>
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">TED Talk California</h3>
+                        <h3 class="entry-title">Workshop 2</h3>
 
-                        <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                        <div class="posted-date">Friday <span>March 6, 2020</span></div>
+                        <div class="posted-date">Vivek Audi <span>8 AM</span></div>
                     </header>
 
                     <div class="entry-content">
-                        <p>Eget lacus at mauris sagittis varius. Etiam ut ven enatis dui. Nullam tellus risus, pellentesque.</p>
+                        <p>This sample event can be explained here so that the students will have a basic idea of what to expect and also to garner interest.</p>
                     </div>
 
                     <footer class="entry-footer">
-                        <a href="#">Buy Tikets</a>
+                        <a href="#">Register</a>
                     </footer>
                 </div>
             </div>
@@ -400,21 +401,22 @@
                     <figure>
                         <a href="#"><img src="images/next1.jpg" alt="1"></a>
 
-                        <div class="event-rating">9.9</div>
+                        <div class="event-rating">7-3-20</div>
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">Ultra Music Miami</h3>
+                        <h3 class="entry-title">Workshop 3</h3>
 
-                        <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                        <div class="posted-date">Saturday <span>March 7, 2020</span></div>
+                        <div class="posted-date">Vivek Audi <span>8 AM</span></div>
                     </header>
 
                     <div class="entry-content">
-                        <p>Lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risus, pellentesque at facili.</p>
+                        <p>This sample event can be explained here so that the students will have a basic idea of what to expect and also to garner interest.</p>
                     </div>
 
                     <footer class="entry-footer">
-                        <a href="#">Buy Tikets</a>
+                        <a href="#">Register</a>
                     </footer>
                 </div>
             </div>
@@ -422,19 +424,16 @@
     </div>
 </div>
 
-<div class="homepage-regional-events">
+<div class="homepage-regional-events" id="events">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <header class="regional-events-heading entry-header flex flex-wrap justify-content-between align-items-center">
-                    <h2 class="entry-title">Events in New York</h2>
+                    <h2 class="entry-title">Non Tech Events</h2>
 
-                    <div class="select-location">
-                        <select>
-                            <option>New York</option>
-                            <option>California</option>
-                            <option>South Carolina</option>
-                        </select>
+                    
+                    <div class="entry-footer">
+                        <a class="btn gradient-bg" href="#">View All</a>
                     </div>
                 </header>
 
@@ -561,7 +560,282 @@
                     <div class="swiper-button-prev flex justify-content-center align-items-center">
                         <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z"/></svg></span>
                     </div>
+                </div>
+
+                <header class="regional-events-heading entry-header flex flex-wrap justify-content-between align-items-center">
+                    <h2 class="entry-title">Tech Events</h2>
+                    <div class="entry-footer">
+                        <a class="btn gradient-bg" href="#">View All</a>
+                    </div>
+                </header>
+                
+
+                <div class="swiper-container homepage-regional-events-slider">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-1.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">U2 Concert </h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-2.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Broadway Hit </h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-3.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Gallery Exibition</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-4.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Art Gallery</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-5.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Music Concert</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-6.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">EDM Festival</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-1.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">U2 Concert </h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+                    </div><!-- .swiper-wrapper -->
+
+                    <!-- Add Arrows -->
+                    <div class="swiper-button-next flex justify-content-center align-items-center">
+                        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1171 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"/></svg></span>
+                    </div>
+
+                    <div class="swiper-button-prev flex justify-content-center align-items-center">
+                        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z"/></svg></span>
+                    </div>
                 </div><!-- .swiper-container -->
+
+                <header class="regional-events-heading entry-header flex flex-wrap justify-content-between align-items-center">
+                    <h2 class="entry-title">Online Events</h2>
+
+                    
+                    <div class="entry-footer">
+                        <a class="btn gradient-bg" href="#">View All</a>
+                    </div>
+                </header>
+
+                <div class="swiper-container homepage-regional-events-slider-false">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-1.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">U2 Concert </h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-2.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Broadway Hit </h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-3.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Gallery Exibition</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                    </div><!-- .swiper-wrapper -->
+
+                    <!-- Add Arrows -->
+                    <div class="swiper-button-next flex justify-content-center align-items-center">
+                        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1171 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"/></svg></span>
+                    </div>
+
+                    <div class="swiper-button-prev flex justify-content-center align-items-center">
+                        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z"/></svg></span>
+                    </div>
+                </div>
+
+                <header class="regional-events-heading entry-header flex flex-wrap justify-content-between align-items-center" id="lectures">
+                    <h2 class="entry-title">Guest Lectures</h2>
+
+                    
+                    <div class="entry-footer">
+                        <a class="btn gradient-bg" href="#">View All</a>
+                    </div>
+                </header>
+
+                <div class="swiper-container homepage-regional-events-slider-false">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-1.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">U2 Concert </h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-2.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Broadway Hit </h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/event-slider-3.jpg" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Gallery Exibition</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                    </div><!-- .swiper-wrapper -->
+
+                    <!-- Add Arrows -->
+                    <div class="swiper-button-next flex justify-content-center align-items-center">
+                        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1171 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"/></svg></span>
+                    </div>
+
+                    <div class="swiper-button-prev flex justify-content-center align-items-center">
+                        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z"/></svg></span>
+                    </div>
+                </div>
 
                 <div class="events-partners">
                     <header class="entry-header">
@@ -616,61 +890,34 @@
     </div>
 </div>
 
-<div class="newsletter-subscribe">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <header class="entry-header">
-                    <h2 class="entry-title">Subscribe to our newsletter to get the latest trends & news</h2>
-                    <p>Join our database NOW!</p>
-                </header>
-
-                <div class="newsletter-form">
-                    <form class="flex flex-wrap justify-content-center align-items-center">
-                        <div class="col-md-12 col-lg-3">
-                            <input type="text" placeholder="Name">
-                        </div>
-
-                        <div class="col-md-12 col-lg-6">
-                            <input type="email" placeholder="Your e-mail">
-                        </div>
-
-                        <div class="col-md-12 col-lg-3">
-                            <input class="btn gradient-bg" type="submit" value="Subscribe">
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 <footer class="site-footer">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <figure class="footer-logo">
-                    <a href="#"><img src="images/logo.png" alt="logo"></a>
+                    <a href="#"><p class="entry-title">Civilisation 2020</p></a>
                 </figure>
 
                 <nav class="footer-navigation">
                     <ul class="flex flex-wrap justify-content-center align-items-center">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About us</a></li>
-                        <li><a href="#">Events</a></li>
-                        <li><a href="#">News</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="#workshops">WORKSHOPS</a></li>
+                            <li><a href="#events">EVENTS</a></li>
+                            <li><a href="#lectures">LECTURES</a></li>
+                            <li><a href="accomodation.html">ACCOMMODATION</a></li>
+                            <li><a href="about.html">CONTACT</a></li>
                     </ul>
                 </nav>
 
                 Made with <i class="fa fa-heart" aria-hidden="true"></i> in <a href="https://www.google.com/maps/place/College+of+Engineering,+Guindy/@13.0169607,80.2036514,13z/data=!4m5!3m4!1s0x3a52679f0d20f797:0x59f9f10c66e02a19!8m2!3d13.01094!4d80.2354462" target="_blank">Chennai</a>
                 <div class="footer-social">
                     <ul class="flex flex-wrap justify-content-center align-items-center">
-                        <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://fb.com/au.civilisation"><i class="fa fa-facebook-f"></i></a></li>
+                                <li><a href="tel:+91‭8489732365‬"><i class="fa fa-phone"></i></a></li>
+                                <li><a href="mailto:help@civilisationceg.in?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
+                                <!--<li><a href="#"><i class="fa fa-address-book"></i></a></li>-->
+                                <li><a href="https://api.whatsapp.com/send?phone=91‭9092859699‬"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href="https://goo.gl/forms/7aUhSw8LaI6rfAn52"><i class="fa fa-github"></i></a></li>
                     </ul>
                 </div>
             </div>

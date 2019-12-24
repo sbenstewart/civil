@@ -1953,19 +1953,28 @@ ul.tabs-nav .tab-nav.active {
 .contact-form input[type="password"],
 .contact-form input[type="number"],
 .contact-form select,
+.contact-form .datepicker,
 .contact-form textarea {
     width: 100%;
     padding: 14px 22px;
     margin-bottom: 30px;
+    margin: 20px 0;
     border: 1px solid #e5e5e5;
     background: #f3f8f9;
     color: #232127;
+}
+
+.contact-form select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
 
 .contact-form input[type="text"]:focus,
 .contact-form input[type="email"]:focus,
 .contact-form input[type="password"]:focus,
 .contact-form input[type="number"]:focus,
+.contact-form .datepicker:focus,
 .contact-form select:focus,
 .contact-form textarea:focus {
     outline: none;
@@ -1975,6 +1984,7 @@ ul.tabs-nav .tab-nav.active {
 .contact-form input[type="email"]::placeholder,
 .contact-form input[type="password"]::placeholder,
 .contact-form input[type="number"]::placeholder,
+.contact-form .datepicker::placeholder,
 .contact-form select,
 .contact-form textarea::placeholder {
     font-style: italic;

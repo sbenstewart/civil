@@ -22,8 +22,8 @@
     <link rel="stylesheet" href="style.css">
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <script src="https://unpkg.com/gijgo@1.9.11/js/gijgo.min.js" type="text/javascript"></script>
-  <link href="https://unpkg.com/gijgo@1.9.11/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+  <link href="https://cdn.jsdelivr.net/npm/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body class="contact-page">
@@ -169,25 +169,24 @@
                 </div>
 
                 <div class="contact-form">
-                    <div class="row"></p>
+                    <div class="row">
                       <div class="col-12">
                           <input id="datepicker" width="276" />
                           <script>
                           $('#datepicker').datepicker();
                           </script>
-                      </div><!-- col-4 -->
+                      </div>
                         <p><BR></p>
                           <div class="col-12">
                             <input id="timepicker" width="276" />
-    <script>
-        $('#timepicker').timepicker();
-    </script>
-    <p><BR></p>
+                            <script>
+                                $('#timepicker').timepicker();
+                            </script>
+                            <p><BR></p>
                           </div>
-                        </div>
-                        <div class="row">
-
-
+                    </div>
+                        
+                    <div class="row">
                         <div class="col-6">
                         <select id="hours">
                           <option value="">&nbsp;&nbsp;&nbsp;&nbsp;Number of hours</option>
@@ -196,52 +195,15 @@
                           <option value="72">&nbsp;&nbsp;&nbsp;&nbsp;72</option>
                         </select>
                         </div>
-                      </div>
+                    </div>
 
-                        <!--<div class="col-12">
-                            <input id="when" name="when" type="date" min="2018-02-01" max="2018-12-01">
-                        </div><!-- col-4 -->
 
                         <div class="col-12 submit flex justify-content-center">
                             <input type="button" onclick="regAccomodation()" value="Register" class="btn">
                         </div>
 
 
-                        <!--<div class="entry-header">
-                            <div class="entry-title">
-                                <p>JUST THE BEST</p>
-                                <h2>Get in touch</h2>
-                            </div>
-                        </div>
-
-                        <div class="entry-content">
-                            <p>Quisque at erat eu libero consequat tempus. Quisque mole stie convallis tempus.
-                                Ut semper purus metus, a euismod sapien sodales ac. Duis viverra eleifend fermentum.
-                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestibulum mauris quis aliquam.
-                                Integer accumsan sodales odio, id tempus velit ullamcorper id.</p>
-                        </div>
-
-
-                        <div class="row">
-                          <div class="col-6">
-                          <select id="extras">
-                            <option value="">&nbsp;&nbsp;&nbsp;&nbsp;Select for lunch and T-Shirt</option>
-                            <option value="lunch">&nbsp;&nbsp;&nbsp;&nbsp;Lunch only</option>
-                            <option value="tshirt">&nbsp;&nbsp;&nbsp;&nbsp;T-Shirt only</option>
-                            <option value="lunch-tshirt">&nbsp;&nbsp;&nbsp;&nbsp;Lunch and T-Shirt</option>
-                          </select>
-                          </div>
-
-                          <!--<div class="col-12">
-                              <input id="when" name="when" type="date" min="2018-02-01" max="2018-12-01">
-                          </div>
-
-                          <div class="col-12 submit flex justify-content-center">
-                              <input type="button" onclick="regExtras()" value="Register" class="btn">
-                          </div>
-
-                    </div>
-                </div><!-- contact-form -->
+                       
             </div><!-- newsletter-subscribe -->
         </div><!-- main-content -->
     </div><!-- container -->

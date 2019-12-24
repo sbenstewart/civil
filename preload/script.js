@@ -7,14 +7,14 @@
   var buildings = [];
   var buildingWindows = [];
 
-  var windowAnimationTime = 0.16;
+  var windowAnimationTime = 0.25;
 
   var timeBeteweenBuldings = 0.175;
   var timeBeforeBackgorund = 1.25;
   var backgroundAnimationTime = 0.75;
 
-  var buildingAnimationMaxTime = 1500;
-  var buildingAnimationMinTime = 700;
+  var buildingAnimationMaxTime = 1800;
+  var buildingAnimationMinTime = 900;
 
   var buildingsNames = [
     {
@@ -49,6 +49,11 @@
 
   $(document).ready(init);
   $(window).load(startAnimation);
+
+  $(window).on("load",function(){
+    $(".Hero").fadeOut("slow");
+    $("body").css('background','#ffffff');
+  });
 
   function init() {
     initBuildings();

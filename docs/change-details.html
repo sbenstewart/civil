@@ -65,7 +65,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Signup.</h1>
+                        <h1 class="entry-title">Edit.</h1>
                     </header>
                 </div>
             </div>
@@ -82,66 +82,80 @@
                 <form class="row">
 
                     <div class="col-12">
-                        <input type="text" placeholder="Your name" id="name">
+                        <input type="number" placeholder="Your cid (Required)" id="cid">
                     </div><!-- col-4 -->
 
                     <div class="col-12">
-                        <input type="text" placeholder="Phone number - Ten digits only" id="phone">
-                    </div>
-
-                    <div class="col-12">
-                        <input type="email" placeholder="Your email" id="mail">
+                        <input type="email" placeholder="Your email (Required)" id="mail">
                     </div><!-- col-6 -->
 
-                    <div class="col-12">
-                        <input type="password" placeholder="Password" id="password">
-                    </div><!-- col-6 -->
+                      <div class="col-12">
+                          <input type="text" placeholder="Your name" id="name">
+                      </div><!-- col-4 -->
 
-                    <div class="col-12">
-                        <input type="password" placeholder="Confirm Password" id="confirmpassword">
-                    </div><!-- col-6 -->
-
-                    <div class="col-12">
-                        <input type="text" placeholder="College" id="college">
-                    </div><!-- col-6 -->
-
-                    <div class="col-12">
-                    <select id="course">
-                      <option value="">Select your course</option>
-                      <option value="B.E.">B.E.</option>
-                      <option value="M.E.">M.E.</option>
-                      <option value="Research Scholar">Research Scholar</option>
-                      <option value="Other">Other</option>
-                    </select>
-                    </div>
+                      <div class="col-12">
+                          <input type="text" placeholder="Phone number - Ten digits only" id="phone">
+                      </div>
 
 
-                    <div class="col-12">
-                    <select id="year">
-                      <option value="">Select your year</option>
-                      <option value="1">1</option>
-                      <option value="2">2</option>
-                      <option value="3">3</option>
-                      <option value="4">4</option>
-                      <option value="5">5</option>
-                    </select>
-                    </div>
+
+                      <div class="col-12">
+                          <input type="text" placeholder="College" id="college">
+                      </div><!-- col-6 -->
+
+                      <div class="col-12">
+                      <select id="course">
+                        <option value="">Select your course</option>
+                        <option value="B.E.">B.E.</option>
+                        <option value="M.E.">M.E.</option>
+                        <option value="Research Scholar">Research Scholar</option>
+                        <option value="Other">Other</option>
+                      </select>
+                      </div>
 
 
-                    <div class="col-12">
-                        <input type="text" placeholder="Department" id="dept">
-                    </div><!-- col-6 -->
+                      <div class="col-12">
+                      <select id="year">
+                        <option value="">Select your year</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                      </select>
+                      </div>
 
-                    <div class="col-12">
-                        <input type="text" placeholder="Referal code (optional)" id="code">
-                    </div><!-- col-6 -->
 
+                      <div class="col-12">
+                          <input type="text" placeholder="Department" id="dept">
+                      </div><!-- col-6 -->
+
+                      <div class="col-12">
+                          <input type="text" placeholder="Referal code (optional)" id="code">
+                      </div><!-- col-6 -->
+
+
+
+                      <div class="col-12 submit flex justify-content-center">
+                        <input type='button' onclick='editUser()' name='' value='Change' class='btn gradient-bg flex justify-content-center align-items-center'>
+                       <!-- <?php
+                        // Start the session
+
+                        if(isset($_SESSION["cid"]))
+                        {
+                          $print2 .="<input type='button' onclick='editUser()' name='' value='Change' class='btn'>";
+                        }
+                        else {
+                          $print2 .="<a href='login.php'><input type='button' name='' value='Login' class='btn'></a>";
+                        }
+                        echo  $print2;
+                        ?> -->
+
+                      </div>
+
+                    
                     <div class="col-12 submit flex justify-content-center">
-                        <input class="btn gradient-bg" type="button" onclick="regUser()" name="" value="Signup">
-                    </div>
-
-                    <div class="col-12 submit flex justify-content-center">
-                        <a href="login.php" class="btn gradient-bg flex justify-content-center align-items-center">Click here to login.</a>
+                        <a href="accomodation-signup.php" class="btn gradient flex justify-content-center align-items-center">Click here after signup for accomodation.</a>
                     </div>
                 </form>
             </div>

@@ -1951,6 +1951,7 @@ ul.tabs-nav .tab-nav.active {
 .contact-form input[type="text"],
 .contact-form input[type="email"],
 .contact-form input[type="password"],
+.contact-form input[type="number"],
 .contact-form select,
 .contact-form textarea {
     width: 100%;
@@ -1964,6 +1965,7 @@ ul.tabs-nav .tab-nav.active {
 .contact-form input[type="text"]:focus,
 .contact-form input[type="email"]:focus,
 .contact-form input[type="password"]:focus,
+.contact-form input[type="number"]:focus,
 .contact-form select:focus,
 .contact-form textarea:focus {
     outline: none;
@@ -1972,6 +1974,7 @@ ul.tabs-nav .tab-nav.active {
 .contact-form input[type="text"]::placeholder,
 .contact-form input[type="email"]::placeholder,
 .contact-form input[type="password"]::placeholder,
+.contact-form input[type="number"]::placeholder,
 .contact-form select,
 .contact-form textarea::placeholder {
     font-style: italic;

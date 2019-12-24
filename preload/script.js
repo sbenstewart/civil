@@ -13,8 +13,8 @@
   var timeBeforeBackgorund = 1.25;
   var backgroundAnimationTime = 0.75;
 
-  var buildingAnimationMaxTime = 1800;
-  var buildingAnimationMinTime = 900;
+  var buildingAnimationMaxTime = 1600;
+  var buildingAnimationMinTime = 800;
 
   var buildingsNames = [
     {
@@ -50,11 +50,11 @@
   $(document).ready(init);
   $(window).load(startAnimation);
 
-  $(window).on("load",function(){
+  /*$(window).on("load",function(){
     $(".Hero").fadeOut("slow");
     $("body").css('background','#ffffff');
   });
-
+*/
   function init() {
     initBuildings();
     hideAllElements();

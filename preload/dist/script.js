@@ -50,6 +50,12 @@
   $(document).ready(init);
   $(window).load(startAnimation);
 
+  /*$(window).on("load",function(){
+    $(".Hero").fadeOut("slow");
+    $("body").css('background','#ffffff');
+  });
+*/
+
   function init() {
     initBuildings();
     hideAllElements();

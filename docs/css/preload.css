@@ -1,8 +1,8 @@
-
 body 
 {
-  background: #ff6f00; 
+  background:  #ff6f00; 
 }
+
 
 .Hero {
   width: auto;
@@ -10,14 +10,13 @@ body
   text-align: center;
   background :  #ff6f00; 
   margin-top: 10%;
-  border-left: 10% solid red;
-  border-bottom: 20%;
-  border-top: #ff6f00;
-  border-bottom:  #ff6f00 ;
+  margin-bottom: 20%;
+  margin-top: #ff6f00;
+  margin-bottom:  #ff6f00 ;
 }
 
 .Buildings {
-  max-width: 800px; 
+  max-width: 800px;
   visibility: hidden;
   overflow: visible;
 }

@@ -1947,35 +1947,58 @@ ul.tabs-nav .tab-nav.active {
     margin: 120px 0;
 }
 
+
 .contact-form input[type="text"],
 .contact-form input[type="email"],
+.contact-form input[type="password"],
+.contact-form input[type="number"],
+.contact-form select,
+.contact-form .datepicker,
 .contact-form textarea {
     width: 100%;
     padding: 14px 22px;
     margin-bottom: 30px;
+    margin: 20px 0;
     border: 1px solid #e5e5e5;
     background: #f3f8f9;
     color: #232127;
 }
 
+.contact-form select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
 .contact-form input[type="text"]:focus,
 .contact-form input[type="email"]:focus,
+.contact-form input[type="password"]:focus,
+.contact-form input[type="number"]:focus,
+.contact-form .datepicker:focus,
+.contact-form select:focus,
 .contact-form textarea:focus {
     outline: none;
 }
 
 .contact-form input[type="text"]::placeholder,
 .contact-form input[type="email"]::placeholder,
+.contact-form input[type="password"]::placeholder,
+.contact-form input[type="number"]::placeholder,
+.contact-form .datepicker::placeholder,
+.contact-form select,
 .contact-form textarea::placeholder {
     font-style: italic;
+    color: #777777;
 }
 
-.contact-form input[type="submit"] {
+
+.contact-form input[type="button"] {
     margin-top: 36px;
     border: 0;
+    margin-bottom: 2em;
 }
 
-.contact-form input[type="submit"]:focus {
+.contact-form input[type="button"]:focus {
     outline: none;
     background: #9a28d7;
 }

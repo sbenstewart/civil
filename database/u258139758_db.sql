@@ -3,11 +3,10 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Dec 21, 2019 at 08:59 AM
+-- Generation Time: Dec 24, 2019 at 08:16 AM
 -- Server version: 5.7.23
 -- PHP Version: 7.2.10
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
 
@@ -20,7 +19,7 @@ SET time_zone = "+00:00";
 -- Database: `u258139758_db`
 --
 CREATE DATABASE IF NOT EXISTS `u258139758_db` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `u258139758_db`;
+USE u258139758_db;
 
 -- --------------------------------------------------------
 
@@ -93,6 +92,16 @@ CREATE TABLE `registrations` (
   `Paid` varchar(100) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+--
+-- Dumping data for table `registrations`
+--
+
+INSERT INTO `registrations` (`cid`, `id`, `Paid`) VALUES
+('55', 'EVENTS', NULL),
+('55', 'GROUND IMPROVEMENT TECHNIQUES', NULL),
+('55', 'SOLID WASTE MANAGEMENT', NULL),
+('55', 'TALL STRUCTURES', NULL);
+
 -- --------------------------------------------------------
 
 --
@@ -117,7 +126,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`cid`, `name`, `phoneno`, `emailid`, `aid`, `college`, `year`, `dept`, `course`, `password`) VALUES
-(52, 'Ben Stewart', '9489408090', 'sbenstewart@gmail.com', NULL, 'CEG Guindy', '4', 'Computer Science and Engineering', 'B.E.', '$2y$10$Kwv2P1hvMBFSc7k8dfs.CuuHn9QKMwiBSHKVDuqoQTkVjvJdJ964e');
+(55, 'Ben Stewart', '9489408090', 'sbenstewart@gmail.com', NULL, 'College of Engineering Guindy', '4', 'Computer Science and Engineering', 'B.E.', '$2y$10$l/XsRc.sU.w7gUsNVkfAeeA0M90xy5.7V1dxIYD5dBwRr7A9PdzKW');
 
 -- --------------------------------------------------------
 
@@ -156,7 +165,6 @@ ALTER TABLE `ambassador`
 -- Indexes for table `registrations`
 --
 ALTER TABLE `registrations`
-  ADD PRIMARY KEY (`id`),
   ADD KEY `cid` (`cid`);
 
 --
@@ -180,13 +188,13 @@ ALTER TABLE `admin`
 -- AUTO_INCREMENT for table `ambassador`
 --
 ALTER TABLE `ambassador`
-  MODIFY `aid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
+  MODIFY `aid` int(11) NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=53;
+  MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=56;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

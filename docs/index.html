@@ -31,7 +31,7 @@
                 <div class="col-10 col-lg-2 order-lg-1">
                     <div class="site-branding">
                         <div class="site-title">
-                            <a href="#"><img src="images/weblogo.png" alt="logo"></a>
+                            <a href="#"><img src="images/weblogo.png" alt="CIVIL"></a>
                         </div><!-- .site-title -->
                     </div><!-- .site-branding -->
                 </div><!-- .col -->
@@ -46,18 +46,30 @@
                         </div><!-- .hamburger-menu -->
 
                         <ul>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">Events</a></li>
-                            <li><a href="#">News</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="#workshops">WORKSHOPS</a></li>
+                            <li><a href="#events">EVENTS</a></li>
+                            <li><a href="#lectures">LECTURES</a></li>
+                            <li><a href="accomodation.html">ACCOMMODATION</a></li>
+                            <li><a href="about.html">CONTACT</a></li>
+                            <!--<?php
+                            // Start the session
+
+                            if(isset($_SESSION["cid"]))
+                            {
+                                $print1 .="<li><a href='php/logout.php'>LOGOUT</a></li>";
+                            }
+                            else {
+                                $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
+                            }
+                            echo  $print1;
+                            ?>-->
                         </ul>
                     </nav><!-- .site-navigation -->
                 </div><!-- .col -->
 
                 <div class="col-lg-3 d-none d-lg-block order-2 order-lg-3">
                     <div class="buy-tickets">
-                        <a class="btn gradient-bg" href="#">Buy Tickets</a>
+                        <a class="btn gradient-bg" href="signup.html">LOGIN</a>
                     </div><!-- .buy-tickets -->
                 </div><!-- .col -->
             </div><!-- .row -->

@@ -78,28 +78,6 @@ alert(html);
 return false;
 }
 
-function regExtras() {
-var extras = document.getElementById("extras").value;
-// Returns successful data submission message when the entered information is stored in database.
-var dataString ='&extras1=' + extras;
-if (extras == '') {
-alert("Don't you want lunch and a T-shirt?");
-} else {
-// AJAX code to submit form.
-jQuery.ajax({
-type: "POST",
-url: "php/registerextras.php",
-data: dataString,
-cache: false,
-success: function(html) {
-alert(html);
-}
-});
-}
-return false;
-}
-
-
 
 function regEvent() {
   var name = 'temp';

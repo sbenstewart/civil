@@ -52,7 +52,7 @@
   
     $(window).on("load",function(){
       
-      $(".Hero").delay("2000").fadeOut("slow");
+      $(".Hero").delay("500").fadeOut("slow");
       $(".Hero").css('background','#ffffff');
       $("body").css('background','#ffffff');
     });

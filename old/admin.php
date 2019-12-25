@@ -166,7 +166,7 @@
                             <input type="email" placeholder="Your email" id="mail">
                         </div>-->
 
-                        <form action="php/download-registrations.php" method="post">
+                        <form action="download-registrations.php" method="post">
                         <div class="col-12 submit  flex justify-content-center">
                           <?php
 
@@ -181,7 +181,7 @@
 
 
 
-                        <form action="php/download-tall-structures.php" method="post">
+                        <form action="download-tall-structures.php" method="post">
                         <div class="col-12 submit  flex justify-content-center">
                           <?php
 
@@ -194,7 +194,7 @@
                         </div>
                         </form>
 
-                        <form action="php/download-solid-waste.php" method="post">
+                        <form action="download-solid-waste.php" method="post">
                         <div class="col-12 submit  flex justify-content-center">
                           <?php
 
@@ -207,7 +207,7 @@
                         </div>
                         </form>
 
-                        <form action="php/download-ground-improvement.php" method="post">
+                        <form action="download-ground-improvement.php" method="post">
                         <div class="col-12 submit  flex justify-content-center">
                           <?php
 
@@ -220,7 +220,7 @@
                         </div>
                         </form>
 
-                        <form action="php/download-event.php" method="post">
+                        <form action="download-event.php" method="post">
                         <div class="col-12 submit  flex justify-content-center">
                           <?php
 
@@ -232,7 +232,7 @@
                           ?>
                         </div>
                         </form>
-                        <form action="php/download-accomodation.php" method="post">
+                        <form action="download-accomodation.php" method="post">
                         <div class="col-12 submit flex justify-content-center">
                           <?php
 
@@ -244,7 +244,7 @@
                           ?>
                         </div>
                       </form>
-                      <form action="php/download-ambassador.php" method="post">
+                      <form action="download-ambassador.php" method="post">
                       <div class="col-12 submit flex justify-content-center">
                         <?php
 

@@ -1,6 +1,6 @@
 body 
 {
-  background:  #ff6f00; 
+  background:  #fff; 
 }
 
 
@@ -8,11 +8,9 @@ body
   width: auto;
   height: auto;
   text-align: center;
-  background :  #ff6f00; 
+  background :  #fff; 
   margin-top: 10%;
   margin-bottom: 20%;
-  margin-top: #ff6f00;
-  margin-bottom:  #ff6f00 ;
 }
 
 .Buildings {

@@ -2292,3 +2292,8 @@ ul.tabs-nav .tab-nav.active {
 .back-to-top path {
     fill: #fff;
 }
+
+#toast-container > .toast-success {
+    content: "\f00C";
+    background-color: #9a28d7;
+}

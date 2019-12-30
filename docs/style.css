@@ -13,20 +13,24 @@ body {
     font-family: 'Calibri';
 }
 
-
 .Hero {
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  background :  #fff; 
-  margin-top: 15%;
-  margin-bottom: 20%;
+    display: block;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
 }
 
-.Buildings {
-  max-width: 800px;
-  visibility: hidden;
-  overflow: visible;
+.Hero .Buildings {
+    vertical-align: middle;
+    width: 100%;
+    display: inline-block;
+    height: 50%;
+    position: absolute;
+    top: 0;
+    bottom: 0%;
+    margin: auto;
 }
 
 

@@ -58,7 +58,6 @@
       
     });
     function init() {
-      //$('body').not(".Hero").hide();
       $('body').children().filter(':not(.Hero)').hide();
       initBuildings();
       hideAllElements();

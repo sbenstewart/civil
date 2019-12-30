@@ -49,14 +49,17 @@
   
     $(document).ready(init);
     $(window).load(startAnimation);
+    
   
     $(window).on("load",function(){
+      $(".Hero").delay("2500").fadeOut('slow', function(){
+        $('body').children().filter(':not(.Hero)').fadeIn("slow");
+      });
       
-      $(".Hero").delay("2500").fadeOut("slow");
-      $(".Hero").css('background','#ffffff');
-      $("body").css('background','#ffffff');
     });
     function init() {
+      //$('body').not(".Hero").hide();
+      $('body').children().filter(':not(.Hero)').hide();
       initBuildings();
       hideAllElements();
     }

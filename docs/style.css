@@ -13,6 +13,23 @@ body {
     font-family: 'Calibri';
 }
 
+
+.Hero {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background :  #fff; 
+  margin-top: 15%;
+  margin-bottom: 20%;
+}
+
+.Buildings {
+  max-width: 800px;
+  visibility: hidden;
+  overflow: visible;
+}
+
+
 img {
     vertical-align: baseline;
 }

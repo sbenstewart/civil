@@ -7,6 +7,101 @@ function hide() {
   }
 }
 
+function displayToast(html){
+toastr.options.preventDuplicates = true;
+toastr.success(html)
+/*toastr.error('Error', 'Error Title',{
+
+  // tap to dismiss
+  tapToDismiss: true,
+
+  // toast class
+  toastClass: 'toast',
+
+  // container ID
+  containerId: 'toast-container',
+
+  // debug mode
+  debug: false,
+  
+  // fadeIn, slideDown, and show are built into jQuery
+  showMethod: 'fadeIn', 
+
+  // duration of animation
+  showDuration: 300,
+
+  // easing function
+  showEasing: 'swing',
+
+  // callback function
+  onShown: undefined,
+  onHidden: undefined,
+
+  // hide animation
+  hideMethod: 'fadeOut',
+
+  // duration of animation
+  hideDuration: 1000,
+
+  // easing function
+  hideEasing: 'swing',
+  
+  // close animation
+  closeMethod: false,
+
+  // duration of animation
+  closeDuration: false,
+
+  // easing function
+  closeEasing: false,
+
+  // timeout in ms
+  extendedTimeOut: 1000,
+
+  // you can customize icons here
+  iconClasses: {
+    error: 'toast-error',
+    info: 'toast-info',
+    success: 'toast-success',
+    warning: 'toast-warning'
+  },
+  iconClass: 'toast-info',
+
+  // toast-top-center, toast-bottom-center, toast-top-full-width
+  // toast-bottom-full-width, toast-top-left, toast-bottom-right
+  // toast-bottom-left, toast-top-right
+  positionClass: 'toast-top-right',
+
+  // set timeOut and extendedTimeOut to 0 to make it sticky
+  timeOut: 5000, 
+
+  // title class
+  titleClass: 'toast-title',
+
+  // message class
+  messageClass: 'toast-message',
+
+  // allows HTML content in the toast?
+  escapeHtml: false,
+
+  // target container
+  target: 'body',
+
+  // close button
+  closeHtml: '<button type="button">&times;</button>',
+
+  // place the newest toast on the top
+  newestOnTop: true,
+
+  // revent duplicate toasts
+  preventDuplicates: false,
+
+  // shows progress bar
+  progressBar: true
+  
+})*/
+}
+
 function regUser() {
 var name = document.getElementById("name").value;
 var mail = document.getElementById("mail").value;
@@ -21,10 +116,10 @@ var confirmpassword = document.getElementById("confirmpassword").value;
 // Returns successful data submission message when the entered information is stored in database.
 var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&code1=' + code+ '&college1=' + college+ '&year1=' + year+ '&dept1=' + dept + '&course1=' + course + '&password1=' + password;
 if (name == '' || mail == '' || phone == '' || college == '' || year == '' || dept == '' || course == '') {
-alert("Please Fill All The Required Fields");
+displayToast("Please Fill All The Required Fields");
 }
 else if (password != confirmpassword) {
-alert("Passwords don't match.");
+displayToast("Passwords don't match.");
 } else {
 
   if(code =='')
@@ -35,7 +130,7 @@ alert("Passwords don't match.");
     data: dataString,
     cache: false,
     success: function(html) {
-    alert(html);
+    displayToast(html);
     }
     });
   }
@@ -47,7 +142,7 @@ url: "php/registeruserwithcode.php",
 data: dataString,
 cache: false,
 success: function(html) {
-alert(html);
+displayToast(html);
 }
 });
 }
@@ -62,7 +157,7 @@ var hours = document.getElementById("hours").value;
 // Returns successful data submission message when the entered information is stored in database.
 var dataString = '&date1=' + date + '&time1=' + time + '&hours1=' + hours;
 if (date == '' || time == '' || hours == '') {
-alert("Please Fill All Fields");
+displayToast("Please Fill All Fields");
 } else {
 // AJAX code to submit form.
 jQuery.ajax({
@@ -71,7 +166,7 @@ url: "php/registeraccomodation.php",
 data: dataString,
 cache: false,
 success: function(html) {
-alert(html);
+displayToast(html);
 }
 });
 }
@@ -87,7 +182,7 @@ function regEvent() {
   // Returns successful data submission message when the entered information is stored in database.
   var dataString = 'event1=' + event;
   if (name == '' || mail == '' || phone == '') {
-  alert("Please Fill All Fields");
+  displayToast("Please Fill All Fields");
   } else {
   // AJAX code to submit form.
   jQuery.ajax({
@@ -96,7 +191,7 @@ function regEvent() {
   data: dataString,
   cache: false,
   success: function(html) {
-  alert(html);
+  displayToast(html);
   }
   });
   }
@@ -110,7 +205,7 @@ var phone = document.getElementById("phone").value;
 // Returns successful data submission message when the entered information is stored in database.
 var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone;
 if (name == '' || mail == '' || phone == '') {
-alert("Please Fill All Fields");
+displayToast("Please Fill All Fields");
 } else {
 // AJAX code to submit form.
 jQuery.ajax({
@@ -119,7 +214,7 @@ url: "php/registerambassador.php",
 data: dataString,
 cache: false,
 success: function(html) {
-alert(html);
+displayToast(html);
 }
 });
 }
@@ -139,7 +234,7 @@ var cid = document.getElementById("cid").value;
 // Returns successful data submission message when the entered information is stored in database.
 var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&code1=' + code+ '&college1=' + college+ '&year1=' + year+ '&dept1=' + dept + '&course1=' + course + '&cid1=' + cid;
 if (name == '' || mail == '' || phone == '' || college == '' || year == '' || dept == '' || course == '' || cid == '') {
-alert("Please Fill All The Required Fields");
+displayToast("Please Fill All The Required Fields");
 } else {
 // AJAX code to submit form.
 if(code =='')
@@ -150,7 +245,7 @@ if(code =='')
   data: dataString,
   cache: false,
   success: function(html) {
-  alert(html);
+  displayToast(html);
   }
   });
 }
@@ -162,7 +257,7 @@ url: "php/edituserwithcode.php",
 data: dataString,
 cache: false,
 success: function(html) {
-alert(html);
+displayToast(html);
 }
 });
 }
@@ -177,7 +272,8 @@ var password = document.getElementById("password").value;
 // Returns successful data submission message when the entered information is stored in database.
 var dataString = '&mail1=' + mail + '&password1=' + password;
 if (mail == '' || password == '') {
-alert("Please Fill All Fields");
+displayToast("Please Fill All Fields");
+
 } else {
 // AJAX code to submit form.
 jQuery.ajax({
@@ -186,7 +282,7 @@ url: "php/loginuser.php",
 data: dataString,
 cache: false,
 success: function(html) {
-alert(html);
+displayToast(html);
 }
 });
 }
@@ -199,7 +295,7 @@ var password = document.getElementById("password").value;
 // Returns successful data submission message when the entered information is stored in database.
 var dataString = '&mail1=' + mail + '&password1=' + password;
 if (mail == '' || password == '') {
-alert("Please Fill All Fields");
+displayToast("Please Fill All Fields");
 } else {
 // AJAX code to submit form.
 jQuery.ajax({
@@ -208,7 +304,7 @@ url: "php/loginadmin.php",
 data: dataString,
 cache: false,
 success: function(html) {
-alert(html);
+displayToast(html);
 }
 });
 }
@@ -220,7 +316,7 @@ var mail = document.getElementById("mail").value;
 // Returns successful data submission message when the entered information is stored in database.
 var dataString = '&mail1=' + mail;
 if (mail == '') {
-alert("Please Fill All Fields");
+displayToast("Please Fill All Fields");
 } else {
 // AJAX code to submit form.
 jQuery.ajax({
@@ -229,7 +325,7 @@ url: "php/forgotpassword.php",
 data: dataString,
 cache: false,
 success: function(html) {
-alert(html);
+displayToast(html);
 }
 });
 }

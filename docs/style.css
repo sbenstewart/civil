@@ -2263,8 +2263,8 @@ ul.tabs-nav .tab-nav.active {
 .back-to-top {
     position: fixed;
     z-index: 9999;
-    right: 64px;
-    bottom: 84px;
+    right: 3vh;
+    bottom: 3vh;
     width: 42px;
     height: 42px;
     margin-top: -21px;

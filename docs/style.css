@@ -2297,3 +2297,7 @@ ul.tabs-nav .tab-nav.active {
     content: "\f00C";
     background-color: #9a28d7;
 }
+
+.onload {
+    display: none;
+}

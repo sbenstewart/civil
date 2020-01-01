@@ -54,11 +54,14 @@
     $(window).on("load",function(){
       $(".Hero").delay("2500").fadeOut('slow', function(){
         $('.onload').fadeIn("slow");
+        console.log("loaded script");
       });
       
     });
+ 
     function init() {
       initBuildings();
+      $(".Hero").css("display", "block");
       hideAllElements();
     }
   

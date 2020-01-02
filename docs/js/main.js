@@ -23,9 +23,9 @@ toastr.success(html)
 
   // debug mode
   debug: false,
-  
+
   // fadeIn, slideDown, and show are built into jQuery
-  showMethod: 'fadeIn', 
+  showMethod: 'fadeIn',
 
   // duration of animation
   showDuration: 300,
@@ -45,7 +45,7 @@ toastr.success(html)
 
   // easing function
   hideEasing: 'swing',
-  
+
   // close animation
   closeMethod: false,
 
@@ -73,7 +73,7 @@ toastr.success(html)
   positionClass: 'toast-top-right',
 
   // set timeOut and extendedTimeOut to 0 to make it sticky
-  timeOut: 5000, 
+  timeOut: 5000,
 
   // title class
   titleClass: 'toast-title',
@@ -98,7 +98,7 @@ toastr.success(html)
 
   // shows progress bar
   progressBar: true
-  
+
 })*/
 }
 
@@ -117,6 +117,9 @@ var confirmpassword = document.getElementById("confirmpassword").value;
 var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&code1=' + code+ '&college1=' + college+ '&year1=' + year+ '&dept1=' + dept + '&course1=' + course + '&password1=' + password;
 if (name == '' || mail == '' || phone == '' || college == '' || year == '' || dept == '' || course == '') {
 displayToast("Please Fill All The Required Fields");
+}
+else if(mail !='/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/'){
+displayToast("Enter valid email.");
 }
 else if (password != confirmpassword) {
 displayToast("Passwords don't match.");

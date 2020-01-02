@@ -12,6 +12,8 @@
     var mySwiper = new Swiper('.hero-slider', {
         slidesPerView: 1,
         spaceBetween: 0,
+        observer: true,
+        observeParents: true,
         loop: true,
         pagination: {
             el: '.swiper-pagination',
@@ -52,14 +54,16 @@
     var swiper = new Swiper('.homepage-regional-events-slider', {
         slidesPerView: 6,
         spaceBetween: 30,
+        observer: true,
+        observeParents: true,
         loop: true,
         breakpoints: {
             // when window width is <= 320px
             576: {
-                slidesPerView: 2,
+                slidesPerView: 2.25,
             },
             768: {
-                slidesPerView: 3
+                slidesPerView: 3.25
             },
             992: {
                 slidesPerView: 4
@@ -77,14 +81,16 @@
     var swiper = new Swiper('.homepage-regional-events-slider-false', {
         slidesPerView: 6,
         spaceBetween: 30,
+        observer: true,
+        observeParents: true,
         loop: false,
         breakpoints: {
             // when window width is <= 320px
             576: {
-                slidesPerView: 2,
+                slidesPerView: 2.25,
             },
             768: {
-                slidesPerView: 3
+                slidesPerView: 3.25
             },
             992: {
                 slidesPerView: 4

@@ -335,17 +335,38 @@ a:hover, a:active {
 --------------------------------------------------------------*/
 .hero-slider {
 }
+
+
 .main-content{
-  padding: 220px 0;
-  background: url("images/logo2.png") center/cover,url("images/header-bg.jpg") no-repeat center/cover;
-  background-size: 100% 100%,100% 100%;
-  height: 100%;
-  width: 100%;
-  padding-top: 53%;
-}
-.hero-content {
+    background: url("images/header-bg.jpg") no-repeat center/cover;
     padding-top: 150px;
     padding-bottom: 120px;
+
+    display: block;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.main-content .logo-content{
+    background: url("images/logo2.png");
+    vertical-align: middle;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0%;
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.hero-content {
+    background: url("images/header-bg.jpg") no-repeat center/cover;
+    padding-top: 150px;
+    padding-bottom: 120px;
+    height: 100vh;
 }
 
 .hero-content .container,
@@ -2263,8 +2284,8 @@ ul.tabs-nav .tab-nav.active {
 .back-to-top {
     position: fixed;
     z-index: 9999;
-    right: 64px;
-    bottom: 84px;
+    right: 3vh;
+    bottom: 3vh;
     width: 42px;
     height: 42px;
     margin-top: -21px;
@@ -2296,4 +2317,13 @@ ul.tabs-nav .tab-nav.active {
 #toast-container > .toast-success {
     content: "\f00C";
     background-color: #9a28d7;
+}
+
+.onload {
+    display: none;
+}
+
+
+.Hero {
+    display: none;
 }

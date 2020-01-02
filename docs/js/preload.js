@@ -53,13 +53,14 @@
   
     $(window).on("load",function(){
       $(".Hero").delay("2500").fadeOut('slow', function(){
-        $('body').children().filter(':not(.Hero)').fadeIn("slow");
+        $('.onload').fadeIn("slow");
       });
       
     });
+ 
     function init() {
-      $('body').children().filter(':not(.Hero)').hide();
       initBuildings();
+      $(".Hero").css("display", "block");
       hideAllElements();
     }
   

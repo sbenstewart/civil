@@ -335,17 +335,36 @@ a:hover, a:active {
 --------------------------------------------------------------*/
 .hero-slider {
 }
+
+
 .main-content{
-  padding: 220px 0;
-  background: url("images/logo2.png") center/cover,url("images/header-bg.jpg") no-repeat center/cover;
-  background-size: 100% 100%,100% 100%;
-  height: 100%;
-  width: 100%;
-  padding-top: 53%;
-}
-.hero-content {
+    background: url("images/header-bg.jpg") no-repeat center/cover;
     padding-top: 150px;
     padding-bottom: 120px;
+
+    display: block;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.main-content .logo-content{
+    vertical-align: middle;
+    width: 100%;
+    display: inline-block;
+    height: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0%;
+    margin: auto;
+}
+.hero-content {
+    background: url("images/header-bg.jpg") no-repeat center/cover;
+    padding-top: 150px;
+    padding-bottom: 120px;
+    height: 100vh;
 }
 
 .hero-content .container,

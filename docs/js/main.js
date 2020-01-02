@@ -118,8 +118,11 @@ var dataString = 'name1=' + name + '&mail1=' + mail + '&phone1=' + phone + '&cod
 if (name == '' || mail == '' || phone == '' || college == '' || year == '' || dept == '' || course == '') {
 displayToast("Please Fill All The Required Fields");
 }
-else if(mail !='/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/'){
+else if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(mail))){
 displayToast("Enter valid email.");
+}
+else if(!(/^\d{10}$/.test(phone))){
+displayToast("Enter valid phone number.");
 }
 else if (password != confirmpassword) {
 displayToast("Passwords don't match.");

@@ -351,14 +351,16 @@ a:hover, a:active {
 }
 
 .main-content .logo-content{
+    background: url("images/logo2.png");
     vertical-align: middle;
     width: 100%;
-    display: inline-block;
-    height: auto;
-    position: absolute;
+    height: 100%;
     top: 0;
     bottom: 0%;
     margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .hero-content {
     background: url("images/header-bg.jpg") no-repeat center/cover;

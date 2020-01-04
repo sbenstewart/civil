@@ -150,12 +150,6 @@ INSERT INTO `user` (`cid`, `name`, `phoneno`, `emailid`, `aid`, `college`, `year
 
 -- --------------------------------------------------------
 
---
--- Structure for view `event1`
---
-DROP TABLE IF EXISTS `event1`;
-
-CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `event1`  AS  select `user`.`name` AS `name`,`user`.`emailid` AS `emailid`,`user`.`phoneno` AS `phoneno` from (`registrations` left join `user` on(((`registrations`.`cid` = `user`.`cid`) and (`registrations`.`id` = 'sample')))) ;
 
 --
 -- Indexes for dumped tables

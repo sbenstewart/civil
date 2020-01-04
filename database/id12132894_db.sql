@@ -3,10 +3,11 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Dec 24, 2019 at 08:16 AM
+-- Generation Time: Jan 04, 2020 at 11:33 AM
 -- Server version: 5.7.23
 -- PHP Version: 7.2.10
 
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
 
@@ -16,17 +17,20 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `u258139758_db`
+-- Database: `id12132894_db`
 --
-CREATE DATABASE IF NOT EXISTS `u258139758_db` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE u258139758_db;
+CREATE DATABASE IF NOT EXISTS `id12132894_db` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `id12132894_db`;
 
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `accomodation`
 --
+-- Creation: Jan 04, 2020 at 11:32 AM
+--
 
+DROP TABLE IF EXISTS `accomodation`;
 CREATE TABLE `accomodation` (
   `id` int(11) NOT NULL,
   `entrydate` varchar(100) NOT NULL DEFAULT '1',
@@ -39,7 +43,11 @@ CREATE TABLE `accomodation` (
 --
 -- Table structure for table `admin`
 --
+-- Creation: Jan 04, 2020 at 11:32 AM
+-- Last update: Jan 04, 2020 at 11:32 AM
+--
 
+DROP TABLE IF EXISTS `admin`;
 CREATE TABLE `admin` (
   `cid` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
@@ -59,7 +67,10 @@ INSERT INTO `admin` (`cid`, `name`, `emailid`, `password`) VALUES
 --
 -- Table structure for table `ambassador`
 --
+-- Creation: Jan 04, 2020 at 11:32 AM
+--
 
+DROP TABLE IF EXISTS `ambassador`;
 CREATE TABLE `ambassador` (
   `aid` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
@@ -74,6 +85,7 @@ CREATE TABLE `ambassador` (
 -- Stand-in structure for view `event1`
 -- (See below for the actual view)
 --
+DROP VIEW IF EXISTS `event1`;
 CREATE TABLE `event1` (
 `name` varchar(100)
 ,`emailid` varchar(100)
@@ -85,7 +97,11 @@ CREATE TABLE `event1` (
 --
 -- Table structure for table `registrations`
 --
+-- Creation: Jan 04, 2020 at 11:32 AM
+-- Last update: Jan 04, 2020 at 11:32 AM
+--
 
+DROP TABLE IF EXISTS `registrations`;
 CREATE TABLE `registrations` (
   `cid` varchar(100) NOT NULL,
   `id` varchar(100) NOT NULL,
@@ -107,7 +123,11 @@ INSERT INTO `registrations` (`cid`, `id`, `Paid`) VALUES
 --
 -- Table structure for table `user`
 --
+-- Creation: Jan 04, 2020 at 11:32 AM
+-- Last update: Jan 04, 2020 at 11:32 AM
+--
 
+DROP TABLE IF EXISTS `user`;
 CREATE TABLE `user` (
   `cid` int(11) NOT NULL,
   `name` varchar(100) NOT NULL,
@@ -130,12 +150,6 @@ INSERT INTO `user` (`cid`, `name`, `phoneno`, `emailid`, `aid`, `college`, `year
 
 -- --------------------------------------------------------
 
---
--- Structure for view `event1`
---
-DROP TABLE IF EXISTS `event1`;
-
-CREATE ALGORITHM=UNDEFINED DEFINER=`root`@`localhost` SQL SECURITY DEFINER VIEW `event1`  AS  select `user`.`name` AS `name`,`user`.`emailid` AS `emailid`,`user`.`phoneno` AS `phoneno` from (`registrations` left join `user` on(((`registrations`.`cid` = `user`.`cid`) and (`registrations`.`id` = 'sample')))) ;
 
 --
 -- Indexes for dumped tables

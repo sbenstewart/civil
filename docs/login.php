@@ -31,13 +31,13 @@
 </head>
 <body class="contact-page">
 <header class="site-header">
-    <div class="header-bar">
+<div class="header-bar">
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-10 col-lg-2 order-lg-1">
                     <div class="site-branding">
                         <div class="site-title">
-                            <a href="#"><img src="images/logo.png" alt="logo"></a>
+                            <a href="index.php"><img src="images/weblogo.png" alt="CIVIL"></a>
                         </div><!-- .site-title -->
                     </div><!-- .site-branding -->
                 </div><!-- .col -->
@@ -52,18 +52,45 @@
                         </div><!-- .hamburger-menu -->
 
                         <ul>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">Events</a></li>
-                            <li><a href="#">News</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="#workshops">WORKSHOPS</a></li>
+                            <li><a href="#events">EVENTS</a></li>
+                            <li><a href="#lectures">LECTURES</a></li>
+                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="about.php">CONTACT</a></li>
+                            <li class="d-lg-none"><a href="signup.php">LOGIN</a></li>
+                            <?php
+                            // Start the session
+
+                            if(isset($_SESSION["cid"]))
+                            {
+                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGOUT</a></li>';
+                            }
+                            else {
+                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                            }
+                            echo  $print1;
+                            ?>
                         </ul>
                     </nav><!-- .site-navigation -->
                 </div><!-- .col -->
 
                 <div class="col-lg-3 d-none d-lg-block order-2 order-lg-3">
                     <div class="buy-tickets">
-                        <a class="btn gradient-bg" href="#">Buy Tickets</a>
+
+                        <?php
+                            // Start the session
+
+                            if(isset($_SESSION["cid"]))
+                            {
+                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
+                            }
+                            else {
+                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                            }
+                            echo  $print1;
+                            ?>
+
+
                     </div><!-- .buy-tickets -->
                 </div><!-- .col -->
             </div><!-- .row -->
@@ -111,7 +138,7 @@
                     </div>
 
                     <div class="col-lg-6 submit flex justify-content-center">
-                        <a href="signup.html">
+                        <a href="signup.php">
                             <input type="button" onclick="" name="" value="Signup as new user" class="btn gradient-bg flex justify-content-center align-items-center">
                         </a>
                     </div>
@@ -121,13 +148,13 @@
                     </div>
 
                     <div class="col-lg-6 submit flex justify-content-center">
-                        <a href='change-details.html'>
+                        <a href='change-details.php'>
                             <input type="button" onclick="" name="" value="Change details" class="btn gradient-bg flex justify-content-center align-items-center">
                         </a>
                     </div>
 
                     <div class="col-lg-6 submit flex justify-content-center">
-                        <a href='accomodation-signup.html'>
+                        <a href='accomodation-signup.php'>
                             <input type="button" onclick="" name="" value="Accommodation" class="btn gradient-bg flex justify-content-center align-items-center">
                         </a>
                     </div>

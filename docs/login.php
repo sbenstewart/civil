@@ -147,17 +147,32 @@
                         <input type="button" onclick="forgotPassword()" name="" value="Forgot Password" class="btn gradient-bg flex justify-content-center align-items-center">
                     </div>
 
-                    <div class="col-lg-6 submit flex justify-content-center">
-                        <a href='change-details.php'>
-                            <input type="button" onclick="" name="" value="Change details" class="btn gradient-bg flex justify-content-center align-items-center">
-                        </a>
-                    </div>
+                    <?php
 
-                    <div class="col-lg-6 submit flex justify-content-center">
-                        <a href='accomodation-signup.php'>
-                            <input type="button" onclick="" name="" value="Accommodation" class="btn gradient-bg flex justify-content-center align-items-center">
-                        </a>
-                    </div>
+                          if(isset($_SESSION["cid"]))
+                          {
+                            $print2 .='
+                            
+                            <div class="col-lg-6 submit flex justify-content-center">
+                                <a href="change-details.php">
+                                    <input type="button" onclick="" name="" value="Change details" class="btn gradient-bg flex justify-content-center align-items-center">
+                                </a>
+                            </div>
+
+                            <div class="col-lg-6 submit flex justify-content-center">
+                                <a href="accomodation-signup.php">
+                                    <input type="button" onclick="" name="" value="Accommodation" class="btn gradient-bg flex justify-content-center align-items-center">
+                                </a>
+                            </div>
+                            ';
+                          }
+                          else {
+                            $print2 .="";
+                          }
+                          echo  $print2;
+                    ?>
+
+                    
                 </form>
             </div>
         </div>

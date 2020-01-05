@@ -135,15 +135,15 @@
                     <div id="tab_about" class="tab-content">
                         <h2 class="entry-header">Registration</h2>
                         <p>Click the button below to register.</p>
-                        <!--<?php
+                        <?php
                         // Start the session
 
                         if(isset($_SESSION["cid"]))
                         {
-                        $print2 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
+                        $print2 .="<p><strong>You are currently logged in as ".$_SESSION["name"]."</strong></p>";
                         }
                         echo  $print2;
-                        ?>-->
+                        ?>
                         <div class="entry-content flex">
                             <a href="ambassadorsignup.php" class="btn gradient-bg flex justify-content-center align-items-center">Register</a>
                         </div>

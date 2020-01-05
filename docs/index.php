@@ -502,7 +502,7 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGOUT</a></li>';
+                                $print1 .='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
                                 $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';

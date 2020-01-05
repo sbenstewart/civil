@@ -63,7 +63,7 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGOUT</a></li>';
+                                $print1 .='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
                                 $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
@@ -82,7 +82,7 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
+                                $print1 .='<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             }
                             else {
                                 $print1 .='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
@@ -130,7 +130,7 @@
                         <li>On reaching the campus, report immediately to the Registration Desk for registration process and if accommodation is needed, approach the accommodation desk.</li>
                         <li>It is mandatory to bring your college ID card.</li>
                         <li>At the time of check-in, the caution deposit of Rs.100 should be paid (which will be refunded at the time of check-out)</li>
-                        <li><strong class="lead">The charge for a day's stay will be Rs.300 (24 hours only).</strong></li>
+                        <li><strong>The charge for a day's stay will be Rs.300 (24 hours only).</strong></li>
                         <li>After Accommodation registration and payment of applicable fees, rooms/dormitories will be allotted by the Civilisation 2019 Accommodation team.</li>
                         <li>During check-out the participants are required to return all the utilities (provided at the time of check-in) in order to redeem their refundable-deposit.</li>
                         <li>Refund of Caution deposit money will be made at the sole discretion of Civilisation Accommodation team.</li>
@@ -194,15 +194,15 @@
                     <div id="tab_about" class="tab-content">
                         <h2 class="entry-header">Registration</h2>
                         <p>Click the button below to register.</p>
-                        <!--<?php
+                        <?php
                         // Start the session
 
-                        if(isset($_SESSION["cid"]))
-                        {
-                        $print2 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
-                        }
-                        echo  $print2;
-                        ?>-->
+                            if(isset($_SESSION["cid"]))
+                            {
+                            $print2 .="<p><strong>You are currently logged in as ".$_SESSION["name"]."</strong></p>";
+                            }
+                            echo  $print2;
+                        ?>
                         <div class="entry-content flex">
                             <a href="accomodation-signup.php" class="btn gradient-bg flex justify-content-center align-items-center">Register</a>
                         </div>

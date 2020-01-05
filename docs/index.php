@@ -496,7 +496,6 @@
                             <li><a href="#lectures">LECTURES</a></li>
                             <li><a href="accomodation.php">ACCOMMODATION</a></li>
                             <li><a href="about.php">CONTACT</a></li>
-                            <li class="d-lg-none"><a href="signup.php">LOGIN</a></li>
                             <?php
                             // Start the session
 

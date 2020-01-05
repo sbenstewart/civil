@@ -690,7 +690,7 @@
 <div class="homepage-info-section">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-4 col-lg-5">
+            <div class="col-6 col-md-4 col-lg-5 center">
                 <figure>
                     <img src="images/logo.jpg" alt="logo">
                 </figure>

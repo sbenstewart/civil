@@ -1,11 +1,15 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello World</title>
+    <title>Civilisation</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="This is the official website of Civilisation CEG, a nation level intercollege technical symposium conducted by the Society of Civil Engineers in association with the department of Civil Engineering, College of Engineering Guindy.">
+    <meta name="author" content="Ben Stewart S">
+    <meta name="keywords" content="civilisation,ceg,symposium,2020,civil,ben stewart,chennai,guindy,college">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -16,9 +20,19 @@
     <!-- Swiper CSS -->
     <link rel="stylesheet" href="css/swiper.min.css">
 
+    <!--Favicon-->
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+
     <!-- Styles -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/toastr.min.css">
+    <script src="js/custom.js"></script>
+
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+    <link href="https://cdn.jsdelivr.net/npm/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
 </head>
 <body class="contact-page">
 <header class="site-header">
@@ -66,7 +80,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Signup.</h1>
+                        <h1 class="entry-title">Accomodation.</h1>
                     </header>
                 </div>
             </div>
@@ -83,24 +97,41 @@
                 <form class="row">
 
                     <div class="col-12">
-                        <input type="text" placeholder="Your name" id="name">
-                    </div><!-- col-4 -->
-
-                    <div class="col-12">
-                        <input type="number" placeholder="Phone number - Ten digits only" id="phone">
+                        <p>
+                            Please enter the correct date, time and duration of the stay.<br> This will help us to plan accordingly and provide you with the best possible resources.
+                        </p>
                     </div>
 
+                    <div class="col-6">
+                        <div class="datepicker">
+                            <input id="datepicker">
+                            <script>
+                            $('#datepicker').datepicker();
+                            </script>
+                        </div>
+                    </div>
 
+                    <div class="col-6">
+                        <div class="datepicker">
+                            <input id="timepicker">
+                            <script>
+                                $('#timepicker').timepicker();
+                            </script>
+                        </div>
+                    </div>
 
                     <div class="col-12">
-                        <input type="email" placeholder="Your email" id="mail">
-                    </div><!-- col-6 -->
-
+                    <select id="hours">
+                        <option value="">&nbsp;&nbsp;&nbsp;&nbsp;Number of hours</option>
+                        <option value="24">&nbsp;&nbsp;&nbsp;&nbsp;24</option>
+                        <option value="48">&nbsp;&nbsp;&nbsp;&nbsp;48</option>
+                        <option value="72">&nbsp;&nbsp;&nbsp;&nbsp;72</option>
+                    </select>
+                    </div>
 
                     <div class="col-12 submit flex justify-content-center">
-                        <input type="button" onclick="regAmbassador()" name="" value="Signup" class="btn gradient-bg flex justify-content-center align-items-center">
+                        <input type="button" onclick="regAccomodation()" value="Register" class="btn gradient-bg flex justify-content-center align-items-center">
                     </div>
-
                 </form>
             </div>
         </div>

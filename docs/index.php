@@ -1,3 +1,4 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -475,7 +476,7 @@
                 <div class="col-10 col-lg-2 order-lg-1">
                     <div class="site-branding">
                         <div class="site-title">
-                            <a href="index.html"><img src="images/weblogo.png" alt="CIVIL"></a>
+                            <a href="index.php"><img src="images/weblogo.png" alt="CIVIL"></a>
                         </div><!-- .site-title -->
                     </div><!-- .site-branding -->
                 </div><!-- .col -->
@@ -493,28 +494,42 @@
                             <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.html">ACCOMMODATION</a></li>
-                            <li><a href="about.html">CONTACT</a></li>
-                            <li class="d-lg-none"><a href="signup.html">LOGIN</a></li>
-                            <!--<?php
+                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="about.php">CONTACT</a></li>
+                            <li class="d-lg-none"><a href="signup.php">LOGIN</a></li>
+                            <?php
                             // Start the session
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .="<li><a href='php/logout.php'>LOGOUT</a></li>";
+                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 .="<li><a href='signup.php'>LOGIN</a></li>";
+                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
                             }
                             echo  $print1;
-                            ?>-->
+                            ?>
                         </ul>
                     </nav><!-- .site-navigation -->
                 </div><!-- .col -->
 
                 <div class="col-lg-3 d-none d-lg-block order-2 order-lg-3">
                     <div class="buy-tickets">
-                        <a class="btn gradient-bg" href="signup.html">LOGIN</a>
+
+                        <?php
+                            // Start the session
+
+                            if(isset($_SESSION["cid"]))
+                            {
+                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
+                            }
+                            else {
+                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                            }
+                            echo  $print1;
+                            ?>
+
+
                     </div><!-- .buy-tickets -->
                 </div><!-- .col -->
             </div><!-- .row -->
@@ -691,7 +706,7 @@
                 </div>
 
                 <footer class="entry-footer">
-                    <a href="about.html" class="btn gradient-bg">Read More</a>
+                    <a href="about.php" class="btn gradient-bg">Read More</a>
                 </footer>
             </div>
         </div>
@@ -704,7 +719,7 @@
             <div class="col-12">
                 <div class="featured-events-wrap flex flex-wrap justify-content-between">
                     <div class="event-content-wrap positioning-event-1">
-                        <a href="ambassador.html">
+                        <a href="ambassador.php">
                             <figure>
                                 <img src="images/1.jpg" alt="1">
                             </figure>
@@ -718,7 +733,7 @@
                     </div>
 
                     <div class="event-content-wrap positioning-event-2">
-                        <a href="accomodation.html">
+                        <a href="accomodation.php">
                             <figure>
                                 <img src="images/2.jpg" alt="">
                             </figure>
@@ -1361,8 +1376,8 @@
                         <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.html">ACCOMMODATION</a></li>
-                            <li><a href="about.html">CONTACT</a></li>
+                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="about.php">CONTACT</a></li>
                     </ul>
                 </nav>
 

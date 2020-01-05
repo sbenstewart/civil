@@ -1,11 +1,15 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello World</title>
+    <title>Civilisation</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="This is the official website of Civilisation CEG, a nation level intercollege technical symposium conducted by the Society of Civil Engineers in association with the department of Civil Engineering, College of Engineering Guindy.">
+    <meta name="author" content="Ben Stewart S">
+    <meta name="keywords" content="civilisation,ceg,symposium,2020,civil,ben stewart,chennai,guindy,college">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -16,9 +20,14 @@
     <!-- Swiper CSS -->
     <link rel="stylesheet" href="css/swiper.min.css">
 
+    <!--Favicon-->
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+
     <!-- Styles -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/toastr.min.css">
+    <script src="js/custom.js"></script>
 </head>
 <body class="contact-page">
 <header class="site-header">
@@ -66,7 +75,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Contact.</h1>
+                        <h1 class="entry-title">Signup.</h1>
                     </header>
                 </div>
             </div>
@@ -74,112 +83,39 @@
     </div>
 </header><!-- .site-header -->
 
-<div class="container">
-    <div class="row">
-        <div class="col-12 col-md-6 col-lg-4">
-            <div class="contact-location-details">
-                <h2 class="entry-title">New York</h2>
 
-                <div class="entry-content">
-                    <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risus, pellentesque at facilisis et.</p>
-                </div>
-
-                <footer class="entry-footer">
-                    <ul>
-                        <li class="contact-address">667889 Madison Avenue, no24-56</li>
-                        <li class="contact-number">665 5667 8899 661</li>
-                        <li class="contact-email"><a href="#">office@yourbusiness.com</a></li>
-                    </ul>
-                </footer>
-            </div>
-        </div>
-
-        <div class="col-12 col-md-6 col-lg-4">
-            <div class="contact-location-details">
-                <h2 class="entry-title">Miami</h2>
-
-                <div class="entry-content">
-                    <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risus, pellentesque at facilisis et.</p>
-                </div>
-
-                <footer class="entry-footer">
-                    <ul>
-                        <li class="contact-address">122344 Island Str, no23</li>
-                        <li class="contact-number">665 5667 8899 661</li>
-                        <li class="contact-email"><a href="#">office@yourbusiness.com</a></li>
-                    </ul>
-                </footer>
-            </div>
-        </div>
-
-        <div class="col-12 col-md-6 col-lg-4">
-            <div class="contact-location-details">
-                <h2 class="entry-title">Los Angeles</h2>
-
-                <div class="entry-content">
-                    <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risus, pellentesque at facilisis et.</p>
-                </div>
-
-                <footer class="entry-footer">
-                    <ul>
-                        <li class="contact-address">667889 Long Avenue, no24-56</li>
-                        <li class="contact-number">665 5667 8899 661</li>
-                        <li class="contact-email"><a href="#">office@yourbusiness.com</a></li>
-                    </ul>
-                </footer>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="contact-page-map">
-    <iframe id="gmap_canvas" src="https://maps.google.com/maps?q=university of san francisco&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-</div>
 
 <div class="container">
     <div class="row">
         <div class="col-12">
             <div class="contact-form">
                 <form class="row">
-                    <div class="col-12 col-md-4"><input type="text" placeholder="Name"></div>
-                    <div class="col-12 col-md-4"><input type="email" placeholder="E-mail"></div>
-                    <div class="col-12 col-md-4"><input type="text" placeholder="Subject"></div>
-                    <div class="col-12"><textarea placeholder="Message" rows="8"></textarea></div>
-                    <div class="col-12 flex justify-content-center"><input class="btn gradient-bg" type="submit" value="Send Message"></div>
+
+                    <div class="col-12">
+                        <input type="text" placeholder="Your name" id="name">
+                    </div><!-- col-4 -->
+
+                    <div class="col-12">
+                        <input type="number" placeholder="Phone number - Ten digits only" id="phone">
+                    </div>
+
+
+
+                    <div class="col-12">
+                        <input type="email" placeholder="Your email" id="mail">
+                    </div><!-- col-6 -->
+
+
+                    <div class="col-12 submit flex justify-content-center">
+                        <input type="button" onclick="regAmbassador()" name="" value="Signup" class="btn gradient-bg flex justify-content-center align-items-center">
+                    </div>
+
                 </form>
             </div>
         </div>
     </div>
 </div>
 
-<div class="newsletter-subscribe">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <header class="entry-header">
-                    <h2 class="entry-title">Subscribe to our newsletter to get the latest trends & news</h2>
-                    <p>Join our database NOW!</p>
-                </header>
-
-                <div class="newsletter-form">
-                    <form class="flex flex-wrap justify-content-center align-items-center">
-                        <div class="col-md-12 col-lg-3">
-                            <input type="text" placeholder="Name">
-                        </div>
-
-                        <div class="col-md-12 col-lg-6">
-                            <input type="email" placeholder="Your e-mail">
-                        </div>
-
-                        <div class="col-md-12 col-lg-3">
-                            <input class="btn gradient-bg" type="submit" value="Subscribe">
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 <footer class="site-footer">
     <div class="container">

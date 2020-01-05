@@ -1,11 +1,15 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello World</title>
+    <title>Civilisation</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="This is the official website of Civilisation CEG, a nation level intercollege technical symposium conducted by the Society of Civil Engineers in association with the department of Civil Engineering, College of Engineering Guindy.">
+    <meta name="author" content="Ben Stewart S">
+    <meta name="keywords" content="civilisation,ceg,symposium,2020,civil,ben stewart,chennai,guindy,college">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -16,9 +20,14 @@
     <!-- Swiper CSS -->
     <link rel="stylesheet" href="css/swiper.min.css">
 
+    <!--Favicon-->
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+
     <!-- Styles -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/toastr.min.css">
+    <script src="js/custom.js"></script>
 </head>
 <body class="contact-page">
 <header class="site-header">
@@ -66,7 +75,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Login.</h1>
+                        <h1 class="entry-title">Signup.</h1>
                     </header>
                 </div>
             </div>
@@ -82,45 +91,67 @@
             <div class="contact-form">
                 <form class="row">
 
-                    <div class="col-12 flex justify-content-center">
-                        <p>
-                            Use the input section below to enter your emailid and password.<br>
-                            Incase you have forgotten your password, enter your mailid and click on the 'Forgot Password' button down below.
-                        </p>
+                    <div class="col-12">
+                        <input type="text" placeholder="Your name" id="name">
+                    </div><!-- col-4 -->
+
+                    <div class="col-12">
+                        <input type="text" placeholder="Phone number - Ten digits only" id="phone">
                     </div>
 
                     <div class="col-12">
-                        <input type="email" placeholder="Your email (required)" id="mail">
+                        <input type="email" placeholder="Your email" id="mail">
                     </div><!-- col-6 -->
 
                     <div class="col-12">
                         <input type="password" placeholder="Password" id="password">
+                    </div><!-- col-6 -->
+
+                    <div class="col-12">
+                        <input type="password" placeholder="Confirm Password" id="confirmpassword">
+                    </div><!-- col-6 -->
+
+                    <div class="col-12">
+                        <input type="text" placeholder="College" id="college">
+                    </div><!-- col-6 -->
+
+                    <div class="col-12">
+                    <select id="course">
+                      <option value="">Select your course</option>
+                      <option value="B.E.">B.E.</option>
+                      <option value="M.E.">M.E.</option>
+                      <option value="Research Scholar">Research Scholar</option>
+                      <option value="Other">Other</option>
+                    </select>
                     </div>
 
-                    <div class="col-lg-6 submit flex justify-content-center">
-                        <input type="button" onclick="loginUser()" name="" value="Login" class="btn gradient-bg flex justify-content-center align-items-center">
+
+                    <div class="col-12">
+                    <select id="year">
+                      <option value="">Select your year</option>
+                      <option value="1">1</option>
+                      <option value="2">2</option>
+                      <option value="3">3</option>
+                      <option value="4">4</option>
+                      <option value="5">5</option>
+                    </select>
                     </div>
 
-                    <div class="col-lg-6 submit flex justify-content-center">
-                        <a href="signup.html">
-                            <input type="button" onclick="" name="" value="Signup as new user" class="btn gradient-bg flex justify-content-center align-items-center">
-                        </a>
+
+                    <div class="col-12">
+                        <input type="text" placeholder="Department" id="dept">
+                    </div><!-- col-6 -->
+
+                    <div class="col-12">
+                        <input type="text" placeholder="Referal code (optional)" id="code">
+                    </div><!-- col-6 -->
+
+                    <div class="col-12 submit flex justify-content-center">
+                        <input class="btn gradient-bg" type="button" onclick="regUser()" name="" value="Signup">
                     </div>
 
-                    <div class="col-lg-6 submit flex justify-content-center">
-                        <input type="button" onclick="forgotPassword()" name="" value="Forgot Password" class="btn gradient-bg flex justify-content-center align-items-center">
-                    </div>
-
-                    <div class="col-lg-6 submit flex justify-content-center">
-                        <a href='change-details.html'>
-                            <input type="button" onclick="" name="" value="Change details" class="btn gradient-bg flex justify-content-center align-items-center">
-                        </a>
-                    </div>
-
-                    <div class="col-lg-6 submit flex justify-content-center">
-                        <a href='accomodation-signup.html'>
-                            <input type="button" onclick="" name="" value="Accommodation" class="btn gradient-bg flex justify-content-center align-items-center">
-                        </a>
+                    <div class="col-12 submit flex justify-content-center">
+                        <a href="login.html" class="btn gradient-bg flex justify-content-center align-items-center">Click here to login.</a>
                     </div>
                 </form>
             </div>

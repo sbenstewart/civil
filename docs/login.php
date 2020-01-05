@@ -1,11 +1,15 @@
+<?php session_start();?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello World</title>
+    <title>Civilisation</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="This is the official website of Civilisation CEG, a nation level intercollege technical symposium conducted by the Society of Civil Engineers in association with the department of Civil Engineering, College of Engineering Guindy.">
+    <meta name="author" content="Ben Stewart S">
+    <meta name="keywords" content="civilisation,ceg,symposium,2020,civil,ben stewart,chennai,guindy,college">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -16,11 +20,16 @@
     <!-- Swiper CSS -->
     <link rel="stylesheet" href="css/swiper.min.css">
 
+    <!--Favicon-->
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+
     <!-- Styles -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/toastr.min.css">
+    <script src="js/custom.js"></script>
 </head>
-<body class="single-event-page">
+<body class="contact-page">
 <header class="site-header">
     <div class="header-bar">
         <div class="container-fluid">
@@ -61,12 +70,12 @@
         </div><!-- .container-fluid -->
     </div><!-- .header-bar -->
 
-    <div class="page-header single-event-page-header">
+    <div class="page-header contact-page-header">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Ambassador.</h1>
+                        <h1 class="entry-title">Login.</h1>
                     </header>
                 </div>
             </div>
@@ -74,91 +83,59 @@
     </div>
 </header><!-- .site-header -->
 
+
+
 <div class="container">
-    
     <div class="row">
         <div class="col-12">
-            <div class="tabs">
-                <ul class="tabs-nav flex">
-                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_details">Details</li>
-                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
-                </ul>
+            <div class="contact-form">
+                <form class="row">
 
-                <div class="tabs-container">
-                    <div id="tab_details" class="tab-content">
-                        
-                        <h2 class="entry-header">Instructions</h2>
-                        <ul>
-                            <li>Any student can become a student ambassador if he/she is willing to.</li>
-                            <li>After registering your name for any of the workshops and paying the registration fee, you will be able to avail the workshop fee waiver on spot.</li>
-                            <li>If 10 or more registrations are done using the same referral code, you will be refunded the workshop fee after the completion of the workshop on spot.</li>
-                            <li>In case you forget your referral code, you can signup again to generate a new referral code and all the new registrations will add up with the old ones.</li>
-                          </ul>
+                    <div class="col-12 flex justify-content-center">
+                        <p>
+                            Use the input section below to enter your emailid and password.<br>
+                            Incase you have forgotten your password, enter your mailid and click on the 'Forgot Password' button down below.
+                        </p>
                     </div>
 
-                    <div id="tab_about" class="tab-content">
-                        <h2 class="entry-header">Registration</h2>
-                        <p>Click the button below to register.</p>
-                        <!--<?php
-                        // Start the session
+                    <div class="col-12">
+                        <input type="email" placeholder="Your email (required)" id="mail">
+                    </div><!-- col-6 -->
 
-                        if(isset($_SESSION["cid"]))
-                        {
-                        $print2 .="<div><p><b><strong>You are currently logged in as ".$_SESSION["name"]."</strong></b></p></div>";
-                        }
-                        echo  $print2;
-                        ?>-->
-                        <div class="entry-content flex">
-                            <a href="ambassadorsignup.html" class="btn gradient-bg flex justify-content-center align-items-center">Register</a>
-                        </div>
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    
-
-    <div class="row">
-        <div class="col-12">
-            <div class="upcoming-events">
-                <div class="upcoming-events-header">
-                    <h4>Upcoming Events</h4>
-                </div>
-
-                <div class="upcoming-events-list">
-                    <div class="upcoming-event-wrap flex flex-wrap justify-content-between align-items-center">
-                        <figure class="events-thumbnail">
-                            <a href="#"><img src="images/upcoming-1.jpg" alt=""></a>
-                        </figure>
-
-                        <div class="entry-meta">
-                            <div class="event-date">
-                                25<span>February</span>
-                            </div>
-                        </div>
-
-                        <header class="entry-header">
-                            <h3 class="entry-title"><a href="#">Blockchain Conference</a></h3>
-
-                            <div class="event-date-time">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
-
-                            <div class="event-speaker">Speackers: Maria Williams, Luis Smith, James Doe</div>
-                        </header>
-
-                        <footer class="entry-footer">
-                            <a href="#">Buy Tikets</a>
-                        </footer>
+                    <div class="col-12">
+                        <input type="password" placeholder="Password" id="password">
                     </div>
 
-                    
-                </div>
+                    <div class="col-lg-6 submit flex justify-content-center">
+                        <input type="button" onclick="loginUser()" name="" value="Login" class="btn gradient-bg flex justify-content-center align-items-center">
+                    </div>
+
+                    <div class="col-lg-6 submit flex justify-content-center">
+                        <a href="signup.html">
+                            <input type="button" onclick="" name="" value="Signup as new user" class="btn gradient-bg flex justify-content-center align-items-center">
+                        </a>
+                    </div>
+
+                    <div class="col-lg-6 submit flex justify-content-center">
+                        <input type="button" onclick="forgotPassword()" name="" value="Forgot Password" class="btn gradient-bg flex justify-content-center align-items-center">
+                    </div>
+
+                    <div class="col-lg-6 submit flex justify-content-center">
+                        <a href='change-details.html'>
+                            <input type="button" onclick="" name="" value="Change details" class="btn gradient-bg flex justify-content-center align-items-center">
+                        </a>
+                    </div>
+
+                    <div class="col-lg-6 submit flex justify-content-center">
+                        <a href='accomodation-signup.html'>
+                            <input type="button" onclick="" name="" value="Accommodation" class="btn gradient-bg flex justify-content-center align-items-center">
+                        </a>
+                    </div>
+                </form>
             </div>
         </div>
     </div>
 </div>
-
 
 
 <footer class="site-footer">
@@ -180,6 +157,7 @@
                 </nav>
 
                 Made with <i class="fa fa-heart" aria-hidden="true"></i> in <a href="https://www.google.com/maps/place/College+of+Engineering,+Guindy/@13.0169607,80.2036514,13z/data=!4m5!3m4!1s0x3a52679f0d20f797:0x59f9f10c66e02a19!8m2!3d13.01094!4d80.2354462" target="_blank">Chennai</a>
+
                 <div class="footer-social">
                     <ul class="flex flex-wrap justify-content-center align-items-center">
                         <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
@@ -193,6 +171,8 @@
         </div>
     </div>
 </footer>
+
+
 
 <div class="back-to-top flex justify-content-center align-items-center">
     <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1395 1184q0 13-10 23l-50 50q-10 10-23 10t-23-10l-393-393-393 393q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l466 466q10 10 10 23z"/></svg></span>

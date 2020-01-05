@@ -221,6 +221,23 @@
                 </form>
                 </div>
 
+                <div class="col-12 col-lg-6 submit flex justify-content-center margin">
+                <form action="php/download-sample-workshop.php" method="post">
+                
+                    
+                        <?php
+
+                        if(isset($_SESSION["admin"]))
+                        {
+                            $print8 .='<input type="submit" name="sample" value="Sample Workshop" class="btn gradient-bg flex justify-content-center align-items-center">';
+                        }
+                        echo  $print8;
+                        ?>
+                    
+                
+                </form>
+                </div>
+
                 </div>
             </div>
         </div>

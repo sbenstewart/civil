@@ -820,24 +820,24 @@
             <div class="col-12 col-sm-6 col-md-4">
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="#"><img src="images/next1.jpg" alt="1"></a>
+                        <a href="sample-workshop.php"><img src="images/next1.jpg" alt="1"></a>
 
                         <div class="event-rating">5-3-20</div>
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">Workshop 1</h3>
+                        <h3 class="entry-title">Sample Workshop</h3>
 
                         <div class="posted-date">Thursday <span>March 5, 2020</span></div>
                         <div class="posted-date">Vivek Audi <span>8 AM</span></div>
                     </header>
 
                     <div class="entry-content">
-                        <p>This sample event can be explained here so that the students will have a basic idea of what to expect and also to garner interest.</p>
+                        <p>To ensure that the building is able to stand up safely, function without excessive deflections which may cause fatigue of structural elements, cracking or failure of fixtures or fittings, or discomfort for occupants.</p>
                     </div>
 
                     <footer class="entry-footer">
-                        <a href="#">Register</a>
+                        <a href="sample-workshop.php">Register</a>
                     </footer>
                 </div>
             </div>

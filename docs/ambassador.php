@@ -52,9 +52,9 @@
                         </div><!-- .hamburger-menu -->
 
                         <ul>
-                            <li><a href="#workshops">WORKSHOPS</a></li>
-                            <li><a href="#events">EVENTS</a></li>
-                            <li><a href="#lectures">LECTURES</a></li>
+                            <li><a href="index.php#workshops">WORKSHOPS</a></li>
+                            <li><a href="index.php#events">EVENTS</a></li>
+                            <li><a href="index.php#lectures">LECTURES</a></li>
                             <li><a href="accomodation.php">ACCOMMODATION</a></li>
                             <li><a href="about.php">CONTACT</a></li>
                             <li class="d-lg-none"><a href="signup.php">LOGIN</a></li>

@@ -2330,3 +2330,7 @@ ul.tabs-nav .tab-nav.active {
 strong {
     color: #9a24c1;
 }
+
+.margin {
+    margin-bottom: 20px;
+}

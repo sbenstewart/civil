@@ -244,7 +244,7 @@
                           ?>
                         </div>
                       </form>
-                      <form action="download-ambassador.php" method="post">
+                      <form action="php/download-ambassador.php" method="post">
                       <div class="col-12 submit flex justify-content-center">
                         <?php
 

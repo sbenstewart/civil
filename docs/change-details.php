@@ -57,13 +57,12 @@
                             <li><a href="index.php#lectures">LECTURES</a></li>
                             <li><a href="accomodation.php">ACCOMMODATION</a></li>
                             <li><a href="about.php">CONTACT</a></li>
-                            <li class="d-lg-none"><a href="signup.php">LOGIN</a></li>
                             <?php
                             // Start the session
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGOUT</a></li>';
+                                $print1 .='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
                                 $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
@@ -174,19 +173,19 @@
 
 
                       <div class="col-12 submit flex justify-content-center">
-                        <input type='button' onclick='editUser()' name='' value='Change' class='btn gradient-bg flex justify-content-center align-items-center'>
-                       <!-- <?php
-                        // Start the session
+                            <?php
+                            // Start the session
 
-                        if(isset($_SESSION["cid"]))
-                        {
-                          $print2 .="<input type='button' onclick='editUser()' name='' value='Change' class='btn'>";
-                        }
-                        else {
-                          $print2 .="<a href='login.php'><input type='button' name='' value='Login' class='btn'></a>";
-                        }
-                        echo  $print2;
-                        ?> -->
+                            if(isset($_SESSION["cid"]))
+                            {
+                            $print2 .="<input type='button' onclick='editUser()' name='' value='Change' class='btn'>";
+                            }
+                            else {
+                            $print2 .="<a href='login.php'><input type='button' name='' value='Login' class='btn'></a>";
+                            }
+                            echo  $print2;
+                            ?> 
+
 
                       </div>
 

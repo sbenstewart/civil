@@ -62,13 +62,12 @@
                             <li><a href="index.php#lectures">LECTURES</a></li>
                             <li><a href="accomodation.php">ACCOMMODATION</a></li>
                             <li><a href="about.php">CONTACT</a></li>
-                            <li class="d-lg-none"><a href="signup.php">LOGIN</a></li>
                             <?php
                             // Start the session
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGOUT</a></li>';
+                                $print1 .='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
                                 $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';

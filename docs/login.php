@@ -57,13 +57,12 @@
                             <li><a href="index.php#lectures">LECTURES</a></li>
                             <li><a href="accomodation.php">ACCOMMODATION</a></li>
                             <li><a href="about.php">CONTACT</a></li>
-                            <li class="d-lg-none"><a href="signup.php">LOGIN</a></li>
                             <?php
                             // Start the session
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGOUT</a></li>';
+                                $print1 .='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
                                 $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
@@ -147,17 +146,32 @@
                         <input type="button" onclick="forgotPassword()" name="" value="Forgot Password" class="btn gradient-bg flex justify-content-center align-items-center">
                     </div>
 
-                    <div class="col-lg-6 submit flex justify-content-center">
-                        <a href='change-details.php'>
-                            <input type="button" onclick="" name="" value="Change details" class="btn gradient-bg flex justify-content-center align-items-center">
-                        </a>
-                    </div>
+                    <?php
 
-                    <div class="col-lg-6 submit flex justify-content-center">
-                        <a href='accomodation-signup.php'>
-                            <input type="button" onclick="" name="" value="Accommodation" class="btn gradient-bg flex justify-content-center align-items-center">
-                        </a>
-                    </div>
+                          if(isset($_SESSION["cid"]))
+                          {
+                            $print2 .='
+                            
+                            <div class="col-lg-6 submit flex justify-content-center">
+                                <a href="change-details.php">
+                                    <input type="button" onclick="" name="" value="Change details" class="btn gradient-bg flex justify-content-center align-items-center">
+                                </a>
+                            </div>
+
+                            <div class="col-lg-6 submit flex justify-content-center">
+                                <a href="accomodation-signup.php">
+                                    <input type="button" onclick="" name="" value="Accommodation" class="btn gradient-bg flex justify-content-center align-items-center">
+                                </a>
+                            </div>
+                            ';
+                          }
+                          else {
+                            $print2 .="";
+                          }
+                          echo  $print2;
+                    ?>
+
+                    
                 </form>
             </div>
         </div>

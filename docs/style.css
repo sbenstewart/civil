@@ -2327,3 +2327,7 @@ ul.tabs-nav .tab-nav.active {
 .Hero {
     display: none;
 }
+
+strong {
+    color: #9a24c1;
+}

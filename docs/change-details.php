@@ -62,10 +62,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
                             }
                             echo  $print1;
                             ?>
@@ -81,10 +81,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
+                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
                             }
                             else {
-                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -178,10 +178,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                            $print2 .="<input type='button' onclick='editUser()' name='' value='Change' class='btn'>";
+                            $print2 ="<input type='button' onclick='editUser()' name='' value='Change' class='btn'>";
                             }
                             else {
-                            $print2 .="<a href='login.php'><input type='button' name='' value='Login' class='btn'></a>";
+                            $print2 ="<a href='login.php'><input type='button' name='' value='Login' class='btn'></a>";
                             }
                             echo  $print2;
                             ?> 

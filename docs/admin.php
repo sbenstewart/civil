@@ -42,7 +42,7 @@
                     </div><!-- .site-branding -->
                 </div><!-- .col -->
 
-                <div class="col-2 col-lg-7 order-3 order-lg-2">
+                <div class="col-2 col-lg-8 order-3 order-lg-2">
                     <nav class="site-navigation">
                         <div class="hamburger-menu d-lg-none">
                             <span></span>
@@ -58,7 +58,7 @@
                     </nav><!-- .site-navigation -->
                 </div><!-- .col -->
 
-                <div class="col-lg-3 d-none d-lg-block order-2 order-lg-3">
+                <div class="col-lg-2 d-none d-lg-block order-2 order-lg-3">
                     <div class="buy-tickets">
                         
                         <a class="btn gradient-bg" href="admin-login.php">ADMIN LOGIN</a>
@@ -74,7 +74,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Admin.</h1>
+                        <h1 class="entry-title">Admin</h1>
                     </header>
                 </div>
             </div>
@@ -99,7 +99,7 @@
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print1 .='<input type="submit" name="sample" value="Registrations" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print1 ='<input type="submit" name="sample" value="Registrations" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print1;
                         ?>
@@ -117,7 +117,7 @@
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print2 .='<input type="submit" name="sample" value="Tall Structures" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print2 ='<input type="submit" name="sample" value="Tall Structures" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print2;
                         ?>
@@ -137,7 +137,7 @@
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print3 .='<input type="submit" name="sample" value="Solid Waste Management" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print3 ='<input type="submit" name="sample" value="Solid Waste Management" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print3;
                         ?>
@@ -154,7 +154,7 @@
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print4 .='<input type="submit" name="sample" value="Ground Improvement" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print4 ='<input type="submit" name="sample" value="Ground Improvement" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print4;
                         ?>
@@ -175,7 +175,7 @@
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print5 .='<input type="submit" name="sample" value="Event list download button" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print5 ='<input type="submit" name="sample" value="Event list download button" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print5;
                         ?>
@@ -192,7 +192,7 @@
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print6 .='<input type="submit" name="sample" value="Accommodation list download button" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print6 ='<input type="submit" name="sample" value="Accommodation list download button" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print6;
                         ?>
@@ -212,7 +212,7 @@
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print7 .='<input type="submit" name="sample" value="Ambassador list download button" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print7 ='<input type="submit" name="sample" value="Ambassador list download button" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print7;
                         ?>
@@ -229,7 +229,7 @@
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print8 .='<input type="submit" name="sample" value="Sample Workshop" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print8 ='<input type="submit" name="sample" value="Sample Workshop" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print8;
                         ?>

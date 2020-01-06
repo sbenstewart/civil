@@ -47,7 +47,7 @@
                     </div><!-- .site-branding -->
                 </div><!-- .col -->
 
-                <div class="col-2 col-lg-7 order-3 order-lg-2">
+                <div class="col-2 col-lg-8 order-3 order-lg-2">
                     <nav class="site-navigation">
                         <div class="hamburger-menu d-lg-none">
                             <span></span>
@@ -67,10 +67,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
                             }
                             echo  $print1;
                             ?>
@@ -78,7 +78,7 @@
                     </nav><!-- .site-navigation -->
                 </div><!-- .col -->
 
-                <div class="col-lg-3 d-none d-lg-block order-2 order-lg-3">
+                <div class="col-lg-2 d-none d-lg-block order-2 order-lg-3">
                     <div class="buy-tickets">
 
                         <?php
@@ -86,10 +86,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
+                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
                             }
                             else {
-                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -106,7 +106,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Accomodation.</h1>
+                        <h1 class="entry-title">Accomodation</h1>
                     </header>
                 </div>
             </div>

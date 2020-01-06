@@ -42,7 +42,7 @@
                     </div><!-- .site-branding -->
                 </div><!-- .col -->
 
-                <div class="col-2 col-lg-7 order-3 order-lg-2">
+                <div class="col-2 col-lg-8 order-3 order-lg-2">
                     <nav class="site-navigation">
                         <div class="hamburger-menu d-lg-none">
                             <span></span>
@@ -62,10 +62,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
                             }
                             echo  $print1;
                             ?>
@@ -73,7 +73,7 @@
                     </nav><!-- .site-navigation -->
                 </div><!-- .col -->
 
-                <div class="col-lg-3 d-none d-lg-block order-2 order-lg-3">
+                <div class="col-lg-2 d-none d-lg-block order-2 order-lg-3">
                     <div class="buy-tickets">
 
                         <?php
@@ -81,10 +81,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
+                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
                             }
                             else {
-                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">About.</h1>
+                        <h1 class="entry-title">About</h1>
                     </header>
                 </div>
             </div>
@@ -122,20 +122,20 @@
 
                 <div class="tabs-container">
                     <div id="tab_details" class="tab-content">                      
-                        <h2 class="entry-header">College of Engineering, Guindy</h2>
-                        <p>Owing to its strong industry - academia relations, excellent research culture and world class faculty and state-of-the-art infrastructure, CEG has been known for its diversity of students from all walks of life. Allowing students to embark on a journey to broaden their minds and visions into contributing to the development of a better world has indeed been the top priorities of this institiution. Living upto its motto of PROGRESS THROUGH KNOWLEDGE, it has been at the fore cutting edge of research, technology and innovation in shaping the world the way it is at present and thriving for a better future.</p>
+                        <h2 class="entry-header">225<sup>th</sup> year of CEG</h2>
+                        <p>Located at the Heart of Chennai, is our very own College of Engineering Guindy, a dream and desire that students all across Tamil Nadu aspire to touch. Founded in 1794, CEG holds laurels of being amongst the top ten institutions in the country, with a rich history spanning over 225 years. Living up to its motto of “PROGRESS THROUGH KNOWLEDGE”, it has been at the fore with it’s cutting-edge research, technology and innovation in shaping the world. True to its esteem, even today CEG stands as a beacon of light to students who wish to make a change in the world.</p>
                     </div>
 
                     <div id="tab_venue" class="tab-content">
                         <div id="tab_details" class="tab-content">
                             <h2 class="entry-header">Society of Civil Engineers</h2>
-                            <p>Society of Civil Engineers (SCE) is an organisation constituting of students alongside the guidance of the esteemed faculty of Civil Engineering of CEG, Anna University. Raising the standards of the society every year, the students continue to uphold their motive of CONQUERING HORIZONS. SCE presents a golden opportunity for the students of Civil Engineering in the college with a platform to unravel their potential and knowledge in the latest trends and developments.</p>
+                            <p>SCE  is the student run organisation from Anna university for future Civil Engineers of the world. Raising the standards of the Society every year, the students continue to uphold their motive of Conquering Horizons with the judicious combination of events that our Society conducts every year, with vision that the student community is to benefit. SCE as an organisation, envisions to instill the perfect qualities in a leader, eventually enabling them to be the trailblazers of tomorrow.  Fortified with a core team of creative and bold minds, Society of Civil Engineers challenges, tests and motivates its members to follow their goals and revolves around the ideals of innovation and leadership. </p>
                         </div>
                     </div>
 
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Symposium</h2>
-                        <p>A one of the kind technical fest of CEG that provides a forum for students from across the nation to showcase their sophisticated knowledge in innovation and their abilities to incorporate that into the feilds of Civil Engineering. It serves as a medium to bring their propositions into reality and to bridge the gap between imagination and practicality.</p>
+                        <p>A one of a kind National level Technical Symposium of College of Engineering, Guindy, Anna University, that provides a forum for students from across the nation, to showcase their sophisticated knowledge in innovation and their abilities to incorporate that into fields of civil engineering. We students conduct events and workshops every year that inculcates the very essence of civil engineering in each and every student that walks in. Supported by our beloved faculty, together we strive to make Civilisation live up to its reputation of being the most renowned Symposium all across South India.  Civilisation also serves as a medium to bring in innovative propositions of young and budding civil engineers into reality and to bridge the gap between imagination and practicality. </p>
                     </div>
 
                 </div>
@@ -147,39 +147,57 @@
         <div class="col-12">
             <div class="tabs">
                 <ul class="tabs-nav flex">
-                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_details1">Old JS</li>
-                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue1">Current JS</li>
-                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers1">Website Devs</li>
+                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_details1">Faculty</li>
+                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue1">Students</li>
                 </ul>
 
                 <div class="tabs-container">
-                    <div id="tab_details1" class="tab-content">                      
-                        <h2 class="entry-header">Joint Secretaires</h2>
-                        <p><ul>
-                            <li>Sundar M&emsp;8489732365</li>
-                            <li>Vijayalakshmi G&emsp;8531924272</li>
-                        </ul></p>
+                    <div id="tab_details1" class="tab-content">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6">                      
+                            <h2 class="entry-header">President</h2>
+                            <p><ul>
+                                <li>Dr.G.Ravikumar&emsp;Professor</li>
+                            </ul></p>
+                        </div>
+                        <div class="col-lg-6 col-md-6">                      
+                            <h2 class="entry-header">Treasurer</h2>
+                            <p><ul>
+                                <li>Dr.G.Dhinagaran&emsp;Assistant Professor</li>
+                            </ul></p>
+                        </div>
+                    </div>
                     </div>
 
                     <div id="tab_venue1" class="tab-content">
                         <div id="tab_details" class="tab-content">
-                            <h2 class="entry-header">Joint Secretaires</h2>
-                        <p><ul>
-                            <li>Sundar M&emsp;8489732365</li>
-                            <li>Vijayalakshmi G&emsp;8531924272</li>
-                        </ul></p>    
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">                      
+                                <h2 class="entry-header">General Secretaries</h2>
+                                <p><ul>
+                                    <li>Akshaya M</li>
+                                    <li>Surya K</li>
+                                </ul></p>
+                            </div>
+                            <div class="col-lg-6 col-md-6">                      
+                                <h2 class="entry-header">Joint Secretaries </h2>
+                                <p><ul>
+                                    <li>Subhiksha Sri S</li>
+                                    <li>Pon Muthu Ram R</li>
+                                </ul></p>
+                            </div>
+                        </div>   
                         </div>
-                    </div>
-
-                    <div id="tab_organizers1" class="tab-content">
-                        <h2 class="entry-header">Website Developers</h2>
-                        <p>Being one of the best freelancing website developers, we at Enigma strive to provide the best possible services to you.</p>
-                        <p><ul>
-                            <li>Dhanush&emsp;9578365727</li>
-                            <li>Sivakailash&emsp;8754186770</li>
-                            <li>Santhosh G&emsp;9080347501</li>
-                            <li>Ben Stewart S&emsp;9489408090</li>
-                        </ul></p>  
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">                      
+                                <h2 class="entry-header">Assistant Secretaries</h2>
+                                <p><ul>
+                                    <li>Jothika K</li>
+                                    <li>Varun S</li>
+                                </ul></p>
+                            </div>
+                        </div>   
+                        </div>
                     </div>
 
                 </div>

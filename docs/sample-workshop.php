@@ -42,7 +42,7 @@
                     </div><!-- .site-branding -->
                 </div><!-- .col -->
 
-                <div class="col-2 col-lg-7 order-3 order-lg-2">
+                <div class="col-2 col-lg-8 order-3 order-lg-2">
                     <nav class="site-navigation">
                         <div class="hamburger-menu d-lg-none">
                             <span></span>
@@ -62,10 +62,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
                             }
                             echo  $print1;
                             ?>
@@ -73,7 +73,7 @@
                     </nav><!-- .site-navigation -->
                 </div><!-- .col -->
 
-                <div class="col-lg-3 d-none d-lg-block order-2 order-lg-3">
+                <div class="col-lg-2 d-none d-lg-block order-2 order-lg-3">
                     <div class="buy-tickets">
 
                         <?php
@@ -81,10 +81,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
+                                $print1 ='<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             }
                             else {
-                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Sample Workshop.</h1>
+                        <h1 class="entry-title">Sample Workshop</h1>
                     </header>
                 </div>
             </div>
@@ -182,10 +182,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                            $print2 .="<p><strong>You are currently logged in as ".$_SESSION["name"]."</strong></p>";
+                            $print2 ="<p><strong>You are currently logged in as ".$_SESSION["name"]."</strong></p>";
                             }
                             else {
-                                $print2 .="<p><strong>You must be logged in to register online or onspot.</strong></p>";
+                                $print2 ="<p><strong>You must be logged in to register online or onspot.</strong></p>";
                               }
                             echo  $print2;
                         ?>
@@ -201,14 +201,14 @@
     if(isset($_SESSION["cid"]))
     {
 
-    $print .='
+    $print ='
     <div class="entry-content flex">
         <a href="https://www.townscript.com/e/tall-structures-232334" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
     </div>
     ';
     }
     else {
-    $print .='
+    $print ='
     <div class="entry-content flex">
         <a href="login.php" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
     </div>

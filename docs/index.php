@@ -481,7 +481,7 @@
                     </div><!-- .site-branding -->
                 </div><!-- .col -->
 
-                <div class="col-2 col-lg-7 order-3 order-lg-2">
+                <div class="col-2 col-lg-8 order-3 order-lg-2">
                     <nav class="site-navigation">
                         <div class="hamburger-menu d-lg-none">
                             <span></span>
@@ -501,10 +501,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 .='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
                             }
                             echo  $print1;
                             ?>
@@ -512,7 +512,7 @@
                     </nav><!-- .site-navigation -->
                 </div><!-- .col -->
 
-                <div class="col-lg-3 d-none d-lg-block order-2 order-lg-3">
+                <div class="col-lg-2 d-none d-lg-block order-2 order-lg-3">
                     <div class="buy-tickets">
 
                         <?php
@@ -520,10 +520,10 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
+                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
                             }
                             else {
-                                $print1 .='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -1383,11 +1383,12 @@
                 Made with <i class="fa fa-heart" aria-hidden="true"></i> in <a href="https://www.google.com/maps/place/College+of+Engineering,+Guindy/@13.0169607,80.2036514,13z/data=!4m5!3m4!1s0x3a52679f0d20f797:0x59f9f10c66e02a19!8m2!3d13.01094!4d80.2354462" target="_blank">Chennai</a>
                 <div class="footer-social">
                     <ul class="flex flex-wrap justify-content-center align-items-center">
-                        <li><a href="https://fb.com/au.civilisation"><i class="fa fa-facebook-f"></i></a></li>
-                                <li><a href="tel:+91‭8489732365‬"><i class="fa fa-phone"></i></a></li>
-                                <li><a href="mailto:help@civilisationceg.in?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
+                                <li><a href="https://fb.com/au.civilisation"><i class="fa fa-facebook-f"></i></a></li>
+                                <li><a href="https://instagram.com/civilisation20"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="tel:+919176224940"><i class="fa fa-phone"></i></a></li>
+                                <li><a href="mailto:sceceg1932@gmail.com?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
                                 <!--<li><a href="#"><i class="fa fa-address-book"></i></a></li>-->
-                                <li><a href="https://api.whatsapp.com/send?phone=91‭9092859699‬"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href="https://api.whatsapp.com/send?phone=919176224940"><i class="fa fa-whatsapp"></i></a></li>
                                 <li><a href="https://goo.gl/forms/7aUhSw8LaI6rfAn52"><i class="fa fa-github"></i></a></li>
                     </ul>
                 </div>

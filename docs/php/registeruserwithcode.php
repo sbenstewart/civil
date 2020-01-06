@@ -13,7 +13,7 @@ $password2 = $_POST['password1'];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
 
-    $sql = "SELECT COUNT(*) from ambassador where code='$code2'";
+    $sql = "SELECT COUNT(*) from ambassador where code='$code2' and emailid!='$mail2'";
     if ($res = $conn->query($sql)) {
 
         /* Check the number of rows that match the SELECT statement */

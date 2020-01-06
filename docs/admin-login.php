@@ -42,7 +42,7 @@
                     </div><!-- .site-branding -->
                 </div><!-- .col -->
 
-                <div class="col-2 col-lg-7 order-3 order-lg-2">
+                <div class="col-2 col-lg-8 order-3 order-lg-2">
                     <nav class="site-navigation">
                         <div class="hamburger-menu d-lg-none">
                             <span></span>
@@ -58,7 +58,7 @@
                     </nav><!-- .site-navigation -->
                 </div><!-- .col -->
 
-                <div class="col-lg-3 d-none d-lg-block order-2 order-lg-3">
+                <div class="col-lg-2 d-none d-lg-block order-2 order-lg-3">
                     <div class="buy-tickets">
                         
                         <a class="btn gradient-bg" href="admin.php">ADMIN PAGE</a>

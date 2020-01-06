@@ -61,7 +61,7 @@
                 <div class="col-lg-3 d-none d-lg-block order-2 order-lg-3">
                     <div class="buy-tickets">
                         
-                        <a href="admin-login.php">ADMIN LOGIN</a>
+                        <a class="btn gradient-bg" href="admin-login.php">ADMIN LOGIN</a>
 
                     </div><!-- .buy-tickets -->
                 </div><!-- .col -->

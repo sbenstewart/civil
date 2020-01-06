@@ -5,9 +5,12 @@ $mail2 = $_POST['mail1'];
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-    //echo "Connected to $dbname at $host successfully.";
-    //echo "insert into user(name, emailid, phoneno, college, year, dept, course) values ('$name2', '$mail2', '$phone2', '$college2', '$year2', '$dept2', '$course2')";
-    //echo "SELECT cid from admin where emailid='$mail2' and password='$password2'";
+
+    $sql = "SELECT COUNT(*) from admin where emailid='$mail2'";
+    if ($res = $conn->query($sql)) {
+  
+    /* Check the number of rows that match the SELECT statement */
+    if ($res->fetchColumn() > 0) {
 
     foreach ($conn->query("SELECT cid,password from admin where emailid='$mail2'") as $row)
     {
@@ -29,6 +32,16 @@ try {
       break;
       /*session is started if you don't write this line can't use $_Session  global variable*/
     }
+  }
+  /* No rows matched -- do something else */
+  else {
+  echo "User name is incorrect.";
+
+  }
+  }
+  else {
+  echo "Submission failed. Try later.";
+  }
   
 
 } catch (PDOException $pe) {

@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">About.</h1>
+                        <h1 class="entry-title">About</h1>
                     </header>
                 </div>
             </div>

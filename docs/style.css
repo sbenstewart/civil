@@ -174,7 +174,13 @@ a:hover, a:active {
   Hamburger Menu
 ----------------------------------------*/
 .hamburger-menu {
-    position: relative;
+    position: fixed;
+    z-index: 9999;
+    right: 3vh;
+    bottom: 93vh;
+    width: 42px;
+    height: 42px;
+    margin-top: -21px;
     width: 100%;
     max-width: 24px;
     height: 22px;
@@ -188,7 +194,7 @@ a:hover, a:active {
     position: absolute;
     height: 2px;
     width: 100%;
-    background: #fff;
+    background: #9a28d7;
     border-radius: 10px;
     opacity: 1;
     left: 0;
@@ -1521,7 +1527,7 @@ ul.tabs-nav .tab-nav.active {
 
 .tabs .tab-nav {
     margin-bottom: -1px;
-    z-index: 99;
+    z-index: 9;
 }
 
 .tabs-container {

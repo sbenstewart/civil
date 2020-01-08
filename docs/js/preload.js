@@ -55,7 +55,14 @@
       $(".Hero").delay("2500").fadeOut('slow', function(){
         $('.onload').fadeIn("slow");
       });
-      
+
+      /*setTimeout(function(){
+        if(window.location.hash) {
+          var hash = window.location.hash; //Puts hash in variable, and removes the # character
+          alert (hash);
+          $(hash).offset().top + 10;
+      }
+      }, 3500);*/
     });
  
     function init() {

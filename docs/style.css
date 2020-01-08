@@ -1540,6 +1540,24 @@ ul.tabs-nav .tab-nav.active {
     display: none;
 }
 
+.tab-content .events-thumbnail {
+    width: 104px;
+    height: 104px;
+    background: #f3f8f9;
+    margin: 0;
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tab-content .events-thumbnail img {
+    display: block;
+    width: 100%;
+    display: table-caption;
+    caption-side: bottom;
+    text-align: center;
+}
+
 .tab-content p {
     margin-bottom: 0;
     font-size: 18px;

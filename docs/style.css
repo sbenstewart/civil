@@ -1527,7 +1527,7 @@ ul.tabs-nav .tab-nav.active {
 
 .tabs .tab-nav {
     margin-bottom: -1px;
-    z-index: 99;
+    z-index: 9;
 }
 
 .tabs-container {

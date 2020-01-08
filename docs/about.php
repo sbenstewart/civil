@@ -186,8 +186,7 @@
                                     <li>Pon Muthu Ram R</li>
                                 </ul></p>
                             </div>
-                        </div>   
-                        </div>
+                        </div> 
                         <div class="row">
                             <div class="col-lg-6 col-md-6">                      
                                 <h2 class="entry-header">Assistant Secretaries</h2>

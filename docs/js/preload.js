@@ -56,13 +56,15 @@
         $('.onload').fadeIn("slow");
       });
 
-      /*setTimeout(function(){
+      setTimeout(function(){
         if(window.location.hash) {
-          var hash = window.location.hash; //Puts hash in variable, and removes the # character
-          alert (hash);
-          $(hash).offset().top + 10;
+          var hash = window.location.hash.substr(1); //Puts hash in variable, and removes the # character
+          //alert (hash);
+          var elmnt = document.getElementById(hash);
+          elmnt.scrollIntoView();
       }
-      }, 3500);*/
+      }, 3500);
+      
     });
  
     function init() {

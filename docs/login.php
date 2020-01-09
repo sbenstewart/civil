@@ -150,7 +150,7 @@
 
                           if(isset($_SESSION["cid"]))
                           {
-                            $print2 .='
+                            $print2 ='
                             
                             <div class="col-lg-6 submit flex justify-content-center">
                                 <a href="change-details.php">
@@ -166,7 +166,7 @@
                             ';
                           }
                           else {
-                            $print2 .="";
+                            $print2 ="";
                           }
                           echo  $print2;
                     ?>

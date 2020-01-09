@@ -139,7 +139,7 @@
 
                         if(isset($_SESSION["cid"]))
                         {
-                        $print2 .="<p><strong>You are currently logged in as ".$_SESSION["name"]."</strong></p>";
+                        $print2 ="<p><strong>You are currently logged in as ".$_SESSION["name"]."</strong></p>";
                         }
                         echo  $print2;
                         ?>

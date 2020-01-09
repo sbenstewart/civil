@@ -720,7 +720,7 @@
                     <div class="event-content-wrap positioning-event-1">
                         <a href="ambassador.php">
                             <figure>
-                                <img src="images/1.jpg" alt="1">
+                                <img src="images/1.png" alt="1">
                             </figure>
 
                             <header class="entry-header">
@@ -734,7 +734,7 @@
                     <div class="event-content-wrap positioning-event-2">
                         <a href="accomodation.php">
                             <figure>
-                                <img src="images/2.jpg" alt="">
+                                <img src="images/2.png" alt="">
                             </figure>
 
                             <header class="entry-header">
@@ -748,7 +748,7 @@
                     <div class="event-content-wrap positioning-event-3">
                         <a href="#">
                             <figure>
-                                <img src="images/3.jpg" alt="">
+                                <img src="images/3.png" alt="">
                             </figure>
 
                             <header class="entry-header">
@@ -759,10 +759,10 @@
                         </a>
                     </div>
 
-                    <div class="event-content-wrap positioning-event-7">
+                    <div class="event-content-wrap positioning-event-7 d-none d-lg-block d-xl-block">
                         <a href="#">
                             <figure>
-                                <img src="images/90.jpg" alt="">
+                                <img src="images/4.png" alt="">
                             </figure>
 
                             <header class="entry-header">
@@ -776,7 +776,7 @@
                     <div class="event-content-wrap positioning-event-8">
                         <a href="#lectures">
                             <figure>
-                                <img src="images/modern.jpg" alt="1">
+                                <img src="images/6.png" alt="1">
                             </figure>
 
                             <header class="entry-header">
@@ -787,10 +787,10 @@
                         </a>
                     </div>
 
-                    <div class="event-content-wrap positioning-event-9">
+                    <div class="event-content-wrap positioning-event-9 d-none d-lg-block d-xl-block">
                         <a href="#">
                             <figure>
-                                <img src="images/smoke.jpg" alt="">
+                                <img src="images/5.png" alt="">
                             </figure>
 
                             <header class="entry-header">

@@ -154,17 +154,23 @@
                 <div class="tabs-container">
                     <div id="tab_details1" class="tab-content">
                     <div class="row">
-                        <div class="col-lg-6 col-md-6">                      
-                            <h2 class="entry-header">President</h2>
-                            <p><ul>
-                                <li>Dr.G.Ravikumar&emsp;Professor</li>
-                            </ul></p>
+                        <div class="col-lg-6 col-md-6">
+                            <figure class="events-thumbnail text-center">
+                                <img class="figure-img img-fluid" src="images/diomond-icon.png" alt="">
+                            </figure>                      
+                            <h2 class="entry-header text-center">President</h2>
+                            <p class="text-center">
+                               Dr.G.Ravikumar<br>Professor
+                            </p>
                         </div>
-                        <div class="col-lg-6 col-md-6">                      
-                            <h2 class="entry-header">Treasurer</h2>
-                            <p><ul>
-                                <li>Dr.G.Dhinagaran&emsp;Assistant Professor</li>
-                            </ul></p>
+                        <div class="col-lg-6 col-md-6">
+                            <figure class="events-thumbnail text-center">
+                                <img class="figure-img img-fluid" src="images/diomond-icon.png" alt="">
+                            </figure>                         
+                            <h2 class="entry-header text-center">Treasurer</h2>
+                            <p class="text-center">
+                                Dr.G.Dhinagaran<br>Assistant Professor
+                            </p>
                         </div>
                     </div>
                     </div>
@@ -186,8 +192,7 @@
                                     <li>Pon Muthu Ram R</li>
                                 </ul></p>
                             </div>
-                        </div>   
-                        </div>
+                        </div> 
                         <div class="row">
                             <div class="col-lg-6 col-md-6">                      
                                 <h2 class="entry-header">Assistant Secretaries</h2>

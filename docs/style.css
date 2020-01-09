@@ -618,6 +618,7 @@ a:hover, a:active {
     display: inline-block;
     padding: 12px 18px;
     margin: 0;
+    margin-left: 10px;
     font-size: 16px;
     font-weight: 400;
     text-transform: uppercase;
@@ -628,7 +629,7 @@ a:hover, a:active {
 .homepage-featured-events .event-content-wrap .entry-header .posted-date {
     padding: 2px 18px;
     font-size: 14px;
-    color: #fff;
+    color: #7545a0;
 }
 
 .featured-events-wrap {

@@ -697,7 +697,7 @@
 
             <div class="col-12 col-md-8 col-lg-7">
                 <header class="entry-header">
-                    <h2 class="entry-title">Who are the <br>Society of Civil Engineers</h2>
+                    <h2 class="entry-title">Who are the <br>Society of Civil Engineers ?</h2>
                 </header>
 
                 <div class="entry-content">

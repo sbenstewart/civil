@@ -759,7 +759,7 @@
                         </a>
                     </div>
 
-                    <div class="event-content-wrap positioning-event-7">
+                    <div class="event-content-wrap positioning-event-7 d-none d-lg-block d-xl-block">
                         <a href="#">
                             <figure>
                                 <img src="images/4.png" alt="">
@@ -787,7 +787,7 @@
                         </a>
                     </div>
 
-                    <div class="event-content-wrap positioning-event-9">
+                    <div class="event-content-wrap positioning-event-9 d-none d-lg-block d-xl-block">
                         <a href="#">
                             <figure>
                                 <img src="images/5.png" alt="">

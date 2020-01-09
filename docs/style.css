@@ -177,10 +177,9 @@ a:hover, a:active {
     position: fixed;
     z-index: 9999;
     right: 3vh;
-    bottom: 93vh;
+    top: 3vh;
     width: 42px;
     height: 42px;
-    margin-top: -21px;
     width: 100%;
     max-width: 24px;
     height: 22px;

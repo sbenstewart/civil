@@ -81,7 +81,7 @@
 
                             if(isset($_SESSION["cid"]))
                             {
-                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGOUT</a>';
+                                $print1 ='<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             }
                             else {
                                 $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';

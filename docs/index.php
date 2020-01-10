@@ -701,7 +701,7 @@
                 </header>
 
                 <div class="entry-content">
-                    <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risus, pellentesque at facilisis et, scelerisque sit amet metus. Duis vel semper turpis, ac tempus libero. Maecenas id ultrices risus. Aenean nec ornare ipsum, lacinia volutpat urna. Maecenas ut aliquam purus, quis sodales dolor.</p>
+                    <p>A group of enthusiastic young and budding civil engineers with a vision that parallels on that of innovation, creation, leadership and development. Founded in 1932, the society exists for and is run by the students of the College of Engineering, Guindy.  Supported by our Dear faculty members, the Society of Civil Engineers organise and manage student activities all through the year with the goal to benefit the student community</p>
                 </div>
 
                 <footer class="entry-footer">

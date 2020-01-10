@@ -697,11 +697,11 @@
 
             <div class="col-12 col-md-8 col-lg-7">
                 <header class="entry-header">
-                    <h2 class="entry-title">Who are the <br>Society of Civil Engineers</h2>
+                    <h2 class="entry-title">Who are the <br>Society of Civil Engineers ?</h2>
                 </header>
 
                 <div class="entry-content">
-                    <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risus, pellentesque at facilisis et, scelerisque sit amet metus. Duis vel semper turpis, ac tempus libero. Maecenas id ultrices risus. Aenean nec ornare ipsum, lacinia volutpat urna. Maecenas ut aliquam purus, quis sodales dolor.</p>
+                    <p>A group of enthusiastic young and budding civil engineers with a vision that parallels on that of innovation, creation, leadership and development. Founded in 1932, the society exists for and is run by the students of the College of Engineering, Guindy.  Supported by our Dear faculty members, the Society of Civil Engineers organise and manage student activities all through the year with the goal to benefit the student community</p>
                 </div>
 
                 <footer class="entry-footer">
@@ -1389,7 +1389,7 @@
                                 <li><a href="mailto:sceceg1932@gmail.com?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
                                 <!--<li><a href="#"><i class="fa fa-address-book"></i></a></li>-->
                                 <li><a href="https://api.whatsapp.com/send?phone=919176224940"><i class="fa fa-whatsapp"></i></a></li>
-                                <li><a href="https://goo.gl/forms/7aUhSw8LaI6rfAn52"><i class="fa fa-github"></i></a></li>
+                                <li><a href="https://forms.gle/DoiPfyzcotmjpasa6"><i class="fa fa-github"></i></a></li>
                     </ul>
                 </div>
             </div>

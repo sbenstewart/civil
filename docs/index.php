@@ -1323,47 +1323,59 @@
 
                 <div class="events-partners">
                     <header class="entry-header">
-                        <h2 class="entry-title">Partners</h2>
+                        <h2 class="entry-title">Sponsors</h2>
+                        <h3 class="entry-title smaller-entry-title">Title Sponsor</h3>
                     </header>
 
                     <div class="events-partners-logos flex flex-wrap justify-content-between align-items-center">
-                        <div class="event-partner-logo">
+                        <div class="col col event-partner-logo">
                             <a href="#"><img src="images/pixar.png" alt=""></a>
                         </div>
 
-                        <div class="event-partner-logo">
+                    </div>
+
+                    <header class="entry-header">
+                        <h3 class="entry-title smaller-entry-title">Corporate Sponsors</h3>
+                    </header>
+
+                    <div class="events-partners-logos flex flex-wrap justify-content-between align-items-center">
+                        <div class="col event-partner-logo">
+                            <a href="#"><img src="images/pixar.png" alt=""></a>
+                        </div>
+
+                        <div class="col event-partner-logo">
                             <a href="#"><img src="images/the-pirate.png" alt=""></a>
                         </div>
 
-                        <div class="event-partner-logo">
+                        <div class="col event-partner-logo">
                             <a href="#"><img src="images/himalayas.png" alt=""></a>
                         </div>
 
-                        <div class="event-partner-logo">
+                        <div class="col event-partner-logo">
                             <a href="#"><img src="images/sa.png" alt=""></a>
                         </div>
 
-                        <div class="event-partner-logo">
+                        <div class="col event-partner-logo">
                             <a href="#"><img src="images/south-porth.png" alt=""></a>
                         </div>
 
-                        <div class="event-partner-logo">
+                        <div class="col event-partner-logo">
                             <a href="#"><img src="images/himalayas.png" alt=""></a>
                         </div>
 
-                        <div class="event-partner-logo">
+                        <div class="col event-partner-logo">
                             <a href="#"><img src="images/sa.png" alt=""></a>
                         </div>
 
-                        <div class="event-partner-logo">
+                        <div class="col event-partner-logo">
                             <a href="#"><img src="images/south-porth.png" alt=""></a>
                         </div>
 
-                        <div class="event-partner-logo">
+                        <div class="col event-partner-logo">
                             <a href="#"><img src="images/pixar.png" alt=""></a>
                         </div>
 
-                        <div class="event-partner-logo">
+                        <div class="col event-partner-logo">
                             <a href="#"><img src="images/the-pirate.png" alt=""></a>
                         </div>
                     </div>

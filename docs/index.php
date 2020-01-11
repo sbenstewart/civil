@@ -821,13 +821,13 @@
                 <!--Only three workshops use this<div class="col-12 col-sm-6 col-md-4">-->
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="sample-workshop.php"><img src="images/next1.jpg" alt="1"></a>
+                        <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
 
                         <div class="event-rating">5-3-20</div>
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">Sample Workshop</h3>
+                        <h3 class="entry-title">Workshop 1</h3>
 
                         <div class="posted-date">Thursday <span>March 5, 2020</span></div>
                         <div class="posted-date">Vivek Audi <span>8 AM</span></div>
@@ -842,7 +842,7 @@
             <div class="col-6 col-lg-4 col-xl-4">
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="#"><img src="images/next1.jpg" alt="1"></a>
+                        <a href="#"><img src="images/workshop.png" alt="1"></a>
 
                         <div class="event-rating">6-3-20</div>
                     </figure>
@@ -866,7 +866,7 @@
             <div class="col-6 col-lg-4 col-xl-4">
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="#"><img src="images/next1.jpg" alt="1"></a>
+                        <a href="#"><img src="images/workshop.png" alt="1"></a>
 
                         <div class="event-rating">7-3-20</div>
                     </figure>
@@ -887,13 +887,13 @@
             <div class="col-6 col-lg-4 col-xl-4">
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="#"><img src="images/next1.jpg" alt="1"></a>
+                        <a href="#"><img src="images/workshop.png" alt="1"></a>
 
                         <div class="event-rating">7-3-20</div>
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">Workshop 3</h3>
+                        <h3 class="entry-title">Workshop 4</h3>
 
                         <div class="posted-date">Saturday <span>March 7, 2020</span></div>
                         <div class="posted-date">Vivek Audi <span>8 AM</span></div>
@@ -918,7 +918,7 @@
 
 
                     <div class="entry-footer">
-                        <a class="btn gradient-bg" href="#">Download scheule</a>
+                        <a class="btn gradient-bg" href="dates.pdf">Download scheule</a>
                     </div>
                 </header>
 
@@ -1050,7 +1050,7 @@
                 <header class="regional-events-heading entry-header flex flex-wrap justify-content-between align-items-center">
                     <h2 class="entry-title">Tech Events</h2>
                     <div class="entry-footer">
-                        <a class="btn gradient-bg" href="#">Download scheule</a>
+                        <a class="btn gradient-bg" href="dates.pdf">Download scheule</a>
                     </div>
                 </header>
 
@@ -1185,7 +1185,7 @@
 
 
                     <div class="entry-footer">
-                        <a class="btn gradient-bg" href="#">Download scheule</a>
+                        <a class="btn gradient-bg" href="dates.pdf">Download scheule</a>
                     </div>
                 </header>
 
@@ -1256,7 +1256,7 @@
 
 
                     <div class="entry-footer">
-                        <a class="btn gradient-bg" href="#">Download scheule</a>
+                        <a class="btn gradient-bg" href="dates.pdf">Download scheule</a>
                     </div>
                 </header>
 
@@ -1270,7 +1270,7 @@
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Sample <br>Guest Lecture</h2>
+                                <h2 class="entry-title">Lecture 1</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">

@@ -926,9 +926,9 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-1.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -942,9 +942,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-2.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -958,9 +958,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-3.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -974,9 +974,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-4.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -990,9 +990,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-5.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1006,9 +1006,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-6.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1022,9 +1022,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-1.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1059,9 +1059,9 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-1.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1075,9 +1075,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-2.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1091,9 +1091,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-3.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1107,9 +1107,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-4.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1123,9 +1123,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-5.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1139,9 +1139,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-6.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1155,9 +1155,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-1.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1193,9 +1193,9 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-1.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1209,9 +1209,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-2.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1225,9 +1225,9 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-3.jpg" alt="">
+                                <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">

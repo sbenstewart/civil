@@ -156,7 +156,7 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-6">
                             <figure class="events-thumbnail text-center">
-                                <img class="figure-img img-fluid" src="images/diomond-icon.png" alt="">
+                                <img class="figure-img img-fluid" src="images/staff1.jpg" alt="">
                             </figure>                      
                             <h2 class="entry-header text-center">President</h2>
                             <p class="text-center">
@@ -165,7 +165,7 @@
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <figure class="events-thumbnail text-center">
-                                <img class="figure-img img-fluid" src="images/diomond-icon.png" alt="">
+                                <img class="figure-img img-fluid" src="images/staff2.jpg" alt="">
                             </figure>                         
                             <h2 class="entry-header text-center">Treasurer</h2>
                             <p class="text-center">

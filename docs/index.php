@@ -842,7 +842,7 @@
             <div class="col-6 col-lg-4 col-xl-4">
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="#"><img src="images/workshop.png" alt="1"></a>
+                        <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
 
                         <div class="event-rating">6-3-20</div>
                     </figure>
@@ -855,7 +855,7 @@
                     </header>
 
                     <footer class="entry-footer">
-                        <a href="#">Register</a>
+                        <a href="sample-workshop.php">Register</a>
                     </footer>
                 </div>
             </div>
@@ -866,7 +866,7 @@
             <div class="col-6 col-lg-4 col-xl-4">
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="#"><img src="images/workshop.png" alt="1"></a>
+                        <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
 
                         <div class="event-rating">7-3-20</div>
                     </figure>
@@ -879,7 +879,7 @@
                     </header>
 
                     <footer class="entry-footer">
-                        <a href="#">Register</a>
+                        <a href="sample-workshop.php">Register</a>
                     </footer>
                 </div>
             </div>
@@ -887,7 +887,7 @@
             <div class="col-6 col-lg-4 col-xl-4">
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="#"><img src="images/workshop.png" alt="1"></a>
+                        <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
 
                         <div class="event-rating">7-3-20</div>
                     </figure>
@@ -900,7 +900,7 @@
                     </header>
 
                     <footer class="entry-footer">
-                        <a href="#">Register</a>
+                        <a href="sample-workshop.php">Register</a>
                     </footer>
                 </div>
             </div>
@@ -1282,7 +1282,7 @@
                             <figure>
                                 <img src="images/guest-lecture.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-guest-lecture.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
@@ -1298,7 +1298,7 @@
                             <figure>
                                 <img src="images/guest-lecture.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-guest-lecture.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">

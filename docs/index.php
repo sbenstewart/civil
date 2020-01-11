@@ -1264,49 +1264,49 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-1.jpg" alt="">
+                                <img src="images/guest-lecture.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-guest-lecture.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">U2 Concert </h2>
+                                <h2 class="entry-title">Sample <br>Guest Lecture</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                <div class="posted-date">Thursday <span>March 5, 2020</span></div>
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-2.jpg" alt="">
+                                <img src="images/guest-lecture.png" alt="">
 
                                 <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Broadway Hit </h2>
+                                <h2 class="entry-title">Lecture 2</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                <div class="posted-date">Friday <span>March 6, 2020</span></div>
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event-slider-3.jpg" alt="">
+                                <img src="images/guest-lecture.png" alt="">
 
                                 <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Gallery Exibition</h2>
+                                <h2 class="entry-title">Lecture 3</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                <div class="posted-date">Saturday <span>March 7, 2020</span></div>
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 

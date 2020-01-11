@@ -818,6 +818,7 @@
 
         <div class="row justify-content-center">
             <div class="col-6 col-lg-4 col-xl-4">
+                <!--Only three workshops use this<div class="col-12 col-sm-6 col-md-4">-->
                 <div class="next-event-wrap">
                     <figure>
                         <a href="sample-workshop.php"><img src="images/next1.jpg" alt="1"></a>

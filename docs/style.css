@@ -1040,14 +1040,27 @@ a:hover, a:active {
     padding: 120px 0;
 }
 
+.events-partners .entry-header {
+    color: #fff;
+    padding: 24px 0;
+}
+
 .events-partners .entry-title {
     color: #fff;
+    padding: 0%;
+}
+
+.events-partners .smaller-entry-title {
+    color: #fff;
+    font-size: 45px;
+    padding: 0%;
 }
 
 .events-partners-logos .event-partner-logo {
     width: 20%;
     min-width: 220px;
-    margin-top: 80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     text-align: center;
 }
 

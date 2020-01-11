@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Eco Quiz</h1>
+                        <h1 class="entry-title">Posterize</h1>
                     </header>
                 </div>
             </div>
@@ -124,40 +124,33 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>"Earth provides enough to satisfy every man's needs, But not every man's greed." - Mahatma Gandhi</strong></p>
+                        <p><strong>"Asides your power,passion and poise, what glues the posters of your impacts on memorial walls is how you treat those you need and those who need you." - Israelmore Ayivor</strong></p>
                         <p>
-                        Nature " is the real comrade who makes our very existence possible.<br>
-                        They never fail to do their duty!<br>
-                        What have we given back to them?<br>
-                        It's time for all the nature lovers out there to brush up your knowledge about nature and come take part in the eco quiz in civilization 2020!<br>
-                        </p>
+                        Good poster is all about making others artist…..And now here’s a wonderful chance for every artists to exhibit their talent in the field of poster designing.</p>
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
-                            <li>PRELIMS:
+                            <li>The following are the topis for the posterize event.</li>
                                 <ul>
-                                    <li>It’s paper and pen round.</li>
-                                    <li>Set of questions will be given with multiple choice.</li>
-                                    <li>Duration: 30 min</li>
-                                    <li>Top 10 teams will be selected for finals.</li>
+                                    <li>Green concrete.</li>
+                                    <li>Noise contol of buildings.</li>
+                                    <li>U-boot voided slab technology.</li>
+                                    <li>Geotextile.</li>
+                                    <li>Self healing concrete(bio concrete).</li>
                                 </ul>
-                            </li>
-                            <li>FINALS:
-                                <ul>
-                                    <li>It’s paper and pen round.</li>
-                                    <li>Set of questions will be given relevant to environmental issues.</li>
-                                    <li>Based on the performance, winner will be selected.</li>
-                                </ul>
-                            </li>
+                                <li>Time duration: 1.30 hours.</li>
+                                <li>Required stationaries will be provided.</li>
+                                <li>Don’t use your own stationaries.</li>
                         </ol>
 
                         <h2 class="entry-header">RULES:</h2>
                         <ol>
-                            <li>Mobile phone is not allowed.</li>
-                            <li>College Id and civilisation Id(will be provided) is mandatory.</li>
-                            <li>A group can have at most 2 members.</li>
-                            <li>There will be negative marks.</li>
-                            <li>Everyone should bring a calculator.</li>
+                            <li>College ID is mandatory.</li>
+                            <li>A team can have a maximum of two participants.</li>
+                            <li>Use of mobile phones is stictly prohibited.</li>
+                            <li>C’19 ID is mandatory.</li>
+                            <li>There are only limited slots.The slots will be filled on the basics of those who apply earliest are most likely to get what they want.</li>
+                            <li>Call for any doubts and queries.</li>
                         </ol>
 
                     </div>
@@ -165,9 +158,8 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Dinesh V&emsp;8825622680</li>
-                        <li>Kiruthika&emsp;7373015319</li>
-                        <li>Karthick&emsp;9080603001</li>
+                        <li>Saranya Gunasekaran&emsp;996247884</li>
+                        <li>Sathiya Suppaiya&emsp;7502048649</li>
                         </ul>
                         <p>Mail your queries to events.c19@gmail.com</p>
 

@@ -1328,7 +1328,7 @@
                     </header>
 
                     <div class="events-partners-logos flex flex-wrap justify-content-between align-items-center">
-                        <div class="col col event-partner-logo">
+                        <div class="col event-partner-logo">
                             <a href="#"><img src="images/pixar.png" alt=""></a>
                         </div>
 

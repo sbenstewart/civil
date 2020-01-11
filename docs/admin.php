@@ -110,59 +110,22 @@
 
 
                 <div class="col-12 col-lg-6 submit flex justify-content-center margin">
-                <form action="php/download-tall-structures.php" method="post">
+                <form action="php/download-sample-workshop.php" method="post">
                 
                     
                         <?php
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print2 ='<input type="submit" name="sample" value="Tall Structures" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print8 ='<input type="submit" name="sample" value="Sample Workshop" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
-                        echo  $print2;
+                        echo  $print8;
                         ?>
                     
                 
                 </form>
                 </div>
                     
-                </div>
-                <div class="row">
-
-                <div class="col-12 col-lg-6 submit flex justify-content-center margin">
-                <form action="php/download-solid-waste.php" method="post">
-                
-                    
-                        <?php
-
-                        if(isset($_SESSION["admin"]))
-                        {
-                            $print3 ='<input type="submit" name="sample" value="Solid Waste Management" class="btn gradient-bg flex justify-content-center align-items-center">';
-                        }
-                        echo  $print3;
-                        ?>
-                    
-                
-                </form>
-                </div>
-
-                <div class="col-12 col-lg-6 submit flex justify-content-center margin">
-                <form action="php/download-ground-improvement.php" method="post">
-                
-                    
-                        <?php
-
-                        if(isset($_SESSION["admin"]))
-                        {
-                            $print4 ='<input type="submit" name="sample" value="Ground Improvement" class="btn gradient-bg flex justify-content-center align-items-center">';
-                        }
-                        echo  $print4;
-                        ?>
-                    
-                
-                </form>
-                </div>
-
                 </div>
                 <div class="row">
 
@@ -175,7 +138,7 @@
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print5 ='<input type="submit" name="sample" value="Event list download button" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print5 ='<input type="submit" name="sample" value="Event List" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print5;
                         ?>
@@ -185,14 +148,14 @@
                 </div>
 
                 <div class="col-12 col-lg-6 submit flex justify-content-center margin">
-                <form action="php/download-accomodation.php" method="post">
+                <form action="php/download-lectures.php" method="post">
                 
                     
                         <?php
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print6 ='<input type="submit" name="sample" value="Accommodation list download button" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print6 ='<input type="submit" name="sample" value="Guest Lecture List" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print6;
                         ?>
@@ -212,7 +175,7 @@
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print7 ='<input type="submit" name="sample" value="Ambassador list download button" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print7 ='<input type="submit" name="sample" value="Ambassador List" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print7;
                         ?>
@@ -222,16 +185,16 @@
                 </div>
 
                 <div class="col-12 col-lg-6 submit flex justify-content-center margin">
-                <form action="php/download-sample-workshop.php" method="post">
+                <form action="php/download-accomodation.php" method="post">
                 
                     
                         <?php
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print8 ='<input type="submit" name="sample" value="Sample Workshop" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print6 ='<input type="submit" name="sample" value="Accommodation List" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
-                        echo  $print8;
+                        echo  $print6;
                         ?>
                     
                 

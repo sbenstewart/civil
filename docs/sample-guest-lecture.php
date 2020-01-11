@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">About</h1>
+                        <h1 class="entry-title">The Civil Engineer-The Shifting Pradigm</h1>
                     </header>
                 </div>
             </div>
@@ -115,96 +115,91 @@
         <div class="col-12">
             <div class="tabs">
                 <ul class="tabs-nav flex">
-                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_details">CEG</li>
-                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">SCE</li>
-                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Civilisation</li>
+                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_details">Details</li>
+                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organisers</li>
+                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                 </ul>
 
                 <div class="tabs-container">
-                    <div id="tab_details" class="tab-content">                      
-                        <h2 class="entry-header">225<sup>th</sup> year of CEG</h2>
-                        <p>Located at the Heart of Chennai, is our very own College of Engineering Guindy, a dream and desire that students all across Tamil Nadu aspire to touch. Founded in 1794, CEG holds laurels of being amongst the top ten institutions in the country, with a rich history spanning over 225 years. Living up to its motto of “PROGRESS THROUGH KNOWLEDGE”, it has been at the fore with it’s cutting-edge research, technology and innovation in shaping the world. True to its esteem, even today CEG stands as a beacon of light to students who wish to make a change in the world.</p>
-                    </div>
+                    <div id="tab_details" class="tab-content">
 
-                    <div id="tab_venue" class="tab-content">
-                        <div id="tab_details" class="tab-content">
-                            <h2 class="entry-header">Society of Civil Engineers</h2>
-                            <p>SCE  is the student run organisation from Anna university for future Civil Engineers of the world. Raising the standards of the Society every year, the students continue to uphold their motive of Conquering Horizons with the judicious combination of events that our Society conducts every year, with vision that the student community is to benefit. SCE as an organisation, envisions to instill the perfect qualities in a leader, eventually enabling them to be the trailblazers of tomorrow.  Fortified with a core team of creative and bold minds, Society of Civil Engineers challenges, tests and motivates its members to follow their goals and revolves around the ideals of innovation and leadership. </p>
-                        </div>
+                        
+                        <p><strong>“How can there be any progress of the country without the spread of education, the dawning of knowledge?” - Swami Vivekananda</strong></p>
+                        <p>
+                        Civilisation’20 brings you the eminent people who have excelled in their field of work to share their knowledge and experience with you. Grab your seats, get inspired, gain updates, let the zeal and knowledge unite!!!
+                        </p>
+
+                        <h2 class="entry-header">The Speaker:</h2>
+                        <p><strong>Dr. Abdussamad Siddiqui<br>
+                        Director Starmass Environment Technologies Canada</strong></p>
+
+                        <p>Mohammed Abdussamad is a Director with Starmass Environment Technologies, Canada. He is responsible for Starmass activities both in the middle-east and India. He leads a highly specialized team of 150 - in areas of Infrastructure health monitoring. This includes structural health monitoring, environmental monitoring, sub-surface water flow, and distribution networks. His focus is on Structural Health Monitoring. He has 35 years of experience behind him, with a large part in auditing existing infrastructure and providing SHM systems to new infrastructure.</p>
+                        <p>He is at present executing SHM for mega projects. Also, he has the honor of leading a mega corrosion prevention project for a large piled raft spread over an area of 4.4 square kilometers. He holds a keen interest in academic research as well and is associated with Universities in Canada, Middle-East, and India. He is a visiting faculty in the area of SHM. He enjoys being a guest lecturer. He has also mentored as Industrial mentor for some of the students in sensory networks in India.</p>
+                        
                     </div>
 
                     <div id="tab_organizers" class="tab-content">
-                        <h2 class="entry-header">Symposium</h2>
-                        <p>A one of a kind National level Technical Symposium of College of Engineering, Guindy, Anna University, that provides a forum for students from across the nation, to showcase their sophisticated knowledge in innovation and their abilities to incorporate that into fields of civil engineering. We students conduct events and workshops every year that inculcates the very essence of civil engineering in each and every student that walks in. Supported by our beloved faculty, together we strive to make Civilisation live up to its reputation of being the most renowned Symposium all across South India.  Civilisation also serves as a medium to bring in innovative propositions of young and budding civil engineers into reality and to bridge the gap between imagination and practicality. </p>
+                        <h2 class="entry-header">Contact:</h2>
+                        <ul>
+                        <li>Raj Aditya&emsp;9629230056</li>
+                        <li>Priya&emsp;8675604979</li>
+                        <li>Dhivya&emsp;8489126689</li>
+                        </ul>
+                        <p>Mail your queries to events.c19@gmail.com</p>
+                                              
                     </div>
 
-                </div>
-            </div>
-        </div>
+                    <div id="tab_about" class="tab-content">
+                        <p><strong>Click the button below to register.</strong></p><br>
+                        <p>The registrations will be open till the 3rd of March.</p><br>
+                        <?php
+                        // Start the session
+
+                            if(isset($_SESSION["cid"]))
+                            {
+                            $print2 ="<p><strong>You are currently logged in as ".$_SESSION["name"]."</strong></p>";
+                            }
+                            else {
+                                $print2 ="<p><strong>You must be logged in to register online or onspot.</strong></p>";
+                              }
+                            echo  $print2;
+                        ?>
+
+<form id="registration" class="entry-content">
+
+<!--<div class="entry-content flex">-->
+    <input type="hidden" value="LECTURES" id="event" />
+    <input class="btn gradient-bg flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
+    <br>
+    <?php
+    // Start the session
+    if(isset($_SESSION["cid"]))
+    {
+
+    $print ='
+    <div class="entry-content flex">
+        <a href="https://www.townscript.com/e/tall-structures-232334" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
     </div>
+    ';
+    }
+    else {
+    $print ='
+    <div class="entry-content flex">
+        <a href="login.php" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
+    </div>
+    ';
+    }
+    echo  $print;
+    ?>
 
-    <div class="row">
-        <div class="col-12">
-            <div class="tabs">
-                <ul class="tabs-nav flex">
-                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_details1">Faculty</li>
-                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue1">Students</li>
-                </ul>
 
-                <div class="tabs-container">
-                    <div id="tab_details1" class="tab-content">
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6">
-                            <figure class="events-thumbnail text-center">
-                                <img class="figure-img img-fluid" src="images/staff1.jpg" alt="">
-                            </figure>                      
-                            <h2 class="entry-header text-center">President</h2>
-                            <p class="text-center">
-                               Dr.G.Ravikumar<br>Professor
-                            </p>
-                        </div>
-                        <div class="col-lg-6 col-md-6">
-                            <figure class="events-thumbnail text-center">
-                                <img class="figure-img img-fluid" src="images/staff2.jpg" alt="">
-                            </figure>                         
-                            <h2 class="entry-header text-center">Treasurer</h2>
-                            <p class="text-center">
-                                Dr.G.Dhinagaran<br>Assistant Professor
-                            </p>
-                        </div>
+<!--</div>-->
+</form>
+                        
+                        
+                        
+                        
                     </div>
-                    </div>
-
-                    <div id="tab_venue1" class="tab-content">
-                        <div id="tab_details" class="tab-content">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6">                      
-                                <h2 class="entry-header">General Secretaries</h2>
-                                <p><ul>
-                                    <li>Akshaya M</li>
-                                    <li>Surya K</li>
-                                </ul></p>
-                            </div>
-                            <div class="col-lg-6 col-md-6">                      
-                                <h2 class="entry-header">Joint Secretaries </h2>
-                                <p><ul>
-                                    <li>Subhiksha Sri S</li>
-                                    <li>Pon Muthu Ram R</li>
-                                </ul></p>
-                            </div>
-                        </div> 
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6">                      
-                                <h2 class="entry-header">Assistant Secretaries</h2>
-                                <p><ul>
-                                    <li>Jothika K</li>
-                                    <li>Varun S</li>
-                                </ul></p>
-                            </div>
-                        </div>   
-                        </div>
-                    </div>
-
                 </div>
             </div>
         </div>

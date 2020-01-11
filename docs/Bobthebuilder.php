@@ -136,11 +136,11 @@
                         <ol>
                             <li>PRELIMS:
                                 <ul>
-                                    <li>▪	A team of 2 or 3 members are allowed.</li>
-                                    <li>▪	Participants are requested to bring their own calculators.</li>
-                                    <li>▪	The questionnaire consists of 25 questions</li>
-                                    <li>▪	If there is tie between 2 or more teams the evaluation will be based upon *(Star) question. A team which has correctly answered the maximum number of star questions will be given priority.</li>
-                                    <li>▪	If there is a tie in the * (Star) question, the evaluation will be based on the marks obtained in each section in the following order of priority:</li>
+                                    <li>A team of 2 or 3 members are allowed.</li>
+                                    <li>Participants are requested to bring their own calculators.</li>
+                                    <li>The questionnaire consists of 25 questions</li>
+                                    <li>If there is tie between 2 or more teams the evaluation will be based upon *(Star) question. A team which has correctly answered the maximum number of star questions will be given priority.</li>
+                                    <li>If there is a tie in the * (Star) question, the evaluation will be based on the marks obtained in each section in the following order of priority:</li>
                                     <ul>
                                       <li>Soil Mechanics</li>
                                       <li>Structural Analysis</li>

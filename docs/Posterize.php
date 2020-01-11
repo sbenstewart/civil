@@ -161,8 +161,7 @@
                         <li>Saranya Gunasekaran&emsp;996247884</li>
                         <li>Sathiya Suppaiya&emsp;7502048649</li>
                         </ul>
-                        <p>Mail your queries to events.c19@gmail.com</p>
-
+                        
                     </div>
 
                     <div id="tab_about" class="tab-content">

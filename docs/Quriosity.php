@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Eco Quiz</h1>
+                        <h1 class="entry-title">Quriosity</h1>
                     </header>
                 </div>
             </div>
@@ -124,40 +124,34 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>"Earth provides enough to satisfy every man's needs, But not every man's greed." - Mahatma Gandhi</strong></p>
+                        <p><strong>"Knowledge of the and of the places on the earth is the ornament and food of the mind of the man." - Leonardo da Vinci</strong></p>
                         <p>
-                        Nature " is the real comrade who makes our very existence possible.<br>
-                        They never fail to do their duty!<br>
-                        What have we given back to them?<br>
-                        It's time for all the nature lovers out there to brush up your knowledge about nature and come take part in the eco quiz in civilization 2020!<br>
+                        All our knowledge begins with senses, proceeds then to understanding and ends with reason. To catch up with this dynamic world, there’s a need to know about the current affairs.<br>
+                        If you are such an encyclopedia composed of knowledge, take part in the Quriosity quiz of C’20 to share your thirst for knowledge.<br>
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
                             <li>PRELIMS:
                                 <ul>
-                                    <li>It’s paper and pen round.</li>
-                                    <li>Set of questions will be given with multiple choice.</li>
-                                    <li>Duration: 30 min</li>
-                                    <li>Top 10 teams will be selected for finals.</li>
+                                    <li>A team of 2 or three members are allowed.</li>
+                                    <li>The prelims will contain a set of 25 questions.</li>
+                                    <li>Time allowed is 30 minutes.</li>
+                                    <li>‘*’ (STAR) questions will be used for tie breaks.</li>
                                 </ul>
                             </li>
                             <li>FINALS:
                                 <ul>
-                                    <li>It’s paper and pen round.</li>
-                                    <li>Set of questions will be given relevant to environmental issues.</li>
-                                    <li>Based on the performance, winner will be selected.</li>
+                                    <li>Final round will be informed on spot.</li>
                                 </ul>
                             </li>
                         </ol>
 
                         <h2 class="entry-header">RULES:</h2>
                         <ol>
-                            <li>Mobile phone is not allowed.</li>
-                            <li>College Id and civilisation Id(will be provided) is mandatory.</li>
-                            <li>A group can have at most 2 members.</li>
-                            <li>There will be negative marks.</li>
-                            <li>Everyone should bring a calculator.</li>
+                            <li>Civilisation’20 ID and college ID is mandatory</li>
+                            <li>The team will be disqualified in case of any discrepancies.</li>
+                            <li>Use of mobile is strictly prohibited.</li>
                         </ol>
 
                     </div>
@@ -165,11 +159,10 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Dinesh V&emsp;8825622680</li>
-                        <li>Kiruthika&emsp;7373015319</li>
-                        <li>Karthick&emsp;9080603001</li>
-                        </ul>
-                        
+                        <li>RISHANTH A&emsp;9626323380</li>
+                        <li>IYYAPPAN E&emsp;9344541455</li>
+                        </ul>                        
+
                     </div>
 
                     <div id="tab_about" class="tab-content">

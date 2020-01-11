@@ -918,7 +918,7 @@
 
 
                     <div class="entry-footer">
-                        <a class="btn gradient-bg" href="#">Download scheule</a>
+                        <a class="btn gradient-bg" href="dates.pdf">Download scheule</a>
                     </div>
                 </header>
 
@@ -1050,7 +1050,7 @@
                 <header class="regional-events-heading entry-header flex flex-wrap justify-content-between align-items-center">
                     <h2 class="entry-title">Tech Events</h2>
                     <div class="entry-footer">
-                        <a class="btn gradient-bg" href="#">Download scheule</a>
+                        <a class="btn gradient-bg" href="dates.pdf">Download scheule</a>
                     </div>
                 </header>
 
@@ -1185,7 +1185,7 @@
 
 
                     <div class="entry-footer">
-                        <a class="btn gradient-bg" href="#">Download scheule</a>
+                        <a class="btn gradient-bg" href="dates.pdf">Download scheule</a>
                     </div>
                 </header>
 
@@ -1256,7 +1256,7 @@
 
 
                     <div class="entry-footer">
-                        <a class="btn gradient-bg" href="#">Download scheule</a>
+                        <a class="btn gradient-bg" href="dates.pdf">Download scheule</a>
                     </div>
                 </header>
 
@@ -1270,7 +1270,7 @@
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Sample <br>Guest Lecture</h2>
+                                <h2 class="entry-title">Lecture 1</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">

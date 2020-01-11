@@ -788,15 +788,15 @@
                     </div>
 
                     <div class="event-content-wrap positioning-event-9 d-none d-lg-block d-xl-block">
-                        <a href="#">
+                        <a href="#events">
                             <figure>
                                 <img src="images/5.png" alt="">
                             </figure>
 
                             <header class="entry-header">
-                                <h3 class="entry-title">Project Display</h3>
+                                <h3 class="entry-title">Events</h3>
 
-                                <div class="posted-date">Showcase your works</div>
+                                <div class="posted-date">Do attend all!</div>
                             </header>
                         </a>
                     </div>
@@ -816,8 +816,8 @@
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-12 col-sm-6 col-md-4">
+        <div class="row justify-content-center">
+            <div class="col-6 col-lg-4 col-xl-4">
                 <div class="next-event-wrap">
                     <figure>
                         <a href="sample-workshop.php"><img src="images/next1.jpg" alt="1"></a>
@@ -832,17 +832,13 @@
                         <div class="posted-date">Vivek Audi <span>8 AM</span></div>
                     </header>
 
-                    <div class="entry-content">
-                        <p>To ensure that the building is able to stand up safely, function without excessive deflections which may cause fatigue of structural elements, cracking or failure of fixtures or fittings, or discomfort for occupants.</p>
-                    </div>
-
                     <footer class="entry-footer">
                         <a href="sample-workshop.php">Register</a>
                     </footer>
                 </div>
             </div>
 
-            <div class="col-12 col-sm-6 col-md-4">
+            <div class="col-6 col-lg-4 col-xl-4">
                 <div class="next-event-wrap">
                     <figure>
                         <a href="#"><img src="images/next1.jpg" alt="1"></a>
@@ -857,17 +853,16 @@
                         <div class="posted-date">Vivek Audi <span>8 AM</span></div>
                     </header>
 
-                    <div class="entry-content">
-                        <p>This sample event can be explained here so that the students will have a basic idea of what to expect and also to garner interest.</p>
-                    </div>
-
                     <footer class="entry-footer">
                         <a href="#">Register</a>
                     </footer>
                 </div>
             </div>
 
-            <div class="col-12 col-sm-6 col-md-4">
+            </div>
+            <dic class="row justify-content-center">
+
+            <div class="col-6 col-lg-4 col-xl-4">
                 <div class="next-event-wrap">
                     <figure>
                         <a href="#"><img src="images/next1.jpg" alt="1"></a>
@@ -882,15 +877,33 @@
                         <div class="posted-date">Vivek Audi <span>8 AM</span></div>
                     </header>
 
-                    <div class="entry-content">
-                        <p>This sample event can be explained here so that the students will have a basic idea of what to expect and also to garner interest.</p>
-                    </div>
+                    <footer class="entry-footer">
+                        <a href="#">Register</a>
+                    </footer>
+                </div>
+            </div>
+
+            <div class="col-6 col-lg-4 col-xl-4">
+                <div class="next-event-wrap">
+                    <figure>
+                        <a href="#"><img src="images/next1.jpg" alt="1"></a>
+
+                        <div class="event-rating">7-3-20</div>
+                    </figure>
+
+                    <header class="entry-header">
+                        <h3 class="entry-title">Workshop 3</h3>
+
+                        <div class="posted-date">Saturday <span>March 7, 2020</span></div>
+                        <div class="posted-date">Vivek Audi <span>8 AM</span></div>
+                    </header>
 
                     <footer class="entry-footer">
                         <a href="#">Register</a>
                     </footer>
                 </div>
             </div>
+
         </div>
     </div>
 </div>

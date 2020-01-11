@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Archi Buildo</h1>
+                        <h1 class="entry-title">Primametry</h1>
                     </header>
                 </div>
             </div>
@@ -124,35 +124,38 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>“Scientists investigate that which already is; Engineers create that which has never been”. - Albert Einstein</strong></p>
-                        <p>
-                        Waiting for a chance to showcase your talents? Are you an expert in detailing the smallest part with great efforts? Everything is designed and few things are designed well.  Here we provide a golden opportunity to test your technical and practical knowledge in civil engineering for improving the unimproved and creating the creative design.</p>
+                        <p><strong>“ A  man’s feet should be planted in his country, but his eyes should survey the world”. - George Santayana</strong></p>
+                        <!--<p>
+                        Nature " is the real comrade who makes our very existence possible.<br>
+                        They never fail to do their duty!<br>
+                        What have we given back to them?<br>
+                        It's time for all the nature lovers out there to brush up your knowledge about nature and come take part in the eco quiz in civilization 2020!<br>
+                      </p>-->
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
                             <li>PRELIMS:
                                 <ul>
-                                    <li>A set of 25 questions will be given.</li>
-                                    <li>The top 5 teams will be qualified for finals.</li>
-                                    <li>Duration: 30 min</li>
+                                    <li>It is a pen and paper round.</li>
+                                    <li>Set of questions will be given with answer choices.</li>
+                                    <li>The top 5 teams will be selected for finals.</li>
                                 </ul>
                             </li>
                             <li>FINALS:
                                 <ul>
-                                    <li>The selected teams will be given a question statement of arch design and each team will be asked to do the model of arch.</li>
-                                    <li>Materials will be provided at the venue.</li>
-                                    <li>Completed arch will be subjected to the load testing and it will be evaluated based on the strength and aesthetics.</li>
-                                    <li>Duration: 2 hrs</li>
+                                    <li>The finalists will be asked to measure the height of a specific building.</li>
+                                    <li>Required instruments will be provided.</li>
+                                    <li>Winners will be determined based on their accuracy.</li>
                                 </ul>
                             </li>
                         </ol>
 
                         <h2 class="entry-header">RULES:</h2>
                         <ol>
-                            <li>A team can only consist of 2 or 3 participants.</li>
+                            <li>A team can only consist of three participants.</li>
                             <li>Mobile phones are not allowed and calculators can be brought.</li>
                             <li>Decision made by the judges will be final.</li>
-                            <li>College ID and Civilization ID (will be provided) are mandatory.</li>
+                            <li>College ID and civilization ID(will be provided) are mandatory.</li>
                         </ol>
 
                     </div>
@@ -160,8 +163,8 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Nagasudha&emsp;8870079669</li>
-                        <li>Raveena&emsp;9994131030</li>
+                        <li>Guru Preethi&emsp;9080353002</li>
+                        <li>Vinoth Kumar&emsp;9715111033</li>
                         </ul>
 
                     </div>

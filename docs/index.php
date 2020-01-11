@@ -697,11 +697,11 @@
 
             <div class="col-12 col-md-8 col-lg-7">
                 <header class="entry-header">
-                    <h2 class="entry-title">Who are the <br>Society of Civil Engineers ?</h2>
+                    <h2 class="entry-title">Who are the <br>Society of Civil Engineers?</h2>
                 </header>
 
                 <div class="entry-content">
-                    <p>A group of enthusiastic young and budding civil engineers with a vision that parallels on that of innovation, creation, leadership and development. Founded in 1932, the society exists for and is run by the students of the College of Engineering, Guindy.  Supported by our Dear faculty members, the Society of Civil Engineers organise and manage student activities all through the year with the goal to benefit the student community</p>
+                    <p>A group of enthusiastic young and budding civil engineers with a vision that parallels on that of innovation, creation, leadership and development. Founded in 1932, the society exists for and is run by the students of the College of Engineering, Guindy.  Supported by our Dear faculty members, the Society of Civil Engineers organise and manage student activities all through the year with the goal to benefit the student community.</p>
                 </div>
 
                 <footer class="entry-footer">

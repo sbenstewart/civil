@@ -1059,13 +1059,13 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event.png" alt="">
+                                <img src="images/acropolis.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Acropolis.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">U2 Concert </h2>
+                                <h2 class="entry-title">Acropolis </h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
@@ -1075,13 +1075,13 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event.png" alt="">
+                                <img src="images/arhcibuildo.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Archibuildo.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Broadway Hit </h2>
+                                <h2 class="entry-title">Arhci Buildo</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
@@ -1091,13 +1091,13 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event.png" alt="">
+                                <img src="images/bobthebuilder.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Bobthebuilder.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Gallery Exibition</h2>
+                                <h2 class="entry-title">Bob <br>The Builder</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
@@ -1107,13 +1107,13 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event.png" alt="">
+                                <img src="images/breakerofcode.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Breakerofcodes.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Art Gallery</h2>
+                                <h2 class="entry-title">Breaker<br>Of Codes</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
@@ -1123,13 +1123,13 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event.png" alt="">
+                                <img src="images/crackthecause.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="crackthecause.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Music Concert</h2>
+                                <h2 class="entry-title">Crack<br>The Cause</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
@@ -1139,13 +1139,13 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event.png" alt="">
+                                <img src="images/paperpresentation.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Paperpresentation.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">EDM Festival</h2>
+                                <h2 class="entry-title">Paper<br>Presentation</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
@@ -1155,19 +1155,53 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event.png" alt="">
+                                <img src="images/posterize.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Posterize.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">U2 Concert </h2>
+                                <h2 class="entry-title">Posterize</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
                                 <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/primametry.png" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Primametry.php">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Primametry</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/quriosity.png" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Quriosity.php">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Quriosity</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+
                     </div><!-- .swiper-wrapper -->
 
                     <!-- Add Arrows -->

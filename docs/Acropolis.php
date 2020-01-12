@@ -137,7 +137,6 @@
                                     <li>A team of 2 or three members are allowed.</li>
                                     <li>The prelims will contain a set of 25 questions.</li>
                                     <li>Questions will be from highway engineering.</li>
-                                    <li>Questions will be from highway engineering.</li>
                                     <li>‘*’ (STAR) questions will be used for tie breaks.</li>
                                 </ul>
                             </li>
@@ -160,8 +159,8 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>RISHANTH A&emsp;9626323380</li>
-                        <li>IYYAPPAN E&emsp;9344541455</li>
+                        <li>Rishanth A&emsp;9626323380</li>
+                        <li>Iyyappan E&emsp;9344541455</li>
                         </ul>
 
                     </div>

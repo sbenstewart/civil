@@ -124,49 +124,71 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>
+                        <!--<p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>
                         <p>
                         Soil mechanics is an art of science and Engineering. The observation of the performance of the soil is an essential part of any construction not only in laboratory and also in field.<br>
                         Are you a genius in mechanics of soil and hydraulics?<br>
                         Can you build a model with deep knowledge of that?<br>
                         Then open your skills in making the model!!!<br>
-                        </p>
+                      </p>-->
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
                             <li>PRELIMS:
                                 <ul>
-                                    <li>A team of 2 or 3 members are allowed.</li>
-                                    <li>Participants are requested to bring their own calculators.</li>
-                                    <li>The questionnaire consists of 25 questions</li>
-                                    <li>If there is tie between 2 or more teams the evaluation will be based upon *(Star) question. A team which has correctly answered the maximum number of star questions will be given priority.</li>
-                                    <li>If there is a tie in the * (Star) question, the evaluation will be based on the marks obtained in each section in the following order of priority:</li>
-                                    <ul>
-                                      <li>Soil Mechanics</li>
-                                      <li>Structural Analysis</li>
-                                      <li>Concrete Structures</li>
-                                      <li>hydraulics</li>
-                                      <li>construction techniques & practices</li>
-                                    </ul>
+                                    <li>A written round consisting of questions based on bridge construction problems, statements and technical with a duration of 45 minutes.</li>
                                 </ul>
                             </li>
                             <li>FINALS:
                                 <ul>
-                                    <li>Participants have to make a model of water retaining structure based on the problem statement.</li>
-                                    <li>The model must be completed within the given time.</li>
-                                    <li>Only the materials provided must be used.</li>
-                                    <li>In case of any discrepancies, the decision taken by the Judges and organisers will be final.</li>
+                                    <li>The final round will be the model construction with a duration of 4 hours.</li>
+                                </ul>
+                            </li>
+                        </ol>
+                        <h2 class="entry-header">Description:</h2>
+                        <ol>
+                            <li>PRELIMS:<br>
+                              In Prelims, the participant’s basic knowledge on the below mentioned subjects will be tested.
+                                <ul>
+                                    <li>Preliminary round which involves a questionnaire related to Structural Analysis, Soil Mechanics, RCC(Reinforced Cement and Concrete), Highways, Hydraulics and Hydrology and Construction techniques & practices.</li>
+                                    <li>A team of maximum 3 members not necessarily from the same college can take part in the event.</li>
+                                    <li>If there is tie between 2 or more teams the evaluation will be based upon * (Star) question. A team which has the maximum number of star questions will be given priority.</li>
+                                    <li>If there is a tie in the * (Star) question, the evaluation will be based on the marks obtained in each section in the following order of priority:</li>
+                                    <ol>
+                                      <li>Structural Analysis</li>
+                                      <li>RCC</li>
+                                      <li>Construction techniques & practices</li>
+                                      <li>Soil Mechanics</li>
+                                    </ol>
+                                    <li>The prelims shall be conducted for maximum time period of 2.30 hours.</li>
+                                    <li>The top 5or 6 participants qualify to finals.</li>
+                                </ul>
+                            </li>
+                            <li>FINALS:<br>
+                              In this round the participant’s deep knowledge in Structural Analysis and RCC will be tested by asking them to construct a bridge model.
+                                <ul>
+                                    <li>The participants have to make a model based on the problem statement which will be provided on spot.</li>
+                                    <li>The model will be tested for Structural parameters and aesthetics of the structure.</li>
                                 </ul>
                             </li>
                         </ol>
 
                         <h2 class="entry-header">RULES:</h2>
                         <ol>
-                            <li>It is a dual day event.</li>
-                            <li>A team can have maximum 3 participants per team.</li>
-                            <li>College ID/Civilisation ID is mandatory.</li>
-                            <li>Decision by judges is final.</li>
-                            <li>Use of mobile is strictly prohibited.</li>
+                          <li>PRELIMS:
+                          <ul>
+                            <li>A team of maximum 4 participants are allowed either from same college or even different college.</li>
+                            <li>Do not use mobile phones. The team will be disqualified in case of any malpractices.</li>
+                            <li>‘*’ (STAR) Questions will be used for tie-breaks.</li>
+                          </ul>
+                        </li>
+                        <li>FINALS:<br>
+                          <ul>
+                            <li>The model must be completed within the given time.</li>
+                            <li>Only the materials provided must be used.</li>
+                            <li>In case of any discrepancies, the decision taken by the Judges and organisers will be finals.</li>
+                          </ul>
+                          NOTES:<br>College ID and Civilization ID (will be provided) is mandatory.</li>
                         </ol>
 
                     </div>

@@ -1059,7 +1059,7 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event.png" alt="">
+                                <img src="images/acropolis.png" alt="">
 
                                 <a class="event-overlay-link flex justify-content-center align-items-center" href="Acropolis.php">+</a>
                             </figure><!-- .hero-image -->

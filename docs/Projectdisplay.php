@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Acropolis</h1>
+                        <h1 class="entry-title">Project Display</h1>
                     </header>
                 </div>
             </div>
@@ -124,34 +124,56 @@
                     <div id="tab_details" class="tab-content">
 
 
+                        <!--<p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>-->
                         <p>
-                        From skylines to shorelines, one thing remains common and that is “transportation”.<br>
-                        This year Acropolis, an event under Civilization’20 is the event to be at if you’re a highway engineering geek or aspire to inculcate an interest in the same.<br>
-                        Acropolis, where tradition meets innovation.<br>
+                        <b>The project you are most scared to do is the one that holds your greatest growth.</b><br>
+                        So here CIVILISATION’20 gives you an opportunity to display your talent to the world through the  project.<br>
+                        A platform to show your civil engineering ideas and win Internship and  prize worth 14K.<br>
+                         &emsp;DREAM  IT.<br>
+                         &emsp;BELEIVE IT.<br>
+                         &emsp;BUILD IT.<br>
                         </p>
 
-                        <h2 class="entry-header">FORMAT:</h2>
+                        <!--<h2 class="entry-header">FORMAT:</h2>
                         <ol>
                             <li>PRELIMS:
                                 <ul>
-                                    <li>A team of 2 or three members are allowed.</li>
-                                    <li>The prelims will contain a set of 25 questions.</li>
-                                    <li>Questions will be from highway engineering.</li>
-                                    <li>‘*’ (STAR) questions will be used for tie breaks.</li>
+                                    <li>A team of 2 or 3 members are allowed.</li>
+                                    <li>Participants are requested to bring their own calculators.</li>
+                                    <li>The questionnaire consists of 25 questions</li>
+                                    <li>If there is tie between 2 or more teams the evaluation will be based upon *(Star) question. A team which has correctly answered the maximum number of star questions will be given priority.</li>
+                                    <li>If there is a tie in the * (Star) question, the evaluation will be based on the marks obtained in each section in the following order of priority:</li>
+                                    <ul>
+                                      <li>Soil Mechanics</li>
+                                      <li>Structural Analysis</li>
+                                      <li>Concrete Structures</li>
+                                      <li>hydraulics</li>
+                                      <li>construction techniques & practices</li>
+                                    </ul>
                                 </ul>
                             </li>
                             <li>FINALS:
                                 <ul>
-                                    <li>Final round will be informed on spot.</li>
+                                    <li>Participants have to make a model of water retaining structure based on the problem statement.</li>
+                                    <li>The model must be completed within the given time.</li>
+                                    <li>Only the materials provided must be used.</li>
+                                    <li>In case of any discrepancies, the decision taken by the Judges and organisers will be final.</li>
                                 </ul>
                             </li>
-                        </ol>
+                        </ol>-->
 
                         <h2 class="entry-header">RULES:</h2>
                         <ol>
-                            <li>Civilisation’20 ID and college ID is mandatory.</li>
-                            <li>The team will be disqualified in case of any discrepancies.</li>
-                            <li>Use of mobile phone is strictly prohibited.</li>
+                            <li>Any  civil  related  topic for the project.</li>
+                            <li>Maximum 5 members in a team.</li>
+                            <li>Bring  your project model(compulsory).</li>
+                            <li>The project along with the working model should be displayed  on March5 during the morning session.</li>
+                            <li>Internship   with  cash  price  will be  provided  for  first  prize.</li>
+                            <li>Only cash price will be provided  for  second prize.</li>
+                            <li>Electronic appliances ( like  mobile phones, Bluetooth etc…)  is not allowed.</li>
+                            <li>Do submit your project  abstract  to  the mail id <a href="mailto:projectdisplayscec20@gmail.com?Subject=Project%20Display">projectdisplayscec20@gmail.com</a> on or before March 1.</li>
+                            <li>The selected team will receive an acknowledgement mail from the mail id mentioned above.</li>
+                            <li>Mail your queries to the mail id mentioned above.</li>
                         </ol>
 
                     </div>
@@ -159,8 +181,8 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Rishanth A&emsp;9626323380</li>
-                        <li>Iyyappan E&emsp;9344541455</li>
+                        <li>Subitcha S&emsp;9047029771</li>
+                        <li>Parvathi A G R&emsp;8778098024</li>
                         </ul>
 
                     </div>

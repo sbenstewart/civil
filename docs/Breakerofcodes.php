@@ -159,9 +159,9 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>S.NIVETHA&emsp;8523942242&emsp;nivethashakthivel@gmail.com</li>
-                        <li>S.JAYA&emsp;8825997415&emsp;jenifershyam29@gmail.com</li>
-                        <li>J.MERLIN SINDHIYA&emsp;7397329357</li>
+                        <li>Nivetha S&emsp;8523942242</li>
+                        <li>Jaya S&emsp;8825997415&emsp;</li>
+                        <li>Merlin Sindhiya J&emsp;7397329357</li>
                         </ul>
 
                     </div>

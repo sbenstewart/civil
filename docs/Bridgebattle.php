@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Crack The Cause</h1>
+                        <h1 class="entry-title">Bridge Battle</h1>
                     </header>
                 </div>
             </div>
@@ -124,35 +124,49 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>“Everyone has two eyes but no one has the same view.” - Anonymous</strong></p>
+                        <p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>
                         <p>
-                        Thinking is more interesting than knowing, but less interesting than looking.<br>
-                        Don't just look, think and find the reason behind it.<br>
-                        Yes you read it right, just find the reason.<br>
-                        Sounds easy, doesnt it? Come and try your luck.<br>
+                        Soil mechanics is an art of science and Engineering. The observation of the performance of the soil is an essential part of any construction not only in laboratory and also in field.<br>
+                        Are you a genius in mechanics of soil and hydraulics?<br>
+                        Can you build a model with deep knowledge of that?<br>
+                        Then open your skills in making the model!!!<br>
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
-                            <li>Set of 20 questions will be given</li>
-                            <li>Duration: 30 minutes.</li>
-                            <li>The top 10 teams will be slected for the 2nd round.</li>
+                            <li>PRELIMS:
+                                <ul>
+                                    <li>A team of 2 or 3 members are allowed.</li>
+                                    <li>Participants are requested to bring their own calculators.</li>
+                                    <li>The questionnaire consists of 25 questions</li>
+                                    <li>If there is tie between 2 or more teams the evaluation will be based upon *(Star) question. A team which has correctly answered the maximum number of star questions will be given priority.</li>
+                                    <li>If there is a tie in the * (Star) question, the evaluation will be based on the marks obtained in each section in the following order of priority:</li>
+                                    <ul>
+                                      <li>Soil Mechanics</li>
+                                      <li>Structural Analysis</li>
+                                      <li>Concrete Structures</li>
+                                      <li>hydraulics</li>
+                                      <li>construction techniques & practices</li>
+                                    </ul>
+                                </ul>
+                            </li>
+                            <li>FINALS:
+                                <ul>
+                                    <li>Participants have to make a model of water retaining structure based on the problem statement.</li>
+                                    <li>The model must be completed within the given time.</li>
+                                    <li>Only the materials provided must be used.</li>
+                                    <li>In case of any discrepancies, the decision taken by the Judges and organisers will be final.</li>
+                                </ul>
+                            </li>
                         </ol>
 
                         <h2 class="entry-header">RULES:</h2>
                         <ol>
-                            <li>A team can have 2 participants per team.</li>
-                            <li>Use of mobile is prohibited.</li>
-                            <li>College ID and Civilisation ID(will be provided) is mandatory.</li>
-                            <li>Decision taken by judges is final.</li>
-                        </ol>
-                        <h2 class="entry-header">FAQ:</h2>
-                        <ol>
-                          <li>How do we register for the event?<br>There will be a common registration for CIVILISATION18. There is no separate registration.</li>
-                          <li>Can I come as a lone wolf?<br>No you cannot as this event requires team participations and discussions.</li>
-                          <li>How many members can be there in a team?<br>A team can have 2 participants only. Any team which fails to meet this criterion will be disqualified by the team organizers.</li>
-                          <li>Can a team have members of different college?<br>No, a team cannot have members from different colleges.</li>
-                          <li>Will I get a certificate of participation?<br>Top 3 teams will receive cash prize and certificate of merit. Top 5 teams will receive certificate of participation.</li>
+                            <li>It is a dual day event.</li>
+                            <li>A team can have maximum 3 participants per team.</li>
+                            <li>College ID/Civilisation ID is mandatory.</li>
+                            <li>Decision by judges is final.</li>
+                            <li>Use of mobile is strictly prohibited.</li>
                         </ol>
 
                     </div>

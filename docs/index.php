@@ -1201,6 +1201,22 @@
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/bridgebattle.png" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Bridgebattle.php">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Bridge Battle</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
 
                     </div><!-- .swiper-wrapper -->
 
@@ -1227,13 +1243,13 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/event.png" alt="">
+                                <img src="images/bloggersbattle.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="BloggersBattle.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">U2 Concert </h2>
+                                <h2 class="entry-title">Bloggers' Battle</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">

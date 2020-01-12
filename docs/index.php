@@ -1081,7 +1081,7 @@
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Arhcibuildo </h2>
+                                <h2 class="entry-title">Arhci Buildo</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">

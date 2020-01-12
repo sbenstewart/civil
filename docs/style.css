@@ -191,9 +191,9 @@ a:hover, a:active {
 .hamburger-menu span {
     display: block;
     position: absolute;
-    height: 3px;
+    height: 2px;
     width: 100%;
-    background: #581479;
+    background: #9a28d7;
     border-radius: 10px;
     opacity: 1;
     left: 0;

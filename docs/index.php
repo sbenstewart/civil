@@ -483,7 +483,7 @@
 
                 <div class="col-2 col-lg-8 order-3 order-lg-2">
                     <nav class="site-navigation">
-                        <div class="hamburger-menu d-lg-none">
+                        <div class="hamburger-menu d-lg-none" id="hamburger-menu">
                             <span></span>
                             <span></span>
                             <span></span>

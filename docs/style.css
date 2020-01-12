@@ -1564,6 +1564,12 @@ a:hover, a:active {
     border-bottom: 2px solid #9a28d7;
 }
 
+@media screen and (max-width: 991px) {
+    .upcoming-events-list .entry-meta .event-date {
+        display: none;
+    }
+}
+
 @media screen and (min-width: 992px) {
     .upcoming-events-list .upcoming-event-wrap {
         padding: 30px 42px;

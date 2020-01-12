@@ -60,10 +60,10 @@
         breakpoints: {
             // when window width is <= 320px
             576: {
-                slidesPerView: 2.25,
+                slidesPerView: 2.45,
             },
             768: {
-                slidesPerView: 3.25
+                slidesPerView: 3.45
             },
             992: {
                 slidesPerView: 4

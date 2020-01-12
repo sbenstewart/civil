@@ -746,7 +746,7 @@
                     </div>
 
                     <div class="event-content-wrap positioning-event-3">
-                        <a href="#">
+                        <a href="Projectdisplay.php">
                             <figure>
                                 <img src="images/3.png" alt="">
                             </figure>
@@ -760,7 +760,7 @@
                     </div>
 
                     <div class="event-content-wrap positioning-event-7 d-none d-lg-block d-xl-block">
-                        <a href="#">
+                        <a href="Projectdisplay.php">
                             <figure>
                                 <img src="images/4.png" alt="">
                             </figure>
@@ -823,7 +823,7 @@
                     <figure>
                         <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
 
-                        <div class="event-rating">5-3-20</div>
+                        <div class="event-rating">5<sup>th</sup></div>
                     </figure>
 
                     <header class="entry-header">
@@ -844,7 +844,7 @@
                     <figure>
                         <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
 
-                        <div class="event-rating">6-3-20</div>
+                        <div class="event-rating">6<sup>th</sup></div>
                     </figure>
 
                     <header class="entry-header">
@@ -868,7 +868,7 @@
                     <figure>
                         <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
 
-                        <div class="event-rating">7-3-20</div>
+                        <div class="event-rating">7<sup>th</sup></div>
                     </figure>
 
                     <header class="entry-header">
@@ -889,7 +889,7 @@
                     <figure>
                         <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
 
-                        <div class="event-rating">7-3-20</div>
+                        <div class="event-rating">7<sup>th</sup></div>
                     </figure>
 
                     <header class="entry-header">

@@ -1061,11 +1061,11 @@
                             <figure>
                                 <img src="images/event.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Acropolis.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">U2 Concert </h2>
+                                <h2 class="entry-title">Acropolis </h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">

@@ -467,7 +467,7 @@
         </svg>
     </div>
 
-    
+
 <span class="onload">
 <header class="site-header">
     <div class="header-bar">
@@ -542,7 +542,7 @@
                 <div class="main-content">
                     <div class="logo-content"></div>
                     <!--<img class="logo-content" src="images/logo2.png" alt="logo">-->
-                
+
                 </div><!-- .swiper-slide -->
             </div><!-- .swiper-wrapper -->
 
@@ -667,7 +667,7 @@
                 </div><!-- .swiper-slide -->
             </div><!-- .swiper-wrapper -->
 
-           
+
           </div>
 
 
@@ -1081,7 +1081,7 @@
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Arhci Buildo</h2>
+                                <h2 class="entry-title">Archi Buildo</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">

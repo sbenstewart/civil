@@ -54,6 +54,9 @@
     $(window).on("load",function(){
       $(".Hero").delay("2500").fadeOut('slow', function(){
         $('.onload').fadeIn("slow");
+        if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)){
+          $( ".hamburger-menu" ).hide();
+        }
       });
 
       setTimeout(function(){

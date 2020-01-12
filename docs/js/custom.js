@@ -8,11 +8,6 @@
         $('.site-navigation').toggleClass('show');
     });
 
-    $( '.hamburger-menu' ).on( 'touchend', function() {
-        $(this).toggleClass('open');
-        $('.site-navigation').toggleClass('show');
-    });
-
     // Hero Slider
     var mySwiper = new Swiper('.hero-slider', {
         slidesPerView: 1,

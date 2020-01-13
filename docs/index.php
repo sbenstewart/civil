@@ -1020,21 +1020,7 @@
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="images/event.png" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-event.php">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">U2 Concert </h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
+                        
                     </div><!-- .swiper-wrapper -->
 
                     <!-- Add Arrows -->
@@ -1242,6 +1228,22 @@
 
                             <div class="entry-header">
                                 <h2 class="entry-title">Eco Quiz</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/geowiz.png" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Geowiz.php">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Geowiz</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">

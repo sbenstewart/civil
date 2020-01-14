@@ -156,6 +156,22 @@
                                 <li>College ID and civilisation ID are mandatory.</li>
                             </ol>
 
+                            <h2 class="entry-header">Prize And Venue:</h2>
+                            <ul>
+                                <dl>
+                                    <dd>
+                                        <li> <b>Prize</b>:
+                                    <dt>1st Prize : <strong>2000 INR</strong>
+                                    <dt>2nd Prize : <strong>1500 INR</strong>
+                                    
+                                        </li>
+
+                                    <dd>
+                                        <li> <b>Venue</b>:<strong> To be anounced </strong>
+                                        </li>
+                                </dl>
+                            </ul>
+
 
                         </div>
 

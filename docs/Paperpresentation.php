@@ -165,6 +165,21 @@
                             <li>The abstract mail should contain abstract, references, your e-mail id and mobile number.</li>
                             <li>Last day to submit soft copy of your report (via e-mail) will be two days prior to the day of presentation.</li>
                         </ol>
+                        <h2 class="entry-header">Prize And Venue:</h2>
+                            <ul>
+                                <dl>
+                                    <dd>
+                                        <li> <b>Prize</b>:
+                                    <dt>1st Prize : <strong>8000 INR</strong>
+                                    <dt>2nd Prize : <strong>5000 INR</strong>
+                                    <dt>3rd Prize : <strong>3000 INR</strong>
+                                        </li>
+
+                                    <dd>
+                                        <li> <b>Venue</b>:<strong> Terzaghi hall </strong>
+                                    </li>
+                                </dl>
+                            </ul>
 
                     </div>
 

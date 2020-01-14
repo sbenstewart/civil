@@ -153,6 +153,21 @@
                             <li>Usage of mobile phones is strictly prohibited.</li>
                             <li>A team can have a maximum of three participants.</li>
                         </ol>
+                        <h2 class="entry-header">Prize And Venue:</h2>
+                            <ul>
+                                <dl>
+                                    <dd>
+                                        <li> <b>Prize</b>:
+                                    <dt>1st Prize : <strong>3000 INR</strong>
+                                    <dt>2nd Prize : <strong>2000 INR</strong>
+                                    <dt>3rd Prize : <strong>1500 INR</strong>
+                                        </li>
+
+                                    <dd>
+                                        <li> <b>Venue</b>:<strong> KP </strong>
+                                    </li>
+                                </dl>
+                            </ul>
 
                     </div>
 

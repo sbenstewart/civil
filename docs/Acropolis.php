@@ -163,8 +163,8 @@
 
                                     <dd>
                                         <li><b>Venue</b>:
-                                    <dt>Prelims : <strong>KP </strong>
-                                    <dt>Finals <strong>Highway lab</strong></li>
+                                    <dt>Prelims :<strong>KP </strong>
+                                    <dt>Finals :<strong>Highway lab</strong></li>
                                 </dl>
                             </ul>
 

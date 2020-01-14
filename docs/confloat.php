@@ -170,6 +170,22 @@
                                     Use of admixtures is allowed. Use of asbestos sheet and cardboard will prone to elimination.</li>
                             </ol>
 
+                            <h2 class="entry-header">Prize And Venue:</h2>
+                            <ul>
+                                <dl>
+                                    <dd>
+                                        <li> <b>Prize</b>:
+                                    <dt>1st Prize : <strong>5000 INR</strong>
+                                    <dt>2nd Prize : <strong>3000 INR</strong>
+                                    <dt>3rd Prize : <strong>2000 INR</strong>
+                                        </li>
+
+                                    <dd>
+                                        <li> <b>Venue</b>:<strong> CM Lab </strong>
+                                    </li>
+                                </dl>
+                            </ul>
+
 
                         </div>
 

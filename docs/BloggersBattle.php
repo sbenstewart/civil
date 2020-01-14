@@ -149,6 +149,19 @@
                                 <li>Word count :1000 to 1500 words. <br />The winning participant will be awarded in the valediction ceremony. It is mandatory for the winning participant.</li>
 
                             </ul>
+                            <h2 class="entry-header">Prize :</h2>
+                            <ul>
+                                <dl>
+                                    <dd>
+                                        <li> 
+                                    <dt>1st Prize : <strong>2000 INR</strong> </li>
+                                    <li><dt>2nd Prize : <strong>1500 INR</strong>
+                                    
+                                        </li>
+
+                                    
+                                </dl>
+                            </ul>
 
 
                         </div>

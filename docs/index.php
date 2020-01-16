@@ -1391,6 +1391,7 @@
 
                     </div><!-- .swiper-wrapper -->
 
+                    
                 </div>
 
                 <div class="events-partners">

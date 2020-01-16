@@ -1649,7 +1649,9 @@ ul.tabs-nav .tab-nav.active {
     text-align: center;
 }
 
-.tab-content p {
+.tab-content p,
+.tab-content ul,
+.tab-content ol {
     margin-bottom: 0;
     font-size: 18px;
     line-height: 1.7;

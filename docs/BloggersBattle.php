@@ -124,13 +124,13 @@
 
                             <p>
                                 <strong>"If you want to change the world, pick up your pen and write." -Martin Luther King </strong><br />
-                                The mode of writing has changed a lot over years, but not the writing itself.Come and make a change by your way of penning down!
+                                The mode of writing has changed a lot over years, but not the writing itself. Come and make a change by your way of penning down!
                             </p>
                             <h2 class="entry-header">FORMAT:</h2>
 
                             <ol>
                                 <li>Essays should be mailed in PDF format to the e-mail address: <a href="mailto:civilisceg@gmail.com"> civilisceg@gmail.com </a></li>
-                                <li>The blog should be mailed with the subject name “blog_topic name”.</li>
+                                <li>The blog should be mailed with the subject name “blog topic name”.</li>
                                 <li>The mail should contain the Name, Register number, Branch name and contact details of the Participant.</li>
                                 <li>Deadline for he submission of articles : 28/02/2020( Friday) </li>
                             </ol>
@@ -153,13 +153,8 @@
                             <ul>
                                 <dl>
                                     <dd>
-                                        <li> 
-                                    <dt>1st Prize : <strong>2000 INR</strong> </li>
-                                    <li><dt>2nd Prize : <strong>1500 INR</strong>
-                                    
-                                        </li>
-
-                                    
+                                        <li><dt>1st Prize : <strong>2000 INR</strong></li>
+                                        <li><dt>2nd Prize : <strong>1500 INR</strong></li>
                                 </dl>
                             </ul>
 
@@ -169,7 +164,7 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>SHREENIDHI &emsp; 9790810518</li>
+                                <li>Shreenidhi &emsp; 9790810518</li>
 
                             </ul>
 

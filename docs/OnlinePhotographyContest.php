@@ -99,7 +99,7 @@
                 <div class="row">
                     <div class="col-12">
                         <header class="entry-header">
-                            <h1 class="entry-title">BLOGGERS’ BATTLE</h1>
+                            <h1 class="entry-title">“TAKE US HOME” - ONLINE PHOTOGRAPHY CONTEST</h1>
                         </header>
                     </div>
                 </div>
@@ -123,38 +123,58 @@
 
 
                             <p>
-                                <strong>"If you want to change the world, pick up your pen and write." -Martin Luther King </strong><br />
-                                The mode of writing has changed a lot over years, but not the writing itself. Come and make a change by your way of penning down!
+                                <strong>“ A Picture is Equivalent to a million words”</strong><br />
+                                So what message do you wish to convey this Civilisation 2020?  
                             </p>
+
+                            <h2 class="entry-header">THEME:</h2>
+                            <p>
+                                <strong>"Home town pride"</strong> 
+                            </p>
+                            
+
                             <h2 class="entry-header">FORMAT:</h2>
 
                             <ol>
-                                <li>Essays should be mailed in PDF format to the e-mail address: <a href="mailto:civilisceg@gmail.com"> civilisceg@gmail.com </a></li>
-                                <li>The blog should be mailed with the subject name “blog topic name”.</li>
-                                <li>The mail should contain the Name, Register number, Branch name and contact details of the Participant.</li>
-                                <li>Deadline for he submission of articles : 28/02/2020( Friday) </li>
+                                <li>Send your entries to to the e-mail address: <a href="mailto:civilisation2k20@gmail.com"> civilisation2k20@gmail.com </a></li>
+                                <li>The mail should contain the Name, Department, Year, College and Contact number of the Participant.</li>
+                                <li>Deadline for he submission of articles : 01/03/2020 (Sunday) </li>
+                                <li>Use of Instagram bots is prohibited (creating profiles for likes).</li>
+                                <li>The top 5 photographs will qualify based on the number of likes, after which the jury will decide the best</li>
                             </ol>
+
+                            <h2 class="entry-header">NOTE:</h2>
+                            <p>
+                            Pictures will be posted on our Instagram page (No Facebook page) 
+                            </p>
 
 
 
 
                             <h2 class="entry-header">RULES:</h2>
                             <ul>
-                                <li>Plagiarism is strictly not encouraged. Any kind of plagiarism will make you disqualified for the competition.</li>
-                                <li>Late submissions will not be accepted.</li>
-                                <li>Only one submission per person is allowed..</li>
-                                <li>The participants can be from any department of B E Undergraduate Program.</li>
-                                <li>Decision of the jury will be final and binding.</li>
-                                <li>The blog topics should be one of the topics enlisted in the website ( <a href='civilisceg.wordpress.com'>civilisceg.wordpress.com </a>) </li>
-                                <li>Word count :1000 to 1500 words. <br />The winning participant will be awarded in the valediction ceremony. It is mandatory for the winning participant.</li>
+                                <li>Pictures of your home town including
+                                    <ol>
+                                    <li>Architecture</li>
+                                    <li>Landscape /Scenery</li>
+                                    <li>Food</li>
+                                    <li>Events /Festivals</li>
+                                    </ol>
+                                </li>
+                                <li>No plagiarism or vulgarity</li>
+                                <li>No major editing</li>
+                                <li>Only one entry per person</li>
 
                             </ul>
-                            <h2 class="entry-header">Prize :</h2>
+                            <h2 class="entry-header">PRIZE:</h2>
                             <ul>
                                 <dl>
                                     <dd>
-                                        <li><dt>1st Prize : <strong>2000 INR</strong></li>
-                                        <li><dt>2nd Prize : <strong>1500 INR</strong></li>
+                                    <li> <b>Prize</b>:
+                                    <dt>1st Prize : <strong>1500 INR</strong>
+                                    <dt>2nd Prize : <strong>1000 INR</strong>
+                                    
+                                        </li>
                                 </dl>
                             </ul>
 
@@ -164,7 +184,7 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Shreenidhi &emsp; 9790810518</li>
+                                <li>PORCHELVAN &emsp; 6380285014</li>
 
                             </ul>
 

@@ -122,38 +122,31 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p>Your day to the DISHes📡
-                                The judges will be the remote and you the participants are the Televisions.
-                                Spontaneity and humour are the key elements.
+                            <p><strong>Get ready to “Dance to our Tunes” </strong>
+                                Channel surfing is an unique event, we promise will keep you on your toes. Testing your wit, humor & creativity at every junction, this event is an absolute blockbuster.<br />
+                                The judges hold the remote, while the audience hold your fate. Your sole motive here will be to entertain the audience by imitating “switching” Channels as per the Judge’s command. The more creative and humorous your sketch? The more exciting prizes !
                             </p>
 
-                            <!--<h2 class="entry-header">FORMAT:</h2>
+                            <h2 class="entry-header">FORMAT:</h2>
                             <ol>
-                                <li>Stage 1:
-                                    <ul>
-                                        <li>Registration for the event is done through the mail ID: <a href="mailto:confloat.c20@gmail.com">confloat.c20@gmail.com</a> with preparing a detailed report on or before march 1 and confirmation mail will be received.</li>
-                                        <li>Release of the problem statement.</li>
-                                        <li>Designing the mix and casting the concrete structure (in the shape of boat) that can actually float in water within the specified restrictions.</li>
-                                        <li>The constituents should be cement, sand, water, and admixture, wire mesh (type and material can be decided by the participants).</li>
-                                        (NOTE: The participants will be selected to the next stage based on their abstract )
-                                    </ul>
-                                </li>
-                                <li>Stage 2:
-                                    <ul>
-                                        <li>Bring the cast concrete structure to our college during CIVILISATION-20</li>
-                                        <li>Density, Floating capability, Strength, Appearance of the block will be tested.</li>
-                                        <li>Submitted design reports would be evaluated and the teams will be asked to give a brief oral presentation of their work upon which they will be questioned.</li>
-                                        <li>Points would be awarded according to the judging criteria and winners will be announced.</li>
+                                <ul>
+                                    <li>A team of 3 or 4 members is only permitted.</li>
+                                    <li>The judges will name the channels ( EG- Sun Tv , Discovery , BBC etc etc ) and switch the channels as per their wish.</li>
+                                    <li>The participants will have to imitate the characteristics of the said channel to the best of their abilities using creativity & humor. </li>
+                                    <li>VULGARITY is strictly Prohibited .</li>
+                                    <li>Decision of the jury will be final and binding.</li>
+                                </ul>
 
-                                    </ul>
-                                </li>
-                            </ol>-->
+
+
+                            </ol>
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
                                 <li>3-4 participants per team.</li>
                                 <li>Depending upon the no of teams round2 will be decided.</li>
                                 <li>College ID and civilisation ID are mandatory.</li>
+                                <li>Participants can be from any department but should be of the same college</li>
                             </ol>
 
                             <h2 class="entry-header">Prize And Venue:</h2>
@@ -161,14 +154,13 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>2000 INR</strong>
-                                    <dt>2nd Prize : <strong>1500 INR</strong>
-                                    
+                                            <dt>1st Prize : <strong>2000 INR</strong>
+                                            <dt>2nd Prize : <strong>1500 INR</strong>
+
                                         </li>
 
                                     <dd>
-                                        <li> <b>Venue</b>:<strong> To be anounced </strong>
-                                        </li>
+                                        <li> <b>Venue</b>:<strong> To be anounced </strong></li>
                                 </dl>
                             </ul>
 
@@ -178,7 +170,7 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Sreenivas M K&emsp;9940200125</li>
+                                <li>Sreenivas &emsp;9940200125</li>
                                 <li>Ashwin&emsp;9840157790</li>
                                 <li>Gowsika&emsp;9442466711</li>
                             </ul>

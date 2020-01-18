@@ -99,7 +99,7 @@
                 <div class="row">
                     <div class="col-12">
                         <header class="entry-header">
-                            <h1 class="entry-title">Channel Surfing</h1>
+                            <h1 class="entry-title">PUBG</h1>
                         </header>
                     </div>
                 </div>
@@ -122,31 +122,34 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><strong>Get ready to “Dance to our Tunes” </strong>
-                                Channel surfing is an unique event, we promise will keep you on your toes. Testing your wit, humor & creativity at every junction, this event is an absolute blockbuster.<br />
-                                The judges hold the remote, while the audience hold your fate. Your sole motive here will be to entertain the audience by imitating “switching” Channels as per the Judge’s command. The more creative and humorous your sketch? The more exciting prizes !
+                            <p><strong>"The only game where VEGETARIANS love to taste CHICKEN DINNER"</strong></p>
+                            <p>
+                                Test your reflexes & decision making skills here with us at PUBG. Contest to exciting prizes in SQUADS ONLY TOURNAMENT.
+                                <br />( P.S: We provide OD for this as well!!)<br />
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
-                            <ol>
+                            <ul>
+                                <li>Event will consist of two rounds</li>
                                 <ul>
-                                    <li>A team of 3 or 4 members is only permitted.</li>
-                                    <li>The judges will name the channels ( EG- Sun Tv , Discovery , BBC etc etc ) and switch the channels as per their wish.</li>
-                                    <li>The participants will have to imitate the characteristics of the said channel to the best of their abilities using creativity & humor. </li>
-                                    <li>VULGARITY is strictly Prohibited .</li>
-                                    <li>Decision of the jury will be final and binding.</li>
+                                    <li> Prilims </li>
+                                    <li> Finals
+                                    </li>
                                 </ul>
 
 
-
-                            </ol>
+                            </ul>
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                <li>3-4 participants per team.</li>
-                                <li>Depending upon the no of teams round2 will be decided.</li>
-                                <li>College ID and civilisation ID are mandatory.</li>
-                                <li>Participants can be from any department but should be of the same college</li>
+                                <li>
+                                    College ID and Civilisation ID (will be provided) are mandatory.</li>
+                                <li>
+                                    On spot registration only, Registration starts @ 10am on 07/03/2020.</li>
+                                <li>
+                                    Top 15 will be qualified for final round.</li>
+                                <li>
+                                    Use of Vulgar Language or disturbance of decorum will be dealt with severely.</li>
                             </ol>
 
                             <h2 class="entry-header">Prize And Venue:</h2>
@@ -155,24 +158,25 @@
                                     <dd>
                                         <li> <b>Prize</b>:
                                             <dt>1st Prize : <strong>2000 INR</strong>
-                                            <dt>2nd Prize : <strong>1500 INR</strong>
+                                            <dt>2nd Prize : <strong>1000 INR</strong>
 
                                         </li>
 
+
                                     <dd>
-                                        <li> <b>Venue</b>:<strong> To be anounced </strong></li>
+                                        <li> <b>Venue</b>:<strong> KP </strong>
+                                        </li>
                                 </dl>
                             </ul>
-
 
                         </div>
 
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Sreenivas &emsp;9940200125</li>
-                                <li>Ashwin&emsp;9840157790</li>
-                                <li>Gowsika&emsp;9442466711</li>
+                                <li>Sakthivel &emsp;7010285609</li>
+                                <li>Manikandan &emsp;9840690348</li>
+
                             </ul>
 
                         </div>

@@ -817,20 +817,22 @@
         </div>
 
         <div class="row justify-content-center">
-            <div class="col-6 col-lg-4 col-xl-4">
-                <!--Only three workshops use this<div class="col-12 col-sm-6 col-md-4">-->
+            <div class="col-12 col-sm-6 col-md-4">
+                <!--Only three workshops use this class="col-12 col-sm-6 col-md-4">
+                For four workshops use this class="col-6 col-lg-4 col-xl-4"-->
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
+                        <a href="sample-workshop.php"><img src="images/buildinginformationandmodelling.png" alt="1"></a>
 
                         <div class="event-rating">5<sup>th</sup></div>
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">Workshop 1</h3>
+                        <h3 class="entry-title">Building Information and Modelling</h3>
 
+                        <div class="posted-date"><span>Larsen & Toubro</span></div>
                         <div class="posted-date">Thursday <span>March 5, 2020</span></div>
-                        <div class="posted-date">Vivek Audi <span>8 AM</span></div>
+                        <div class="posted-date">Vivek Audi <span>10 AM</span></div>
                     </header>
 
                     <footer class="entry-footer">
@@ -839,19 +841,25 @@
                 </div>
             </div>
 
-            <div class="col-6 col-lg-4 col-xl-4">
+            
+
+            </div>
+            <div class="row justify-content-center">
+
+            <div class="col-12 col-sm-6 col-md-4">
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
+                        <a href="sample-workshop.php"><img src="images/prestressedconcretebridges.png" alt="1"></a>
 
                         <div class="event-rating">6<sup>th</sup></div>
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">Workshop 2</h3>
+                        <h3 class="entry-title">Pre Stressed Concrete Bridges</h3>
 
+                        <div class="posted-date"><span>Larsen & Toubro</span></div>
                         <div class="posted-date">Friday <span>March 6, 2020</span></div>
-                        <div class="posted-date">Vivek Audi <span>8 AM</span></div>
+                        <div class="posted-date">Vivek Audi <span>9 AM</span></div>
                     </header>
 
                     <footer class="entry-footer">
@@ -860,10 +868,7 @@
                 </div>
             </div>
 
-            </div>
-            <dic class="row justify-content-center">
-
-            <div class="col-6 col-lg-4 col-xl-4">
+            <div class="col-12 col-sm-6 col-md-4">
                 <div class="next-event-wrap">
                     <figure>
                         <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
@@ -872,10 +877,11 @@
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">Workshop 3</h3>
+                        <h3 class="entry-title">To be announced</h3>
 
+                        <div class="posted-date"><span>Eversendai</span></div>
                         <div class="posted-date">Saturday <span>March 7, 2020</span></div>
-                        <div class="posted-date">Vivek Audi <span>8 AM</span></div>
+                        <div class="posted-date">Vivek Audi <span>9 AM</span></div>
                     </header>
 
                     <footer class="entry-footer">
@@ -884,26 +890,7 @@
                 </div>
             </div>
 
-            <div class="col-6 col-lg-4 col-xl-4">
-                <div class="next-event-wrap">
-                    <figure>
-                        <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
-
-                        <div class="event-rating">7<sup>th</sup></div>
-                    </figure>
-
-                    <header class="entry-header">
-                        <h3 class="entry-title">Workshop 4</h3>
-
-                        <div class="posted-date">Saturday <span>March 7, 2020</span></div>
-                        <div class="posted-date">Vivek Audi <span>8 AM</span></div>
-                    </header>
-
-                    <footer class="entry-footer">
-                        <a href="sample-workshop.php">Register</a>
-                    </footer>
-                </div>
-            </div>
+        
 
         </div>
     </div>

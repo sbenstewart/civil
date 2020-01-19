@@ -99,7 +99,7 @@
                 <div class="row">
                     <div class="col-12">
                         <header class="entry-header">
-                            <h1 class="entry-title">Cricket Quiz</h1>
+                            <h1 class="entry-title">Howstat - Cricket Quiz</h1>
                         </header>
                     </div>
                 </div>
@@ -152,6 +152,7 @@
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
                                 <li>Mobile phone usage will definitely lead to disqualification.</li>
+                                <li>“There is no I in TEAM” (Teams of 2 or 3 are permitted)</li>
                                 <li>College Id and civilisation Id(will be provided) is mandatory.</li>
                                 <li>A team can have minimum of two to maximum of three participants.</li>
                                 <li>Decision made by the judges is final.</li>
@@ -162,15 +163,16 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>3000 INR</strong>
-                                    <dt>2nd Prize : <strong>2000 INR</strong>
-                                    
+                                            <dt>1st Prize : <strong>3000 INR</strong>
+                                            <dt>2nd Prize : <strong>2000 INR</strong>
+
                                         </li>
 
                                     <dd>
                                         <li><b>Venue</b>:
-                                    <dt>Prelims :<strong> KP </strong>
-                                    <dt>Finals :<strong> Projector Room</strong></li>
+                                            <dt>Prelims :<strong> KP </strong>
+                                            <dt>Finals :<strong> Projector Room</strong>
+                                        </li>
                                 </dl>
                             </ul>
 

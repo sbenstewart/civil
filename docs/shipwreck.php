@@ -122,9 +122,10 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p>This isnt titanic and u arent jake so just go for the jacket.
-                                Participants will be given any famous characters and they have to convince the judges who is the captain of the ship.
-                                Humour spontaneity will be appreciated.
+                            <p><Strong>"This isnt titanic and u arent jake so just go for the jacket."</Strong>
+                                Come prove your persuasion skills to us here at civilisation’20!<br/>
+                                Shipwreck is a one of a kind event, where you will be given famous personalities to impersonate and will have to convince the judges “Captain of the Ship” to save you from the sinking ship! who unfortunately, has only one life jacket. Why save you when the Captain can save your opponent? You tell us!<br/>
+                                A Humorous ride to exciting Prizes!
                             </p>
 
                             <!--<h2 class="entry-header">FORMAT:</h2>
@@ -162,9 +163,9 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>2000 INR</strong>
-                                    <dt>2nd Prize : <strong>1500 INR</strong>
-                                    
+                                            <dt>1st Prize : <strong>2000 INR</strong>
+                                            <dt>2nd Prize : <strong>1500 INR</strong>
+
                                         </li>
 
                                     <dd>

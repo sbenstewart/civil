@@ -124,19 +124,16 @@
 
                             <p><strong>"If you solve this Mystery, It will be a History." - AJ</strong></p>
                             <p>
-                                Want to unleash the Sherlock in you? You’ve come to the right place!<br />
+                                Want to unleash the Sherlock in you? Longing for a dose of Adventure and excitement? You’ve come to the right place!<br />
                                 This event is specifically made for those who want to solve the inscrutable
-                                mysteries. Your first step to becoming a detective, come and participate in this
-                                venturesome journey.</p>
+                                mysteries.and escape the mundane routine of life for a few hours. Step forward to take your first step to becoming a detective. Come and participate in this venturesome journey! Secrets wait to be revealed…
+                            </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
+                            
                             <ol>
-                                <li>Two Rounds are conducted </li>
-                                <li>Materials are provided at the venue</li>
-                            </ol>
-                            <ol>
-                                <li> ROUND 1 – Investigation
-                                    <ul>
+                                <li> 
+                                    <ul>PRELIMS: INVESTIGATION
                                         <li>Participants are provided with the First Information Report, contains
                                             suspect details, Postmortem report, Murder location, Evidences, etc…</li>
                                         <li>Investigate the suspects.</li>
@@ -144,7 +141,7 @@
 
                                     </ul>
                                 </li>
-                                <li>FINALS:
+                                <li>FINALS: JUDGEMENT
                                     <ul>
                                         <li>Narrate your perspective of murder.</li>
                                         <li>The narration should be within the time provided by the Judges.</li>
@@ -177,8 +174,8 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>3000 INR</strong>
-                                    <dt>2nd Prize : <strong>2000 INR</strong>
+                                            <dt>1st Prize : <strong>3000 INR</strong>
+                                            <dt>2nd Prize : <strong>2000 INR</strong>
                                     
                                         </li>
 

@@ -126,7 +126,7 @@
                                 <strong>"Acropolis, where tradition meets innovation."</strong><br />
                                 From skylines to shorelines, one thing remains common and that is “transportation”.<br>
                                 This year Acropolis, an event under Civilization’20 is the event to be at if you’re a highway engineering geek or aspire to inculcate an interest in the same.<br>
-                                <br>
+                               <br>
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
@@ -156,17 +156,17 @@
                             <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
-                                    <dt>
+                                    <dd>
                                         <li> <b>Prize</b>:
-                                            <dd>1st Prize : <strong>5000 INR</strong>
-                                            <dd>2nd Prize : <strong>3000 INR</strong>
-                                            <dd>3rd Prize : <strong>2000 INR</strong>
+                                            <dt>1st Prize : <strong>5000 INR</strong>
+                                            <dt>2nd Prize : <strong>3000 INR</strong>
+                                            <dt>3rd Prize : <strong>2000 INR</strong>
                                         </li>
 
-                                    <dt>
+                                    <dd>
                                         <li><b>Venue</b>:
-                                            <dd>Prelims :<strong>KP </strong> 
-                                            <dd>Finals :<strong>Highway lab</strong> </li>
+                                            <dt>Prelims :<strong>KP </strong>
+                                            <dt>Finals :<strong>Highway lab</strong></li>
                                 </dl>
                             </ul>
 

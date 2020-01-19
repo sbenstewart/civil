@@ -99,7 +99,7 @@
                 <div class="row">
                     <div class="col-12">
                         <header class="entry-header">
-                            <h1 class="entry-title">Shipwreck</h1>
+                            <h1 class="entry-title">Reveal The Civil</h1>
                         </header>
                     </div>
                 </div>
@@ -122,67 +122,66 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><Strong>"This isnt titanic and u arent jake so just go for the jacket."</Strong>
-                                Come prove your persuasion skills to us here at civilisation’20!<br/>
-                                Shipwreck is a one of a kind event, where you will be given famous personalities to impersonate and will have to convince the judges “Captain of the Ship” to save you from the sinking ship! who unfortunately, has only one life jacket. Why save you when the Captain can save your opponent? You tell us!<br/>
-                                A Humorous ride to exciting Prizes!
+                            <!--<p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>-->
+                            <p>
+                                <strong>"Scientists dream about doing great things. Engineers do them.” – James A Michener</strong><br>
+                                Are you a civil engineer keen on building your knowledge in this field? Apart from the many events conducted on Civil Engineering, this event will help decorate your resume as a fresher.<br />
+                                Be game and join this challenging event!
                             </p>
 
-                            <!--<h2 class="entry-header">FORMAT:</h2>
+                            <h2 class="entry-header">FORMAT:</h2>
                             <ol>
-                                <li>Stage 1:
+                                <li>PRELIMS:
                                     <ul>
-                                        <li>Registration for the event is done through the mail ID: <a href="mailto:confloat.c20@gmail.com">confloat.c20@gmail.com</a> with preparing a detailed report on or before march 1 and confirmation mail will be received.</li>
-                                        <li>Release of the problem statement.</li>
-                                        <li>Designing the mix and casting the concrete structure (in the shape of boat) that can actually float in water within the specified restrictions.</li>
-                                        <li>The constituents should be cement, sand, water, and admixture, wire mesh (type and material can be decided by the participants).</li>
-                                        (NOTE: The participants will be selected to the next stage based on their abstract )
+                                        <li>This round consists of 25 questions.</li>
+                                        <li>All the questions are multiple choice questions.</li>
+                                        <li>Duration of the round: 30 minutes</li>
                                     </ul>
                                 </li>
-                                <li>Stage 2:
+                                <li>FINALS:
                                     <ul>
-                                        <li>Bring the cast concrete structure to our college during CIVILISATION-20</li>
-                                        <li>Density, Floating capability, Strength, Appearance of the block will be tested.</li>
-                                        <li>Submitted design reports would be evaluated and the teams will be asked to give a brief oral presentation of their work upon which they will be questioned.</li>
-                                        <li>Points would be awarded according to the judging criteria and winners will be announced.</li>
+                                        <li>This round consists of 25 questions.</li>
 
+                                        <li>Duration of the round: 30 minutes.</li>
                                     </ul>
                                 </li>
-                            </ol>-->
+                            </ol>
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                <li>Individual event.</li>
-                                <li>Any sort of vulgarity will not be encouraged.</li>
-                                <li>Depending upon the no of participants round 2 will be decided.</li>
-                                <li>College ID and civilisation ID are mandatory.</li>
+                                
+                                <li>Only one answer is valid for MCQ’s in Prelims.</li>
+                                <li>Marks are not allotted for overwriting.</li>
+                                <li>Participants with marks above 20 will be allowed to take in the next round.</li>
+                                <li>Using mobile phone is strictly prohibited.</li>
+                                <li>Participants with malpractices are disqualified.</li>
+                                <li>Civilisation'20 ID and college ID is mandatory.</li>
                             </ol>
-
                             <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                            <dt>1st Prize : <strong>2000 INR</strong>
-                                            <dt>2nd Prize : <strong>1500 INR</strong>
-
+                                            <dt>1st Prize : <strong>3000 INR</strong>
+                                            <dt>2nd Prize : <strong>2000 INR</strong>
+                                            <dt>3rd Prize : <strong>1500 INR</strong>
                                         </li>
 
                                     <dd>
-                                        <li> <b>Venue</b>:<strong> To be anounced </strong>
-                                        </li>
+                                        <li> <b>Venue</b>:
+                                            <dt>Prelims :<strong>KP </strong>
+                                            <dt>Finals :<strong>Projector Room</strong></li>
                                 </dl>
                             </ul>
-
 
                         </div>
 
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Sreenivas &emsp;9940200125</li>
-                                <li>Ashwin&emsp;9840157790</li>
-                                <li>Gowsika&emsp;9442466711</li>
+                                <li>Kaviya  &emsp;8111057700</li>
+                                <li>Shahiya &emsp;9944297836</li>
+                                
                             </ul>
 
                         </div>

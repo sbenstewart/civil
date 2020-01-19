@@ -122,50 +122,30 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <!--<p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>-->
+                            <p><strong>““The project you are most scared to do is the one that holds your greatest growth” – Robin S Sharma</strong></p>
                             <p>
-                                <b>The project you are most scared to do is the one that holds your greatest growth.</b><br>
-                                So here CIVILISATION’20 gives you an opportunity to display your talent to the world through the project.<br>
-                                A platform to show your civil engineering ideas and win Internship and prize worth 14K.<br>
+                                CIVILISATION’20 gives you an opportunity to display your talent to the world through this project. This event is a platform which enables you to exhibit your Civil Engineering ideas and also gives you a chance to win an internship.<br />
                                 &emsp;DREAM IT.<br>
                                 &emsp;BELEIVE IT.<br>
                                 &emsp;BUILD IT.<br>
                             </p>
 
-                            <!--<h2 class="entry-header">FORMAT:</h2>
+                            <h2 class="entry-header">FORMAT:</h2>
                         <ol>
-                            <li>PRELIMS:
-                                <ul>
-                                    <li>A team of 2 or 3 members are allowed.</li>
-                                    <li>Participants are requested to bring their own calculators.</li>
-                                    <li>The questionnaire consists of 25 questions</li>
-                                    <li>If there is tie between 2 or more teams the evaluation will be based upon *(Star) question. A team which has correctly answered the maximum number of star questions will be given priority.</li>
-                                    <li>If there is a tie in the * (Star) question, the evaluation will be based on the marks obtained in each section in the following order of priority:</li>
-                                    <ul>
-                                      <li>Soil Mechanics</li>
-                                      <li>Structural Analysis</li>
-                                      <li>Concrete Structures</li>
-                                      <li>hydraulics</li>
-                                      <li>construction techniques & practices</li>
-                                    </ul>
-                                </ul>
-                            </li>
-                            <li>FINALS:
-                                <ul>
-                                    <li>Participants have to make a model of water retaining structure based on the problem statement.</li>
-                                    <li>The model must be completed within the given time.</li>
-                                    <li>Only the materials provided must be used.</li>
-                                    <li>In case of any discrepancies, the decision taken by the Judges and organisers will be final.</li>
-                                </ul>
-                            </li>
-                        </ol>-->
+                            
+                                    <li>Your presentation of the project shall not exceed 20 min.</li>
+                                    <li>Multiple people are allowed to explain the project. </li>
+                            
+                            
+                            
+                        </ol>
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                <li>Any civil related topic for the project.</li>
-                                <li>Maximum 5 members in a team.</li>
+                                <li>Any Civil Engineering related topic can be chosen for the project.</li>
+                                <li>A maximum of 5 members are allowed in a team.</li>
                                 <li>Bring your project model(compulsory).</li>
-                                <li>The project along with the working model should be displayed on March5 during the morning session.</li>
+                                <li>The project along with the working model should be displayed on March 5th during the morning session.</li>
                                 <li>Internship with cash price will be provided for first prize.</li>
                                 <li>Only cash price will be provided for second prize.</li>
                                 <li>Electronic appliances ( like mobile phones, Bluetooth etc…) is not allowed.</li>
@@ -179,8 +159,8 @@
                                 <dl>
                                     <dd>
                                         <li>
-                                    <dt>1st Prize : <strong>8000 INR and Intern</strong></li>
-                                    <li><dt>2nd Prize : <strong>6000 INR</strong>
+                                            <dt>1st Prize : <strong>8000 INR and Intern</strong></li>
+                                            <li><dt>2nd Prize : <strong>6000 INR</strong>
 
                                         </li>
 
@@ -194,8 +174,8 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Subitcha S&emsp;9047029771</li>
-                                <li>Parvathi A G R&emsp;8778098024</li>
+                                <li>Subitcha &emsp;9047029771</li>
+                                <li>Pavithra &emsp;8778098024</li>
                             </ul>
 
                         </div>

@@ -128,8 +128,8 @@
                         <p>
                         Soil mechanics is an art of science and Engineering. The observation of the performance of the soil is an essential part of any construction not only in laboratory and also in field.<br>
                         Are you a genius in mechanics of soil and hydraulics?<br>
-                        Can you build a model with deep knowledge of that?<br>
-                        Then open your skills in making the model!!!<br>
+                        Can you build a model engrained with deep knowledge of that?<br>
+                        Then open your skills in making the model!<br>
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>
@@ -173,9 +173,9 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>5000 INR</strong>
-                                    <dt>2nd Prize : <strong>3000 INR</strong>
-                                    <dt>3rd Prize : <strong>2000 INR</strong>
+                                            <dt>1st Prize : <strong>5000 INR</strong>
+                                            <dt>2nd Prize : <strong>3000 INR</strong>
+                                            <dt>3rd Prize : <strong>2000 INR</strong>
                                         </li>
 
                                     <dd>
@@ -189,9 +189,9 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Logapriya K&emsp;7395976262</li>
-                        <li>Aarthi M&emsp;9677173008</li>
-                        <li>Azhagurani A&emsp;7846941902</li>
+                        <li>Logapriya &emsp;7395976262</li>
+                        <li>Aarthi &emsp;9677173008</li>
+                        <li>Azhagurani &emsp;7846941902</li>
                         </ul>
 
                     </div>

@@ -170,9 +170,9 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>8000 INR</strong>
-                                    <dt>2nd Prize : <strong>5000 INR</strong>
-                                    <dt>3rd Prize : <strong>3000 INR</strong>
+                                            <dt>1st Prize : <strong>8000 INR</strong>
+                                            <dt>2nd Prize : <strong>5000 INR</strong>
+                                            <dt>3rd Prize : <strong>3000 INR</strong>
                                         </li>
 
                                     <dd>
@@ -186,8 +186,8 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Nishi S&emsp;9944710757</li>
-                        <li>Vidyashree K&emsp;9566031631</li>
+                        <li>Nishi &emsp;9944710757</li>
+                        <li>Vidyashree &emsp;9566031631</li>
                         </ul>
 
                     </div>

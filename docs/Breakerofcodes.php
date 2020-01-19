@@ -125,7 +125,7 @@
 
 
                         <!--<p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>-->
-                       <p>
+                       <p><strong>No solution can ever be found by running in three different directions.” - Deepak Chopra</strong>
                         Excited seeing the title? Don’t fantasize. You are no techie. Ever thought that you mastered the IS code?<br>
                         Do you think you don’t need an IS code book to solve? Prove you’re worth here. Break the code to make your way to glory!<br>
                         </p>
@@ -158,9 +158,9 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>3000 INR</strong>
-                                    <dt>2nd Prize : <strong>2000 INR</strong>
-                                    <dt>3rd Prize : <strong>1500 INR</strong>
+                                            <dt>1st Prize : <strong>3000 INR</strong>
+                                            <dt>2nd Prize : <strong>2000 INR</strong>
+                                            <dt>3rd Prize : <strong>1500 INR</strong>
                                         </li>
 
                                     <dd>

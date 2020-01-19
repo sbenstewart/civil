@@ -126,7 +126,7 @@
 
                         <p><strong>“Scientists investigate that which already is; Engineers create that which has never been”. - Albert Einstein</strong></p>
                         <p>
-                        Waiting for a chance to showcase your talents? Are you an expert in detailing the smallest part with great efforts? Everything is designed and few things are designed well.  Here we provide a golden opportunity to test your technical and practical knowledge in civil engineering for improving the unimproved and creating the creative design.</p>
+                        Waiting for a chance to showcase your talents? Are you an expert in detailing the smallest part with great efforts? Everything is designed and few things are designed well.  Here we provide a golden opportunity to test your technical and practical knowledge in civil engineering, to improvise the existing, and to create the unexpected.</p>
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
@@ -134,7 +134,7 @@
                                 <ul>
                                     <li>A set of 25 questions will be given.</li>
                                     <li>The top 5 teams will be qualified for finals.</li>
-                                    <li>Duration: 30 min</li>
+                                    
                                 </ul>
                             </li>
                             <li>FINALS:
@@ -142,7 +142,7 @@
                                     <li>The selected teams will be given a question statement of arch design and each team will be asked to do the model of arch.</li>
                                     <li>Materials will be provided at the venue.</li>
                                     <li>Completed arch will be subjected to the load testing and it will be evaluated based on the strength and aesthetics.</li>
-                                    <li>Duration: 2 hrs</li>
+                                    
                                 </ul>
                             </li>
                         </ol>
@@ -161,15 +161,15 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>5000 INR</strong>
-                                    <dt>2nd Prize : <strong>3000 INR</strong>
-                                    <dt>3rd Prize : <strong>2000 INR</strong>
+                                            <dt>1st Prize : <strong>5000 INR</strong>
+                                            <dt>2nd Prize : <strong>3000 INR</strong>
+                                            <dt>3rd Prize : <strong>2000 INR</strong>
                                         </li>
 
                                     <dd>
                                         <li> <b>Venue</b>:
-                                    <dt>Prelims :<strong>EG hall</strong>
-                                    <dt>Finals :<strong>EG hall</strong></li>
+                                            <dt>Prelims :<strong>EG hall</strong>
+                                            <dt>Finals :<strong>EG hall</strong></li>
                                 </dl>
                             </ul>
 

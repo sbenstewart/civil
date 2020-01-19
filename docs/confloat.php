@@ -191,8 +191,8 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Devi&emsp;9865621187</li>
-                                <li>Gokul Priya&emsp;8675790587</li>
+                                <li>Devi &emsp;9865621187</li>
+                                <li>Gokul Priya &emsp;8675790587</li>
 
                             </ul>
 

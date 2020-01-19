@@ -125,8 +125,8 @@
 
 
                         <p><strong>"Asides your power,passion and poise, what glues the posters of your impacts on memorial walls is how you treat those you need and those who need you." - Israelmore Ayivor</strong></p>
-                        <p>
-                        Good poster is all about making others artist…..And now here’s a wonderful chance for every artists to exhibit their talent in the field of poster designing.</p>
+                        <p>A good poster should be eye-catching and informative. Here’s a wonderful chance for every artist to showcase their skills in the field of poster designing.
+                        </p>
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
@@ -157,9 +157,9 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>3000 INR</strong>
-                                    <dt>2nd Prize : <strong>2000 INR</strong>
-                                    <dt>3rd Prize : <strong>1500 INR</strong>
+                                            <dt>1st Prize : <strong>3000 INR</strong>
+                                            <dt>2nd Prize : <strong>2000 INR</strong>
+                                            <dt>3rd Prize : <strong>1500 INR</strong>
                                         </li>
 
                                     <dd>

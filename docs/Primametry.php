@@ -125,12 +125,9 @@
 
 
                         <p><strong>“ A  man’s feet should be planted in his country, but his eyes should survey the world”. - George Santayana</strong></p>
-                        <!--<p>
-                        Nature " is the real comrade who makes our very existence possible.<br>
-                        They never fail to do their duty!<br>
-                        What have we given back to them?<br>
-                        It's time for all the nature lovers out there to brush up your knowledge about nature and come take part in the eco quiz in civilization 2020!<br>
-                      </p>-->
+                        <p>
+                             Do you dream of fulfilling your passion? Are you waiting for a spectacular chance to show off your talents? For delivering excellence in surveying and for adding value to your knowledge, we bring you a dazzling opportunity to enhance the power of applied intelligence. This is an event for smart people shining with skills!
+                      </p>
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
@@ -162,15 +159,15 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>5000 INR</strong>
-                                    <dt>2nd Prize : <strong>3000 INR</strong>
-                                    <dt>3rd Prize : <strong>2000 INR</strong>
+                                            <dt>1st Prize : <strong>5000 INR</strong>
+                                            <dt>2nd Prize : <strong>3000 INR</strong>
+                                            <dt>3rd Prize : <strong>2000 INR</strong>
                                         </li>
 
                                     <dd>
                                         <li> <b>Venue</b>:
-                                    <dt>Prelims :<strong>EG hall</strong>
-                                    <dt>Finals :<strong>Ground</strong></li>
+                                            <dt>Prelims :<strong>EG hall</strong>
+                                            <dt>Finals :<strong>Ground</strong></li>
                                 </dl>
                             </ul>
 

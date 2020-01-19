@@ -124,10 +124,7 @@
 
                             <p><strong>“Everyone has two eyes but no one has the same view.” - Anonymous</strong></p>
                             <p>
-                                Thinking is more interesting than knowing, but less interesting than looking.<br>
-                                Don't just look, think and find the reason behind it.<br>
-                                Yes you read it right, just find the reason.<br>
-                                Sounds easy, doesnt it? Come and try your luck.<br>
+                                Thinking is more interesting than knowing, but less interesting than looking. Don’t just look, think and find the reason behind it. Yes, you read it right, just find the reason. Sounds easy, doesn’t it? Come and try your luck.
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
@@ -157,9 +154,9 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>3000 INR</strong>
-                                    <dt>2nd Prize : <strong>2000 INR</strong>
-                                    <dt>3rd Prize : <strong>1500 INR</strong>
+                                            <dt>1st Prize : <strong>3000 INR</strong>
+                                            <dt>2nd Prize : <strong>2000 INR</strong>
+                                            <dt>3rd Prize : <strong>1500 INR</strong>
                                         </li>
 
                                     <dd>
@@ -173,9 +170,9 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Logapriya K&emsp;7395976262</li>
-                                <li>Aarthi M&emsp;9677173008</li>
-                                <li>Azhagurani A&emsp;7846941902</li>
+                                <li>Logapriya &emsp;7395976262</li>
+                                <li>Aarthi &emsp;9677173008</li>
+                                <li>Azhagurani &emsp;7846941902</li>
                             </ul>
 
 

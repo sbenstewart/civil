@@ -126,10 +126,9 @@
 
                         <p><strong>"Earth provides enough to satisfy every man's needs, But not every man's greed." - Mahatma Gandhi</strong></p>
                         <p>
-                        Nature " is the real comrade who makes our very existence possible.<br>
-                        They never fail to do their duty!<br>
-                        What have we given back to them?<br>
-                        It's time for all the nature lovers out there to brush up your knowledge about nature and come take part in the eco quiz in civilization 2020!<br>
+                            ‘Mother Nature’ is the real comrade who makes our very existence possible. She will be able to serve us only if we protect her. What have we given back to her?<br>
+                       
+                            It's time for all the nature lovers out there to brush up your knowledge about nature and come take part in the eco quiz in civilization 2020!<br>
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>
@@ -165,15 +164,15 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>3000 INR</strong>
-                                    <dt>2nd Prize : <strong>2000 INR</strong>
-                                    <dt>3rd Prize : <strong>1500 INR</strong>
+                                            <dt>1st Prize : <strong>3000 INR</strong>
+                                            <dt>2nd Prize : <strong>2000 INR</strong>
+                                            <dt>3rd Prize : <strong>1500 INR</strong>
                                         </li>
 
                                     <dd>
                                         <li><b>Venue</b>:
-                                    <dt>Prelims :<strong>KP </strong>
-                                    <dt>Finals :<strong> Projector Room</strong></li>
+                                            <dt>Prelims :<strong>KP </strong>
+                                            <dt>Finals :<strong> Projector Room</strong></li>
                                 </dl>
                             </ul>
 

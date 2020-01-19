@@ -123,8 +123,7 @@
 
 
                             <p><strong>"One must explore deep and believe the incredible to find the new particles of truth floating in an ocean of insignificance" - Joseph Conrad.</strong></p>
-                            <p>
-                                Ever wondering how to excel in your field? Searching for a place to put your ideas into focus?? Expecting for the incredible occasion to throw your thoughts??? Here is a place to make your thoughts into an amazing thing where the imagination and truth collide. Make your presence and get benefited.<br />
+                            <p>Ever wondered how to excel in your field? Make your vision a reality. This is an event where you can put together ideas and bring them into existence. Witness imagination and truth collide. Come and make your presence felt!
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
@@ -135,14 +134,14 @@
                                         <li>Release of the problem statement.</li>
                                         <li>Designing the mix and casting the concrete structure (in the shape of boat) that can actually float in water within the specified restrictions.</li>
                                         <li>The constituents should be cement, sand, water, and admixture, wire mesh (type and material can be decided by the participants).</li>
-                                        (NOTE:  The participants will be selected to the next stage based on their abstract )
+                                        (NOTE: The participants will be selected to the next stage based on their abstract )
                                     </ul>
                                 </li>
                                 <li>Stage 2:
                                     <ul>
                                         <li>Bring the cast concrete structure to our college during CIVILISATION-20</li>
                                         <li>Density, Floating capability, Strength, Appearance of the block will be tested.</li>
-                                        <li>Submitted design reports  would  be  evaluated and the teams will  be asked to give a brief oral  presentation   of their  work upon which they  will be  questioned.</li>
+                                        <li>Submitted design reports would be evaluated and the teams will be asked to give a brief oral presentation of their work upon which they will be questioned.</li>
                                         <li>Points would be awarded according to the judging criteria and winners will be announced.</li>
 
                                     </ul>
@@ -175,14 +174,14 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>5000 INR</strong>
-                                    <dt>2nd Prize : <strong>3000 INR</strong>
-                                    <dt>3rd Prize : <strong>2000 INR</strong>
+                                            <dt>1st Prize : <strong>5000 INR</strong>
+                                            <dt>2nd Prize : <strong>3000 INR</strong>
+                                            <dt>3rd Prize : <strong>2000 INR</strong>
                                         </li>
 
                                     <dd>
                                         <li> <b>Venue</b>:<strong> CM Lab </strong>
-                                    </li>
+                                        </li>
                                 </dl>
                             </ul>
 

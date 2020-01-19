@@ -124,10 +124,10 @@
 
                             <!--<p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>-->
                             <p>
-                                Soil is an almost magical substance, a living system that transforms the materials it encounters.<br>
-                                Want to test your knowledge in soil mechanics and pavement designing. Here is an opportunity to showcase your knowledge.<br>
-                                There are number of properties of soil, that has to be considered during pavement construction and construction of buildings.<br>
-                                Are you a civil engineer who is fascinated by the peerless properties of soil,attend the technical quiz to perform CBR test and design the pavements as per IRC standards.<br>
+                                <strong>"Soil is an almost magical substance, a living system that transforms the materials it encounters." – George Monbiot</strong><br>
+                                Want to test your knowledge in soil mechanics and pavement designing. Here is an opportunity to showcase your expertise.<br>
+                                There are a number of properties of soil, which have to be considered during pavement construction and construction of buildings. In this event you will be able to design the pavements as per IRC standards.<br />
+                                If you are fascinated by the peerless properties of soil, attend this technical quiz. 
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
@@ -161,15 +161,15 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>5000 INR</strong>
-                                    <dt>2nd Prize : <strong>3000 INR</strong>
-                                    <dt>3rd Prize : <strong>2000 INR</strong>
+                                            <dt>1st Prize : <strong>5000 INR</strong>
+                                            <dt>2nd Prize : <strong>3000 INR</strong>
+                                            <dt>3rd Prize : <strong>2000 INR</strong>
                                         </li>
 
                                     <dd>
                                         <li> <b>Venue</b>:
-                                    <dt>Prelims :<strong>KP room or EG hall</strong>
-                                    <dt>Finals :<strong>Soil Mechanics lab</strong></li>
+                                            <dt>Prelims :<strong>KP room or EG hall</strong>
+                                            <dt>Finals :<strong>Soil Mechanics lab</strong></li>
                                 </dl>
                             </ul>
 
@@ -178,9 +178,9 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Logapriya K&emsp;7395976262</li>
-                                <li>Aarthi M&emsp;9677173008</li>
-                                <li>Azhagurani A&emsp;7846941902</li>
+                                <li>Maharani &emsp;9944630408</li>
+                                <li>Manoj &emsp;7358893690</li>
+                                
                             </ul>
 
                         </div>

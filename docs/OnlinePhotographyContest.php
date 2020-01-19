@@ -171,8 +171,8 @@
                                 <dl>
                                     <dd>
                                     <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>1500 INR</strong>
-                                    <dt>2nd Prize : <strong>1000 INR</strong>
+                                        <dt>1st Prize : <strong>1500 INR</strong>
+                                        <dt>2nd Prize : <strong>1000 INR</strong>
                                     
                                         </li>
                                 </dl>

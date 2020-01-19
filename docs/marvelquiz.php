@@ -99,7 +99,7 @@
                 <div class="row">
                     <div class="col-12">
                         <header class="entry-header">
-                            <h1 class="entry-title">Marvel Quiz</h1>
+                            <h1 class="entry-title">"Marvel"ous</h1>
                         </header>
                     </div>
                 </div>
@@ -124,21 +124,19 @@
 
                             <p><strong>"There is nothing more reassuring than realizing that the world is crazier than your are" - Eric selvig.</strong></p>
                             <p>
-                                This isnt ENDGAME, this isnt even the beginning of the ENDGAME.<br />
-                                This year civilisation20 welcomes you to this "MARVEL"OUS quizz..<br />
-                                If u are a MARVELOUS fanatic of marvel then this is for you. Witness the unwitness.<br />
+                                This year Civilisation’20 welcomes you to this "MARVEL"OUS  quiz. If you are a “Marvel”ous fanatic of marvel then this is the quiz for you. Challenge yourself on your knowledge & Know-how at our most Awaited event. “MARVEL”OUS. Stay tuned to “Witness the unwitnessed.”
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
                             <ul>
                                 <li>A preliminary test will be conducted with a questionnaire consisting of 50 marks.</li>
                                 <li>Allocated time for answering the questions is 30 minutes.</li>
-                                <li>Negative marking is applicable for questions having choices (options).</li>
+                                <li>Negative marking is applicable for questions having choices (options)</li>
                                 <li>The questionnaire will consist of three parts : Comics section, movies section (MCU
                                     films) and history of marvel .</li>
                                 <li>Each part will consist of 10, 30 and 10 marks respectively. </li>
                                 <li>Top five teams will be qualified for second round. </li>
-                                <li>Second round will be a ppt round, which consist of several rounds. More informations
+                                <li>Final round will be a ppt round, which consist of several rounds. More informations
                                     will be provided during the course of event. </li>
                             </ul>
 
@@ -155,8 +153,8 @@
                                 <dl>
                                     <dd>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>3000 INR</strong>
-                                    <dt>2nd Prize : <strong>2000 INR</strong>
+                                            <dt>1st Prize : <strong>3000 INR</strong>
+                                            <dt>2nd Prize : <strong>2000 INR</strong>
                                     
                                         </li>
 

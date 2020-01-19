@@ -123,9 +123,10 @@
 
 
                             <p>
+                                <strong>"Acropolis, where tradition meets innovation."</strong><br />
                                 From skylines to shorelines, one thing remains common and that is “transportation”.<br>
                                 This year Acropolis, an event under Civilization’20 is the event to be at if you’re a highway engineering geek or aspire to inculcate an interest in the same.<br>
-                                Acropolis, where tradition meets innovation.<br>
+                                <br>
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
@@ -135,6 +136,7 @@
                                         <li>A team of 2 or three members are allowed.</li>
                                         <li>The prelims will contain a set of 25 questions.</li>
                                         <li>Questions will be from highway engineering.</li>
+                                        <li>Time allowed is 30 minutes.</li>
                                         <li>‘*’ (STAR) questions will be used for tie breaks.</li>
                                     </ul>
                                 </li>
@@ -147,24 +149,24 @@
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                <li>Civilisation’20 ID and college ID is mandatory.</li>
+                                <li>Civilisation’20 ID and college ID (will be provided) are mandatory.</li>
                                 <li>The team will be disqualified in case of any discrepancies.</li>
                                 <li>Use of mobile phone is strictly prohibited.</li>
                             </ol>
                             <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
-                                    <dd>
+                                    <dt>
                                         <li> <b>Prize</b>:
-                                    <dt>1st Prize : <strong>5000 INR</strong>
-                                    <dt>2nd Prize : <strong>3000 INR</strong>
-                                    <dt>3rd Prize : <strong>2000 INR</strong>
+                                            <dd>1st Prize : <strong>5000 INR</strong>
+                                            <dd>2nd Prize : <strong>3000 INR</strong>
+                                            <dd>3rd Prize : <strong>2000 INR</strong>
                                         </li>
 
-                                    <dd>
+                                    <dt>
                                         <li><b>Venue</b>:
-                                    <dt>Prelims :<strong>KP </strong>
-                                    <dt>Finals :<strong>Highway lab</strong></li>
+                                            <dd>Prelims :<strong>KP </strong> 
+                                            <dd>Finals :<strong>Highway lab</strong> </li>
                                 </dl>
                             </ul>
 
@@ -173,8 +175,8 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Rishanth A&emsp;9626323380</li>
-                                <li>Iyyappan E&emsp;9344541455</li>
+                                <li>Rishanth &emsp;9626323380</li>
+                                <li>Iyyappan &emsp;9344541455</li>
                             </ul>
 
                         </div>

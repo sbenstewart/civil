@@ -679,7 +679,7 @@
         <div class="swiper-button-next flex justify-content-center align-items-center">
             <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1171 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"/></svg></span>
         </div>
-        
+
         <div class="swiper-button-prev flex justify-content-center align-items-center">
             <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z"/></svg></span>
         </div>
@@ -822,7 +822,7 @@
                 For four workshops use this class="col-6 col-lg-4 col-xl-4"-->
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="sample-workshop.php"><img src="images/buildinginformationandmodelling.png" alt="1"></a>
+                        <a href="Workshop1.php"><img src="images/buildinginformationandmodelling.png" alt="1"></a>
 
                         <div class="event-rating">5<sup>th</sup></div>
                     </figure>
@@ -836,12 +836,12 @@
                     </header>
 
                     <footer class="entry-footer">
-                        <a href="sample-workshop.php">Register</a>
+                        <a href="Workshop1.php">Register</a>
                     </footer>
                 </div>
             </div>
 
-            
+
 
             </div>
             <div class="row justify-content-center">
@@ -849,7 +849,7 @@
             <div class="col-12 col-sm-6 col-md-4">
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="sample-workshop.php"><img src="images/prestressedconcretebridges.png" alt="1"></a>
+                        <a href="Workshop2.php"><img src="images/prestressedconcretebridges.png" alt="1"></a>
 
                         <div class="event-rating">6<sup>th</sup></div>
                     </figure>
@@ -863,7 +863,7 @@
                     </header>
 
                     <footer class="entry-footer">
-                        <a href="sample-workshop.php">Register</a>
+                        <a href="Workshop2.php">Register</a>
                     </footer>
                 </div>
             </div>
@@ -871,7 +871,7 @@
             <div class="col-12 col-sm-6 col-md-4">
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="sample-workshop.php"><img src="images/workshop.png" alt="1"></a>
+                        <a href="Workshop3.php"><img src="images/workshop.png" alt="1"></a>
 
                         <div class="event-rating">7<sup>th</sup></div>
                     </figure>
@@ -885,12 +885,12 @@
                     </header>
 
                     <footer class="entry-footer">
-                        <a href="sample-workshop.php">Register</a>
+                        <a href="Workshop3.php">Register</a>
                     </footer>
                 </div>
             </div>
 
-        
+
 
         </div>
     </div>
@@ -900,7 +900,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                
+
 
                 <header class="regional-events-heading entry-header flex flex-wrap justify-content-between align-items-center">
                     <h2 class="entry-title">Tech Events</h2>
@@ -1272,7 +1272,7 @@
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
-                        
+
                     </div><!-- .swiper-wrapper -->
 
                     <!-- Add Arrows -->
@@ -1346,7 +1346,7 @@
 
                     </div><!-- .swiper-wrapper -->
 
-                    
+
                 </div>
 
                 <header class="regional-events-heading entry-header flex flex-wrap justify-content-between align-items-center" id="lectures">
@@ -1410,7 +1410,7 @@
 
                     </div><!-- .swiper-wrapper -->
 
-                    
+
                 </div>
 
                 <div class="events-partners">

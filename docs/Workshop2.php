@@ -132,6 +132,20 @@
                         <p>
                         In the field of bridge engineering, the introduction of prestressed concrete has aided the construction of Long-span concrete bridges. However, deterioration of these bridges before the end of their stipulated design life poses a challenging yet intriguing question to us Civil Engineers. This workshop hopes to inculcate knowledge we already possess and to train young budding minds to come up with innovative solutions to uncommon situations.  It also holds  an overview of such innovative technologies on prestressed concrete bridges ,their development & application in real time construction projects. Some noteworthy structures which represent the state- of -the- art technologies in the construction of prestressed concrete bridges  will also be presented.
                         </p>
+                        <h2 class="entry-header">INSTRUCTIONS:</h2>
+                        <ul>
+                          <li>Both online & spot payments are available.</li>
+                          <li>The fee per workshop will be 650 INR.</li>
+                          <li>Food and T shirts can be availed only for online registration.</li>
+                          <li>T shirt cost will be 150 INR & Food cost will be 100 INR.  They are not inclusive of the workshop fee.</li>
+                          <li>Students who wish to register on spot are requested to be present 1 hour before commencement of the workshop.</li>
+                          <li>All participants are requested to be present at the venue well before 15 minutes of commencement of workshop.</li>
+                          <li>Participants are not allowed to enter the session after 30 minutes of commencement of session.</li>
+                          <li>Certificates will be provided from the company conducting the workshop, only after completion of the afternoon session.</li>
+                          <li>Group registrations can be done only on spot.</li>
+                          <li>College ID & Civilisation ID (will be provided) are mandatory.</li>
+                          <li>Usage of mobile phones, electronic gadgets etc are strictly prohibited during course of event.</li>
+                        </ul>
                        <!--<<p><strong>You will learn about the Statue of Unity.</strong></p>-->
 
                     </div>

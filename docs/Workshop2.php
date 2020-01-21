@@ -112,7 +112,7 @@
 <div class="container">
 
     <div class="row">
-        <div class="col-12">
+        <div class="col-9">
             <div class="tabs">
                 <ul class="tabs-nav flex">
                     <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_details">Details</li>

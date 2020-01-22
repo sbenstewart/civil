@@ -99,7 +99,7 @@
     <div class="page-header single-event-page-header">
         <div class="container">
             <div class="row">
-                <div class="col-9">
+                <div class="col-12">
                     <header class="entry-header">
                         <h1 class="entry-title">Pre Stressed Concrete Bridges</h1>
                     </header>

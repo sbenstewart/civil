@@ -112,7 +112,7 @@
 <div class="container">
 
     <div class="row">
-        <div class="col-9">
+        <div class="col-12">
             <div class="tabs">
                 <ul class="tabs-nav flex">
                     <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_details">Details</li>
@@ -123,31 +123,41 @@
 
                 <div class="tabs-container">
                     <div id="tab_details" class="tab-content">
+                    <div class="row mb-3">
+                        <div class="col-6 col-md-3 order-md-2 col-lg-3 order-lg-2 col-xl-3 order-xl-2 align-self-center mt-1">
+                            <figure class="events-thumbnail text-center">
+                                <img class="figure-img img-fluid" src="images/lt.png" alt="">
+                            </figure> 
+                        </div>
+                        <div class="col-12 col-md-9 col-lg-9 col-xl-9">
+                            <p>This event is conducted by</p>
 
-
-                        <p>This event is conducted by</p>
-
-                        <h2 class="entry-header">LARSEN & TOUBRO</h2>
-                        <!--<p><strong>Vice President, Head of Public Space Business Unit of L&T Construction.</strong></p>-->
-                        <p>
-                        Building Information modelling (BIM), is an intelligent 3D digital model-based process that gives architecture, engineering, and construction (AEC) professionals the insight and tools to more efficiently plan, design, construct, and manage buildings and infrastructure. In this fast paced world where innovation and Artificial Intelligence parallel each other, we here at AU hope to provide the students that visit us with all the necessary skills to stay ahead of the rest. Conducted by L&T, this workshop is one of our signature events for Civilisation’20.
-                       </p>
-                       <h2 class="entry-header">INSTRUCTIONS:</h2>
-                       <ul>
-                         <li>Both online & spot payments are available.</li>
-                         <li>The fee per workshop will be 650 INR.</li>
-                         <li>Food and T shirts can be availed only for online registration.</li>
-                         <li>T shirt cost will be 150 INR & Food cost will be 100 INR.  They are not inclusive of the workshop fee.</li>
-                         <li>Students who wish to register on spot are requested to be present 1 hour before commencement of the workshop.</li>
-                         <li>All participants are requested to be present at the venue well before 15 minutes of commencement of workshop.</li>
-                         <li>Participants are not allowed to enter the session after 30 minutes of commencement of session.</li>
-                         <li>Certificates will be provided from the company conducting the workshop, only after completion of the afternoon session.</li>
-                         <li>Group registrations can be done only on spot.</li>
-                         <li>College ID & Civilisation ID (will be provided) are mandatory.</li>
-                         <li>Usage of mobile phones, electronic gadgets etc are strictly prohibited during course of event.</li>
-                       </ul>
-                       <!--<<p><strong>You will learn about the Statue of Unity.</strong></p>-->
-
+                            <h2 class="entry-header">LARSEN & TOUBRO</h2>
+                            <!--<p><strong>Vice President, Head of Public Space Business Unit of L&T Construction.</strong></p>-->
+                            <p>
+                            Building Information modelling (BIM), is an intelligent 3D digital model-based process that gives architecture, engineering, and construction (AEC) professionals the insight and tools to more efficiently plan, design, construct, and manage buildings and infrastructure. In this fast paced world where innovation and Artificial Intelligence parallel each other, we here at AU hope to provide the students that visit us with all the necessary skills to stay ahead of the rest. Conducted by L&T, this workshop is one of our signature events for Civilisation’20.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <h2 class="entry-header">INSTRUCTIONS:</h2>
+                            <ul>
+                                <li>Both online & spot payments are available.</li>
+                                <li>The fee per workshop will be 650 INR.</li>
+                                <li>Food and T shirts can be availed only for online registration.</li>
+                                <li>T shirt cost will be 150 INR & Food cost will be 100 INR.  They are not inclusive of the workshop fee.</li>
+                                <li>Students who wish to register on spot are requested to be present 1 hour before commencement of the workshop.</li>
+                                <li>All participants are requested to be present at the venue well before 15 minutes of commencement of workshop.</li>
+                                <li>Participants are not allowed to enter the session after 30 minutes of commencement of session.</li>
+                                <li>Certificates will be provided from the company conducting the workshop, only after completion of the afternoon session.</li>
+                                <li>Group registrations can be done only on spot.</li>
+                                <li>College ID & Civilisation ID (will be provided) are mandatory.</li>
+                                <li>Usage of mobile phones, electronic gadgets etc are strictly prohibited during course of event.</li>
+                            </ul>
+                            <!--<<p><strong>You will learn about the Statue of Unity.</strong></p>-->
+                        </div>
+                    </div>
                     </div>
 
                     <div id="tab_venue" class="tab-content">

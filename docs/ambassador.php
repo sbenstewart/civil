@@ -110,7 +110,7 @@
 </header><!-- .site-header -->
 
 <div class="container">
-    
+
     <div class="row">
         <div class="col-12">
             <div class="tabs">
@@ -121,14 +121,19 @@
 
                 <div class="tabs-container">
                     <div id="tab_details" class="tab-content">
-                        
+
                         <h2 class="entry-header">Instructions</h2>
                         <ul>
-                            <li>Any student can become a student ambassador if he/she is willing to.</li>
-                            <li>After registering your name for any of the workshops and paying the registration fee, you will be able to avail the workshop fee waiver on spot.</li>
-                            <li>If 10 or more registrations are done using the same referral code, you will be refunded the workshop fee after the completion of the workshop on spot.</li>
-                            <li>In case you forget your referral code, you can signup again to generate a new referral code and all the new registrations will add up with the old ones.</li>
-                          </ul>
+                            <li>Every student is eligible to become a student ambassador if he/she is willing to.</li>
+                            <li>As a student ambassador, the participant will be representing his/her college and shall be given an unique referral code.</li>
+                            <li>The code when used by other participants whilst payment of registration fee online, shall avail a fee waiver for the individual whose code has been utilised.</li>
+                            <li>Online registrations alone, can avail ambassador facility.</li>
+                            <li>Student ambassadors are for workshops alone.</li>
+                            <li>After registration for the workshop(s) (any one is sufficient) and payment of fee, the participant shall be able to avail the workshop fee waiver, which shall be refunded only on-spot.</li>
+                            <li>If 10 or more registrations are done using the same referral code, the individual shall be refunded with the entire fee of the workshop  after the completion of the workshop on spot.</li>
+                            <li>Students are requested to make note of their referral code.</li>
+                            <li>In case the student is to forget their referral code, he/she can sign up again to generate a new referral code and all the new registrations will add up with the old ones.</li>
+                        </ul>
                     </div>
 
                     <div id="tab_about" class="tab-content">
@@ -146,14 +151,14 @@
                         <div class="entry-content flex">
                             <a href="ambassadorsignup.php" class="btn gradient-bg flex justify-content-center align-items-center">Register</a>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    
+
 
     <div class="row">
         <div class="col-12">
@@ -187,7 +192,7 @@
                         </footer>
                     </div>
 
-                    
+
                 </div>
             </div>
         </div>

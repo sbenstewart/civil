@@ -1276,11 +1276,11 @@ a:hover, a:active {
 @media screen and (min-width: 576px){
     .page-header {
         height: 150px;
-        padding: 100px 0;
+        padding: 110px 0;
     }
 
     .page-header .entry-title {
-        font-size: 52px;
+        font-size: 42px;
     }
 }
 
@@ -1291,15 +1291,7 @@ a:hover, a:active {
     }
 
     .page-header .entry-title {
-        font-size: 72px;
-    }
-
-}
-
-@media screen and (min-width: 1200px){
-    .page-header {
-        height: 375px;
-        padding: 200px 0;
+        font-size: 42px;
     }
 
 }

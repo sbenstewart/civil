@@ -110,7 +110,7 @@
 </header><!-- .site-header -->
 
 <div class="container">
-    
+
     <div class="row">
         <div class="col-12">
             <div class="tabs">
@@ -123,14 +123,14 @@
 
                 <div class="tabs-container">
                     <div id="tab_details" class="tab-content">
-                        
+
                         <h2 class="entry-header">Instructions</h2>
                         <ul>
                         <li>On reaching the campus, report immediately to the Registration Desk for registration process and if accommodation is needed, approach the accommodation desk.</li>
                         <li>It is mandatory to bring your college ID card.</li>
                         <li>At the time of check-in, the caution deposit of Rs.100 should be paid (which will be refunded at the time of check-out)</li>
-                        <li><strong>The charge for a day's stay will be Rs.300 (24 hours only).</strong></li>
-                        <li>After Accommodation registration and payment of applicable fees, rooms/dormitories will be allotted by the Civilisation 2019 Accommodation team.</li>
+                        <li><strong>The charge for a day's stay will be Rs.200 (24 hours only).</strong></li>
+                        <li>After Accommodation registration and payment of applicable fees, rooms/dormitories will be allotted by the Civilisation 2020 Accommodation team.</li>
                         <li>During check-out the participants are required to return all the utilities (provided at the time of check-in) in order to redeem their refundable-deposit.</li>
                         <li>Refund of Caution deposit money will be made at the sole discretion of Civilisation Accommodation team.</li>
                         <li>No refund will be provided for the cancellation of room.</li>
@@ -142,10 +142,10 @@
 
                         <div class="flex flex-wrap justify-content-between">
                             <div class="single-event-details">
-                                
+
                                 <div class="single-event-details-row">
                                     <label>Price:</label>
-                                    <p>Rs. 300 per day</p>
+                                    <p>Rs. 200 per day</p>
                                 </div>
 
                                 <div class="single-event-details-row">
@@ -172,15 +172,15 @@
                                                 <ul>
                                                   <li>Only non-Chennai participants will be provided accommodation services. Participants must register online for availing our accommodation services.</li>
                                                   <li>Registration for accommodation is not part of the Events registration, and is to be done separately.</li>
-                                                  <li>Accommodation services will be available from 6 PM on 3rd March,2019 to 8 PM on 6th march, 2019.</li>
+                                                  <li>Accommodation services will be available from 6 PM on 3rd March,2020 to 8 PM on 6th march, 2020.</li>
                                                   <li>Accommodation will be provided on a sharing basis. Any requests for individual rooms will not be entertained. However, we will try to accommodate students from the same college together in rooms and dorms (if possible).</li>
                                                   <li>For Boys: Accommodation will be provided inside the campus. Incase there is no availability of space in our campus accommodation will be provided outside the college (i.e., at hotels).</li>
                                                   <li>For Girls: Accommodation will be provided inside the college.</li>
                                                   <li>Services will be offered on "First Register First Serve" basis.</li>
-                                                  <li>Accommodated students can have their food at their own expense in canteens and food stalls that are available. Food will not be provided by the Civilisation 2019 team.</li>
+                                                  <li>Accommodated students can have their food at their own expense in canteens and food stalls that are available. Food will not be provided by the Civilisation 2020 team.</li>
                                                   <li>Mattresses and buckets will be provided. However, participants are encouraged to carry their own blankets since it is the month of March and nights might be cold.</li>
                                                   <li>Random checks will be made to avoid any illegal stay in the campus. Any participant failing to produce his/her Accommodation Receipt will be fined and disqualified.</li>
-                                                  <li>Participants are responsible for their belongings during their stay. Neither the Civilisation,2019 Accommodation team nor the institute will take responsibility for any loss of property incurred.</li>
+                                                  <li>Participants are responsible for their belongings during their stay. Neither the Civilisation,2020 Accommodation team nor the institute will take responsibility for any loss of property incurred.</li>
                                                   <li>Girls in-time is 8.30 PM.</li>
                                                   <li>Accommodation team has the right to cancel or wait-list accommodation while processing your request.</li>
                                                   <li>Smoking and drinking is strictly prohibited inside the Accommodation site.</li>
@@ -257,7 +257,8 @@
                                     </li>
                                     <li>By Auto/Taxi<br>
                                     The auto fare will be approximately Rs 120. Fix the rate before boarding.
-                                    There is no prepaid auto service at Egmore station.
+                                    There is no prepaid auto service at Egmore station.<br>
+                                    Ola and Uber services will also be available.
                                     </li>
                             </ul>
                         </li>
@@ -268,7 +269,7 @@
                                     <li>Board bus 23M, PP49, T70, and 149 which are direct to Anna University. These buses are not so frequent.</li>
                                     <li>Board bus to T.Nagar (27C, M27) and from there get 5B, 19C, 19B, 47 , 47A , 47D to Anna University.</li>
                                     <li>You can use metro to travel Guindy from Koyambedu, it takes only 15 minutes.</li>
-                                    <li>Board bus to Guindy(M70, M70D, B70, C70, D70, M170C, 170C) and then board buses are M21G, 21G, PP21, M19, M49, 54F, 577, 549 from Guindy to Anna University. Or you can take a share auto to Anna University from Guindy bus stop which you can pay only 20 rupees. . This is most recommended buses since these buses are very frequent.</li>
+                                    <li>Board bus to Guindy(M70, M70D, B70, C70, D70, M170C, 170C) and then board buses are M21G, 21G, PP21, M19, M49, 54F, 577, 549 from Guindy to Anna University. Or you can take a share auto to Anna University from Guindy bus stop which you can pay only 20 rupees. This is most recommended buses since these buses are very frequent.</li>
                             </ul>
                         </li>
 
@@ -295,7 +296,7 @@
         </div>
     </div>
 
-    
+
 
     <div class="row">
         <div class="col-12">
@@ -329,7 +330,7 @@
                         </footer>
                     </div>
 
-                    
+
                 </div>
             </div>
         </div>

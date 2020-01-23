@@ -173,9 +173,17 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Nivetha&emsp;8523942242</li>
-                        <li>Jaya&emsp;8825997415&emsp;</li>
-                        <li>Merlin Sindhiya&emsp;7397329357</li>
+                        <div class="row">
+                        <div class="col-2">
+                        <li>Nivetha </li>
+                        <li>Jaya</li>
+                        <li>Merlin Sindhiya</li> </div>
+                        <div class="col-2">
+                        8523942242 <br />
+                        8825997415 <br />
+                        7397329357
+                        </div>
+                        </div>
                         </ul>
 
                     </div>

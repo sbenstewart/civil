@@ -176,8 +176,16 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Subitcha &emsp;9047029771</li>
-                                <li>Pavithra &emsp;8778098024</li>
+                            <div class="row">
+                        <div class="col-2"> 
+                                <li>Subitcha </li>
+                                <li>Pavithra </li>
+                        </div>
+                        <div class="col-2"> 
+                        9047029771 <br />
+                        8778098024
+                        </div>
+                        </div>
                             </ul>
 
                         </div>

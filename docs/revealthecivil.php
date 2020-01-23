@@ -180,9 +180,16 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Kaviya  &emsp;8111057700</li>
-                                <li>Shahiya &emsp;9944297836</li>
-                                
+                            <div class="row">
+                        <div class="col-2"> 
+                                <li>Kaviya  </li>
+                                <li>Shahiya </li>
+                        </div >
+                                <div class="col-2"> 
+                                8111057700 <br />
+                                9944297836
+                                </div >
+                                </div >
                             </ul>
 
                         </div>

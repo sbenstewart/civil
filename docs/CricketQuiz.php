@@ -122,11 +122,11 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><strong>"You don’t play for the crowd you play for the country" - M S Dhoni.</strong></p>
+                            <p><strong>"You don’t play for the crowd you play for the country." - M S Dhoni</strong></p>
                             <p>
                                 22 yards, 22 inches, 3 formats.<br />
-                                1983 and 2011. What comes to your mind when u come across these figures.<br />
-                                If u are a cricket admirer then this HOWSTAT cricket quiz is for you.<br />
+                                1983 and 2011. What comes to your mind when you come across these figures?<br />
+                                If you are a cricket admirer then this HOWSTAT cricket quiz is for you.<br />
                                 This is going to be a complete package for all the cricket fanatic out there.<br />
                             </p>
 
@@ -143,7 +143,7 @@
                                 <li>FINALS:
                                     <ul>
                                         <li>The final round will consist of two or three small rounds.</li>
-                                        <li>The marks secured in each of the rounds (prelims will not be added) will be aggregated</li>
+                                        <li>The marks secured in each of the rounds (prelims will not be added) will be aggregated.</li>
 
                                     </ul>
                                 </li>
@@ -152,10 +152,9 @@
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
                                 <li>Mobile phone usage will definitely lead to disqualification.</li>
-                                <li>“There is no I in TEAM” (Teams of 2 or 3 are permitted)</li>
-                                <li>College Id and civilisation Id(will be provided) is mandatory.</li>
+                                <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
                                 <li>A team can have minimum of two to maximum of three participants.</li>
-                                <li>Decision made by the judges is final.</li>
+                                <li>Decision made by the Judges is final.</li>
                             </ol>
 
                            <!-- <h2 class="entry-header">Prize And Venue:</h2>

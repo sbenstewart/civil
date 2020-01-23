@@ -234,7 +234,7 @@
 
     $print ='
     <div class="entry-content flex">
-        <a href="https://www.townscript.com/e/c20events" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
+        <a href="https://www.townscript.com/e/c20workshop2" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
     </div>
     ';
     }

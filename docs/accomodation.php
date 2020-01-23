@@ -171,16 +171,16 @@
                                                 <ul>
                                                   <li>Only non-Chennai participants will be provided accommodation services. Participants must register online for availing our accommodation services.</li>
                                                   <li>Registration for accommodation is not part of the Events registration, and is to be done separately.</li>
-                                                  <li>Accommodation services will be available from 6 PM on 4<sup>th</sup> March, 2020 to 8 PM on 7<sup>th</sup> March, 2020.</li>
-                                                  <li>Accommodation will be provided on a sharing basis. Any requests for individual rooms will not be entertained. However, we will try to accommodate students from the same college together in rooms and dorms (if possible).</li>
+                                                  <li>Accommodation services will be available from <b>6 PM on 4<sup>th</sup> March, 2020 to 8 PM on 7<sup>th</sup> March, 2020. </b></li>
+                                                  <li>Accommodation will be provided on a <b>sharing basis</b>. Any requests for individual rooms will not be entertained. However, we will try to accommodate students from the same college together in rooms and dorms (if possible).</li>
                                                   <li>For Boys: Accommodation will be provided inside the campus. Incase there is no availability of space in our campus accommodation will be provided outside the college (i.e., at hotels).</li>
-                                                  <li>For Girls: Accommodation will be provided inside the college.</li>
+                                                  <li><b>For Girls: Accommodation will be provided inside the college.<b></li>
                                                   <li>Services will be offered on "First Register First Serve" basis.</li>
-                                                  <li>Accommodated students can have their food at their own expense in canteens and food stalls that are available. Food will not be provided by the Civilisation 2020 team.</li>
+                                                  <li>Accommodated students can have their food at their own expense in canteens and food stalls that are available. <b>Food will not be provided</b> by the Civilisation 2020 team.</li>
                                                   <li>Mattresses and buckets will be provided. However, participants are encouraged to carry their own blankets since it is the month of March and nights might be cold.</li>
                                                   <li>Random checks will be made to avoid any illegal stay in the campus. Any participant failing to produce his/her Accommodation Receipt will be fined and disqualified.</li>
                                                   <li>Participants are responsible for their belongings during their stay. Neither the Civilisation'20 Accommodation team nor the institute will take responsibility for any loss of property incurred.</li>
-                                                  <li>Girls in-time is 8.30 PM. Boys in-time is 9.30 PM.</li>
+                                                  <li><b>Girls in-time is 8.30 PM. Boys in-time is 9.30 PM.</b></li>
                                                   <li>Accommodation team has the right to cancel or wait-list accommodation while processing your request.</li>
                                                   <li>Smoking and drinking is strictly prohibited inside the Accommodation site.</li>
                                                   <li>Any act of misbehaviour inside the campus will be severely dealt with, leading to the immediate expulsion of the team (in question) from the campus and cancellation of registration.</li>
@@ -207,29 +207,29 @@
                         <br>
                         <h2 class="entry-header">TO REACH CEG</h2>
                         <ol>
-                        <li>FROM CHENNAI CENTRAL:
+                        <li><b>FROM CHENNAI CENTRAL:</b>
                             <ul>
                                     <li>By Bus<br>
-                                    Board 19G opposite to the railway station and ask for Anna University/Gandhi Mandapam.
+                                    Board <b>19G opposite to the railway station</b> and ask for Anna University/Gandhi Mandapam.
                                     This bus is not that frequent.
-                                    Board PP21(during 4 am to 7 am) at the bus stop just outside the railway station and ask for
+                                    Board <b>PP21(during 4 am to 7 am)</b> at the bus stop just <b>outside the railway station</b> and ask for
                                     Anna University/Gandhi Mandapam. This bus is of very low frequency.
-                                    Board 15B,15G,15F at the central bus stop and reach Broadway Bus Stand. Board 21G (or)
-                                    21L from Broadway to Anna University. The buses are very frequent here and it is the
+                                    Board <b>15B,15G,15F at the central bus stop</b> and reach Broadway Bus Stand. Board <b>21G (or)
+                                    21L from Broadway</b> to Anna University. The buses are very frequent here and it is the
                                     recommended mode of reaching the University from Central.
                                     </li>
                                     <li>By Train<br>
-                                    There is no direct train to Anna University. You have to reach Guindy and then board a bus
-                                    to Anna University.
+                                    <b>There is no direct train to Anna University. You have to reach Guindy and then board a bus
+                                    to Anna University.</b>
                                     Trains to Guindy depart from the Park Railway Station opposite to the Chennai Central
                                     Railway Station.
                                     Step out of the Guindy Railway Station (by taking a right in the crossover meant for
                                     pedestrians) and cross the road using the subway. Right near the subway you’ll find a lane
-                                    towards the right side wherein you can find the bus stop. Board M21G, 21G, PP21, M19,
-                                    M49, 54F, 577, 549,T70 and get down at Anna University.
+                                    towards the right side wherein you can find the bus stop. Board <b>M21G, 21G, PP21, M19,
+                                    M49, 54F, 577, 549,T70</b> and get down at Anna University.
                                     You’ll also find share autos to Anna University near the subway which would cost you Rs.
                                     20.
-                                    You can also board the MRTS (Flying train) from the Park Town which is adjacent to
+                                    You can also board the <b>MRTS (Flying train) from the Park Town</b> which is adjacent to
                                     government hospital and alight at Kasturibai Nagar Railway Station from where you can get a
                                     Share auto or a bus next to the Madhya Kailash Temple outside the Kasturibai Nagar station
                                     to Anna University. (Kindly note PARK is different from PARK TOWN)
@@ -241,20 +241,20 @@
                                     </li>
                             </ul>
                         </li>
-                        <li>FROM EGMORE RAILWAY STATION:
+                        <li><b>FROM EGMORE RAILWAY STATION:</b>
                             <ul>
-                                    <li>By Bus<br>
-                                    In Egmore, near Pantheon Road and Haals Road junction, you can get 23C and the
+                                    <li><b>By Bus</b><br>
+                                    In Egmore, near Pantheon Road and Haals Road junction, you can get <b>23C</b> and the
                                     frequency of this bus is high. Travel time might be 45-50 minutes.
                                     </li>
-                                    <li>By Train<br>
+                                    <li><b>By Train</b><br>
                                     You can take Electric train to Guindy. Step out of the Guindy Railway Station (by taking a
                                     right in the crossover meant for pedestrians) and cross the road using the subway. Right near
                                     the subway you’ll find a lane towards the right side wherein you can find the bus stop. Board
-                                    M21G, 21G, PP21, M19, M49, 54F, 577, 549 and get down at Anna University.
+                                    <b>M21G, 21G, PP21, M19, M49, 54F, 577, 549 </b>and get down at Anna University.
                                     You’ll also find share autos to Anna University near the subway which would cost you Rs.20.
                                     </li>
-                                    <li>By Auto/Taxi<br>
+                                    <li><b>By Auto/Taxi</b><br>
                                     The auto fare will be approximately Rs 120. Fix the rate before boarding.
                                     There is no prepaid auto service at Egmore station.<br>
                                     Ola and Uber services will also be available.
@@ -262,30 +262,30 @@
                             </ul>
                         </li>
 
-                        <li>FROM KOYAMBEDU/CMBT:
+                        <li><b>FROM KOYAMBEDU/CMBT:</b>
                             <ul>
                                     <li>CMBT expands as Chennai Moffusil Bus Terminus. Lot of buses are available either directly to Anna University or indirectly via T. Nagar or Guindy.</li>
-                                    <li>Board bus 23M, PP49, T70, and 149 which are direct to Anna University. These buses are not so frequent.</li>
-                                    <li>Board bus to T.Nagar (27C, M27) and from there get 5B, 19C, 19B, 47 , 47A , 47D to Anna University.</li>
+                                    <li>Board bus <b>23M, PP49, T70, and 149</b> which are direct to Anna University. These buses are not so frequent.</li>
+                                    <li><b>Board bus to T.Nagar (27C, M27)</b> and from there get <b>5B, 19C, 19B, 47 , 47A , 47D</b> to Anna University.</li>
                                     <li>You can use metro to travel Guindy from Koyambedu, it takes only 15 minutes.</li>
-                                    <li>Board bus to Guindy(M70, M70D, B70, C70, D70, M170C, 170C) and then board buses are M21G, 21G, PP21, M19, M49, 54F, 577, 549 from Guindy to Anna University. Or you can take a share auto to Anna University from Guindy bus stop which you can pay only 20 rupees. This is most recommended buses since these buses are very frequent.</li>
+                                    <li>Board bus to Guindy<b>(M70, M70D, B70, C70, D70, M170C, 170C)</b> and then board buses are <b>M21G, 21G, PP21, M19, M49, 54F, 577, 549</b> from Guindy to Anna University. Or you can take a share auto to Anna University from Guindy bus stop which you can pay only 20 rupees. This is most recommended buses since these buses are very frequent.</li>
                             </ul>
                         </li>
 
-                        <li>FROM PERUNGULATHUR:
+                        <li><b>FROM PERUNGULATHUR:</b>
                             <ul>
                                     <li>For persons from southern districts of Tamil Nadu, since the buses take the Bypass road to CMBT after 6 am, you cannot get down at the kathipara junction.</li>
-                                    <li>Rather you can get down at Perungalathur and board 577 or PP21 to Anna University. These buses are not frequent.</li>
-                                    <li>You can travel to guindy from the perungalathur by using this buses which are 549,M79.these are the buses to Guindy from Perangalathur.</li>
-                                    <li>You may also take a train to Guindy from the Perungalathur junction just behind the bus stop and and then board M21G, 21G, PP21, M19, M49, 54F, 577, 549 from Guindy to Anna University. Or you can take a share auto from Guindy bus stop to Anna University which would cost you Rs. 20.</li>
+                                    <li>Rather you can get down at Perungalathur and board <b>577 or PP21</b> to Anna University. These buses are not frequent.</li>
+                                    <li>You can travel to guindy from the perungalathur by using this buses which are <b>549,M79.</b>these are the buses to Guindy from Perangalathur.</li>
+                                    <li>You may also take a train to Guindy from the Perungalathur junction just behind the bus stop and and then board<b> M21G, 21G, PP21, M19, M49, 54F, 577, 549</b> from Guindy to Anna University. Or you can take a share auto from Guindy bus stop to Anna University which would cost you Rs. 20.</li>
                             </ul>
                         </li>
 
-                        <li>FROM KATHIPARA JUNCTION:
+                        <li><b>FROM KATHIPARA JUNCTION:</b>
                             <ul>
                                     <li>Persons coming from southern districts of Tamil Nadu can get down at Kathipara Junction, if your bus doesn’t take the bypass road before tambaram.</li>
-                                    <li>Board 21G, PP21 to Anna University. This is the recommended way.</li>
-                                    <li>Board any bus to Guindy (next stop) and catch M21G, 21G, PP21, M19, M49, 54F, 577, and 549 to Anna University. Or you can take a share auto to Anna University which would cost you Rs. 20.</li>
+                                    <li>Board <b>21G, PP21</b> to Anna University. This is the recommended way.</li>
+                                    <li>Board any bus to Guindy (next stop) and catch <b>M21G, 21G, PP21, M19, M49, 54F, 577, and 549</b> to Anna University. Or you can take a share auto to Anna University which would cost you Rs. 20.</li>
                             </ul>
                         </li>
                         </ol>

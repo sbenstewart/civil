@@ -121,7 +121,7 @@
                     <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                 </ul>
 
-                
+
 
                     <div class="tabs-container">
                     <div id="tab_details" class="tab-content">
@@ -129,13 +129,13 @@
                         <div class="col-6 col-md-3 order-md-2 col-lg-3 order-lg-2 col-xl-3 order-xl-2 align-self-center mt-1">
                             <figure class="events-thumbnail text-center">
                                 <img class="figure-img img-fluid" src="images/lt.png" alt="">
-                            </figure> 
+                            </figure>
                         </div>
                         <div class="col-12 col-md-9 col-lg-9 col-xl-9">
                             <p>This event is conducted by</p>
 
                             <h2 class="entry-header">LARSEN & TOUBRO</h2>
-                            <!--<p><strong>Vice President, Head of Public Space Business Unit of L&T Construction.</strong></p>-->
+                            <p><strong>M Bharanidharan, M.E Structural Engg.Senior engineering manager at L&T With over 15 years of expertise.</strong></p>
                             <p>
                             In the field of bridge engineering, the introduction of prestressed concrete has aided the construction of Long-span concrete bridges. However, deterioration of these bridges before the end of their stipulated design life poses a challenging yet intriguing question to us Civil Engineers. This workshop hopes to inculcate knowledge we already possess and to train young budding minds to come up with innovative solutions to uncommon situations.  It also holds  an overview of such innovative technologies on prestressed concrete bridges ,their development & application in real time construction projects. Some noteworthy structures which represent the state- of -the- art technologies in the construction of prestressed concrete bridges  will also be presented.
                             </p>

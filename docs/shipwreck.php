@@ -122,8 +122,9 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><Strong>"This isnt titanic and u arent jake so just go for the jacket."</Strong>
-                                Come prove your persuasion skills to us here at civilisation’20!<br/>
+                            <p><Strong>"This isn't titanic and you aren't Jack so just go for the jacket." - Civilisation'20</Strong></p>
+                            <p>
+                                Come prove your persuasion skills to us here at Civilisation’20!<br/>
                                 Shipwreck is a one of a kind event, where you will be given famous personalities to impersonate and will have to convince the judges "Captain of the Ship" to save you from the sinking ship! who unfortunately, has only one life jacket. Why save you when the Captain can save your opponent? You tell us!<br/>
                                 A Humorous ride to exciting Prizes!
                             </p>
@@ -154,8 +155,8 @@
                             <ol>
                                 <li>Individual event.</li>
                                 <li>Any sort of vulgarity will not be encouraged.</li>
-                                <li>Depending upon the no of participants round 2 will be decided.</li>
-                                <li>College ID and civilisation ID are mandatory.</li>
+                                <li>Depending upon the no of participants Round 2 will be decided.</li>
+                                <li>College ID and Civilisation ID (will be provided) are mandatory.</li>
                             </ol>
 
                            <!-- <h2 class="entry-header">Prize And Venue:</h2>

@@ -124,8 +124,7 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <!--<p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>-->
-                       <p><strong>No solution can ever be found by running in three different directions.” - Deepak Chopra</strong>
+                       <p><strong>“No solution can ever be found by running in three different directions.” - Deepak Chopra</strong></p>
                         Excited seeing the title? Don’t fantasize. You are no techie. Ever thought that you mastered the IS code?<br>
                         Do you think you don’t need an IS code book to solve? Prove you’re worth here. Break the code to make your way to glory!<br>
                         </p>
@@ -149,7 +148,7 @@
 
                         <h2 class="entry-header">RULES:</h2>
                         <ol>
-                            <li>College ID card is mandatory.</li>
+                            <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
                             <li>Usage of mobile phones is strictly prohibited.</li>
                             <li>A team can have a maximum of three participants.</li>
                         </ol>
@@ -174,9 +173,9 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Nivetha S&emsp;8523942242</li>
-                        <li>Jaya S&emsp;8825997415&emsp;</li>
-                        <li>Merlin Sindhiya J&emsp;7397329357</li>
+                        <li>Nivetha&emsp;8523942242</li>
+                        <li>Jaya&emsp;8825997415&emsp;</li>
+                        <li>Merlin Sindhiya&emsp;7397329357</li>
                         </ul>
 
                     </div>

@@ -123,16 +123,16 @@
 
 
                             <p>
-                                <strong>"If you want to change the world, pick up your pen and write." -Martin Luther King </strong><br />
+                                <strong>"If you want to change the world, pick up your pen and write." - Martin Luther King </strong><br />
                                 The mode of writing has changed a lot over years, but not the writing itself. Come and make a change by your way of penning down!
                             </p>
                             <h2 class="entry-header">FORMAT:</h2>
 
                             <ol>
                                 <li>Essays should be mailed in PDF format to the e-mail address: <a href="mailto:civilisceg@gmail.com"> civilisceg@gmail.com </a></li>
-                                <li>The blog should be mailed with the subject name "blog topic name".</li>
+                                <li>The blog should be mailed with the subject name <b>"blog topic name".</b></li>
                                 <li>The mail should contain the Name, Register number, Branch name and contact details of the Participant.</li>
-                                <li>Deadline for he submission of articles : 28/02/2020( Friday) </li>
+                                <li>Deadline for he submission of articles : 28/02/2020 (Friday) </li>
                             </ol>
 
 
@@ -142,13 +142,14 @@
                             <ul>
                                 <li>Plagiarism is strictly not encouraged. Any kind of plagiarism will make you disqualified for the competition.</li>
                                 <li>Late submissions will not be accepted.</li>
-                                <li>Only one submission per person is allowed..</li>
-                                <li>The participants can be from any department of B E Undergraduate Program.</li>
-                                <li>Decision of the jury will be final and binding.</li>
-                                <li>The blog topics should be one of the topics enlisted in the website ( <a href='civilisceg.wordpress.com'>civilisceg.wordpress.com </a>) </li>
-                                <li>Word count :1000 to 1500 words. <br />The winning participant will be awarded in the valediction ceremony. It is mandatory for the winning participant.</li>
+                                <li>Only one submission per person is allowed.</li>
+                                <li>The participants can be from any department.</li>
+                                <li>Decision of the Jury will be final and binding.</li>
+                                <li>The blog topics should be one of the topics enlisted in the website (<a href='https://civilisceg.wordpress.com/'>civilisceg.wordpress.com</a>).</li>
+                                <li>Word count: 1000 to 1500 words.</li>
 
                             </ul>
+                            <p>The winning participant will be awarded in the valediction ceremony. It is mandatory for the winning participant.</p>
                            <!-- <h2 class="entry-header">Prize :</h2>
                             <ul>
                                 <dl>
@@ -165,6 +166,7 @@
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
                                 <li>Shreenidhi &emsp; 9790810518</li>
+                                <li>Ishwrya &emsp; 7598404668</li>
 
                             </ul>
 

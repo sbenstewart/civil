@@ -126,18 +126,18 @@
                             <p>
                                 Want to unleash the Sherlock in you? Longing for a dose of Adventure and excitement? You’ve come to the right place!<br />
                                 This event is specifically made for those who want to solve the inscrutable
-                                mysteries.and escape the mundane routine of life for a few hours. Step forward to take your first step to becoming a detective. Come and participate in this venturesome journey! Secrets wait to be revealed…
+                                mysteries and escape the mundane routine of life for a few hours. Step forward to take your first step to becoming a detective. Come and participate in this venturesome journey! Secrets wait to be revealed…
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
                             
                             <ol>
-                                <li> 
-                                    <ul>PRELIMS: INVESTIGATION
+                                <li>PRELIMS: INVESTIGATION 
+                                    <ul>
                                         <li>Participants are provided with the First Information Report, contains
                                             suspect details, Postmortem report, Murder location, Evidences, etc…</li>
                                         <li>Investigate the suspects.</li>
-                                        <li>Make report of your investigationl.</li>
+                                        <li>Make report of your investigation.</li>
 
                                     </ul>
                                 </li>
@@ -153,21 +153,10 @@
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
                                 <li>Participants of maximum three per team are allowed</li>
-                                <li>College Id and civilisation Id(will be provided) is mandatory.</li>
+                                <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
                                 <li>Decision made by Judges is final.</li>
 
                             </ol>
-
-                            <h2 class="entry-header">FAQ:</h2>
-                            <dl>
-                                <dt> How do we register for the Event?
-                                <dd>There will be common registration for Civilisation’20
-                                <dt>Who can participate in this Event?
-                                <dd>Students studying in any colleges/university can participate.
-                                <dt>Any Suggestion for the Event?
-                                <dd>Make sure your story connects most suspects and evidences.
-
-                            </dl>
 
                             <!-- <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>

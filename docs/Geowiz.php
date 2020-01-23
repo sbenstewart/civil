@@ -125,7 +125,7 @@
                             <!--<p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>-->
                             <p>
                                 <strong>"Soil is an almost magical substance, a living system that transforms the materials it encounters." – George Monbiot</strong><br>
-                                Want to test your knowledge in soil mechanics and pavement designing. Here is an opportunity to showcase your expertise.<br>
+                                Want to test your knowledge in Soil Mechanics and pavement designing. Here is an opportunity to showcase your expertise.<br>
                                 There are a number of properties of soil, which have to be considered during pavement construction and construction of buildings. In this event you will be able to design the pavements as per IRC standards.<br />
                                 If you are fascinated by the peerless properties of soil, attend this technical quiz. 
                             </p>
@@ -135,7 +135,7 @@
                                 <li>PRELIMS:
                                     <ul>
                                         <li>The prelims will contain a set of 25 questions for which a time of 30 minutes will be given.</li>
-                                        <li>The questions will be from soil mechanics and highway engineering.</li>
+                                        <li>The questions will be from Soil Mechanics and Highway Engineering.</li>
                                         <li>‘*’ (STAR) questions will be used for tie breaks.</li>
                                         <li>Top 3 teams will be qualified for finals.</li>
                                     </ul>
@@ -149,7 +149,7 @@
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                <li>Civilisation'20 ID and college ID is mandatory.</li>
+                                <li>Civilisation ID (will be provided) and College ID is mandatory.</li>
                                 <li>Minimum of 2 participants and maximum of 4 participants must be in a team.</li>
                                 <li>Judges decision will be final and binding.</li>
                                 <li>The team will be disqualified in case of any discrepancies.</li>

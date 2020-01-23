@@ -129,10 +129,9 @@
                             <li>The code when used by other participants whilst payment of registration fee online, shall avail a fee waiver for the individual whose code has been utilised.</li>
                             <li>Online registrations alone, can avail ambassador facility.</li>
                             <li>Student ambassadors are for workshops alone.</li>
-                            <li>After registration for the workshop(s) (any one is sufficient) and payment of fee, the participant shall be able to avail the workshop fee waiver, which shall be refunded only on-spot.</li>
-                            <li>If 10 or more registrations are done using the same referral code, the individual shall be refunded with the entire fee of the workshop  after the completion of the workshop on spot.</li>
+                            <li>After registration for the workshop(s) (any one is sufficient) and payment of fee, the participant shall be able to avail the workshop fee waiver, which shall be refunded only onspot.</li>
+                            <li>If 7 or more registrations are done using the same referral code, the individual shall be refunded with the entire fee of the workshop  after the completion of the workshop onspot.</li>
                             <li>Students are requested to make note of their referral code.</li>
-                            <li>In case the student is to forget their referral code, he/she can sign up again to generate a new referral code and all the new registrations will add up with the old ones.</li>
                         </ul>
                     </div>
 

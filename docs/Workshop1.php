@@ -135,7 +135,7 @@
                             <h2 class="entry-header">LARSEN & TOUBRO</h2>
                             <!--<p><strong>Vice President, Head of Public Space Business Unit of L&T Construction.</strong></p>-->
                             <p>
-                            Building Information modelling (BIM), is an intelligent 3D digital model-based process that gives architecture, engineering, and construction (AEC) professionals the insight and tools to more efficiently plan, design, construct, and manage buildings and infrastructure. In this fast paced world where innovation and Artificial Intelligence parallel each other, we here at AU hope to provide the students that visit us with all the necessary skills to stay ahead of the rest. Conducted by L&T, this workshop is one of our signature events for Civilisation’20.
+                            Building Information Modelling (BIM), is an intelligent 3D digital model-based process that gives Architecture, Engineering, and Construction (AEC) professionals the insight and tools to more efficiently plan, design, construct and manage buildings and infrastructure. In this fast paced world where Innovation and Artificial Intelligence parallel each other, we here at Anna University hope to provide the students that visit us with all the necessary skills to stay ahead of the rest. Conducted by L&T, this workshop is one of our signature events for Civilisation’20.
                             </p>
                         </div>
                     </div>
@@ -143,7 +143,7 @@
                         <div class="col-12">
                             <h2 class="entry-header">INSTRUCTIONS:</h2>
                             <ul>
-                                <li>Both online & spot payments are available.</li>
+                                <li>Both online & onspot payments are available.</li>
                                 <li>The fee per workshop will be 650 INR.</li>
                                 <li>Food and T shirts can be availed only for online registration.</li>
                                 <li>T shirt cost will be 150 INR & Food cost will be 100 INR.  They are not inclusive of the workshop fee.</li>
@@ -178,7 +178,7 @@
 
                                 <div class="single-event-details-row">
                                     <label>Time:</label>
-                                    <p>5<sup>th</sup>March 2020</p>
+                                    <p>5<sup>th</sup> March 2020</p>
                                 </div>
 
 

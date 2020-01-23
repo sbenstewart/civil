@@ -122,7 +122,7 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <!--<p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>-->
+                            <!--<p><strong>"Trials teach us what we are; they dig up the soil,and let us see what we are made of." - Charles Spurgeon</strong></p>-->
                             <p>
                                 <strong>"Soil is an almost magical substance, a living system that transforms the materials it encounters." – George Monbiot</strong><br>
                                 Want to test your knowledge in Soil Mechanics and pavement designing. Here is an opportunity to showcase your expertise.<br>

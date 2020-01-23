@@ -122,23 +122,22 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><strong>"The only game where VEGETARIANS love to taste CHICKEN DINNER"</strong></p>
+                            <p><strong>"The only game where VEGETARIANS love to taste CHICKEN DINNER" - Civlisation'20</strong></p>
                             <p>
                                 Test your reflexes & decision making skills here with us at PUBG. Contest to exciting prizes in SQUADS ONLY TOURNAMENT.
-                                <br />( P.S: We provide OD for this as well!!)<br />
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
-                            <ul>
+                            <ol>
                                 <li>Event will consist of two rounds</li>
                                 <ul>
-                                    <li> Prilims </li>
+                                    <li> Qualifier </li>
                                     <li> Finals
                                     </li>
                                 </ul>
 
 
-                            </ul>
+                            </ol>
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>

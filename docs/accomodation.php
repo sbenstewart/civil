@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Accomodation</h1>
+                        <h1 class="entry-title">Accommodation</h1>
                     </header>
                 </div>
             </div>
@@ -116,7 +116,7 @@
             <div class="tabs">
                 <ul class="tabs-nav flex">
                     <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_details">Details</li>
-                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Organizers</li>
+                    <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_venue">Organisers</li>
                     <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Rules</li>
                     <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                 </ul>
@@ -127,13 +127,12 @@
                         <h2 class="entry-header">Instructions</h2>
                         <ul>
                         <li>On reaching the campus, report immediately to the Registration Desk for registration process and if accommodation is needed, approach the accommodation desk.</li>
-                        <li>It is mandatory to bring your college ID card.</li>
+                        <li>It is mandatory to bring your College ID.</li>
                         <li>At the time of check-in, the caution deposit of Rs.100 should be paid (which will be refunded at the time of check-out)</li>
                         <li><strong>The charge for a day's stay will be Rs.200 (24 hours only).</strong></li>
                         <li>After Accommodation registration and payment of applicable fees, rooms/dormitories will be allotted by the Civilisation 2020 Accommodation team.</li>
                         <li>During check-out the participants are required to return all the utilities (provided at the time of check-in) in order to redeem their refundable-deposit.</li>
                         <li>Refund of Caution deposit money will be made at the sole discretion of Civilisation Accommodation team.</li>
-                        <li>No refund will be provided for the cancellation of room.</li>
                         <li>If the room is not vacated on time, you will have to pay for the next day also.</li>
                         </ul>
                     </div>
@@ -172,7 +171,7 @@
                                                 <ul>
                                                   <li>Only non-Chennai participants will be provided accommodation services. Participants must register online for availing our accommodation services.</li>
                                                   <li>Registration for accommodation is not part of the Events registration, and is to be done separately.</li>
-                                                  <li>Accommodation services will be available from 6 PM on 3rd March,2020 to 8 PM on 6th march, 2020.</li>
+                                                  <li>Accommodation services will be available from 6 PM on 4<sup>th</sup> March, 2020 to 8 PM on 7<sup>th</sup> March, 2020.</li>
                                                   <li>Accommodation will be provided on a sharing basis. Any requests for individual rooms will not be entertained. However, we will try to accommodate students from the same college together in rooms and dorms (if possible).</li>
                                                   <li>For Boys: Accommodation will be provided inside the campus. Incase there is no availability of space in our campus accommodation will be provided outside the college (i.e., at hotels).</li>
                                                   <li>For Girls: Accommodation will be provided inside the college.</li>
@@ -180,8 +179,8 @@
                                                   <li>Accommodated students can have their food at their own expense in canteens and food stalls that are available. Food will not be provided by the Civilisation 2020 team.</li>
                                                   <li>Mattresses and buckets will be provided. However, participants are encouraged to carry their own blankets since it is the month of March and nights might be cold.</li>
                                                   <li>Random checks will be made to avoid any illegal stay in the campus. Any participant failing to produce his/her Accommodation Receipt will be fined and disqualified.</li>
-                                                  <li>Participants are responsible for their belongings during their stay. Neither the Civilisation,2020 Accommodation team nor the institute will take responsibility for any loss of property incurred.</li>
-                                                  <li>Girls in-time is 8.30 PM.</li>
+                                                  <li>Participants are responsible for their belongings during their stay. Neither the Civilisation'20 Accommodation team nor the institute will take responsibility for any loss of property incurred.</li>
+                                                  <li>Girls in-time is 8.30 PM. Boys in-time is 9.30 PM.</li>
                                                   <li>Accommodation team has the right to cancel or wait-list accommodation while processing your request.</li>
                                                   <li>Smoking and drinking is strictly prohibited inside the Accommodation site.</li>
                                                   <li>Any act of misbehaviour inside the campus will be severely dealt with, leading to the immediate expulsion of the team (in question) from the campus and cancellation of registration.</li>
@@ -238,7 +237,7 @@
                                     <li>By Auto/Taxi<br>
                                     In case you have too much luggage, try Auto or Taxi. You can also avail the facility of
                                     prepaid auto service .The fare will be around Rs.160.
-                                    State the destination as “Anna University Kotturpuram Gate.
+                                    State the destination as "Anna University Kotturpuram Gate.
                                     </li>
                             </ul>
                         </li>

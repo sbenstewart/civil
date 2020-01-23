@@ -122,9 +122,9 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><strong>"There is nothing more reassuring than realizing that the world is crazier than your are" - Eric selvig.</strong></p>
+                            <p><strong>"There is nothing more reassuring than realizing that the world is crazier than you are." - Eric Selvig</strong></p>
                             <p>
-                                This year Civilisation’20 welcomes you to this "MARVEL"OUS  quiz. If you are a “Marvel”ous fanatic of marvel then this is the quiz for you. Challenge yourself on your knowledge & Know-how at our most Awaited event. “MARVEL”OUS. Stay tuned to “Witness the unwitnessed.”
+                                This year Civilisation’20 welcomes you to this "MARVEL"OUS  quiz. If you are a "Marvel"ous fanatic of marvel then this is the quiz for you. Challenge yourself on your knowledge & know-how at our most awaited event, "MARVEL"OUS. Stay tuned to "Witness the unwitnessed."
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
@@ -136,8 +136,8 @@
                                     films) and history of marvel .</li>
                                 <li>Each part will consist of 10, 30 and 10 marks respectively. </li>
                                 <li>Top five teams will be qualified for second round. </li>
-                                <li>Final round will be a ppt round, which consist of several rounds. More informations
-                                    will be provided during the course of event. </li>
+                                <li>Final round will be a presentation round, which consist of several rounds. More informations
+                                    will be provided during the course of the event. </li>
                             </ul>
 
                             <h2 class="entry-header">RULES:</h2>
@@ -145,7 +145,7 @@
                                 <li>Maximum of three persons per team is allowed.</li>
                                 <li>Use of mobile phones is not allowed.</li>
                                 <li>Necessary items will be provided during the event.</li>
-                                <li>College Id and civilisation Id(will be provided) is mandatory.</li>
+                                <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
                             </ol>
 
                             <!--<h2 class="entry-header">Prize And Venue:</h2>

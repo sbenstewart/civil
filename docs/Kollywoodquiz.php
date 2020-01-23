@@ -122,10 +122,10 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><strong>“Cinema can fill in the empty spaces of your life and your loneliness” – Pedro Almodovar</strong></p>
+                            <p><strong>"Cinema can fill in the empty spaces of your life and your loneliness." – Pedro Almodovar</strong></p>
                             <p>
 
-                                Are you a true movie buff at heart? The never ending debates & interesting trivia has always intrigued us and touched our souls in a way nothing else has! Right from the era of “Sivaji and MGR” to “ Rajini and Kamal” to “Thala ya Thalapathy ah” we’ve played an important role in shaping Indian cinema. So Civilisation 2020 presents KOLLYWOOD QUIZ” , designed to test your knowledge on our world.<br>
+                                Are you a true movie buff at heart? The never ending debates & interesting trivia has always intrigued us and touched our souls in a way nothing else has! Right from the era of "Sivaji and MGR" to "Rajini and Kamal" to "Thala ya Thalapathy ah" we’ve played an important role in shaping Indian cinema. So Civilisation 2020 presents "KOLLYWOOD QUIZ", designed to test your knowledge on our world.<br>
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
@@ -152,7 +152,7 @@
                                 <li>Participants of maximum three per team are allowed.</li>
                                 <li>Using mobile phones are restricted.</li>
                                 <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
-                                <li>Decision made by the jury is Final and binding</li>
+                                <li>Decision made by the Jury is Final and binding.</li>
                             </ol>
                             <!--<h2 class="entry-header">Prize And Venue:</h2>
                             <ul>

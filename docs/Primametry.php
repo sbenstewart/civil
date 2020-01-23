@@ -124,7 +124,7 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>“A man’s feet should be planted in his country, but his eyes should survey the world.” - George Santayana</strong></p>
+                        <p><strong>"A man’s feet should be planted in his country, but his eyes should survey the world." - George Santayana</strong></p>
                         <p>
                              Do you dream of fulfilling your passion? Are you waiting for a spectacular chance to show off your talents? For delivering excellence in surveying and for adding value to your knowledge, we bring you a dazzling opportunity to enhance the power of applied intelligence. This is an event for smart people shining with skills!
                       </p>

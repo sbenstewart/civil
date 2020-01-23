@@ -137,7 +137,7 @@
 
                             <p><strong>A.SOUNDARARAJAN - ME (Structural)  - Asst. General Manager<br>Dr.K.SARAVANAN - ME (Structural)., MBA ., Ph.D ., F.I.E .,  - Senior Vice President</strong></p>
                             <p>
-                            This workshop introduces innovative erection methodologies of steel structures. If you've navigated the streets of a developing city, you would notice that the steel frameworks rise over the cityscape. The structural steel members assemble as a lattice, a strengthened cage of carbon-reinforced beams. Steel erection principles guide this process, taking the structure up one level at a time until the barebones of the building are fully executed. Dozens of daring civil engineering projects and never-before-attempted schemes are actively involved in this erection methodologies. So do come participate with us to “Widen your Horizons”!
+                            This workshop introduces innovative erection methodologies of steel structures. If you've navigated the streets of a developing city, you would notice that the steel frameworks rise over the cityscape. The structural steel members assemble as a lattice, a strengthened cage of carbon-reinforced beams. Steel erection principles guide this process, taking the structure up one level at a time until the barebones of the building are fully executed. Dozens of daring civil engineering projects and never-before-attempted schemes are actively involved in this erection methodologies. So do come participate with us to "Widen your Horizons"!
                             </p>
                         </div>
                     </div>

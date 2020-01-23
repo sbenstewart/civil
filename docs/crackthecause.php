@@ -129,25 +129,17 @@
 
                             <h2 class="entry-header">FORMAT:</h2>
                             <ol>
-                                <li>Set of 20 questions will be given</li>
+                                <li>Set of 20 questions will be given.</li>
                                 <li>Duration: 30 minutes.</li>
-                                <li>The top 10 teams will be slected for the 2nd round.</li>
+                                <li>The top 10 teams will be selected for the Second round.</li>
                             </ol>
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
                                 <li>A team can have 2 participants per team.</li>
                                 <li>Use of mobile is prohibited.</li>
-                                <li>College ID and Civilisation ID(will be provided) is mandatory.</li>
-                                <li>Decision taken by judges is final.</li>
-                            </ol>
-                            <h2 class="entry-header">FAQ:</h2>
-                            <ol>
-                                <li>How do we register for the event?<br>There will be a common registration for CIVILISATION18. There is no separate registration.</li>
-                                <li>Can I come as a lone wolf?<br>No you cannot as this event requires team participations and discussions.</li>
-                                <li>How many members can be there in a team?<br>A team can have 2 participants only. Any team which fails to meet this criterion will be disqualified by the team organizers.</li>
-                                <li>Can a team have members of different college?<br>No, a team cannot have members from different colleges.</li>
-                                <li>Will I get a certificate of participation?<br>Top 3 teams will receive cash prize and certificate of merit. Top 5 teams will receive certificate of participation.</li>
+                                <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
+                                <li>Decision taken by Judges is final.</li>
                             </ol>
                             <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>

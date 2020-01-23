@@ -145,10 +145,9 @@
 
                         <h2 class="entry-header">RULES:</h2>
                         <ol>
-                            <li>College ID is mandatory.</li>
+                            <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
                             <li>A team can have a maximum of two participants.</li>
                             <li>Use of mobile phones is stictly prohibited.</li>
-                            <li>C’19 ID is mandatory.</li>
                             <li>There are only limited slots.The slots will be filled on the basics of those who apply earliest are most likely to get what they want.</li>
                             <li>Call for any doubts and queries.</li>
                         </ol>

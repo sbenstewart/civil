@@ -140,7 +140,7 @@
                             <ol>
                                 <li>Send your entries to <a href="mailto:civilisation2k20@gmail.com"> civilisation2k20@gmail.com </a></li>
                                 <li>The mail should contain the Name, Department, Year, College and Contact number of the Participant.</li>
-                                <li>Deadline for the submission of articles : 01/03/2020 (Sunday) </li>
+                                <li>Deadline for the submission of articles: 01/03/2020 (Sunday) </li>
                                 <li>Use of Instagram bots is prohibited (creating profiles for likes).</li>
                                 <li>The top 5 memes will qualify based on the number of likes, after which the jury will decide the best.</li>
                             </ol>

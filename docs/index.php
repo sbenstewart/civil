@@ -552,7 +552,7 @@
                         <div class="row">
                             <div class="col flex flex-column justify-content-center">
                                 <div class="entry-header">
-                                    <div class="countdown flex align-items-center">
+                                    <div class="countdown flex justify-content-center">
                                         <div class="countdown-holder flex align-items-baseline">
                                             <span class="dday"></span>
                                             <label>Days</label>
@@ -574,7 +574,7 @@
                                         </div><!-- .countdown-holder -->
                                     </div><!-- .countdown -->
 
-                                    <h2 class="entry-title">See you at <br>Civilisation 2020</h2>
+                                    <h2 class="entry-title flex justify-content-center">See you at <br>Civilisation 2020</h2>
                                 </div><!--- .entry-header -->
 
                                 <!--<div class="entry-footer">
@@ -590,9 +590,9 @@
                 <div class="hero-content">
                     <div class="container">
                         <div class="row">
-                            <div class="col flex flex-column justify-content-center">
+                        <div class="col flex flex-column justify-content-center">
                                 <div class="entry-header">
-                                    <div class="countdown flex align-items-center">
+                                    <div class="countdown flex justify-content-center">
                                         <div class="countdown-holder flex align-items-baseline">
                                             <span class="dday"></span>
                                             <label>Days</label>
@@ -630,9 +630,9 @@
                 <div class="hero-content">
                     <div class="container">
                         <div class="row">
-                            <div class="col flex flex-column justify-content-center">
+                        <div class="col flex flex-column justify-content-center">
                                 <div class="entry-header">
-                                    <div class="countdown flex align-items-center">
+                                    <div class="countdown flex justify-content-center">
                                         <div class="countdown-holder flex align-items-baseline">
                                             <span class="dday"></span>
                                             <label>Days</label>
@@ -978,6 +978,38 @@
 
                         <div class="swiper-slide">
                             <figure>
+                                <img src="images/bridgebattle.png" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Bridgebattle.php">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Bridge Battle</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/confloat.png" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="confloat.php">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Confloat</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
                                 <img src="images/crackthecause.png" alt="">
 
                                 <a class="event-overlay-link flex justify-content-center align-items-center" href="crackthecause.php">+</a>
@@ -985,6 +1017,38 @@
 
                             <div class="entry-header">
                                 <h2 class="entry-title">Crack<br>The Cause</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/ecoquiz.png" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="EcoQuiz.php">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Eco Quiz</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/geowiz.png" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Geowiz.php">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Geowiz</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
@@ -1042,86 +1106,6 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/quriosity.png" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Quriosity.php">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Quriosity</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="images/bridgebattle.png" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Bridgebattle.php">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Bridge Battle</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="images/confloat.png" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="confloat.php">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Confloat</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="images/ecoquiz.png" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="EcoQuiz.php">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Eco Quiz</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="images/geowiz.png" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Geowiz.php">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Geowiz</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
                                 <img src="images/revealthecivil.png" alt="">
 
                                 <a class="event-overlay-link flex justify-content-center align-items-center" href="revealthecivil.php">+</a>
@@ -1160,6 +1144,23 @@
 
                 <div class="swiper-container homepage-regional-events-slider">
                     <div class="swiper-wrapper">
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/channelsurfing.png" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="channelsurfing.php">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Channel Surfing</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
                         <div class="swiper-slide">
                             <figure>
                                 <img src="images/cricketquiz.png" alt="">
@@ -1169,6 +1170,22 @@
 
                             <div class="entry-header">
                                 <h2 class="entry-title">Cricket Quiz</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/kollywoodquiz.png" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Kollywoodquiz.php">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Kollywood<br>Quiz</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
@@ -1210,13 +1227,29 @@
 
                         <div class="swiper-slide">
                             <figure>
-                                <img src="images/channelsurfing.png" alt="">
+                                <img src="images/pubg.png" alt="">
 
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="channelsurfing.php">+</a>
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="pubg.php">+</a>
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Channel Surfing</h2>
+                                <h2 class="entry-title">PUBG</h2>
+                            </div><!--- .entry-header -->
+
+                            <div class="entry-footer">
+                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                            </div><!-- .entry-footer" -->
+                        </div><!-- .swiper-slide -->
+
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="images/quriosity.png" alt="">
+
+                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Quriosity.php">+</a>
+                            </figure><!-- .hero-image -->
+
+                            <div class="entry-header">
+                                <h2 class="entry-title">Quriosity</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
@@ -1233,38 +1266,6 @@
 
                             <div class="entry-header">
                                 <h2 class="entry-title">Shipwreck</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="images/kollywoodquiz.png" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="Kollywoodquiz.php">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Kollywood<br>Quiz</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="images/pubg.png" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="pubg.php">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">PUBG</h2>
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">

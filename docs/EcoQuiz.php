@@ -126,9 +126,9 @@
 
                         <p><strong>"Earth provides enough to satisfy every man's needs, But not every man's greed." - Mahatma Gandhi</strong></p>
                         <p>
-                            ‘Mother Nature’ is the real comrade who makes our very existence possible. She will be able to serve us only if we protect her. What have we given back to her?<br>
+                            <b>‘Mother Nature’</b> is the real comrade who makes our very existence possible. She will be able to serve us only if we protect her. What have we given back to her?<br>
                        
-                            It's time for all the nature lovers out there to brush up your knowledge about nature and come take part in the eco quiz in civilization 2020!<br>
+                            It's time for all the nature lovers out there to brush up your knowledge about nature and come take part in the Eco Quiz in Civilisation 20!<br>
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>
@@ -153,7 +153,7 @@
                         <h2 class="entry-header">RULES:</h2>
                         <ol>
                             <li>Mobile phone is not allowed.</li>
-                            <li>College Id and civilisation Id(will be provided) is mandatory.</li>
+                            <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
                             <li>A group can have at most 2 members.</li>
                             <li>There will be negative marks.</li>
                             <li>Everyone should bring a calculator.</li>

@@ -151,7 +151,7 @@ No Conjuring!But Kanchana.📽"<br>
                                               </ol>
                                               <h2 class="entry-header">RULES:</h2>
                                               <ol>
-                                                <li>Civilization 19 ID is mandatory</li>
+                                                <li>Civilisation 19 ID is mandatory</li>
                                                 <li>Minimum of two participants and maximum of three participants must be in a team.</li>
                                                 <li>Judges decision will be final and binding.</li>
                                                 <li>Use of mobile phones is strictly prohibited.</li>

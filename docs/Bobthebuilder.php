@@ -126,7 +126,7 @@
 
                         <p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>
                         <p>
-                        Soil mechanics is an art of science and Engineering. The observation of the performance of the soil is an essential part of any construction not only in laboratory and also in field.<br>
+                        Soil mechanics is an art of Science and Engineering. The observation of the performance of the soil is an essential part of any construction not only in laboratory and also in field.<br>
                         Are you a genius in mechanics of soil and hydraulics?<br>
                         Can you build a model engrained with deep knowledge of that?<br>
                         Then open your skills in making the model!<br>
@@ -145,8 +145,8 @@
                                       <li>Soil Mechanics</li>
                                       <li>Structural Analysis</li>
                                       <li>Concrete Structures</li>
-                                      <li>hydraulics</li>
-                                      <li>construction techniques & practices</li>
+                                      <li>Hydraulics</li>
+                                      <li>Construction Techniques & Practices</li>
                                     </ul>
                                 </ul>
                             </li>
@@ -155,7 +155,7 @@
                                     <li>Participants have to make a model of water retaining structure based on the problem statement.</li>
                                     <li>The model must be completed within the given time.</li>
                                     <li>Only the materials provided must be used.</li>
-                                    <li>In case of any discrepancies, the decision taken by the Judges and organisers will be final.</li>
+                                    <li>In case of any discrepancies, the decision taken by the Judges and Organisers will be final.</li>
                                 </ul>
                             </li>
                         </ol>
@@ -164,8 +164,8 @@
                         <ol>
                             <li>It is a dual day event.</li>
                             <li>A team can have maximum 3 participants per team.</li>
-                            <li>College ID/Civilisation ID is mandatory.</li>
-                            <li>Decision by judges is final.</li>
+                            <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
+                            <li>Decision by Judges is final.</li>
                             <li>Use of mobile is strictly prohibited.</li>
                         </ol>
                         <h2 class="entry-header">Prize And Venue:</h2>

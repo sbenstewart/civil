@@ -151,7 +151,7 @@
                                                 </ol>
                                                 <h2 class="entry-header">RULES:</h2>
                                                 <ol>
-                                                  <li>Civilization 19 ID is mandatory.</li>
+                                                  <li>Civilisation 19 ID is mandatory.</li>
                                                   <li>Mobile phone usage will definitely lead to disqualification.</li>
                                                   <li>A team can have minimum of 2 to maximum of 3 participants.</li>
                                                   <li>Decision made by the judges is final.</li>

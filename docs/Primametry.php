@@ -124,7 +124,7 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>“ A  man’s feet should be planted in his country, but his eyes should survey the world”. - George Santayana</strong></p>
+                        <p><strong>“A man’s feet should be planted in his country, but his eyes should survey the world.” - George Santayana</strong></p>
                         <p>
                              Do you dream of fulfilling your passion? Are you waiting for a spectacular chance to show off your talents? For delivering excellence in surveying and for adding value to your knowledge, we bring you a dazzling opportunity to enhance the power of applied intelligence. This is an event for smart people shining with skills!
                       </p>
@@ -134,13 +134,13 @@
                             <li>PRELIMS:
                                 <ul>
                                     <li>It is a pen and paper round.</li>
-                                    <li>Set of questions will be given with answer choices.</li>
+                                    <li>Set of questions will be given with choices.</li>
                                     <li>The top 5 teams will be selected for finals.</li>
                                 </ul>
                             </li>
                             <li>FINALS:
                                 <ul>
-                                    <li>The finalists will be asked to measure the height of a specific building.</li>
+                                    <li>The finalists will be asked to measure the Height of a specific building.</li>
                                     <li>Required instruments will be provided.</li>
                                     <li>Winners will be determined based on their accuracy.</li>
                                 </ul>
@@ -151,8 +151,8 @@
                         <ol>
                             <li>A team can only consist of three participants.</li>
                             <li>Mobile phones are not allowed and calculators can be brought.</li>
-                            <li>Decision made by the judges will be final.</li>
-                            <li>College ID and civilization ID(will be provided) are mandatory.</li>
+                            <li>Decision made by the Judges will be final.</li>
+                            <li>College ID and Civilisation ID (will be provided) are mandatory.</li>
                         </ol>
                         <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>

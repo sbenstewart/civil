@@ -124,9 +124,9 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>“Scientists investigate that which already is; Engineers create that which has never been”. - Albert Einstein</strong></p>
+                        <p><strong>“Scientists investigate that which already is; Engineers create that which has never been.” - Albert Einstein</strong></p>
                         <p>
-                        Waiting for a chance to showcase your talents? Are you an expert in detailing the smallest part with great efforts? Everything is designed and few things are designed well.  Here we provide a golden opportunity to test your technical and practical knowledge in civil engineering, to improvise the existing, and to create the unexpected.</p>
+                        Waiting for a chance to showcase your talents? Are you an expert in detailing the smallest part with great efforts? Everything is designed and few things are designed well.  Here we provide a golden opportunity to test your technical and practical knowledge in Civil Engineering, to improvise the existing, and to create the unexpected.</p>
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
@@ -152,7 +152,7 @@
                             <li>A team can only consist of 2 or 3 participants.</li>
                             <li>Mobile phones are not allowed and calculators can be brought.</li>
                             <li>Decision made by the judges will be final.</li>
-                            <li>College ID and Civilization ID (will be provided) are mandatory.</li>
+                            <li>College ID and Civilisation ID (will be provided) are mandatory.</li>
                         </ol>
 
                     </div>

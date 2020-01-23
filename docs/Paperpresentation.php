@@ -124,19 +124,19 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>The success of your presentation will be judged not by the knowledge you send but by what the listener receives." - Lilly Walters</strong></p>
+                        <p><strong>"The success of your presentation will be judged not by the knowledge you send but by what the listener receives." - Lilly Walters</strong></p>
                         <p>
-                        Want to express your views to the world? Have a brilliant idea you want to show-off? Want to develop your presentation skills? Get ready to express your views regarding civil engineering and sharpen your skills through this exclusive contest.<br>
-                        <b>" If you have an important point to make, don’t try to be subtle or clever. Make a paper presentation!!"</b><br>
+                        Want to express your views to the world? Have a brilliant idea you want to show-off? Want to develop your presentation skills? Get ready to express your views regarding Civil Engineering and sharpen your skills through this exclusive contest.<br>
+                        <b>"If you have an important point to make, don’t try to be subtle or clever. Make a paper presentation!!"</b><br>
                         Don't miss the opportunity and register now !!!<br>
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
-                            <li>After you have submitted the soft copy, a panel of judges will go through your material and if you are shortlisted to give the presentation, you will receive an acknowledgment mail along with date, venue and time.</li>
+                            <li>After you have submitted the abstract, a panel of Judges will go through your material and if you are shortlisted to give the presentation, you will receive an acknowledgment mail along with date, venue and time.</li>
                             <li>The teams will get 10 minutes for presentation followed by a question and answer session of 2 minutes.</li>
-                            <li>The decision of judges will be final and no argument or appeal will be entertained.</li>
-                            <li>Kindly contact the coordinators for clarifications.</li>
+                            <li>The decision of Judges will be final and no argument or appeal will be entertained.</li>
+                            <li>Kindly contact the organisers for clarifications.</li>
                         </ol>
 
                         <h2 class="entry-header">RULES:</h2>
@@ -146,9 +146,9 @@
                             <li>If your topic is chosen to be presented on the event day, you will be initiated.</li>
                             <li>Maximum number of participants in a Team is 2.</li>
                             <li>It is advisable that the presentation focuses on one particular topic.</li>
-                            <li>Must have College ID-Card and Civilization ID card on event day.</li>
+                            <li>Must have College ID and Civilisation ID (will be provided) on event day.</li>
                             <li>Please bring your PowerPoint presentation on a CD or a pen-drive.</li>
-                            <li>Soft-copies of the submitted paper and PowerPoint presentations must be in the .docx format.</li>
+                            <li>Soft-copies of the submitted paper must be in .docs and PowerPoint presentations must be in the .ppt format.</li>
                             <li>Difficulties will be addressed through the same email-id.</li>
                             <li>People from different institutions can be a part of the same team. However, one person may not be a part of multiple teams for the same event.</li>
                             <li>The abstract mail with submissions should contain:</li>

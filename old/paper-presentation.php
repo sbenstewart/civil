@@ -155,7 +155,7 @@
                                             </ol>
                                             <h2 class="entry-header">RULES:</h2>
                                             <ol>
-                                              <li>Civilization 19 ID is mandatory</li>
+                                              <li>Civilisation 19 ID is mandatory</li>
                                               <li>ID card is mandatory.</li>
                                               <li>Decision of the judges will be final and will not be subjected to further any discussion.</li>
                                               <li>Registration required.</li>

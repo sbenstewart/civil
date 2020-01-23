@@ -134,7 +134,7 @@
                                     <ul>
                                         <li>A written round consisting of questions based on bridge construction problems, statements and technical with a duration of 45 minutes. </li>
                                         <li>In Prelims, the participant’s basic knowledge on the below mentioned subjects will be tested.</li>
-                                        <li>Preliminary round which involves a questionnaire related to Structural Analysis, Soil Mechanics, RCC(Reinforced Cement and Concrete), Highways, Hydraulics and Hydrology and Construction techniques & practices.</li>
+                                        <li>Preliminary round which involves a questionnaire related to Structural Analysis, Soil Mechanics, RCC (Reinforced Cement and Concrete), Highways, Hydraulics and Hydrology and Construction techniques & practices.</li>
                                         <li>A team of maximum 3 members not necessarily from the same college can take part in the event.</li>
                                         <li>If there is tie between 2 or more teams the evaluation will be based upon * (Star) question. A team which has the maximum number of star questions will be given priority.</li>
                                         <li>If there is a tie in the * (Star) question, the evaluation will be based on the marks obtained in each section in the following order of priority:</li>
@@ -144,15 +144,12 @@
                                             <li>Construction techniques & practices</li>
                                             <li>Soil Mechanics</li>
                                         </ol>
-                                        <li>The prelims shall be conducted for maximum time period of 2.30 hours.</li>
-                                        <li>The top 5 or 6 participants qualify to finals.</li>
+                                        <li>The top 5 or 6 teams will qualify for the finals.</li>
                                     </ul>
                                 </li>
                                 <li>FINALS:<br>
                                     <ul>
-                                        <li>A written round consisting of questions based on bridge construction problems, statements and technical with a duration of 45 minutes.</li>
-                                        <li>In this round the participant’s deep knowledge in Structural Analysis and RCC will be tested by asking them to construct a bridge model.</li>
-
+                                        <li>In this round the participant’s deep knowledge in Structural Analysis and RCC will be tested by asking them to construct a Bridge model.</li>
                                         <li>The participants have to make a model based on the problem statement which will be provided on spot.</li>
                                         <li>The model will be tested for Structural parameters and aesthetics of the structure.</li>
                                     </ul>
@@ -165,7 +162,7 @@
                                     <ul>
                                         <li>A team of maximum 4 participants are allowed either from same college or even different college.</li>
                                         <li>Do not use mobile phones. The team will be disqualified in case of any malpractices.</li>
-                                        <li>‘*’ (STAR) Questions will be used for tie-breaks.</li>
+                                        <li>‘*’ (STAR) Questions will be used for tie-breakers.</li>
                                     </ul>
                                 </li>
                                 <li>FINALS:<br>
@@ -174,7 +171,7 @@
                                         <li>Only the materials provided must be used.</li>
                                         <li>In case of any discrepancies, the decision taken by the Judges and organisers will be finals.</li>
                                     </ul>
-                                    NOTES:<br>College ID and Civilization ID (will be provided) is mandatory.
+                                    NOTES:<br>College ID and Civilisation ID (will be provided) is mandatory.
                                 </li>
                             </ol>
                             <h2 class="entry-header">Prize And Venue:</h2>

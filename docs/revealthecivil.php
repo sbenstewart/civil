@@ -125,7 +125,7 @@
                             <!--<p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>-->
                             <p>
                                 <strong>"Scientists dream about doing great things. Engineers do them.” – James A Michener</strong><br>
-                                Are you a civil engineer keen on building your knowledge in this field? Apart from the many events conducted on Civil Engineering, this event will help decorate your resume as a fresher.<br />
+                                Are you a Civil Engineer keen on building your knowledge in this field? Apart from the many events conducted on Civil Engineering, this event will help decorate your resume as a fresher.<br />
                                 Be game and join this challenging event!
                             </p>
 
@@ -152,10 +152,10 @@
                                 
                                 <li>Only one answer is valid for MCQ’s in Prelims.</li>
                                 <li>Marks are not allotted for overwriting.</li>
-                                <li>Participants with marks above 20 will be allowed to take in the next round.</li>
+                                <li>Participants with marks above 20 will be allowed to take the next round.</li>
                                 <li>Using mobile phone is strictly prohibited.</li>
-                                <li>Participants with malpractices are disqualified.</li>
-                                <li>Civilisation'20 ID and college ID is mandatory.</li>
+                                <li>The participant will be disqualified in case of any malpractices.</li>
+                                <li>Civilisation ID (will be provided) and College ID is mandatory.</li>
                             </ol>
                             <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>

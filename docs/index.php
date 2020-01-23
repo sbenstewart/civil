@@ -552,7 +552,7 @@
                         <div class="row">
                             <div class="col flex flex-column justify-content-center">
                                 <div class="entry-header">
-                                    <div class="countdown flex align-items-center">
+                                    <div class="countdown flex justify-content-center">
                                         <div class="countdown-holder flex align-items-baseline">
                                             <span class="dday"></span>
                                             <label>Days</label>
@@ -574,7 +574,7 @@
                                         </div><!-- .countdown-holder -->
                                     </div><!-- .countdown -->
 
-                                    <h2 class="entry-title">See you at <br>Civilisation 2020</h2>
+                                    <h2 class="entry-title flex justify-content-center">See you at <br>Civilisation 2020</h2>
                                 </div><!--- .entry-header -->
 
                                 <!--<div class="entry-footer">
@@ -590,9 +590,9 @@
                 <div class="hero-content">
                     <div class="container">
                         <div class="row">
-                            <div class="col flex flex-column justify-content-center">
+                        <div class="col flex flex-column justify-content-center">
                                 <div class="entry-header">
-                                    <div class="countdown flex align-items-center">
+                                    <div class="countdown flex justify-content-center">
                                         <div class="countdown-holder flex align-items-baseline">
                                             <span class="dday"></span>
                                             <label>Days</label>
@@ -630,9 +630,9 @@
                 <div class="hero-content">
                     <div class="container">
                         <div class="row">
-                            <div class="col flex flex-column justify-content-center">
+                        <div class="col flex flex-column justify-content-center">
                                 <div class="entry-header">
-                                    <div class="countdown flex align-items-center">
+                                    <div class="countdown flex justify-content-center">
                                         <div class="countdown-holder flex align-items-baseline">
                                             <span class="dday"></span>
                                             <label>Days</label>

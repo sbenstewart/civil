@@ -162,9 +162,18 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Logapriya &emsp;7395976262</li>
-                                <li>Aarthi &emsp;9677173008</li>
-                                <li>Azhagurani &emsp;7846941902</li>
+                            <div class="row">
+                        <div class="col-2">
+                                <li>Logapriya </li>
+                                <li>Aarthi </li>
+                                <li>Azhagurani </li>
+                        </div>
+                                <div class="col-2">
+                                7395976262 <br />
+                                9677173008 <br />
+                                7846941902
+                        </div >
+                        </div>
                             </ul>
 
 

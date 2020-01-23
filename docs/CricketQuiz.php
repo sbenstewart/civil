@@ -180,9 +180,17 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Kiruthika&emsp;7373015319</li>
-                                <li>Karthick&emsp;9080603001</li>
-                                <li>Balamurugan&emsp;7538861772</li>
+                            <div class="row">
+                        <div class="col-2">
+                                <li>Kiruthika </li>
+                                <li>Karthick </li>
+                                <li>Balamurugan </li> </div>
+                                <div class="col-2">
+                                7373015319 <br />
+                                9080603001 <br />
+                                7538861772
+                        </div>
+                        </div>
                             </ul>
 
                         </div>

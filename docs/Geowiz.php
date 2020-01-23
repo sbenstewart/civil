@@ -178,8 +178,16 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Maharani &emsp;9944630408</li>
-                                <li>Manoj &emsp;7358893690</li>
+                            <div class="row">
+                        <div class="col-2">
+                                <li>Maharani </li>
+                                <li>Manoj </li>
+                        </div>
+                                <div class="col-2">
+                                9944630408 <br />
+                                7358893690
+                        </div >
+                        </div >
                                 
                             </ul>
 

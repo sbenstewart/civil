@@ -124,7 +124,7 @@
 
                             <p><strong>"There is nothing more reassuring than realizing that the world is crazier than your are" - Eric selvig.</strong></p>
                             <p>
-                                This year Civilisation’20 welcomes you to this "MARVEL"OUS  quiz. If you are a “Marvel”ous fanatic of marvel then this is the quiz for you. Challenge yourself on your knowledge & Know-how at our most Awaited event. “MARVEL”OUS. Stay tuned to “Witness the unwitnessed.”
+                                This year Civilisation’20 welcomes you to this "MARVEL"OUS  quiz. If you are a "Marvel"ous fanatic of marvel then this is the quiz for you. Challenge yourself on your knowledge & Know-how at our most Awaited event. "MARVEL"OUS. Stay tuned to "Witness the unwitnessed."
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>

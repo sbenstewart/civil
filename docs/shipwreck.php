@@ -124,7 +124,7 @@
 
                             <p><Strong>"This isnt titanic and u arent jake so just go for the jacket."</Strong>
                                 Come prove your persuasion skills to us here at civilisation’20!<br/>
-                                Shipwreck is a one of a kind event, where you will be given famous personalities to impersonate and will have to convince the judges “Captain of the Ship” to save you from the sinking ship! who unfortunately, has only one life jacket. Why save you when the Captain can save your opponent? You tell us!<br/>
+                                Shipwreck is a one of a kind event, where you will be given famous personalities to impersonate and will have to convince the judges "Captain of the Ship" to save you from the sinking ship! who unfortunately, has only one life jacket. Why save you when the Captain can save your opponent? You tell us!<br/>
                                 A Humorous ride to exciting Prizes!
                             </p>
 

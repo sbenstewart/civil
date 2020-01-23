@@ -122,7 +122,7 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><strong>““The project you are most scared to do is the one that holds your greatest growth” – Robin S Sharma</strong></p>
+                            <p><strong>""The project you are most scared to do is the one that holds your greatest growth" – Robin S Sharma</strong></p>
                             <p>
                                 CIVILISATION’20 gives you an opportunity to display your talent to the world through this project. This event is a platform which enables you to exhibit your Civil Engineering ideas and also gives you a chance to win an internship.<br />
                                 &emsp;DREAM IT.<br>

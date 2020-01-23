@@ -122,9 +122,9 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <!--<p><strong>“Trials teach us what we are; they dig up the soil,and let us see what we are made of.” - Charles Spurgeon</strong></p>-->
+                            <!--<p><strong>"Trials teach us what we are; they dig up the soil,and let us see what we are made of." - Charles Spurgeon</strong></p>-->
                             <p>
-                                <strong>"Scientists dream about doing great things. Engineers do them.” – James A Michener</strong><br>
+                                <strong>"Scientists dream about doing great things. Engineers do them." – James A Michener</strong><br>
                                 Are you a Civil Engineer keen on building your knowledge in this field? Apart from the many events conducted on Civil Engineering, this event will help decorate your resume as a fresher.<br />
                                 Be game and join this challenging event!
                             </p>

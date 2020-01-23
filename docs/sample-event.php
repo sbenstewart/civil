@@ -144,7 +144,7 @@
                             <li>FINALS:
                                 <ul>
                                     <li>The selected teams will be given a hint of any entrepreneurship idea. They have to develop the idea and demonstrate for 5-10 minutes.</li>
-                                    <li>Example for hint: “Event Planner”.</li>
+                                    <li>Example for hint: "Event Planner".</li>
                                 </ul>
                             </li>
                         </ol>

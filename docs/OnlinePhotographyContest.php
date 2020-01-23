@@ -99,7 +99,7 @@
                 <div class="row">
                     <div class="col-12">
                         <header class="entry-header">
-                            <h1 class="entry-title">“TAKE US HOME” - ONLINE PHOTOGRAPHY CONTEST</h1>
+                            <h1 class="entry-title">"TAKE US HOME" - ONLINE PHOTOGRAPHY CONTEST</h1>
                         </header>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
 
 
                             <p>
-                                <strong>“ A Picture is Equivalent to a million words”</strong><br />
+                                <strong>" A Picture is Equivalent to a million words"</strong><br />
                                 So what message do you wish to convey this Civilisation 2020?  
                             </p>
 

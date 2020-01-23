@@ -238,7 +238,7 @@
                                     <li>By Auto/Taxi<br>
                                     In case you have too much luggage, try Auto or Taxi. You can also avail the facility of
                                     prepaid auto service .The fare will be around Rs.160.
-                                    State the destination as “Anna University Kotturpuram Gate.
+                                    State the destination as "Anna University Kotturpuram Gate.
                                     </li>
                             </ul>
                         </li>

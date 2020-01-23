@@ -122,7 +122,7 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><strong>“Bridges take people across rivers. Leaders take people across ignorance. With a leader, the destination of a journey is sure.” - Israelmore Ayivor</strong></p>
+                            <p><strong>"Bridges take people across rivers. Leaders take people across ignorance. With a leader, the destination of a journey is sure." - Israelmore Ayivor</strong></p>
                             <p>
                                 Put your profound learning in the Civil Engineering core subjects to test. Further, this event also gives you the opportunity to bring your envisioned ideas of your ideal bridge to reality by allowing you to construct a model of the same! Participate in this event and discover your potential!<br>
                             </p>

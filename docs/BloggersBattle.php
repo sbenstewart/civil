@@ -130,7 +130,7 @@
 
                             <ol>
                                 <li>Essays should be mailed in PDF format to the e-mail address: <a href="mailto:civilisceg@gmail.com"> civilisceg@gmail.com </a></li>
-                                <li>The blog should be mailed with the subject name “blog topic name”.</li>
+                                <li>The blog should be mailed with the subject name "blog topic name".</li>
                                 <li>The mail should contain the Name, Register number, Branch name and contact details of the Participant.</li>
                                 <li>Deadline for he submission of articles : 28/02/2020( Friday) </li>
                             </ol>

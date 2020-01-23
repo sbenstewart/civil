@@ -124,8 +124,8 @@
 
                             <p>
                                 <strong>"Acropolis, where tradition meets innovation."</strong><br />
-                                From skylines to shorelines, one thing remains common and that is “transportation”.<br>
-                                This year Acropolis, an event under Civilization’20 is the event to be at if you’re a highway engineering geek or aspire to inculcate an interest in the same.<br>
+                                From skylines to shorelines, one thing remains common and that is “Transportation”.<br>
+                                This year Acropolis, an event under Civilisation’20 is the event to be at if you’re a Highway Engineering geek or aspire to inculcate an interest in the same.<br>
                                <br>
                             </p>
 
@@ -133,11 +133,11 @@
                             <ol>
                                 <li>PRELIMS:
                                     <ul>
-                                        <li>A team of 2 or three members are allowed.</li>
+                                        <li>A team of 2 or 3 members are allowed.</li>
                                         <li>The prelims will contain a set of 25 questions.</li>
-                                        <li>Questions will be from highway engineering.</li>
+                                        <li>Questions will be from Highway Engineering.</li>
                                         <li>Time allowed is 30 minutes.</li>
-                                        <li>‘*’ (STAR) questions will be used for tie breaks.</li>
+                                        <li>‘*’ (STAR) questions will be used for tie breakers.</li>
                                     </ul>
                                 </li>
                                 <li>FINALS:
@@ -149,7 +149,7 @@
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                <li>Civilisation’20 ID and college ID (will be provided) are mandatory.</li>
+                                <li>Civilisation’20 ID and College ID (will be provided) are mandatory.</li>
                                 <li>The team will be disqualified in case of any discrepancies.</li>
                                 <li>Use of mobile phone is strictly prohibited.</li>
                             </ol>

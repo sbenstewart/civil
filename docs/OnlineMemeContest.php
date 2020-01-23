@@ -173,13 +173,13 @@
                                 <li>No vulgarity, plagiarism.</li>
 
                             </ul>
-                            <h2 class="entry-header">Prize :</h2>
+                           <!-- <h2 class="entry-header">Prize :</h2>
                             <ul>
                                 <dl>
                                     <dd>
                                         <li><dt>Winner : <strong>1500 INR</strong></li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
 
                         </div>

@@ -154,7 +154,7 @@
                             <li>Decision made by the judges will be final.</li>
                             <li>College ID and civilization ID(will be provided) are mandatory.</li>
                         </ol>
-                        <h2 class="entry-header">Prize And Venue:</h2>
+                        <!-- <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -169,7 +169,7 @@
                                             <dt>Prelims :<strong>EG hall</strong>
                                             <dt>Finals :<strong>Ground</strong></li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
                     </div>
 

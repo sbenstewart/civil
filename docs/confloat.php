@@ -169,7 +169,7 @@
                                     Use of admixtures is allowed. Use of asbestos sheet and cardboard will prone to elimination.</li>
                             </ol>
 
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                           <!-- <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -183,7 +183,7 @@
                                         <li> <b>Venue</b>:<strong> CM Lab </strong>
                                         </li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
 
                         </div>

@@ -154,7 +154,7 @@
                                 <li>College ID and Civilization ID (will be provided) is mandatory.</li>
                                 <li>Decision made by the jury is Final and binding</li>
                             </ol>
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                            <!--<h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -169,7 +169,7 @@
                                             <dt>Prelims :<strong>CWR and KP 312 </strong>
                                             <dt>Finals :<strong> Projector Room</strong></li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
 
                         </div>

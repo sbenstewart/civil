@@ -153,7 +153,7 @@
                                 <li>The team will be disqualified in case of any discrepancies.</li>
                                 <li>Use of mobile phone is strictly prohibited.</li>
                             </ol>
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                            <!-- <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -168,7 +168,8 @@
                                             <dt>Prelims :<strong>KP </strong>
                                             <dt>Finals :<strong>Highway lab</strong></li>
                                 </dl>
-                            </ul>
+                            </ul> 
+                            -->
 
                         </div>
 

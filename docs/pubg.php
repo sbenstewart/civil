@@ -152,7 +152,7 @@
                                     Use of Vulgar Language or disturbance of decorum will be dealt with severely.</li>
                             </ol>
 
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                            <!-- <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -167,7 +167,7 @@
                                         <li> <b>Venue</b>:<strong> KP </strong>
                                         </li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
                         </div>
 

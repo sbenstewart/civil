@@ -169,7 +169,7 @@
 
                             </dl>
 
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                            <!-- <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -183,7 +183,7 @@
                                         <li> <b>Venue</b>:<strong> To be anounced </strong>
                                         </li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
                         </div>
 

@@ -166,7 +166,7 @@
                                 <li>Only one entry per person</li>
 
                             </ul>
-                            <h2 class="entry-header">PRIZE:</h2>
+                            <!-- <h2 class="entry-header">PRIZE:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -176,7 +176,7 @@
                                     
                                         </li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
 
                         </div>

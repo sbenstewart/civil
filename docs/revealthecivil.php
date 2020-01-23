@@ -157,7 +157,7 @@
                                 <li>Participants with malpractices are disqualified.</li>
                                 <li>Civilisation'20 ID and college ID is mandatory.</li>
                             </ol>
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                           <!-- <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -173,6 +173,7 @@
                                             <dt>Finals :<strong>Projector Room</strong></li>
                                 </dl>
                             </ul>
+                            -->
 
                         </div>
 

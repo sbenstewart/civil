@@ -156,7 +156,7 @@
                                 <li>Participants are requested to bring calculators.</li>
                                 <li>Use of mobile phone is strictly prohibited.</li>
                             </ol>
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                            <!--<h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -171,7 +171,7 @@
                                             <dt>Prelims :<strong>KP room or EG hall</strong>
                                             <dt>Finals :<strong>Soil Mechanics lab</strong></li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
                         </div>
 

@@ -149,7 +149,7 @@
                                 <li>Can a team have members of different college?<br>No, a team cannot have members from different colleges.</li>
                                 <li>Will I get a certificate of participation?<br>Top 3 teams will receive cash prize and certificate of merit. Top 5 teams will receive certificate of participation.</li>
                             </ol>
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                            <!--<h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -163,7 +163,7 @@
                                         <li> <b>Venue</b>:<strong> KP </strong>
                                         </li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
                         </div>
 

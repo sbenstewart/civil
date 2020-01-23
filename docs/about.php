@@ -267,7 +267,7 @@
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
                             <li><a href="accomodation.php">ACCOMMODATION</a></li>
-                            <li><a href="about.php">CONTACT</a></li>
+                            <li><a href="about.php">ABOUT</a></li>
                     </ul>
                 </nav>
 

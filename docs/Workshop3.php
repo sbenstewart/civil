@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">Pre Stressed Concrete Bridges</h1>
+                        <h1 class="entry-title">Steel Structures</h1>
                     </header>
                 </div>
             </div>
@@ -128,15 +128,16 @@
                         <div class="col-6 col-md-3 order-md-2 col-lg-3 order-lg-2 col-xl-3 order-xl-2 align-self-center mt-1">
                             <figure class="events-thumbnail text-center">
                                 <img class="figure-img img-fluid" src="images/ever.png" alt="">
-                            </figure> 
+                            </figure>
                         </div>
                         <div class="col-12 col-md-9 col-lg-9 col-xl-9">
                             <p>This event is conducted by</p>
 
                             <h2 class="entry-header">EVERSENDAI</h2>
-                            <!--<p><strong>Vice President, Head of Public Space Business Unit of L&T Construction.</strong></p>-->
+
+                            <p><strong>A.SOUNDARARAJAN - ME (Structural)  - Asst. General Manager<br>Dr.K.SARAVANAN - ME (Structural)., MBA ., Ph.D ., F.I.E .,  - Senior Vice President</strong></p>
                             <p>
-                            In the field of bridge engineering, the introduction of prestressed concrete has aided the construction of Long-span concrete bridges. However, deterioration of these bridges before the end of their stipulated design life poses a challenging yet intriguing question to us Civil Engineers. This workshop hopes to inculcate knowledge we already possess and to train young budding minds to come up with innovative solutions to uncommon situations.  It also holds  an overview of such innovative technologies on prestressed concrete bridges ,their development & application in real time construction projects. Some noteworthy structures which represent the state- of -the- art technologies in the construction of prestressed concrete bridges  will also be presented.
+                            This workshop introduces innovative erection methodologies of steel structures. If you've navigated the streets of a developing city, you would notice that the steel frameworks rise over the cityscape. The structural steel members assemble as a lattice, a strengthened cage of carbon-reinforced beams. Steel erection principles guide this process, taking the structure up one level at a time until the barebones of the building are fully executed. Dozens of daring civil engineering projects and never-before-attempted schemes are actively involved in this erection methodologies. So do come participate with us to “Widen your Horizons”!
                             </p>
                         </div>
                     </div>

@@ -124,17 +124,17 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>"Knowledge of the and of the places on the earth is the ornament and food of the mind of the man." - Leonardo da Vinci</strong></p>
+                        <p><strong>"Knowledge of the past and of the places on the earth is the ornament and food of the mind of the man." - Leonardo da Vinci</strong></p>
                         <p>
                         All our knowledge begins with senses, proceeds then to understanding and ends with reason. To catch up with this dynamic world, there’s a need to know about the current affairs.<br>
-                        Quench your thirst for knowledge, by taking part in the Quriosity quiz of C’20 to share your thirst for knowledge.<br>
+                        Quench your thirst for knowledge, by taking part in the Quriosity quiz of Civilisation’20 to share your thirst for knowledge.<br>
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
                             <li>PRELIMS:
                                 <ul>
-                                    <li>A team of 2 or three members are allowed.</li>
+                                    <li>A team of two or three members are allowed.</li>
                                     <li>The prelims will contain a set of 25 questions.</li>
                                     <li>Time allowed is 30 minutes.</li>
                                     <li>‘*’ (STAR) questions will be used for tie breaks.</li>
@@ -149,7 +149,7 @@
 
                         <h2 class="entry-header">RULES:</h2>
                         <ol>
-                            <li>Civilisation’20 ID and college ID is mandatory</li>
+                            <li>Civilisation ID (wil be provided) and College ID is mandatory</li>
                             <li>The team will be disqualified in case of any discrepancies.</li>
                             <li>Use of mobile is strictly prohibited.</li>
                         </ol>

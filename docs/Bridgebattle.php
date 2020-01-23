@@ -174,7 +174,7 @@
                                         <li>Only the materials provided must be used.</li>
                                         <li>In case of any discrepancies, the decision taken by the Judges and organisers will be finals.</li>
                                     </ul>
-                                    NOTES:<br>College ID and Civilization ID (will be provided) is mandatory.
+                                    NOTES:<br>College ID and Civilisation ID (will be provided) is mandatory.
                                 </li>
                             </ol>
                             <h2 class="entry-header">Prize And Venue:</h2>

@@ -152,7 +152,7 @@
                             <li>A team can only consist of three participants.</li>
                             <li>Mobile phones are not allowed and calculators can be brought.</li>
                             <li>Decision made by the judges will be final.</li>
-                            <li>College ID and civilization ID(will be provided) are mandatory.</li>
+                            <li>College ID and civilisation ID(will be provided) are mandatory.</li>
                         </ol>
                         <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>

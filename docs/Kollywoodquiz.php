@@ -151,7 +151,7 @@
                             <ol>
                                 <li>Participants of maximum three per team are allowed.</li>
                                 <li>Using mobile phones are restricted.</li>
-                                <li>College ID and Civilization ID (will be provided) is mandatory.</li>
+                                <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
                                 <li>Decision made by the jury is Final and binding</li>
                             </ol>
                             <h2 class="entry-header">Prize And Venue:</h2>

@@ -153,7 +153,7 @@
                                 <li>
                                     Each team should consist of two to three members only.</li>
                                 <li>
-                                    Participants should carry their college ID card and Civilization ID card (will be provided )is mandatory.</li>
+                                    Participants should carry their college ID card and Civilisation ID card (will be provided )is mandatory.</li>
                                 <li>
                                     The abstract should be attested by the Head of the Department of your college.</li>
                                 <li>

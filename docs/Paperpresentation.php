@@ -146,7 +146,7 @@
                             <li>If your topic is chosen to be presented on the event day, you will be initiated.</li>
                             <li>Maximum number of participants in a Team is 2.</li>
                             <li>It is advisable that the presentation focuses on one particular topic.</li>
-                            <li>Must have College ID-Card and Civilization ID card on event day.</li>
+                            <li>Must have College ID-Card and Civilisation ID card on event day.</li>
                             <li>Please bring your PowerPoint presentation on a CD or a pen-drive.</li>
                             <li>Soft-copies of the submitted paper and PowerPoint presentations must be in the .docx format.</li>
                             <li>Difficulties will be addressed through the same email-id.</li>

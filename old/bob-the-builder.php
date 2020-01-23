@@ -120,7 +120,7 @@
                                       <div class="tabs-container">
                                           <div id="tab_details" class="tab-content">
 
-                                              <p><strong><b>""You can't have a healthy civilization without healthy soil. You can't have junk food and have healthy people."
+                                              <p><strong><b>""You can't have a healthy civilisation without healthy soil. You can't have junk food and have healthy people."
                                                 &emsp;&emsp;&emsp;&emsp;- Joel Salatin</b></strong>
                                                 <br>
                                                 <br>

@@ -174,7 +174,7 @@
                                     NOTES:<br>College ID and Civilisation ID (will be provided) is mandatory.
                                 </li>
                             </ol>
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                            <!--<h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -189,7 +189,7 @@
                                             <dt>Prelims :<strong>KP or EG hall</strong>
                                             <dt>Finals :<strong>EG hall</strong></li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
                         </div>
 

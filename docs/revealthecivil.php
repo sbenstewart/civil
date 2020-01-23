@@ -157,7 +157,7 @@
                                 <li>The participant will be disqualified in case of any malpractices.</li>
                                 <li>Civilisation ID (will be provided) and College ID is mandatory.</li>
                             </ol>
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                           <!-- <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -173,6 +173,7 @@
                                             <dt>Finals :<strong>Projector Room</strong></li>
                                 </dl>
                             </ul>
+                            -->
 
                         </div>
 

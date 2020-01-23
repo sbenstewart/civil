@@ -154,7 +154,7 @@
                                 <li>Mail your queries to the mail id mentioned above.</li>
                             </ol>
 
-                            <h2 class="entry-header">Prize:</h2>
+                           <!-- <h2 class="entry-header">Prize:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -166,8 +166,10 @@
 
 
 
+
                                 </dl>
                             </ul>
+                            -->
 
                         </div>
 

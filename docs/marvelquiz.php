@@ -148,7 +148,7 @@
                                 <li>College Id and civilisation Id(will be provided) is mandatory.</li>
                             </ol>
 
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                            <!--<h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -162,7 +162,7 @@
                                         <li> <b>Venue</b>:<strong> KP </strong>
                                         </li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
                         </div>
 

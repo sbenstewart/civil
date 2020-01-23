@@ -61,7 +61,7 @@
                             <li><a href="index.php#events">EVENTS</a></li>
                             <li><a href="index.php#lectures">LECTURES</a></li>
                             <li><a href="accomodation.php">ACCOMMODATION</a></li>
-                            <li><a href="about.php">CONTACT</a></li>
+                            <li><a href="about.php">ABOUT</a></li>
                             <?php
                             // Start the session
 

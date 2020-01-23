@@ -871,13 +871,13 @@
             <div class="col-12 col-sm-6 col-md-4">
                 <div class="next-event-wrap">
                     <figure>
-                        <a href="Workshop3.php"><img src="images/workshop.png" alt="1"></a>
+                        <a href="Workshop3.php"><img src="images/workshop3.png" alt="1"></a>
 
                         <div class="event-rating">7<sup>th</sup></div>
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">To be announced</h3>
+                        <h3 class="entry-title">Steel Structures</h3>
 
                         <div class="posted-date"><span>Eversendai</span></div>
                         <div class="posted-date">Saturday <span>March 7, 2020</span></div>

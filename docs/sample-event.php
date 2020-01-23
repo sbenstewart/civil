@@ -56,7 +56,7 @@
                             <li><a href="index.php#events">EVENTS</a></li>
                             <li><a href="index.php#lectures">LECTURES</a></li>
                             <li><a href="accomodation.php">ACCOMMODATION</a></li>
-                            <li><a href="about.php">CONTACT</a></li>
+                            <li><a href="about.php">ABOUT</a></li>
                             <?php
                             // Start the session
 
@@ -201,7 +201,7 @@
 
     $print ='
     <div class="entry-content flex">
-        <a href="https://www.townscript.com/e/tall-structures-232334" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
+        <a href="https://www.townscript.com/e/c20events" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
     </div>
     ';
     }
@@ -285,7 +285,7 @@
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
                             <li><a href="accomodation.php">ACCOMMODATION</a></li>
-                            <li><a href="about.php">CONTACT</a></li>
+                            <li><a href="about.php">ABOUT</a></li>
                     </ul>
                 </nav>
 

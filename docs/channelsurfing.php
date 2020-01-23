@@ -149,7 +149,7 @@
                                 <li>Participants can be from any department but should be of the same college</li>
                             </ol>
 
-                            <h2 class="entry-header">Prize And Venue:</h2>
+                            <!-- <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -162,7 +162,7 @@
                                     <dd>
                                         <li> <b>Venue</b>:<strong> To be anounced </strong></li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
 
                         </div>

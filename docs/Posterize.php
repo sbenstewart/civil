@@ -151,7 +151,7 @@
                             <li>There are only limited slots.The slots will be filled on the basics of those who apply earliest are most likely to get what they want.</li>
                             <li>Call for any doubts and queries.</li>
                         </ol>
-                        <h2 class="entry-header">Prize And Venue:</h2>
+                        <!-- <h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -165,7 +165,7 @@
                                         <li> <b>Venue</b>:<strong> EG hall </strong>
                                         </li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
                     </div>
 

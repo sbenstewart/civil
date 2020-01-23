@@ -159,7 +159,7 @@
                             <li>Everyone should bring a calculator.</li>
                         </ol>
                        
-                        <h2 class="entry-header">Prize And Venue:</h2>
+                        <!--<h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
                                     <dd>
@@ -174,7 +174,7 @@
                                             <dt>Prelims :<strong>KP </strong>
                                             <dt>Finals :<strong> Projector Room</strong></li>
                                 </dl>
-                            </ul>
+                            </ul> -->
 
 
                     </div>

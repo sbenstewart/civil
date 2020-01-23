@@ -175,8 +175,17 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Rishanth A&emsp;9626323380</li>
-                        <li>Iyyappan E&emsp;9344541455</li>
+                        <div class="row">
+                        <div class="col-2"> 
+                        <li>Rishanth </li>
+                        <li>Iyyappan </li>
+                        </div>
+                        
+                        <div class="col-2"> 
+                        9626323380 <br />
+                        9344541455
+                        </div>
+                        </div>
                         </ul>
 
                     </div>

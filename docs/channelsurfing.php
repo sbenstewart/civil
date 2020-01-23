@@ -171,9 +171,18 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Sreenivas &emsp;9940200125</li>
-                                <li>Ashwin&emsp;9840157790</li>
-                                <li>Gowsika&emsp;9442466711</li>
+                            <div class="row">
+                        <div class="col-2">
+                                <li>Sreenivas </li>
+                                <li>Ashwin </li>
+                                <li>Gowsika </li>
+                        </div >
+                                <div class="col-2">
+                                9940200125 <br />
+                                9840157790 <br />
+                                9442466711 <br />
+                        </div >
+                        </div >
                             </ul>
 
                         </div>

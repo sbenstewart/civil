@@ -172,8 +172,16 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Saranya Gunasekaran&emsp;996247884</li>
-                        <li>Sathiya Suppaiya&emsp;7502048649</li>
+                        <div class="row">
+                        <div class="col-2"> 
+                        <li>Saranya Gunasekaran</li>
+                        <li>Sathiya Suppaiya</li>
+                        </div>
+                        <div class="col-2"> 
+                        996247884 <br />
+                        7502048649
+                        </div>
+                        </div>
                         </ul>
                         
                     </div>

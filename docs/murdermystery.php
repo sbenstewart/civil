@@ -179,9 +179,16 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
+                            <div class="row">
+                        <div class="col-2"> 
 
-                                <li>Aruljothi&emsp;9080219723</li>
-                                <li>Prabaharan R&emsp;99762261425</li>
+                                <li>Aruljothi</li>
+                                <li>Prabaharan </li> </div>
+                                <div class="col-2"> 
+                                9080219723 <br />
+                                99762261425
+                        </div>
+                        </div>
                             </ul>
 
                         </div>

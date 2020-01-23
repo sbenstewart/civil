@@ -176,8 +176,17 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Guru Preethi&emsp;9080353002</li>
-                        <li>Vinoth Kumar&emsp;9715111033</li>
+                        <div class="row">
+                        <div class="col-2"> 
+                        <li>Guru Preethi </li>
+                        <li>Vinoth Kumar </li> 
+                        </div>
+                        <div class="col-2"> 
+                        9080353002 <br />
+                        9715111033 
+                        </div>
+                    </div>
+
                         </ul>
 
 

@@ -177,8 +177,17 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>Sundar&emsp;9597947773</li>
-                                <li>Bala&emsp;7538861772</li>
+                            <div class="row">
+                        <div class="col-2">
+                                <li>Sundar</li>
+                                <li>Bala</li>
+                        </div>
+                                <div class="col-2">
+                                9597947773 <br />
+                                7538861772
+                        </div>
+                        </div>
+
                             </ul>
 
                         </div>

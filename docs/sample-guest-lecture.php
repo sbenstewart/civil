@@ -124,7 +124,7 @@
                     <div id="tab_details" class="tab-content">
 
                         
-                        <p><strong>“How can there be any progress of the country without the spread of education, the dawning of knowledge?” - Swami Vivekananda</strong></p>
+                        <p><strong>"How can there be any progress of the country without the spread of education, the dawning of knowledge?" - Swami Vivekananda</strong></p>
                         <p>
                         Civilisation’20 brings you the eminent people who have excelled in their field of work to share their knowledge and experience with you. Grab your seats, get inspired, gain updates, let the zeal and knowledge unite!!!
                         </p>

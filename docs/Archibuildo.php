@@ -124,7 +124,7 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>“Scientists investigate that which already is; Engineers create that which has never been.” - Albert Einstein</strong></p>
+                        <p><strong>"Scientists investigate that which already is; Engineers create that which has never been." - Albert Einstein</strong></p>
                         <p>
                         Waiting for a chance to showcase your talents? Are you an expert in detailing the smallest part with great efforts? Everything is designed and few things are designed well.  Here we provide a golden opportunity to test your technical and practical knowledge in Civil Engineering, to improvise the existing, and to create the unexpected.</p>
 

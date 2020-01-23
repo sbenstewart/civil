@@ -123,7 +123,7 @@
                 <div class="tabs-container">
                     <div id="tab_details" class="tab-content">                      
                         <h2 class="entry-header">225<sup>th</sup> year of CEG</h2>
-                        <p>Located at the Heart of Chennai, is our very own College of Engineering Guindy, a dream and desire that students all across Tamil Nadu aspire to touch. Founded in 1794, CEG holds laurels of being amongst the top ten institutions in the country, with a rich history spanning over 225 years. Living up to its motto of “PROGRESS THROUGH KNOWLEDGE”, it has been at the fore with it’s cutting-edge research, technology and innovation in shaping the world. True to its esteem, even today CEG stands as a beacon of light to students who wish to make a change in the world.</p>
+                        <p>Located at the Heart of Chennai, is our very own College of Engineering Guindy, a dream and desire that students all across Tamil Nadu aspire to touch. Founded in 1794, CEG holds laurels of being amongst the top ten institutions in the country, with a rich history spanning over 225 years. Living up to its motto of "PROGRESS THROUGH KNOWLEDGE", it has been at the fore with it’s cutting-edge research, technology and innovation in shaping the world. True to its esteem, even today CEG stands as a beacon of light to students who wish to make a change in the world.</p>
                     </div>
 
                     <div id="tab_venue" class="tab-content">

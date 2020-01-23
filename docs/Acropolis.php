@@ -124,7 +124,7 @@
 
                             <p>
                                 <strong>"Acropolis, where tradition meets innovation."</strong><br />
-                                From skylines to shorelines, one thing remains common and that is “Transportation”.<br>
+                                From skylines to shorelines, one thing remains common and that is "Transportation".<br>
                                 This year Acropolis, an event under Civilisation’20 is the event to be at if you’re a Highway Engineering geek or aspire to inculcate an interest in the same.<br>
                                <br>
                             </p>

@@ -135,9 +135,9 @@
                             <p>This event is conducted by</p>
 
                             <h2 class="entry-header">LARSEN & TOUBRO</h2>
-                            <p><strong>M Bharanidharan, M.E Structural Engg.Senior engineering manager at L&T With over 15 years of expertise.</strong></p>
+                            <p><strong>M Bharanidharan, M.E Structural Engg.Senior engineering manager at L&T with over 15 years of expertise.</strong></p>
                             <p>
-                            In the field of bridge engineering, the introduction of prestressed concrete has aided the construction of Long-span concrete bridges. However, deterioration of these bridges before the end of their stipulated design life poses a challenging yet intriguing question to us Civil Engineers. This workshop hopes to inculcate knowledge we already possess and to train young budding minds to come up with innovative solutions to uncommon situations.  It also holds  an overview of such innovative technologies on prestressed concrete bridges ,their development & application in real time construction projects. Some noteworthy structures which represent the state- of -the- art technologies in the construction of prestressed concrete bridges  will also be presented.
+                            In the field of Bridge Engineering, the introduction of prestressed concrete has aided the construction of Long-span concrete bridges. However, deterioration of these bridges before the end of their stipulated design life poses a challenging yet intriguing question to us Civil Engineers. This workshop hopes to inculcate knowledge we already possess and to train young budding minds to come up with innovative solutions to uncommon situations.  It also holds  an overview of such innovative technologies on prestressed concrete bridges, their development & application in real time construction projects. Some noteworthy structures which represent the state-of-the-art technologies in the construction of prestressed concrete bridges  will also be presented.
                             </p>
                         </div>
                     </div>
@@ -145,7 +145,7 @@
                         <div class="col-12">
                             <h2 class="entry-header">INSTRUCTIONS:</h2>
                             <ul>
-                                <li>Both online & spot payments are available.</li>
+                                <li>Both online & onspot payments are available.</li>
                                 <li>The fee per workshop will be 650 INR.</li>
                                 <li>Food and T shirts can be availed only for online registration.</li>
                                 <li>T shirt cost will be 150 INR & Food cost will be 100 INR.  They are not inclusive of the workshop fee.</li>

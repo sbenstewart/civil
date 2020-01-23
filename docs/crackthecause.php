@@ -122,7 +122,7 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><strong>“Everyone has two eyes but no one has the same view.” - Anonymous</strong></p>
+                            <p><strong>"Everyone has two eyes but no one has the same view." - Anonymous</strong></p>
                             <p>
                                 Thinking is more interesting than knowing, but less interesting than looking. Don’t just look, think and find the reason behind it. Yes, you read it right, just find the reason. Sounds easy, doesn’t it? Come and try your luck.
                             </p>

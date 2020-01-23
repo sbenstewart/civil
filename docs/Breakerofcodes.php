@@ -124,7 +124,7 @@
                     <div id="tab_details" class="tab-content">
 
 
-                       <p><strong>“No solution can ever be found by running in three different directions.” - Deepak Chopra</strong></p>
+                       <p><strong>"No solution can ever be found by running in three different directions." - Deepak Chopra</strong></p>
                         Excited seeing the title? Don’t fantasize. You are no techie. Ever thought that you mastered the IS code?<br>
                         Do you think you don’t need an IS code book to solve? Prove you’re worth here. Break the code to make your way to glory!<br>
                         </p>

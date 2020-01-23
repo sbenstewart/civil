@@ -99,7 +99,7 @@
                 <div class="row">
                     <div class="col-12">
                         <header class="entry-header">
-                            <h1 class="entry-title">“TAKE US HOME” - ONLINE PHOTOGRAPHY CONTEST</h1>
+                            <h1 class="entry-title">"TAKE US HOME" - ONLINE PHOTOGRAPHY CONTEST</h1>
                         </header>
                     </div>
                 </div>
@@ -123,8 +123,8 @@
 
 
                             <p>
-                                <strong>“ A Picture is Equivalent to a million words”</strong><br />
-                                So what message do you wish to convey this Civilisation 2020?  
+                                <strong>"A Picture is Equivalent to a million words" - Civlisation'20</strong><br />
+                                So what message do you wish to convey this Civilisation 20?  
                             </p>
 
                             <h2 class="entry-header">THEME:</h2>
@@ -136,9 +136,9 @@
                             <h2 class="entry-header">FORMAT:</h2>
 
                             <ol>
-                                <li>Send your entries to to the e-mail address: <a href="mailto:civilisation2k20@gmail.com"> civilisation2k20@gmail.com </a></li>
+                                <li>Send your entries to the e-mail address: <a href="mailto:civilisation2k20@gmail.com"> civilisation2k20@gmail.com </a></li>
                                 <li>The mail should contain the Name, Department, Year, College and Contact number of the Participant.</li>
-                                <li>Deadline for he submission of articles : 01/03/2020 (Sunday) </li>
+                                <li>Deadline for he submission of articles: 01/03/2020 (Sunday) </li>
                                 <li>Use of Instagram bots is prohibited (creating profiles for likes).</li>
                                 <li>The top 5 photographs will qualify based on the number of likes, after which the jury will decide the best</li>
                             </ol>
@@ -155,15 +155,15 @@
                             <ul>
                                 <li>Pictures of your home town including
                                     <ol>
-                                    <li>Architecture</li>
-                                    <li>Landscape /Scenery</li>
-                                    <li>Food</li>
-                                    <li>Events /Festivals</li>
+                                    <li>Architecture.</li>
+                                    <li>Landscape /Scenery.</li>
+                                    <li>Food.</li>
+                                    <li>Events /Festivals.</li>
                                     </ol>
                                 </li>
-                                <li>No plagiarism or vulgarity</li>
-                                <li>No major editing</li>
-                                <li>Only one entry per person</li>
+                                <li>No plagiarism or vulgarity.</li>
+                                <li>No major editing.</li>
+                                <li>Only one entry per person.</li>
 
                             </ul>
                             <!-- <h2 class="entry-header">PRIZE:</h2>

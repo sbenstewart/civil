@@ -123,7 +123,7 @@
 
 
                             <p>
-                                <strong>"Creativity stems from the most unexpected places, but when it does, it is essential it be treasured."</strong><br />
+                                <strong>"Creativity stems from the most unexpected places, but when it does, it is essential it be treasured." - Civilisation'20</strong><br />
                                 Our online meme contest is all about letting your creativity flow and using it to voice out your opinions. 
                             </p>
 
@@ -138,9 +138,9 @@
                             <h2 class="entry-header">FORMAT:</h2>
 
                             <ol>
-                                <li>Essays should be mailed in PDF format to the e-mail address: <a href="mailto:civilisation2k20@gmail.com"> civilisation2k20@gmail.com </a></li>
+                                <li>Send your entries to <a href="mailto:civilisation2k20@gmail.com"> civilisation2k20@gmail.com </a></li>
                                 <li>The mail should contain the Name, Department, Year, College and Contact number of the Participant.</li>
-                                <li>Deadline for he submission of articles : 01/03/2020 (Sunday) </li>
+                                <li>Deadline for the submission of articles: 01/03/2020 (Sunday) </li>
                                 <li>Use of Instagram bots is prohibited (creating profiles for likes).</li>
                                 <li>The top 5 memes will qualify based on the number of likes, after which the jury will decide the best.</li>
                             </ol>
@@ -157,16 +157,16 @@
                             <ul>
                                 <li>Memes should not be created from
                                     <ol>
-                                    <li>Cartoon characters /animated cartoon</li>
-                                    <li>You tube personalities</li>
-                                    <li>Other meme templates (E.g. Drake)</li>
-                                    <li>Politics</li>
+                                    <li>Cartoon characters /animated cartoon.</li>
+                                    <li>You tube personalities.</li>
+                                    <li>Other meme templates (E.g. Drake).</li>
+                                    <li>Politics.</li>
                                     </ol>
                                 </li>
                                 <li>Memes should not be created from
                                     <ol>
-                                    <li>Movies or scenes of any language (including Tamil)</li>
-                                    <li>Any film characters</li>
+                                    <li>Movies or scenes of any language (including Tamil).</li>
+                                    <li>Any film characters.</li>
                                     </ol>
                                 </li>
                                 <li>Only one entry per person.</li>

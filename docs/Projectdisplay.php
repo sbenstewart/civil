@@ -122,9 +122,9 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><strong>““The project you are most scared to do is the one that holds your greatest growth” – Robin S Sharma</strong></p>
+                            <p><strong>"The project you are most scared to do is the one that holds your greatest growth." – Robin S Sharma</strong></p>
                             <p>
-                                CIVILISATION’20 gives you an opportunity to display your talent to the world through this project. This event is a platform which enables you to exhibit your Civil Engineering ideas and also gives you a chance to win an internship.<br />
+                                CIVILISATION’20 gives you an opportunity to display your talent to the world through this project. This event is a platform which enables you to exhibit your Civil Engineering ideas and also gives you a chance to win an Internship.<br />
                                 &emsp;DREAM IT.<br>
                                 &emsp;BELEIVE IT.<br>
                                 &emsp;BUILD IT.<br>
@@ -145,10 +145,10 @@
                                 <li>Any Civil Engineering related topic can be chosen for the project.</li>
                                 <li>A maximum of 5 members are allowed in a team.</li>
                                 <li>Bring your project model(compulsory).</li>
-                                <li>The project along with the working model should be displayed on March 5th during the morning session.</li>
+                                <li>The project along with the working model should be displayed on March 5<sup>th</sup> during the morning session.</li>
                                 <li>Internship with cash price will be provided for first prize.</li>
                                 <li>Only cash price will be provided for second prize.</li>
-                                <li>Electronic appliances ( like mobile phones, Bluetooth etc…) is not allowed.</li>
+                                <li>Electronic appliances (like mobile phones, Bluetooth etc.) is not allowed.</li>
                                 <li>Do submit your project abstract to the mail id <a href="mailto:projectdisplayscec20@gmail.com?Subject=Project%20Display">projectdisplayscec20@gmail.com</a> on or before March 1.</li>
                                 <li>The selected team will receive an acknowledgement mail from the mail id mentioned above.</li>
                                 <li>Mail your queries to the mail id mentioned above.</li>

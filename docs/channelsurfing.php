@@ -122,19 +122,20 @@
                         <div id="tab_details" class="tab-content">
 
 
-                            <p><strong>Get ready to “Dance to our Tunes” </strong>
-                                Channel surfing is an unique event, we promise will keep you on your toes. Testing your wit, humor & creativity at every junction, this event is an absolute blockbuster.<br />
-                                The judges hold the remote, while the audience hold your fate. Your sole motive here will be to entertain the audience by imitating “switching” Channels as per the Judge’s command. The more creative and humorous your sketch? The more exciting prizes !
+                            <p><strong>Get ready to "Dance to our Tunes" - Civilisation'20 </strong></p>
+                            <p>
+                                Channel Surfing is an unique event, we promise will keep you on your toes. Testing your wit, humor & creativity at every junction, this event is an absolute blockbuster.<br />
+                                The judges hold the remote, while the audience hold your fate. Your sole motive here will be to entertain the audience by imitating <b>"Switching"</b> Channels as per the Judge’s command. The more creative and humorous your sketch? The more exciting prizes !
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
                             <ol>
                                 <ul>
                                     <li>A team of 3 or 4 members is only permitted.</li>
-                                    <li>The judges will name the channels ( EG- Sun Tv , Discovery , BBC etc etc ) and switch the channels as per their wish.</li>
+                                    <li>The Judges will name the Channels (e.g. Sun TV, Discovery, BBC etc.) and switch the channels as per their wish.</li>
                                     <li>The participants will have to imitate the characteristics of the said channel to the best of their abilities using creativity & humor. </li>
-                                    <li>VULGARITY is strictly Prohibited .</li>
-                                    <li>Decision of the jury will be final and binding.</li>
+                                    <li>VULGARITY is strictly Prohibited.</li>
+                                    <li>Decision of the Jury will be final and binding.</li>
                                 </ul>
 
 
@@ -143,10 +144,10 @@
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                <li>3-4 participants per team.</li>
-                                <li>Depending upon the no of teams round2 will be decided.</li>
-                                <li>College ID and civilisation ID are mandatory.</li>
-                                <li>Participants can be from any department but should be of the same college</li>
+                                <li>A team of 3 or 4 participants will be allowed.</li>
+                                <li>Depending upon the no of teams Round 2 will be decided.</li>
+                                <li>College ID and Civilisation ID (will be provided) are mandatory.</li>
+                                <li>Participants can be from any department but should be of the same college.</li>
                             </ol>
 
                             <!-- <h2 class="entry-header">Prize And Venue:</h2>

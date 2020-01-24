@@ -168,7 +168,7 @@
                                             <dt>Prelims :<strong>KP </strong>
                                             <dt>Finals :<strong>Highway lab</strong></li>
                                 </dl>
-                            </ul> 
+                            </ul>
                             -->
 
                         </div>
@@ -178,12 +178,10 @@
                             <ul>
                                <div class="row">
                                <div class="col-2">
-                                <li>Iyyappan </li> 
-                                <li>Rishanth </li></div>
-                                <div class="col-2">9344541455<br/>
-                                9626323380 </div>
-                        </div>
-                                
+                                <li>Iyyappan<br>9344541455</li>
+                                <li>Rishanth<br>9626323380</li></div>
+                                </div>
+
                             </ul>
 
                         </div>

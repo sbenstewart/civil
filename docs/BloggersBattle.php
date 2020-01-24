@@ -167,14 +167,10 @@
                             <ul>
                             <div class="row">
                         <div class="col-2">
-                        <li>Ishwrya</li>
-                                <li>Shreenidhi </li> </div>
-                                <div class="col-2">
-                                7598404668 <br />
-                                9790810518
-                        </div>
-                        </div>
+                                <li>Shreenidhi<br>9790810518</li> </div>
                                 
+                        </div>
+
 
                             </ul>
 

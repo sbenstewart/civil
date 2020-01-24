@@ -124,14 +124,14 @@
 
                             <p>
                                 <strong>"A Picture is Equivalent to a million words" - Civlisation'20</strong><br />
-                                So what message do you wish to convey this Civilisation 20?  
+                                So what message do you wish to convey this Civilisation 20?
                             </p>
 
                             <h2 class="entry-header">THEME:</h2>
                             <p>
-                                <strong>"Home town pride"</strong> 
+                                <strong>"Home town pride"</strong>
                             </p>
-                            
+
 
                             <h2 class="entry-header">FORMAT:</h2>
 
@@ -145,7 +145,7 @@
 
                             <h2 class="entry-header">NOTE:</h2>
                             <p>
-                            Pictures will be posted on our Instagram page (No Facebook page) 
+                            Pictures will be posted on our Instagram page (No Facebook page)
                             </p>
 
 
@@ -173,7 +173,7 @@
                                     <li> <b>Prize</b>:
                                         <dt>1st Prize : <strong>1500 INR</strong>
                                         <dt>2nd Prize : <strong>1000 INR</strong>
-                                    
+
                                         </li>
                                 </dl>
                             </ul> -->
@@ -184,7 +184,7 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>PORCHELVAN  6380285014</li>
+                                <li>PORCHELVAN<br>6380285014</li>
 
                             </ul>
 

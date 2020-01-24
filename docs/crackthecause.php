@@ -164,15 +164,9 @@
                             <ul>
                             <div class="row">
                         <div class="col-2">
-                                <li>Logapriya </li>
-                                <li>Aarthi </li>
-                                <li>Azhagurani </li>
-                        </div>
-                                <div class="col-2">
-                                7395976262 <br />
-                                9677173008 <br />
-                                7846941902
-                        </div >
+                                <li>Logapriya<br>7395976262</li>
+                                <li>Aarthi<br>9677173008</li>
+                                <li>Azhagurani<br>7846941902</li>
                         </div>
                             </ul>
 

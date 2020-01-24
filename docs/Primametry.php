@@ -177,15 +177,11 @@
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
                         <div class="row">
-                        <div class="col-2"> 
-                        <li>Guru Preethi </li>
-                        <li>Vinoth Kumar </li> 
+                        <div class="col-2">
+                        <li>Guru Preethi<br>9080353002</li>
+                        <li>Vinoth Kumar<br>9715111033</li>
                         </div>
-                        <div class="col-2"> 
-                        9080353002 <br />
-                        9715111033 
                         </div>
-                    </div>
 
                         </ul>
 

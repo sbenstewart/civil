@@ -161,7 +161,7 @@
                                         <li> <b>Prize</b>:
                                             <dt>1st Prize : <strong>3000 INR</strong>
                                             <dt>2nd Prize : <strong>2000 INR</strong>
-                                    
+
                                         </li>
 
                                     <dd>
@@ -176,14 +176,9 @@
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
                         <div class="row">
-                        <div class="col-2"> 
-                        <li>Rishanth </li>
-                        <li>Iyyappan </li>
-                        </div>
-                        
-                        <div class="col-2"> 
-                        9626323380 <br />
-                        9344541455
+                        <div class="col-2">
+                        <li>Rishanth<br>9626323380</li>
+                        <li>Iyyappan<br>9344541455</li>
                         </div>
                         </div>
                         </ul>

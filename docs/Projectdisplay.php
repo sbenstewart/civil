@@ -132,12 +132,12 @@
 
                             <h2 class="entry-header">FORMAT:</h2>
                         <ol>
-                            
+
                                     <li>Your presentation of the project shall not exceed 20 min.</li>
                                     <li>Multiple people are allowed to explain the project. </li>
-                            
-                            
-                            
+
+
+
                         </ol>
 
                             <h2 class="entry-header">RULES:</h2>
@@ -177,13 +177,9 @@
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
                             <div class="row">
-                        <div class="col-2"> 
-                                <li>Subitcha </li>
-                                <li>Pavithra </li>
-                        </div>
-                        <div class="col-2"> 
-                        9047029771 <br />
-                        8778098024
+                        <div class="col-2">
+                                <li>Subitcha<br>9047029771</li>
+                                <li>Pavithra<br>8778098024</li>
                         </div>
                         </div>
                             </ul>

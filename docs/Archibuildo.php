@@ -134,7 +134,7 @@
                                 <ul>
                                     <li>A set of 25 questions will be given.</li>
                                     <li>The top 5 teams will be qualified for finals.</li>
-                                    
+
                                 </ul>
                             </li>
                             <li>FINALS:
@@ -142,7 +142,7 @@
                                     <li>The selected teams will be given a question statement of arch design and each team will be asked to do the model of arch.</li>
                                     <li>Materials will be provided at the venue.</li>
                                     <li>Completed arch will be subjected to the load testing and it will be evaluated based on the strength and aesthetics.</li>
-                                    
+
                                 </ul>
                             </li>
                         </ol>
@@ -178,12 +178,8 @@
                         <ul>
                         <div class="row">
                         <div class="col-2">
-                        <li>Nagasudha&emsp;</li>
-                        <li>Raveena&emsp;</li>
-                        </div>
-                        <div class="col-2">
-                        8870079669<br />
-                        9994131030
+                        <li>Nagasudha<br>8870079669</li>
+                        <li>Raveena<br>9994131030</li>
                         </div>
                         </div>
 

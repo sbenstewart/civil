@@ -124,7 +124,7 @@
 
                             <p>
                                 <strong>"Creativity stems from the most unexpected places, but when it does, it is essential it be treasured." - Civilisation'20</strong><br />
-                                Our online meme contest is all about letting your creativity flow and using it to voice out your opinions. 
+                                Our online meme contest is all about letting your creativity flow and using it to voice out your opinions.
                             </p>
 
                             <h2 class="entry-header">THEME:</h2>
@@ -147,7 +147,7 @@
 
                             <h2 class="entry-header">NOTE:</h2>
                             <p>
-                            Memes will be posted on our Instagram page (No Facebook page) 
+                            Memes will be posted on our Instagram page (No Facebook page)
                             </p>
 
 
@@ -187,7 +187,7 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>PORCHELVAN  6380285014</li>
+                                <li>PORCHELVAN<br>6380285014</li>
 
                             </ul>
 

@@ -110,14 +110,53 @@
 
 
                 <div class="col-12 col-lg-6 submit flex justify-content-center margin">
-                <form action="php/download-sample-workshop.php" method="post">
+                <form action="php/download-workshop1.php" method="post">
                 
                     
                         <?php
 
                         if(isset($_SESSION["admin"]))
                         {
-                            $print8 ='<input type="submit" name="sample" value="Sample Workshop" class="btn gradient-bg flex justify-content-center align-items-center">';
+                            $print8 ='<input type="submit" name="sample" value="BIM" class="btn gradient-bg flex justify-content-center align-items-center">';
+                        }
+                        echo  $print8;
+                        ?>
+                    
+                
+                </form>
+                </div>
+                    
+                </div>
+
+                <div class="row">
+
+                <div class="col-12 col-lg-6 submit flex justify-content-center margin">
+                <form action="php/download-workshop2.php" method="post">
+                    
+                    
+                        <?php
+
+                        if(isset($_SESSION["admin"]))
+                        {
+                            $print1 ='<input type="submit" name="sample" value="Concrete Bridges" class="btn gradient-bg flex justify-content-center align-items-center">';
+                        }
+                        echo  $print1;
+                        ?>
+                    
+                
+                </form>
+                </div>
+
+
+                <div class="col-12 col-lg-6 submit flex justify-content-center margin">
+                <form action="php/download-workshop3.php" method="post">
+                
+                    
+                        <?php
+
+                        if(isset($_SESSION["admin"]))
+                        {
+                            $print8 ='<input type="submit" name="sample" value="Steel Structures" class="btn gradient-bg flex justify-content-center align-items-center">';
                         }
                         echo  $print8;
                         ?>

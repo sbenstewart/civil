@@ -3,7 +3,7 @@ require_once 'dbconfig.php';
 $table2 = $_POST["name"];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-      $sql = "SELECT table1.*,table2.* FROM ambassador as table1 RIGHT JOIN(SELECT aid,GROUP_CONCAT(emailid) as list FROM user where aid is not null group by aid HAVING COUNT(*) > 6) as table2 ON table1.aid = table2.aid;";
+      $sql = "SELECT user.cid,user.name,user.emailid,user.phoneno,user.college,user.year,user.course,user.dept,registrations.Paid FROM registrations INNER JOIN user ON registrations.cid = user.cid and registrations.id='Pre Stressed Concrete Bridges'";
       //Prepare our SQL query.
       $statement = $conn->prepare($sql);
       //Executre our SQL query.
@@ -21,11 +21,11 @@ try {
           }
       }
       //Setup the filename that our CSV will have when it is downloaded.
-      $fileName = 'mysql-ambassador.csv';
+      $fileName = 'concrete.csv';
       ob_clean();
       header("Pragma: no-cache");
       header('Content-Type: application/octet-stream');
-      header('Content-Disposition: attachment;filename=ambassador.csv');
+      header('Content-Disposition: attachment;filename=concrete.csv');
 
       //Open up a file pointer
       $fp = fopen('php://output', 'w');

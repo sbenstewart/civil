@@ -175,14 +175,9 @@
                         <ul>
                         <div class="row">
                         <div class="col-2">
-                        <li>Nivetha </li>
-                        <li>Jaya</li>
-                        <li>Merlin Sindhiya</li> </div>
-                        <div class="col-2">
-                        8523942242 <br />
-                        8825997415 <br />
-                        7397329357
-                        </div>
+                        <li>Nivetha<br>8523942242</li>
+                        <li>Jaya<br>8825997415</li>
+                        <li>Merlin Sindhiya<br>7397329357</li> </div>
                         </div>
                         </ul>
 

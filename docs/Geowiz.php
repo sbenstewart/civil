@@ -127,7 +127,7 @@
                                 <strong>"Soil is an almost magical substance, a living system that transforms the materials it encounters." – George Monbiot</strong><br>
                                 Want to test your knowledge in Soil Mechanics and pavement designing. Here is an opportunity to showcase your expertise.<br>
                                 There are a number of properties of soil, which have to be considered during pavement construction and construction of buildings. In this event you will be able to design the pavements as per IRC standards.<br />
-                                If you are fascinated by the peerless properties of soil, attend this technical quiz. 
+                                If you are fascinated by the peerless properties of soil, attend this technical quiz.
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
@@ -180,15 +180,15 @@
                             <ul>
                             <div class="row">
                         <div class="col-2">
-                                <li>Maharani </li>
-                                <li>Manoj </li>
+                                <li>Maharani<br>9944630408</li>
+                                <li>Manoj<br>7358893690</li>
                         </div>
                                 <div class="col-2">
                                 9944630408 <br />
                                 7358893690
                         </div >
                         </div >
-                                
+
                             </ul>
 
                         </div>

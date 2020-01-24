@@ -155,7 +155,7 @@
                                         <li> <b>Prize</b>:
                                             <dt>1st Prize : <strong>3000 INR</strong>
                                             <dt>2nd Prize : <strong>2000 INR</strong>
-                                    
+
                                         </li>
 
                                     <dd>
@@ -170,14 +170,10 @@
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
                             <div class="row">
-                        <div class="col-2"> 
-                                <li>Manikandan </li>
-                                <li>Subramanian </li> </div>
-                                <div class="col-2"> 
-                                8825933799 <br />
-                                7708420673
-                        </div>
-                        </div>
+                        <div class="col-2">
+                                <li>Manikandan<br>8825933799</li>
+                                <li>Subramanian<br>7708420673</li> </div>
+                                </div>
 
                             </ul>
 

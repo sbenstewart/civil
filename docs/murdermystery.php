@@ -130,9 +130,9 @@
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
-                            
+
                             <ol>
-                                <li>PRELIMS: INVESTIGATION 
+                                <li>PRELIMS: INVESTIGATION
                                     <ul>
                                         <li>Participants are provided with the First Information Report, contains
                                             suspect details, Postmortem report, Murder location, Evidences, etc…</li>
@@ -165,7 +165,7 @@
                                         <li> <b>Prize</b>:
                                             <dt>1st Prize : <strong>3000 INR</strong>
                                             <dt>2nd Prize : <strong>2000 INR</strong>
-                                    
+
                                         </li>
 
                                     <dd>
@@ -180,15 +180,11 @@
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
                             <div class="row">
-                        <div class="col-2"> 
+                        <div class="col-2">
 
-                                <li>Aruljothi</li>
-                                <li>Prabaharan </li> </div>
-                                <div class="col-2"> 
-                                9080219723 <br />
-                                99762261425
-                        </div>
-                        </div>
+                                <li>Aruljothi<br>9080219723</li>
+                                <li>Prabaharan<br>99762261425</li> </div>
+                                </div>
                             </ul>
 
                         </div>

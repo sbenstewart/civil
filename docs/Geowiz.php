@@ -183,10 +183,7 @@
                                 <li>Maharani<br>9944630408</li>
                                 <li>Manoj<br>7358893690</li>
                         </div>
-                                <div class="col-2">
-                                9944630408 <br />
-                                7358893690
-                        </div >
+                              
                         </div >
 
                             </ul>

@@ -1,13 +1,15 @@
 -- phpMyAdmin SQL Dump
--- version 4.8.3
+-- version 4.9.0.1
 -- https://www.phpmyadmin.net/
 --
--- Host: localhost:8889
--- Generation Time: Jan 24, 2020 at 07:20 AM
--- Server version: 5.7.23
--- PHP Version: 7.2.10
+-- Host: sql110.epizy.com
+-- Generation Time: Jan 26, 2020 at 10:15 AM
+-- Server version: 5.6.45-86.1
+-- PHP Version: 7.2.22
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
 SET time_zone = "+00:00";
 
 
@@ -17,17 +19,18 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `id12132894_db`
+-- Database: `epiz_25108368_db`
 --
-CREATE DATABASE IF NOT EXISTS `id12132894_db` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `id12132894_db`;
+CREATE DATABASE IF NOT EXISTS `epiz_25108368_db` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `epiz_25108368_db`;
 
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `accomodation`
 --
--- Creation: Jan 04, 2020 at 11:32 AM
+-- Creation: Jan 26, 2020 at 10:31 AM
+-- Last update: Jan 26, 2020 at 10:31 AM
 --
 
 CREATE TABLE `accomodation` (
@@ -35,7 +38,7 @@ CREATE TABLE `accomodation` (
   `entrydate` varchar(100) NOT NULL DEFAULT '1',
   `entrytime` varchar(100) NOT NULL,
   `hours` varchar(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `accomodation`
@@ -49,7 +52,8 @@ INSERT INTO `accomodation` (`id`, `entrydate`, `entrytime`, `hours`) VALUES
 --
 -- Table structure for table `admin`
 --
--- Creation: Jan 04, 2020 at 11:32 AM
+-- Creation: Jan 26, 2020 at 10:31 AM
+-- Last update: Jan 26, 2020 at 10:31 AM
 --
 
 CREATE TABLE `admin` (
@@ -57,7 +61,7 @@ CREATE TABLE `admin` (
   `name` varchar(100) NOT NULL,
   `emailid` varchar(100) NOT NULL,
   `password` varchar(300) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `admin`
@@ -71,7 +75,8 @@ INSERT INTO `admin` (`cid`, `name`, `emailid`, `password`) VALUES
 --
 -- Table structure for table `ambassador`
 --
--- Creation: Jan 04, 2020 at 11:32 AM
+-- Creation: Jan 26, 2020 at 10:31 AM
+-- Last update: Jan 26, 2020 at 10:31 AM
 --
 
 CREATE TABLE `ambassador` (
@@ -80,7 +85,7 @@ CREATE TABLE `ambassador` (
   `phoneno` varchar(10) NOT NULL,
   `emailid` varchar(100) NOT NULL,
   `code` varchar(10) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `ambassador`
@@ -94,14 +99,15 @@ INSERT INTO `ambassador` (`aid`, `name`, `phoneno`, `emailid`, `code`) VALUES
 --
 -- Table structure for table `registrations`
 --
--- Creation: Jan 04, 2020 at 11:32 AM
+-- Creation: Jan 26, 2020 at 10:31 AM
+-- Last update: Jan 26, 2020 at 10:31 AM
 --
 
 CREATE TABLE `registrations` (
   `cid` varchar(100) NOT NULL,
   `id` varchar(100) NOT NULL,
   `Paid` varchar(100) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `registrations`
@@ -120,7 +126,8 @@ INSERT INTO `registrations` (`cid`, `id`, `Paid`) VALUES
 --
 -- Table structure for table `user`
 --
--- Creation: Jan 04, 2020 at 11:32 AM
+-- Creation: Jan 26, 2020 at 10:31 AM
+-- Last update: Jan 26, 2020 at 10:31 AM
 --
 
 CREATE TABLE `user` (
@@ -134,7 +141,7 @@ CREATE TABLE `user` (
   `dept` varchar(250) NOT NULL,
   `course` varchar(250) NOT NULL,
   `password` varchar(300) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `user`
@@ -201,6 +208,7 @@ ALTER TABLE `ambassador`
 --
 ALTER TABLE `user`
   MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=56;
+COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

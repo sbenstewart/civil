@@ -184,7 +184,7 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                                <li>PORCHELVAN<br>6380285014</li>
+                                <li>Porchelvan<br>6380285014</li>
 
                             </ul>
 

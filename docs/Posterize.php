@@ -173,17 +173,13 @@
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
                         <div class="row">
-                        <div class="col-2"> 
-                        <li>Saranya Gunasekaran</li>
-                        <li>Sathiya Suppaiya</li>
-                        </div>
-                        <div class="col-2"> 
-                        996247884 <br />
-                        7502048649
+                        <div class="col-2">
+                        <li>Saranya Gunasekaran<br>996247884</li>
+                        <li>Sathiya Suppaiya<br>7502048649</li>
                         </div>
                         </div>
                         </ul>
-                        
+
                     </div>
 
                     <div id="tab_about" class="tab-content">

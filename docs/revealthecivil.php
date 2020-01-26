@@ -149,7 +149,7 @@
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                
+
                                 <li>Only one answer is valid for MCQ’s in Prelims.</li>
                                 <li>Marks are not allotted for overwriting.</li>
                                 <li>Participants with marks above 20 will be allowed to take the next round.</li>
@@ -181,14 +181,11 @@
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
                             <div class="row">
-                        <div class="col-2"> 
-                                <li>Kaviya  </li>
-                                <li>Shahiya </li>
+                        <div class="col-2">
+                                <li>Kaviya<br>8111057700</li>
+                                <li>Shahiya<br>9944297836</li>
                         </div >
-                                <div class="col-2"> 
-                                8111057700 <br />
-                                9944297836
-                                </div >
+                              
                                 </div >
                             </ul>
 

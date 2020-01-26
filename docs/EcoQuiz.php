@@ -127,7 +127,7 @@
                         <p><strong>"Earth provides enough to satisfy every man's needs, But not every man's greed." - Mahatma Gandhi</strong></p>
                         <p>
                             <b>‘Mother Nature’</b> is the real comrade who makes our very existence possible. She will be able to serve us only if we protect her. What have we given back to her?<br>
-                       
+
                             It's time for all the nature lovers out there to brush up your knowledge about nature and come take part in the Eco Quiz in Civilisation 20!<br>
                         </p>
 
@@ -158,7 +158,7 @@
                             <li>There will be negative marks.</li>
                             <li>Everyone should bring a calculator.</li>
                         </ol>
-                       
+
                         <!--<h2 class="entry-header">Prize And Venue:</h2>
                             <ul>
                                 <dl>
@@ -184,19 +184,13 @@
                         <ul>
                         <div class="row">
                         <div class="col-2">
-                        <li>Dinesh </li>
-                        <li>Kiruthika</li>
-                        <li>Karthick</li>
+                        <li>Dinesh<br>8825622680</li>
+                        <li>Kiruthika<br>7373015319</li>
+                        <li>Karthick<br>9080603001</li>
                         </div >
-                        <div class="col-2">
-                        8825622680 <br />
-                        7373015319 <br />
-                        9080603001
-
-                        </div>
                         </div>
                         </ul>
-                        
+
                     </div>
 
                     <div id="tab_about" class="tab-content">

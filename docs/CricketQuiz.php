@@ -182,14 +182,10 @@
                             <ul>
                             <div class="row">
                         <div class="col-2">
-                                <li>Kiruthika </li>
-                                <li>Karthick </li>
-                                <li>Balamurugan </li> </div>
-                                <div class="col-2">
-                                7373015319 <br />
-                                9080603001 <br />
-                                7538861772
-                        </div>
+                                <li>Kiruthika<br>7373015319</li>
+                                <li>Karthick<br>9080603001</li>
+                                <li>Balamurugan<br>7538861772</li> </div>
+
                         </div>
                             </ul>
 

@@ -34,7 +34,7 @@ try {
         if ($res->fetchColumn() > 0) {
 		  $code2 = password_hash($code, PASSWORD_BCRYPT);
           $count = $conn->exec("update user set password='$code2' where emailid='$mail2'");
-          echo "New password is $code";
+          //echo "New password is $code";
 
 					$to   = $mail2;
 					$from = 'help@civilisationceg.in';

@@ -151,7 +151,7 @@
 
                     <div id="tab_about" class="tab-content">
                         <p><strong>Click the button below to register.</strong></p><br>
-                        <p>The registrations will be open till the 3rd of March.</p><br>
+                        <p>The registrations will be open till the 4th of March.</p><br>
                         <?php
                         // Start the session
 

@@ -189,6 +189,7 @@
                         </div >
                         </div>
                         </ul>
+                        <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
 
                     </div>
 

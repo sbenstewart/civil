@@ -178,6 +178,7 @@
                                 <li>Gowsika<br>9442466711</li>
                         </div >
                             </ul>
+                            <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
 
                         </div>
 

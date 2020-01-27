@@ -924,7 +924,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -940,7 +940,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -956,7 +956,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -972,7 +972,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -988,7 +988,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1004,7 +1004,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1020,7 +1020,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1036,7 +1036,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1052,7 +1052,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1068,7 +1068,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1084,7 +1084,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1100,7 +1100,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1116,7 +1116,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1157,7 +1157,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1173,7 +1173,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1189,7 +1189,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1205,7 +1205,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1221,7 +1221,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1237,7 +1237,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1253,7 +1253,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1269,7 +1269,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1309,7 +1309,6 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1325,7 +1324,6 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1341,7 +1339,6 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 

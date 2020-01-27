@@ -131,7 +131,6 @@
                             <ol>
                                 <li>Set of 20 questions will be given.</li>
                                 <li>Duration: 30 minutes.</li>
-                                <li>The top 10 teams will be selected for the Second round.</li>
                             </ol>
 
                             <h2 class="entry-header">RULES:</h2>

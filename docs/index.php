@@ -855,7 +855,7 @@
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">Pre Stressed Concrete Bridges</h3>
+                        <h3 class="entry-title">Pre Stressed Concrete on Bridges</h3>
 
                         <div class="posted-date"><span>Larsen & Toubro</span></div>
                         <div class="posted-date">Friday <span>March 6, 2020</span></div>

@@ -143,9 +143,8 @@
                             </li>
                             <li>FINALS:
                                 <ul>
-                                    <li>It’s paper and pen round.</li>
-                                    <li>Set of questions will be given relevant to environmental issues.</li>
-                                    <li>Based on the performance, winner will be selected.</li>
+                                    <li>It is a presentation round. It consists of two or more small rounds.</li>
+                                    <li>More information will be provided onspot.</li>
                                 </ul>
                             </li>
                         </ol>

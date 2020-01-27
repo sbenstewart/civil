@@ -142,14 +142,15 @@
                                 </li>
                                 <li>FINALS:
                                     <ul>
-                                        <li>Final round will be informed on spot.</li>
+                                        <li>It is a presentation round. It consists of two or more small rounds.</li>
+                                        <li>More information will be provided onspot.</li>
                                     </ul>
                                 </li>
                             </ol>
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                <li>Civilisation’20 ID and College ID (will be provided) are mandatory.</li>
+                                <li>Civilisation ID (will be provided) and College ID are mandatory.</li>
                                 <li>The team will be disqualified in case of any discrepancies.</li>
                                 <li>Use of mobile phone is strictly prohibited.</li>
                             </ol>

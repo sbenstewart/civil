@@ -141,14 +141,12 @@
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                <li>
-                                    College ID and Civilisation ID (will be provided) are mandatory.</li>
-                                <li>
-                                    On spot registration only, Registration starts @ 10am on 07/03/2020.</li>
-                                <li>
-                                    Top 15 will be qualified for final round.</li>
-                                <li>
-                                    Use of Vulgar Language or disturbance of decorum will be dealt with severely.</li>
+                                <li>College ID and Civilisation ID (will be provided) are mandatory.</li>
+                                <li>On spot registration only (Only for CEG students INR 80 only)</li> 
+                                <li>Registration starts @ 10am on 07/03/2020.</li>
+                                <li>Match starts @ 10:30am on 07/03/2020.</li>
+                                <li>Top 15 will be qualified for final round.</li>
+                                <li>Use of Vulgar Language or disturbance of decorum will be dealt with severely.</li>
                             </ol>
 
                             <!-- <h2 class="entry-header">Prize And Venue:</h2>

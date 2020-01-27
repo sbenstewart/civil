@@ -144,13 +144,13 @@
                             <h2 class="entry-header">INSTRUCTIONS:</h2>
                             <ul>
                                 <li>Both online & onspot payments are available.</li>
-                                <li>The fee per workshop will be 650 INR.</li>
-                                <li>Food and T shirts can be availed only for online registration.</li>
-                                <li>T shirt cost will be 150 INR & Food cost will be 100 INR.  They are not inclusive of the workshop fee.</li>
+                                <li>The fee per workshop will be 700 INR.</li>
+                                <li>Food (Lunch only) and T shirts can be availed only for online registration.</li>
+                                <li>T-shirt will cost 150 INR & Food will cost 100 INR.  They are not inclusive of the workshop fee.</li>
                                 <li>Students who wish to register on spot are requested to be present 1 hour before commencement of the workshop.</li>
                                 <li>All participants are requested to be present at the venue well before 15 minutes of commencement of workshop.</li>
                                 <li>Participants are not allowed to enter the session after 30 minutes of commencement of session.</li>
-                                <li>Certificates will be provided from the company conducting the workshop, only after completion of the afternoon session.</li>
+                                <li>Certificates will be provided only after completion of the afternoon session.</li>
                                 <li>Group registrations can be done only on spot.</li>
                                 <li>College ID & Civilisation ID (will be provided) are mandatory.</li>
                                 <li>Usage of mobile phones, electronic gadgets etc are strictly prohibited during course of event.</li>
@@ -194,18 +194,17 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>	Raj Aditya&emsp;9629230056</li>
-                        <li>	Priya&emsp;8675604979</li>
-                        <li>	Dhivya&emsp;8489126689</li>
+                            <li>Nishi<br>994471757</li>
+                            <li>Ishwrya<br>7598404668</li>
                         </ul>
-                        <p>You can also mail us at civilisationworkshop19@gmail.com</p>
+                        <p>You can also mail us at <a href="mailto:civilisation20.workshops@gmail.com">civilisation20.workshops@gmail.com</a></p>
 
                     </div>
 
                     <div id="tab_about" class="tab-content">
                         <p><strong>Click the button below to register.</strong></p><br>
                         <p>The workshop has been scheduled for March 5.</p><br>
-                        <p>The workshop costs INR 800 for one indiviual. Group registrations have to be done onspot. T-Shirts and Food can be availed only for online payments.</p>
+                        <p>The workshop costs INR 700 for one indiviual. Group registrations have to be done onspot. T-Shirts and Food can be availed only for online payments.</p>
                         <?php
                         // Start the session
 

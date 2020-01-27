@@ -129,7 +129,7 @@
                         <li>On reaching the campus, report immediately to the Registration Desk for registration process and if accommodation is needed, approach the accommodation desk.</li>
                         <li>It is mandatory to bring your College ID.</li>
                         <li>At the time of check-in, the caution deposit of Rs.100 should be paid (which will be refunded at the time of check-out)</li>
-                        <li><strong>The charge for a day's stay will be Rs.200 (24 hours only).</strong></li>
+                        <li><strong>The charge for a day's stay will be Rs.250 (24 hours only).</strong></li>
                         <li>After Accommodation registration and payment of applicable fees, rooms/dormitories will be allotted by the Civilisation 2020 Accommodation team.</li>
                         <li>During check-out the participants are required to return all the utilities (provided at the time of check-in) in order to redeem their refundable-deposit.</li>
                         <li>Refund of Caution deposit money will be made at the sole discretion of Civilisation Accommodation team.</li>
@@ -144,15 +144,15 @@
 
                                 <div class="single-event-details-row">
                                     <label>Price:</label>
-                                    <p>Rs. 200 per day</p>
+                                    <p>Rs. 250 per day</p>
                                 </div>
 
                                 <div class="single-event-details-row">
                                     <label>Contact:</label>
                                     <ul>
-                                        <li>Bharath<br>8489808900</li>
-                                        <li>Muhammad Mukhthar M K<br>8903936211</li>
-                                        <li>Thamizharasi<br>7010413102</li>
+                                        <li>Sakthivel<br>7010285609</li>
+                                        <li>Kaviya<br>8111057700</li>
+                                        <li>Kiruthika<br>7373015319</li>
                                     </ul>
                                 </div>
 
@@ -170,7 +170,7 @@
                                               <p>
                                                 <ul>
                                                   <li>Only non-Chennai participants will be provided accommodation services. Participants must register online for availing our accommodation services.</li>
-                                                  <li>Registration for accommodation is not part of the Events registration, and is to be done separately.</li>
+                                                  <li>Registration for accommodation is not part of the Events registration and is to be done separately.</li>
                                                   <li>Accommodation services will be available from <b>6 PM on 4<sup>th</sup> March, 2020 to 8 PM on 7<sup>th</sup> March, 2020. </b></li>
                                                   <li>Accommodation will be provided on a <b>sharing basis</b>. Any requests for individual rooms will not be entertained. However, we will try to accommodate students from the same college together in rooms and dorms (if possible).</li>
                                                   <li>For Boys: Accommodation will be provided inside the campus. Incase there is no availability of space in our campus accommodation will be provided outside the college (i.e., at hotels).</li>

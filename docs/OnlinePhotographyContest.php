@@ -187,6 +187,8 @@
                                 <li>Porchelvan<br>6380285014</li>
 
                             </ul>
+                            <p>Mail your entries to <a href="mailto:civilisation2k20@gmail.com">civilisation2k20@gmail.com</a></p>
+                            <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
 
                         </div>
 

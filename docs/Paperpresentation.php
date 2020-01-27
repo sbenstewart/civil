@@ -186,14 +186,15 @@
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <div class="row">
-                        <div class="col-2">
-                        <li>Nishi<br>9944710757</li>
-                        <li>Vidyashree<br>9566031631</li>
-                        </div>
-                        </div>
-
+                            <div class="row">
+                                <div class="col-2">
+                                    <li>Nishi<br>9944710757</li>
+                                    <li>Vidyashree<br>9566031631</li>
+                                </div>
+                            </div>
                         </ul>
+                        <p>Mail your abstract to <a href="mailto:paperpresentationC20@gmail.com?Subject=Paper%20Presentation">paperpresentationC20@gmail.com</a></p>
+                        <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
 
                     </div>
 

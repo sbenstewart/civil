@@ -165,14 +165,14 @@
                         <div id="tab_organizers" class="tab-content">
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
-                            <div class="row">
-                        <div class="col-2">
-                                <li>Shreenidhi<br>9790810518</li> </div>
-                                
-                        </div>
-
-
+                                <div class="row">
+                                    <div class="col-2">
+                                            <li>Shreenidhi<br>9790810518</li> 
+                                    </div>            
+                                </div>
                             </ul>
+                            <p>Mail your entries to <a href="mailto:civilisceg@gmail.com">civilisceg@gmail.com</a></p>
+                            <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
 
                         </div>
 

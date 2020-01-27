@@ -271,8 +271,7 @@ displayToast(html);
 return false;
 }
 
-
-function loginUser() {
+async function loginUser() {
 var mail = document.getElementById("mail").value;
 var password = document.getElementById("password").value;
 // Returns successful data submission message when the entered information is stored in database.
@@ -289,6 +288,7 @@ data: dataString,
 cache: false,
 success: function(html) {
 displayToast(html);
+setTimeout(function(){if(html.startsWith("Logged")){window.location = "index.php";}}, 1000);
 }
 });
 }

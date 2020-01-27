@@ -312,7 +312,7 @@
                                 <li><a href="https://fb.com/au.civilisation"><i class="fa fa-facebook-f"></i></a></li>
                                 <li><a href="https://instagram.com/civilisation20"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="tel:+919176224940"><i class="fa fa-phone"></i></a></li>
-                                <li><a href="mailto:sceceg1932@gmail.com?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
+                                <li><a href="mailto:civilisation2020ceg@gmail.com?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
                                 <!--<li><a href="#"><i class="fa fa-address-book"></i></a></li>-->
                                 <li><a href="https://api.whatsapp.com/send?phone=919176224940"><i class="fa fa-whatsapp"></i></a></li>
                                 <li><a href="https://forms.gle/DoiPfyzcotmjpasa6"><i class="fa fa-github"></i></a></li>

@@ -139,7 +139,7 @@
                                 </li>
                                 <li>STAGE 2:
                                     <ul>
-                                        <li>Bring the cast concrete structure to our college during CIVILISATION-20</li>
+                                        <li>Bring the cast concrete structure to our college during Civilisation</li>
                                         <li>Density, Floating capability, Strength, Appearance of the block will be tested.</li>
                                         <li>Submitted design reports would be evaluated and the teams will be asked to give a brief oral presentation of their work upon which they will be questioned.</li>
                                         <li>Points would be awarded according to the judging criteria and winners will be announced.</li>

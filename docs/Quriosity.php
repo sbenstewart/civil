@@ -127,7 +127,7 @@
                         <p><strong>"Knowledge of the past and of the places on the earth is the ornament and food of the mind of the man." - Leonardo da Vinci</strong></p>
                         <p>
                         All our knowledge begins with senses, proceeds then to understanding and ends with reason. To catch up with this dynamic world, there’s a need to know about the current affairs.<br>
-                        Quench your thirst for knowledge, by taking part in the Quriosity quiz of Civilisation’20 to share your thirst for knowledge.<br>
+                        Quench your thirst for knowledge, by taking part in the Quriosity quiz of Civilisation to share your thirst for knowledge.<br>
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>

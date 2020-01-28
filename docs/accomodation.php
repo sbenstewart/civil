@@ -130,7 +130,7 @@
                         <li>It is mandatory to bring your College ID.</li>
                         <li>At the time of check-in, the caution deposit of Rs.100 should be paid (which will be refunded at the time of check-out)</li>
                         <li><strong>The charge for a day's stay will be Rs.200 (24 hours only).</strong></li>
-                        <li>After Accommodation registration and payment of applicable fees, rooms/dormitories will be allotted by the Civilisation 2020 Accommodation team.</li>
+                        <li>After Accommodation registration and payment of applicable fees, rooms/dormitories will be allotted by the Civilisation Accommodation team.</li>
                         <li>During check-out the participants are required to return all the utilities (provided at the time of check-in) in order to redeem their refundable-deposit.</li>
                         <li>Refund of Caution deposit money will be made at the sole discretion of Civilisation Accommodation team.</li>
                         <li>If the room is not vacated on time, you will have to pay for the next day also.</li>
@@ -176,10 +176,10 @@
                                                   <li>For Boys: Accommodation will be provided inside the campus. Incase there is no availability of space in our campus accommodation will be provided outside the college (i.e., at hotels).</li>
                                                   <li><b>For Girls: Accommodation will be provided inside the college.<b></li>
                                                   <li>Services will be offered on "First Register First Serve" basis.</li>
-                                                  <li>Accommodated students can have their food at their own expense in canteens and food stalls that are available. <b>Food will not be provided</b> by the Civilisation 2020 team.</li>
+                                                  <li>Accommodated students can have their food at their own expense in canteens and food stalls that are available. <b>Food will not be provided</b> by the Civilisation team.</li>
                                                   <li>Mattresses and buckets will be provided. However, participants are encouraged to carry their own blankets since it is the month of March and nights might be cold.</li>
                                                   <li>Random checks will be made to avoid any illegal stay in the campus. Any participant failing to produce his/her Accommodation Receipt will be fined and disqualified.</li>
-                                                  <li>Participants are responsible for their belongings during their stay. Neither the Civilisation'20 Accommodation team nor the institute will take responsibility for any loss of property incurred.</li>
+                                                  <li>Participants are responsible for their belongings during their stay. Neither the Civilisation Accommodation team nor the institute will take responsibility for any loss of property incurred.</li>
                                                   <li><b>Girls in-time is 8.30 PM. Boys in-time is 9.30 PM.</b></li>
                                                   <li>Accommodation team has the right to cancel or wait-list accommodation while processing your request.</li>
                                                   <li>Smoking and drinking is strictly prohibited inside the Accommodation site.</li>

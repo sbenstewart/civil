@@ -125,7 +125,7 @@
                             <p><strong>"Cinema can fill in the empty spaces of your life and your loneliness." – Pedro Almodovar</strong></p>
                             <p>
 
-                                Are you a true movie buff at heart? The never ending debates & interesting trivia has always intrigued us and touched our souls in a way nothing else has! Right from the era of "Sivaji and MGR" to "Rajini and Kamal" to "Thala ya Thalapathy ah" we’ve played an important role in shaping Indian cinema. So Civilisation 2020 presents "KOLLYWOOD QUIZ", designed to test your knowledge on our world.<br>
+                                Are you a true movie buff at heart? The never ending debates & interesting trivia has always intrigued us and touched our souls in a way nothing else has! Right from the era of "Sivaji and MGR" to "Rajini and Kamal" to "Thala ya Thalapathy ah" we’ve played an important role in shaping Indian cinema. So Civilisation presents "KOLLYWOOD QUIZ", designed to test your knowledge on our world.<br>
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>

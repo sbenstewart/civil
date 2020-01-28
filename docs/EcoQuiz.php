@@ -128,7 +128,7 @@
                         <p>
                             <b>‘Mother Nature’</b> is the real comrade who makes our very existence possible. She will be able to serve us only if we protect her. What have we given back to her?<br>
 
-                            It's time for all the nature lovers out there to brush up your knowledge about nature and come take part in the Eco Quiz in Civilisation 20!<br>
+                            It's time for all the nature lovers out there to brush up your knowledge about nature and come take part in the Eco Quiz in Civilisation<br>
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>

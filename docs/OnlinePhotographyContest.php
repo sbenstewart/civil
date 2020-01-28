@@ -124,7 +124,7 @@
 
                             <p>
                                 <strong>"A Picture is Equivalent to a million words" - Civlisation'20</strong><br />
-                                So what message do you wish to convey this Civilisation 20?
+                                So what message do you wish to convey this Civilisation?
                             </p>
 
                             <h2 class="entry-header">THEME:</h2>

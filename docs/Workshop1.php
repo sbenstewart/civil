@@ -127,7 +127,7 @@
                         <div class="col-6 col-md-3 order-md-2 col-lg-3 order-lg-2 col-xl-3 order-xl-2 align-self-center mt-1">
                             <figure class="events-thumbnail text-center">
                                 <img class="figure-img img-fluid" src="images/lt.png" alt="">
-                            </figure> 
+                            </figure>
                         </div>
                         <div class="col-12 col-md-9 col-lg-9 col-xl-9">
                             <p>This event is conducted by</p>
@@ -135,7 +135,7 @@
                             <h2 class="entry-header">LARSEN & TOUBRO</h2>
                             <!--<p><strong>Vice President, Head of Public Space Business Unit of L&T Construction.</strong></p>-->
                             <p>
-                            Building Information Modelling (BIM), is an intelligent 3D digital model-based process that gives Architecture, Engineering, and Construction (AEC) professionals the insight and tools to more efficiently plan, design, construct and manage buildings and infrastructure. In this fast paced world where Innovation and Artificial Intelligence parallel each other, we here at Anna University hope to provide the students that visit us with all the necessary skills to stay ahead of the rest. Conducted by L&T, this workshop is one of our signature events for Civilisation’20.
+                            Building Information Modelling (BIM), is an intelligent 3D digital model-based process that gives Architecture, Engineering, and Construction (AEC) professionals the insight and tools to more efficiently plan, design, construct and manage buildings and infrastructure. In this fast paced world where Innovation and Artificial Intelligence parallel each other, we here at Anna University hope to provide the students that visit us with all the necessary skills to stay ahead of the rest. Conducted by L&T, this workshop is one of our signature events for Civilisation.
                             </p>
                         </div>
                     </div>

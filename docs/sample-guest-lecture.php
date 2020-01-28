@@ -151,7 +151,7 @@
 
                     <div id="tab_about" class="tab-content">
                         <p><strong>Click the button below to register.</strong></p><br>
-                        <p>The registrations will be open till the 3rd of March.</p><br>
+                        <p>The registrations will be open till the 4<sup>th</sup> of March.</p><br>
                         <?php
                         // Start the session
 
@@ -160,7 +160,7 @@
                             $print2 ="<p><strong>You are currently logged in as ".$_SESSION["name"]."</strong></p>";
                             }
                             else {
-                                $print2 ="<p><strong>You must be logged in to register online or onspot.</strong></p>";
+                                $print2 ="<p><strong>You must be logged in to register.</strong></p>";
                               }
                             echo  $print2;
                         ?>
@@ -169,28 +169,9 @@
 
 <!--<div class="entry-content flex">-->
     <input type="hidden" value="LECTURES" id="event" />
-    <input class="btn gradient-bg flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
+    <input class="btn gradient-bg flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Register"></input>
     <br>
-    <?php
-    // Start the session
-    if(isset($_SESSION["cid"]))
-    {
-
-    $print ='
-    <div class="entry-content flex">
-        <a href="https://www.townscript.com/e/c20events" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
-    </div>
-    ';
-    }
-    else {
-    $print ='
-    <div class="entry-content flex">
-        <a href="login.php" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
-    </div>
-    ';
-    }
-    echo  $print;
-    ?>
+    
 
 
 <!--</div>-->
@@ -272,7 +253,7 @@
                                 <li><a href="https://fb.com/au.civilisation"><i class="fa fa-facebook-f"></i></a></li>
                                 <li><a href="https://instagram.com/civilisation20"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="tel:+919176224940"><i class="fa fa-phone"></i></a></li>
-                                <li><a href="mailto:sceceg1932@gmail.com?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
+                                <li><a href="mailto:civilisation2020ceg@gmail.com?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
                                 <!--<li><a href="#"><i class="fa fa-address-book"></i></a></li>-->
                                 <li><a href="https://api.whatsapp.com/send?phone=919176224940"><i class="fa fa-whatsapp"></i></a></li>
                                 <li><a href="https://forms.gle/DoiPfyzcotmjpasa6"><i class="fa fa-github"></i></a></li>

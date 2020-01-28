@@ -133,6 +133,7 @@
                             <ol>
                                 <li>PRELIMS:
                                     <ul>
+                                        <li>This event is based on Instruments and Lab apparatus related to Civil Engineering.</li>
                                         <li>This round consists of 25 questions.</li>
                                         <li>All the questions are multiple choice questions.</li>
                                         <li>Duration of the round: 30 minutes</li>
@@ -140,21 +141,20 @@
                                 </li>
                                 <li>FINALS:
                                     <ul>
-                                        <li>This round consists of 25 questions.</li>
-
-                                        <li>Duration of the round: 30 minutes.</li>
+                                        <li>It is a presentation round. It consists of two or more small rounds.</li>
+                                        <li>More information will be provided onspot.</li>
                                     </ul>
                                 </li>
                             </ol>
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-
+                                <li>A team can have 3 or 4 participants.</li>
                                 <li>Only one answer is valid for MCQ’s in Prelims.</li>
                                 <li>Marks are not allotted for overwriting.</li>
-                                <li>Participants with marks above 20 will be allowed to take the next round.</li>
+                                <li>Top five teams will be selected for the final round.</li>
                                 <li>Using mobile phone is strictly prohibited.</li>
-                                <li>The participant will be disqualified in case of any malpractices.</li>
+                                <li>The team will be disqualified in case of any malpractices.</li>
                                 <li>Civilisation ID (will be provided) and College ID is mandatory.</li>
                             </ol>
                            <!-- <h2 class="entry-header">Prize And Venue:</h2>
@@ -188,12 +188,13 @@
                               
                                 </div >
                             </ul>
+                            <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
 
                         </div>
 
                         <div id="tab_about" class="tab-content">
                             <p><strong>Click the button below to register.</strong></p><br>
-                            <p>The registrations will be open till the 3rd of March.</p><br>
+                            <p>The registrations will be open till the 4<sup>th</sup> of March.</p><br>
                             <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                             <?php
                             // Start the session

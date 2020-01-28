@@ -144,7 +144,7 @@
                             <ol>
                                 <li>Any Civil Engineering related topic can be chosen for the project.</li>
                                 <li>A maximum of 5 members are allowed in a team.</li>
-                                <li>Bring your project model(compulsory).</li>
+                                <li>Bring your project model (compulsory).</li>
                                 <li>The project along with the working model should be displayed on March 5<sup>th</sup> during the morning session.</li>
                                 <li>Internship with cash price will be provided for first prize.</li>
                                 <li>Only cash price will be provided for second prize.</li>
@@ -177,26 +177,28 @@
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
                             <div class="row">
-                        <div class="col-2">
-                                <li>Subitcha<br>9047029771</li>
-                                <li>Pavithra<br>8778098024</li>
-                        </div>
-                        </div>
+                                <div class="col-2">
+                                        <li>Subitcha<br>9047029771</li>
+                                        <li>Pavithra<br>8778098024</li>
+                                </div>
+                            </div>
                             </ul>
-
+                            <p>Mail your abstract to <a href="mailto:projectdisplayscec20@gmail.com">projectdisplayscec20@gmail.com</a></p>
+                            <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
+                    
                         </div>
 
                         <div id="tab_about" class="tab-content">
                             <p><strong>Click the button below to register.</strong></p><br>
-                            <p>The registrations will be open till the 3rd of March.</p><br>
-                            <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
+                            <p>The registrations will be open till the 1<sup>st</sup> of March.</p><br>
+                            <p>The registration costs INR 300 for one team. Group registrations have to be done onspot.</p><br>
                             <?php
                             // Start the session
 
                             if (isset($_SESSION["cid"])) {
                                 $print2 = "<p><strong>You are currently logged in as " . $_SESSION["name"] . "</strong></p>";
                             } else {
-                                $print2 = "<p><strong>You must be logged in to register online or onspot.</strong></p>";
+                                $print2 = "<p><strong>You must be logged in to register.</strong></p>";
                             }
                             echo  $print2;
                             ?>
@@ -205,27 +207,8 @@
 
                                 <!--<div class="entry-content flex">-->
                                 <input type="hidden" value="EVENTS" id="event" />
-                                <input class="btn gradient-bg flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
+                                <input class="btn gradient-bg flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Register"></input>
                                 <br>
-                                <?php
-                                // Start the session
-                                if (isset($_SESSION["cid"])) {
-
-                                    $print = '
-    <div class="entry-content flex">
-        <a href="https://www.townscript.com/e/c20events" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
-    </div>
-    ';
-                                } else {
-                                    $print = '
-    <div class="entry-content flex">
-        <a href="login.php" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
-    </div>
-    ';
-                                }
-                                echo  $print;
-                                ?>
-
 
                                 <!--</div>-->
                             </form>

@@ -141,14 +141,12 @@
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                <li>
-                                    College ID and Civilisation ID (will be provided) are mandatory.</li>
-                                <li>
-                                    On spot registration only, Registration starts @ 10am on 07/03/2020.</li>
-                                <li>
-                                    Top 15 will be qualified for final round.</li>
-                                <li>
-                                    Use of Vulgar Language or disturbance of decorum will be dealt with severely.</li>
+                                <li>College ID and Civilisation ID (will be provided) are mandatory.</li>
+                                <li>On spot registration only (Only for CEG students INR 80 only)</li> 
+                                <li>Registration starts @ 10am on 07/03/2020.</li>
+                                <li>Match starts @ 10:30am on 07/03/2020.</li>
+                                <li>Top 15 will be qualified for final round.</li>
+                                <li>Use of Vulgar Language or disturbance of decorum will be dealt with severely.</li>
                             </ol>
 
                             <!-- <h2 class="entry-header">Prize And Venue:</h2>
@@ -181,12 +179,13 @@
                                 </div>
 
                             </ul>
+                            <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
 
                         </div>
 
                         <div id="tab_about" class="tab-content">
                             <p><strong>Click the button below to register.</strong></p><br>
-                            <p>The registrations will be open till the 3rd of March.</p><br>
+                            <p>The registrations will be open till the 4<sup>th</sup> of March.</p><br>
                             <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                             <?php
                             // Start the session

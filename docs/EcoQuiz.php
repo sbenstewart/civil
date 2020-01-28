@@ -143,9 +143,8 @@
                             </li>
                             <li>FINALS:
                                 <ul>
-                                    <li>It’s paper and pen round.</li>
-                                    <li>Set of questions will be given relevant to environmental issues.</li>
-                                    <li>Based on the performance, winner will be selected.</li>
+                                    <li>It is a presentation round. It consists of two or more small rounds.</li>
+                                    <li>More information will be provided onspot.</li>
                                 </ul>
                             </li>
                         </ol>
@@ -190,12 +189,13 @@
                         </div >
                         </div>
                         </ul>
+                        <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
 
                     </div>
 
                     <div id="tab_about" class="tab-content">
                         <p><strong>Click the button below to register.</strong></p><br>
-                        <p>The registrations will be open till the 3rd of March.</p><br>
+                        <p>The registrations will be open till the 4<sup>th</sup> of March.</p><br>
                         <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                         <?php
                         // Start the session
@@ -317,7 +317,7 @@
                                 <li><a href="https://fb.com/au.civilisation"><i class="fa fa-facebook-f"></i></a></li>
                                 <li><a href="https://instagram.com/civilisation20"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="tel:+919176224940"><i class="fa fa-phone"></i></a></li>
-                                <li><a href="mailto:sceceg1932@gmail.com?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
+                                <li><a href="mailto:civilisation2020ceg@gmail.com?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
                                 <!--<li><a href="#"><i class="fa fa-address-book"></i></a></li>-->
                                 <li><a href="https://api.whatsapp.com/send?phone=919176224940"><i class="fa fa-whatsapp"></i></a></li>
                                 <li><a href="https://forms.gle/DoiPfyzcotmjpasa6"><i class="fa fa-github"></i></a></li>

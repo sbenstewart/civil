@@ -130,7 +130,7 @@
                             <ol>
                                 <li>STAGE 1:
                                     <ul>
-                                        <li>Registration for the event is done through the mail ID: <a href="mailto:confloat.c20@gmail.com">confloat.c20@gmail.com</a> with preparing a detailed report on or before March 1 and confirmation mail will be received.</li>
+                                        <li>Mail your abstract to: <a href="mailto:confloat.c20@gmail.com">confloat.c20@gmail.com</a> with preparing a detailed report on or before March 1 and confirmation mail will be received.</li>
                                         <li>Release of the problem statement.</li>
                                         <li>Designing the mix and casting the concrete structure (in the shape of boat) that can actually float in water within the specified restrictions.</li>
                                         <li>The constituents should be Cement, Sand, Water, and Admixture, Wire Mesh (type and material can be decided by the participants).</li>
@@ -192,19 +192,21 @@
                             <h2 class="entry-header">Contact:</h2>
                             <ul>
                             <div class="row">
-                        <div class="col-2">
-                                <li>Devi<br>9865621187</li>
-                                <li>Gokul Priya<br>8675790587</li>
-                        </div>
-                        </div>
-
+                                <div class="col-2">
+                                        <li>Devi<br>9865621187</li>
+                                        <li>Gokul Priya<br>8675790587</li>
+                                </div>
+                            </div>
                             </ul>
+                            <p>Mail your abstract to <a href="mailto:confloat.c20@gmail.com">confloat.c20@gmail.com</a></p>
+                            <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
+
 
                         </div>
 
                         <div id="tab_about" class="tab-content">
                             <p><strong>Click the button below to register.</strong></p><br>
-                            <p>The registrations will be open till the 3rd of March.</p><br>
+                            <p>The registrations will be open till the 1<sup>st</sup> of March.</p><br>
                             <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                             <?php
                             // Start the session

@@ -176,12 +176,13 @@
                                 </div>
 
                             </ul>
+                            <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
 
                         </div>
 
                         <div id="tab_about" class="tab-content">
                             <p><strong>Click the button below to register.</strong></p><br>
-                            <p>The registrations will be open till the 3rd of March.</p><br>
+                            <p>The registrations will be open till the 4<sup>th</sup> of March.</p><br>
                             <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
                             <?php
                             // Start the session

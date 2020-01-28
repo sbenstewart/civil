@@ -855,7 +855,7 @@
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">Pre Stressed Concrete Bridges</h3>
+                        <h3 class="entry-title">Pre Stressed Concrete on Bridges</h3>
 
                         <div class="posted-date"><span>Larsen & Toubro</span></div>
                         <div class="posted-date">Friday <span>March 6, 2020</span></div>
@@ -877,7 +877,7 @@
                     </figure>
 
                     <header class="entry-header">
-                        <h3 class="entry-title">Steel Structures</h3>
+                        <h3 class="entry-title">Innovative Erection Methodologies of Steel Structures</h3>
 
                         <div class="posted-date"><span>Eversendai</span></div>
                         <div class="posted-date">Saturday <span>March 7, 2020</span></div>
@@ -924,7 +924,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -940,7 +940,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -956,7 +956,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -972,7 +972,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -988,7 +988,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1004,7 +1004,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1020,7 +1020,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1036,7 +1036,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1052,7 +1052,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1068,7 +1068,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1084,7 +1084,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1100,7 +1100,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1116,7 +1116,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1157,7 +1157,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1173,7 +1173,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1189,7 +1189,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1205,7 +1205,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1221,7 +1221,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1237,7 +1237,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1253,7 +1253,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1269,7 +1269,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
+                                
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1309,7 +1309,6 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1325,7 +1324,6 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1341,7 +1339,6 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>Jan 27, 2018</span></div>
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1504,7 +1501,7 @@
                                 <li><a href="https://fb.com/au.civilisation"><i class="fa fa-facebook-f"></i></a></li>
                                 <li><a href="https://instagram.com/civilisation20"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="tel:+919176224940"><i class="fa fa-phone"></i></a></li>
-                                <li><a href="mailto:sceceg1932@gmail.com?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
+                                <li><a href="mailto:civilisation2020ceg@gmail.com?Subject=Help%20Needed" target="_top"><i class="fa fa-envelope"></i></a></li>
                                 <!--<li><a href="#"><i class="fa fa-address-book"></i></a></li>-->
                                 <li><a href="https://api.whatsapp.com/send?phone=919176224940"><i class="fa fa-whatsapp"></i></a></li>
                                 <li><a href="https://forms.gle/DoiPfyzcotmjpasa6"><i class="fa fa-github"></i></a></li>

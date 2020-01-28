@@ -125,7 +125,7 @@
                             <p><strong>Get ready to "Dance to our Tunes" - Civilisation'20 </strong></p>
                             <p>
                                 Channel Surfing is an unique event, we promise will keep you on your toes. Testing your wit, humor & creativity at every junction, this event is an absolute blockbuster.<br />
-                                The judges hold the remote, while the audience hold your fate. Your sole motive here will be to entertain the audience by imitating <b>"Switching"</b> Channels as per the Judge’s command. The more creative and humorous your sketch? The more exciting prizes !
+                                The judges hold the remote, while the audience hold your fate. Your sole motive here will be to entertain the audience by imitating <b>"Switching"</b> Channels as per the Judge’s command. The more creative and humorous your sketch? The more exciting prizes!
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>

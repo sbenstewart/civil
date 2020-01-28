@@ -124,7 +124,7 @@
 
                             <p><strong>"The project you are most scared to do is the one that holds your greatest growth." – Robin S Sharma</strong></p>
                             <p>
-                                CIVILISATION gives you an opportunity to display your talent to the world through this project. This event is a platform which enables you to exhibit your Civil Engineering ideas and also gives you a chance to win an Internship.<br />
+                                Civilisation gives you an opportunity to display your talent to the world through this project. This event is a platform which enables you to exhibit your Civil Engineering ideas and also gives you a chance to win an Internship.<br />
                                 &emsp;DREAM IT.<br>
                                 &emsp;BELEIVE IT.<br>
                                 &emsp;BUILD IT.<br>

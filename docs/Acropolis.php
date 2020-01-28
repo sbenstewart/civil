@@ -125,7 +125,7 @@
                             <p>
                                 <strong>"Acropolis, where tradition meets innovation."</strong><br />
                                 From skylines to shorelines, one thing remains common and that is "Transportation".<br>
-                                This year Acropolis, an event under Civilisation’20 is the event to be at if you’re a Highway Engineering geek or aspire to inculcate an interest in the same.<br>
+                                This year Acropolis, an event under Civilisation is the event to be at if you’re a Highway Engineering geek or aspire to inculcate an interest in the same.<br>
                                <br>
                             </p>
 
@@ -149,7 +149,7 @@
 
                             <h2 class="entry-header">RULES:</h2>
                             <ol>
-                                <li>Civilisation’20 ID and College ID (will be provided) are mandatory.</li>
+                                <li>Civilisation ID (will be provided) and College ID are mandatory.</li>
                                 <li>The team will be disqualified in case of any discrepancies.</li>
                                 <li>Use of mobile phone is strictly prohibited.</li>
                             </ol>

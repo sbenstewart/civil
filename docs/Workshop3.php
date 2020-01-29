@@ -127,7 +127,7 @@
                     <div class="row mb-3">
                         <div class="col-6 col-md-3 order-md-2 col-lg-3 order-lg-2 col-xl-3 order-xl-2 align-self-center mt-1">
                             <figure class="events-thumbnail text-center">
-                                <img class="figure-img img-fluid" src="images/ever.png" alt="">
+                                <img class="figure-img img-fluid" src="images/ever.jpg" alt="">
                             </figure>
                         </div>
                         <div class="col-12 col-md-9 col-lg-9 col-xl-9">

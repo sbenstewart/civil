@@ -109,7 +109,7 @@
     </div>
 </header><!-- .site-header -->
 
-<div class="container">
+<div class="container mb-5">
 
     <div class="row">
         <div class="col-12">
@@ -246,43 +246,7 @@
 
 
 
-    <div class="row">
-        <div class="col-12">
-            <div class="upcoming-events">
-                <div class="upcoming-events-header">
-                    <h4>Upcoming Events</h4>
-                </div>
-
-                <div class="upcoming-events-list">
-                    <div class="upcoming-event-wrap flex flex-wrap justify-content-between align-items-center">
-                        <figure class="events-thumbnail">
-                            <a href="#"><img src="images/upcoming-1.jpg" alt=""></a>
-                        </figure>
-
-                        <div class="entry-meta">
-                            <div class="event-date">
-                                25<span>February</span>
-                            </div>
-                        </div>
-
-                        <header class="entry-header">
-                            <h3 class="entry-title"><a href="#">Blockchain Conference</a></h3>
-
-                            <div class="event-date-time">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
-
-                            <div class="event-speaker">Speackers: Maria Williams, Luis Smith, James Doe</div>
-                        </header>
-
-                        <footer class="entry-footer">
-                            <a href="#">Buy Tikets</a>
-                        </footer>
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-    </div>
+    
 </div>
 
 

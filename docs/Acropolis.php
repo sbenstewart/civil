@@ -123,7 +123,7 @@
 
 
                             <p>
-                                <strong>"Acropolis, where tradition meets innovation."</strong><br />
+                                <strong>"Acropolis, where tradition meets innovation." - Civilisation'20</strong><br />
                                 From skylines to shorelines, one thing remains common and that is "Transportation".<br>
                                 This year Acropolis, an event under Civilisation is the event to be at if you’re a Highway Engineering geek or aspire to inculcate an interest in the same.<br>
                                <br>
@@ -142,7 +142,7 @@
                                 </li>
                                 <li>FINALS:
                                     <ul>
-                                        <li>It is a presentation round. It consists of two or more small rounds.</li>
+                                        <li>It consists of two or more small rounds.</li>
                                         <li>More information will be provided onspot.</li>
                                     </ul>
                                 </li>

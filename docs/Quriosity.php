@@ -142,7 +142,7 @@
                             </li>
                             <li>FINALS:
                                 <ul>
-                                    <li>It is a presentation round. It consists of two or more small rounds.</li>
+                                    <li>It consists of two or more small rounds.</li>
                                     <li>More information will be provided onspot.</li>
                                 </ul>
                             </li>
@@ -150,7 +150,7 @@
 
                         <h2 class="entry-header">RULES:</h2>
                         <ol>
-                            <li>Civilisation ID (wil be provided) and College ID is mandatory</li>
+                            <li>Civilisation ID (will be provided) and College ID is mandatory</li>
                             <li>The team will be disqualified in case of any discrepancies.</li>
                             <li>Use of mobile is strictly prohibited.</li>
                         </ol>

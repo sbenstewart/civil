@@ -141,7 +141,7 @@
                                 </li>
                                 <li>FINALS:
                                     <ul>
-                                        <li>It is a presentation round. It consists of two or more small rounds.</li>
+                                        <li>It consists of two or more small rounds.</li>
                                         <li>More information will be provided onspot.</li>
                                     </ul>
                                 </li>

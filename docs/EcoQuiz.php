@@ -136,14 +136,14 @@
                             <li>PRELIMS:
                                 <ul>
                                     <li>It’s paper and pen round.</li>
-                                    <li>Set of questions will be given with multiple choice.</li>
+                                    <li>Set of questions will be given with multiple choices.</li>
                                     <li>Duration: 30 min</li>
                                     <li>Top 10 teams will be selected for finals.</li>
                                 </ul>
                             </li>
                             <li>FINALS:
                                 <ul>
-                                    <li>It is a presentation round. It consists of two or more small rounds.</li>
+                                    <li>It consists of two or more small rounds.</li>
                                     <li>More information will be provided onspot.</li>
                                 </ul>
                             </li>

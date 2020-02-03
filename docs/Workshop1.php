@@ -135,7 +135,7 @@
                             <h2 class="entry-header">LARSEN & TOUBRO</h2>
                             <!--<p><strong>Vice President, Head of Public Space Business Unit of L&T Construction.</strong></p>-->
                             <p>
-                            Building Information Modelling (BIM), is an intelligent 3D digital model-based process that gives Architecture, Engineering, and Construction (AEC) professionals the insight and tools to more efficiently plan, design, construct and manage buildings and infrastructure. In this fast paced world where Innovation and Artificial Intelligence parallel each other, we here at Anna University hope to provide the students that visit us with all the necessary skills to stay ahead of the rest. Conducted by L&T, this workshop is one of our signature events for Civilisation.
+                            Building Information Modelling (BIM) is an intelligent 3D digital model-based process that gives Architecture, Engineering, and Construction (AEC) professionals the insight and tools to more efficiently plan, design, construct and manage buildings and infrastructure. In this fast paced world where Innovation and Artificial Intelligence parallel each other, we here at Anna University hope to provide the students that visit us with all the necessary skills to stay ahead of the rest. Conducted by L&T, this workshop is one of our signature events for Civilisation.
                             </p>
                         </div>
                     </div>
@@ -153,7 +153,7 @@
                                 <li>Certificates will be provided only after completion of the afternoon session.</li>
                                 <li>Group registrations can be done only on spot.</li>
                                 <li>College ID & Civilisation ID (will be provided) are mandatory.</li>
-                                <li>Usage of mobile phones, electronic gadgets etc are strictly prohibited during course of event.</li>
+                                <li>Usage of mobile phones, electronic gadgets etc, are strictly prohibited during course of event.</li>
                             </ul>
                             <!--<<p><strong>You will learn about the Statue of Unity.</strong></p>-->
                         </div>

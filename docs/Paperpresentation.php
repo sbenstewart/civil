@@ -128,7 +128,7 @@
                         <p>
                         Want to express your views to the world? Have a brilliant idea you want to show-off? Want to develop your presentation skills? Get ready to express your views regarding Civil Engineering and sharpen your skills through this exclusive contest.<br>
                         <b>"If you have an important point to make, don’t try to be subtle or clever. Make a paper presentation!!"</b><br>
-                        Don't miss the opportunity and register now !!!<br>
+                        Don't miss the opportunity and register now!!!<br>
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>

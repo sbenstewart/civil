@@ -125,7 +125,7 @@
                         <h2 class="entry-header">Instructions</h2>
                         <ul>
                             <li>Every student is eligible to become a student ambassador if he/she is willing to.</li>
-                            <li>As a student ambassador, the participant will be representing his/her college and shall be given an unique referral code.</li>
+                            <li>As a student ambassador, the participant will be representing his/her college and shall be given a unique referral code.</li>
                             <li>The code when used by other participants whilst payment of registration fee online, shall avail a fee waiver for the individual whose code has been utilised.</li>
                             <li>Online registrations alone, can avail ambassador facility.</li>
                             <li>Student ambassadors are for workshops alone.</li>

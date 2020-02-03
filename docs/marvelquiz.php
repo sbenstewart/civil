@@ -132,11 +132,11 @@
                                 <li>A preliminary test will be conducted with a questionnaire consisting of 50 marks.</li>
                                 <li>Allocated time for answering the questions is 30 minutes.</li>
                                 <li>Negative marking is applicable for questions having choices (options)</li>
-                                <li>The questionnaire will consist of three parts : Comics section, movies section (MCU
-                                    films) and history of marvel .</li>
+                                <li>The questionnaire will consist of two parts: Movies section (MCU
+                                    films) and history of Marvel.</li>
                                 <li>Each part will consist of 10, 30 and 10 marks respectively. </li>
                                 <li>Top five teams will be qualified for second round. </li>
-                                <li>Final round will be a presentation round, which consist of several rounds. More informations
+                                <li>Final round will consist of several rounds. More information
                                     will be provided during the course of the event. </li>
                             </ul>
 

@@ -124,19 +124,19 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>"Asides your power,passion and poise, what glues the posters of your impacts on memorial walls is how you treat those you need and those who need you." - Israelmore Ayivor</strong></p>
+                        <p><strong>"Asides your power, passion and poise what glues the posters of your impacts on memorial walls is how you treat those you need and those who need you." - Israelmore Ayivor</strong></p>
                         <p>A good poster should be eye-catching and informative. Here’s a wonderful chance for every artist to showcase their skills in the field of poster designing.
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
-                            <li>The following are the topis for the posterize event.</li>
+                            <li>The following are the topics for the posterize event.</li>
                                 <ul>
                                     <li>Green concrete.</li>
-                                    <li>Noise contol of buildings.</li>
+                                    <li>Noise control of buildings.</li>
                                     <li>U-boot voided slab technology.</li>
                                     <li>Geotextile.</li>
-                                    <li>Self healing concrete(bio concrete).</li>
+                                    <li>Self-healing concrete (bio concrete).</li>
                                 </ul>
                                 <li>Time duration: 1.30 hours.</li>
                                 <li>Required stationaries will be provided.</li>
@@ -147,8 +147,8 @@
                         <ol>
                             <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
                             <li>A team can have a maximum of two participants.</li>
-                            <li>Use of mobile phones is stictly prohibited.</li>
-                            <li>There are only limited slots.The slots will be filled on the basics of those who apply earliest are most likely to get what they want.</li>
+                            <li>Use of mobile phones is strictly prohibited.</li>
+                            <li>There are only limited slots. The slots will be filled on the basics of those who apply earliest are most likely to get what they want.</li>
                             <li>Call for any doubts and queries.</li>
                         </ol>
                         <!-- <h2 class="entry-header">Prize And Venue:</h2>

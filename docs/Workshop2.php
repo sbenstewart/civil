@@ -155,7 +155,7 @@
                                 <li>Certificates will be provided only after completion of the afternoon session.</li>
                                 <li>Group registrations can be done only on spot.</li>
                                 <li>College ID & Civilisation ID (will be provided) are mandatory.</li>
-                                <li>Usage of mobile phones, electronic gadgets etc are strictly prohibited during course of event.</li>
+                                <li>Usage of mobile phones, electronic gadgets etc, are strictly prohibited during course of event.</li>
                             </ul>
                             <!--<<p><strong>You will learn about the Statue of Unity.</strong></p>-->
                         </div>

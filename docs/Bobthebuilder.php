@@ -124,7 +124,7 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>"Trials teach us what we are; they dig up the soil,and let us see what we are made of." - Charles Spurgeon</strong></p>
+                        <p><strong>"Trials teach us what we are; they dig up the soil and let us see what we are made of." - Charles Spurgeon</strong></p>
                         <p>
                         Soil mechanics is an art of Science and Engineering. The observation of the performance of the soil is an essential part of any construction not only in laboratory and also in field.<br>
                         Are you a genius in mechanics of soil and hydraulics?<br>

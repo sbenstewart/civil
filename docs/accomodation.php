@@ -173,7 +173,7 @@
                                                   <li>Registration for accommodation is not part of the Events registration and is to be done separately.</li>
                                                   <li>Accommodation services will be available from <b>6 PM on 4<sup>th</sup> March, 2020 to 8 PM on 7<sup>th</sup> March, 2020. </b></li>
                                                   <li>Accommodation will be provided on a <b>sharing basis</b>. Any requests for individual rooms will not be entertained. However, we will try to accommodate students from the same college together in rooms and dorms (if possible).</li>
-                                                  <li>For Boys: Accommodation will be provided inside the campus. Incase there is no availability of space in our campus accommodation will be provided outside the college (i.e., at hotels).</li>
+                                                  <li>For Boys: Accommodation will be provided inside the campus. In case there is no availability of space in our campus accommodation will be provided outside the college (i.e., at hotels).</li>
                                                   <li><b>For Girls: Accommodation will be provided inside the college.</b></li>
                                                   <li>Services will be offered on "First Register First Serve" basis.</li>
                                                   <li>Accommodated students can have their food at their own expense in canteens and food stalls that are available. <b>Food will not be provided</b> by the Civilisation team.</li>
@@ -257,7 +257,7 @@
                                     <li><b>By Auto/Taxi</b><br>
                                     The auto fare will be approximately Rs 120. Fix the rate before boarding.
                                     There is no prepaid auto service at Egmore station.<br>
-                                    Ola and Uber services will also be available.
+                                    Ola and Uber service will also be available.
                                     </li>
                             </ul>
                         </li>

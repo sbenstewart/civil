@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">The Civil Engineer-The Shifting Pradigm</h1>
+                        <h1 class="entry-title">Composite Construction</h1>
                     </header>
                 </div>
             </div>
@@ -130,22 +130,20 @@
                         </p>
 
                         <h2 class="entry-header">The Speaker:</h2>
-                        <p><strong>Dr. Abdussamad Siddiqui<br>
-                        Director Starmass Environment Technologies Canada</strong></p>
+                        <p><strong>Dr. S. Sreenath<br>
+                        Engineering Manager(Civil) L&T Constructions(Buildings & Factories)</strong></p>
 
-                        <p>Mohammed Abdussamad is a Director with Starmass Environment Technologies, Canada. He is responsible for Starmass activities both in the middle-east and India. He leads a highly specialized team of 150 - in areas of Infrastructure health monitoring. This includes structural health monitoring, environmental monitoring, sub-surface water flow, and distribution networks. His focus is on Structural Health Monitoring. He has 35 years of experience behind him, with a large part in auditing existing infrastructure and providing SHM systems to new infrastructure.</p>
-                        <p>He is at present executing SHM for mega projects. Also, he has the honor of leading a mega corrosion prevention project for a large piled raft spread over an area of 4.4 square kilometers. He holds a keen interest in academic research as well and is associated with Universities in Canada, Middle-East, and India. He is a visiting faculty in the area of SHM. He enjoys being a guest lecturer. He has also mentored as Industrial mentor for some of the students in sensory networks in India.</p>
+                        <p>Composites, one of the most fundamental components of most Civil Engineering constructions takes two intriguing topics and puts them together. They find multifaceted purposes right from building constructions all the way until highway management. There is no doubt that the term ‘Composite Construction’, may come off as daunting upon first glance but fear not, for Civilsation is bringing some big names to fill you in on this captivating topic. </p>
                         
                     </div>
 
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Raj Aditya&emsp;9629230056</li>
-                        <li>Priya&emsp;8675604979</li>
-                        <li>Dhivya&emsp;8489126689</li>
+                        <li>Shreenidhi<br>9790810518</li>
+                        <li>Rathi<br>8825560768</li>
                         </ul>
-                        <p>Mail your queries to events.c19@gmail.com</p>
+                        <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
                                               
                     </div>
 

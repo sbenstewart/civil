@@ -131,14 +131,15 @@
                             <h2 class="entry-header">FORMAT:</h2>
 
                             <ol>
-                                <li>PRELIMS: PAPER PEN ROUND
+                                <li>PRELIMS
                                     <ul>
+                                        <li>It is a pen and paper round.</li>
                                         <li>Participants are provided with a question paper which carries 25 questions.</li>
                                         <li>The teams with maximum marks will qualify for the final.</li>
                                         <li>Duration: 30 minutes.</li>
                                     </ul>
                                 </li>
-                                <li>FINALS: PRESENTATION ROUND
+                                <li>FINALS
                                     <ul>
                                         <li>FINALS will have a series of rounds.</li>
                                         <li>More details will be provided on clearance of the preliminary round.</li>

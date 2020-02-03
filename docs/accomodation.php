@@ -55,7 +55,7 @@
                             <li><a href="index.php#workshops">WORKSHOPS</a></li>
                             <li><a href="index.php#events">EVENTS</a></li>
                             <li><a href="index.php#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                             <?php
                             // Start the session
@@ -65,7 +65,7 @@
                                 $print1 ='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 ='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="login.php">LOGIN</a></li>';
                             }
                             echo  $print1;
                             ?>
@@ -84,7 +84,7 @@
                                 $print1 ='<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             }
                             else {
-                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 ='<a class="btn gradient-bg" href="login.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -109,7 +109,7 @@
     </div>
 </header><!-- .site-header -->
 
-<div class="container">
+<div class="container mb-5">
 
     <div class="row">
         <div class="col-12">
@@ -173,7 +173,7 @@
                                                   <li>Registration for accommodation is not part of the Events registration and is to be done separately.</li>
                                                   <li>Accommodation services will be available from <b>6 PM on 4<sup>th</sup> March, 2020 to 8 PM on 7<sup>th</sup> March, 2020. </b></li>
                                                   <li>Accommodation will be provided on a <b>sharing basis</b>. Any requests for individual rooms will not be entertained. However, we will try to accommodate students from the same college together in rooms and dorms (if possible).</li>
-                                                  <li>For Boys: Accommodation will be provided inside the campus. Incase there is no availability of space in our campus accommodation will be provided outside the college (i.e., at hotels).</li>
+                                                  <li>For Boys: Accommodation will be provided inside the campus. In case there is no availability of space in our campus accommodation will be provided outside the college (i.e., at hotels).</li>
                                                   <li><b>For Girls: Accommodation will be provided inside the college.</b></li>
                                                   <li>Services will be offered on "First Register First Serve" basis.</li>
                                                   <li>Accommodated students can have their food at their own expense in canteens and food stalls that are available. <b>Food will not be provided</b> by the Civilisation team.</li>
@@ -257,7 +257,7 @@
                                     <li><b>By Auto/Taxi</b><br>
                                     The auto fare will be approximately Rs 120. Fix the rate before boarding.
                                     There is no prepaid auto service at Egmore station.<br>
-                                    Ola and Uber services will also be available.
+                                    Ola and Uber service will also be available.
                                     </li>
                             </ul>
                         </li>
@@ -297,43 +297,7 @@
 
 
 
-    <div class="row">
-        <div class="col-12">
-            <div class="upcoming-events">
-                <div class="upcoming-events-header">
-                    <h4>Upcoming Events</h4>
-                </div>
-
-                <div class="upcoming-events-list">
-                    <div class="upcoming-event-wrap flex flex-wrap justify-content-between align-items-center">
-                        <figure class="events-thumbnail">
-                            <a href="#"><img src="images/upcoming-1.jpg" alt=""></a>
-                        </figure>
-
-                        <div class="entry-meta">
-                            <div class="event-date">
-                                25<span>February</span>
-                            </div>
-                        </div>
-
-                        <header class="entry-header">
-                            <h3 class="entry-title"><a href="#">Blockchain Conference</a></h3>
-
-                            <div class="event-date-time">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
-
-                            <div class="event-speaker">Speackers: Maria Williams, Luis Smith, James Doe</div>
-                        </header>
-
-                        <footer class="entry-footer">
-                            <a href="#">Buy Tikets</a>
-                        </footer>
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-    </div>
+    
 </div>
 
 
@@ -351,7 +315,7 @@
                         <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                     </ul>
                 </nav>

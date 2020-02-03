@@ -55,7 +55,7 @@
                             <li><a href="index.php#workshops">WORKSHOPS</a></li>
                             <li><a href="index.php#events">EVENTS</a></li>
                             <li><a href="index.php#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                             <?php
                             // Start the session
@@ -65,7 +65,7 @@
                                 $print1 ='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 ='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="login.php">LOGIN</a></li>';
                             }
                             echo  $print1;
                             ?>
@@ -84,7 +84,7 @@
                                 $print1 ='<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             }
                             else {
-                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 ='<a class="btn gradient-bg" href="login.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -109,7 +109,7 @@
     </div>
 </header><!-- .site-header -->
 
-<div class="container">
+<div class="container mb-5">
 
     <div class="row">
         <div class="col-12">
@@ -125,7 +125,7 @@
                         <h2 class="entry-header">Instructions</h2>
                         <ul>
                             <li>Every student is eligible to become a student ambassador if he/she is willing to.</li>
-                            <li>As a student ambassador, the participant will be representing his/her college and shall be given an unique referral code.</li>
+                            <li>As a student ambassador, the participant will be representing his/her college and shall be given a unique referral code.</li>
                             <li>The code when used by other participants whilst payment of registration fee online, shall avail a fee waiver for the individual whose code has been utilised.</li>
                             <li>Online registrations alone, can avail ambassador facility.</li>
                             <li>Student ambassadors are for workshops alone.</li>
@@ -159,43 +159,7 @@
 
 
 
-    <div class="row">
-        <div class="col-12">
-            <div class="upcoming-events">
-                <div class="upcoming-events-header">
-                    <h4>Upcoming Events</h4>
-                </div>
-
-                <div class="upcoming-events-list">
-                    <div class="upcoming-event-wrap flex flex-wrap justify-content-between align-items-center">
-                        <figure class="events-thumbnail">
-                            <a href="#"><img src="images/upcoming-1.jpg" alt=""></a>
-                        </figure>
-
-                        <div class="entry-meta">
-                            <div class="event-date">
-                                25<span>February</span>
-                            </div>
-                        </div>
-
-                        <header class="entry-header">
-                            <h3 class="entry-title"><a href="#">Blockchain Conference</a></h3>
-
-                            <div class="event-date-time">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
-
-                            <div class="event-speaker">Speackers: Maria Williams, Luis Smith, James Doe</div>
-                        </header>
-
-                        <footer class="entry-footer">
-                            <a href="#">Buy Tikets</a>
-                        </footer>
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-    </div>
+    
 </div>
 
 
@@ -213,7 +177,7 @@
                         <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                     </ul>
                 </nav>

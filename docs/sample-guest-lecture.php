@@ -55,7 +55,7 @@
                             <li><a href="index.php#workshops">WORKSHOPS</a></li>
                             <li><a href="index.php#events">EVENTS</a></li>
                             <li><a href="index.php#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                             <?php
                             // Start the session
@@ -65,7 +65,7 @@
                                 $print1 ='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 ='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="login.php">LOGIN</a></li>';
                             }
                             echo  $print1;
                             ?>
@@ -84,7 +84,7 @@
                                 $print1 ='<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             }
                             else {
-                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 ='<a class="btn gradient-bg" href="login.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -101,7 +101,7 @@
             <div class="row">
                 <div class="col-12">
                     <header class="entry-header">
-                        <h1 class="entry-title">The Civil Engineer-The Shifting Pradigm</h1>
+                        <h1 class="entry-title">Composite Construction</h1>
                     </header>
                 </div>
             </div>
@@ -109,7 +109,7 @@
     </div>
 </header><!-- .site-header -->
 
-<div class="container">
+<div class="container mb-5">
     
     <div class="row">
         <div class="col-12">
@@ -130,22 +130,26 @@
                         </p>
 
                         <h2 class="entry-header">The Speaker:</h2>
-                        <p><strong>Dr. Abdussamad Siddiqui<br>
-                        Director Starmass Environment Technologies Canada</strong></p>
+                        <p><strong>Dr. S. Sreenath<br>
+                        Engineering Manager(Civil) L&T Constructions(Buildings & Factories)</strong></p>
 
-                        <p>Mohammed Abdussamad is a Director with Starmass Environment Technologies, Canada. He is responsible for Starmass activities both in the middle-east and India. He leads a highly specialized team of 150 - in areas of Infrastructure health monitoring. This includes structural health monitoring, environmental monitoring, sub-surface water flow, and distribution networks. His focus is on Structural Health Monitoring. He has 35 years of experience behind him, with a large part in auditing existing infrastructure and providing SHM systems to new infrastructure.</p>
-                        <p>He is at present executing SHM for mega projects. Also, he has the honor of leading a mega corrosion prevention project for a large piled raft spread over an area of 4.4 square kilometers. He holds a keen interest in academic research as well and is associated with Universities in Canada, Middle-East, and India. He is a visiting faculty in the area of SHM. He enjoys being a guest lecturer. He has also mentored as Industrial mentor for some of the students in sensory networks in India.</p>
+                        <p>
+                            Date: <strong>5<sup>th</sup> March</strong><br>
+                            Time: <strong>10 am - 12 pm</strong><br>
+                            Venue: <strong>Will be announced later</strong><br>
+                        </p>
+
+                        <p>Composites, one of the most fundamental components of most Civil Engineering constructions takes two intriguing topics and puts them together. They find multifaceted purposes right from building constructions all the way until highway management. There is no doubt that the term ‘Composite Construction’, may come off as daunting upon first glance but fear not, for Civilsation is bringing some big names to fill you in on this captivating topic. </p>
                         
                     </div>
 
                     <div id="tab_organizers" class="tab-content">
                         <h2 class="entry-header">Contact:</h2>
                         <ul>
-                        <li>Raj Aditya&emsp;9629230056</li>
-                        <li>Priya&emsp;8675604979</li>
-                        <li>Dhivya&emsp;8489126689</li>
+                        <li>Shreenidhi<br>9790810518</li>
+                        <li>Rathi<br>8825560768</li>
                         </ul>
-                        <p>Mail your queries to events.c19@gmail.com</p>
+                        <p>Mail your queries to <a href="mailto:eventsc2020@gmail.com">eventsc2020@gmail.com</a></p>
                                               
                     </div>
 
@@ -188,43 +192,7 @@
 
     
 
-    <div class="row">
-        <div class="col-12">
-            <div class="upcoming-events">
-                <div class="upcoming-events-header">
-                    <h4>Upcoming Events</h4>
-                </div>
-
-                <div class="upcoming-events-list">
-                    <div class="upcoming-event-wrap flex flex-wrap justify-content-between align-items-center">
-                        <figure class="events-thumbnail">
-                            <a href="#"><img src="images/upcoming-1.jpg" alt=""></a>
-                        </figure>
-
-                        <div class="entry-meta">
-                            <div class="event-date">
-                                25<span>February</span>
-                            </div>
-                        </div>
-
-                        <header class="entry-header">
-                            <h3 class="entry-title"><a href="#">Blockchain Conference</a></h3>
-
-                            <div class="event-date-time">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
-
-                            <div class="event-speaker">Speackers: Maria Williams, Luis Smith, James Doe</div>
-                        </header>
-
-                        <footer class="entry-footer">
-                            <a href="#">Buy Tikets</a>
-                        </footer>
-                    </div>
-
-                    
-                </div>
-            </div>
-        </div>
-    </div>
+    
 </div>
 
 
@@ -242,7 +210,7 @@
                         <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                     </ul>
                 </nav>

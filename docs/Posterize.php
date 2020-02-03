@@ -55,7 +55,7 @@
                             <li><a href="index.php#workshops">WORKSHOPS</a></li>
                             <li><a href="index.php#events">EVENTS</a></li>
                             <li><a href="index.php#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                             <?php
                             // Start the session
@@ -65,7 +65,7 @@
                                 $print1 ='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 ='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="login.php">LOGIN</a></li>';
                             }
                             echo  $print1;
                             ?>
@@ -84,7 +84,7 @@
                                 $print1 ='<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             }
                             else {
-                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 ='<a class="btn gradient-bg" href="login.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -109,7 +109,7 @@
     </div>
 </header><!-- .site-header -->
 
-<div class="container">
+<div class="container mb-5">
 
     <div class="row">
         <div class="col-12">
@@ -124,19 +124,19 @@
                     <div id="tab_details" class="tab-content">
 
 
-                        <p><strong>"Asides your power,passion and poise, what glues the posters of your impacts on memorial walls is how you treat those you need and those who need you." - Israelmore Ayivor</strong></p>
+                        <p><strong>"Asides your power, passion and poise what glues the posters of your impacts on memorial walls is how you treat those you need and those who need you." - Israelmore Ayivor</strong></p>
                         <p>A good poster should be eye-catching and informative. Here’s a wonderful chance for every artist to showcase their skills in the field of poster designing.
                         </p>
 
                         <h2 class="entry-header">FORMAT:</h2>
                         <ol>
-                            <li>The following are the topis for the posterize event.</li>
+                            <li>The following are the topics for the posterize event.</li>
                                 <ul>
                                     <li>Green concrete.</li>
-                                    <li>Noise contol of buildings.</li>
+                                    <li>Noise control of buildings.</li>
                                     <li>U-boot voided slab technology.</li>
                                     <li>Geotextile.</li>
-                                    <li>Self healing concrete(bio concrete).</li>
+                                    <li>Self-healing concrete (bio concrete).</li>
                                 </ul>
                                 <li>Time duration: 1.30 hours.</li>
                                 <li>Required stationaries will be provided.</li>
@@ -147,8 +147,8 @@
                         <ol>
                             <li>College ID and Civilisation ID (will be provided) is mandatory.</li>
                             <li>A team can have a maximum of two participants.</li>
-                            <li>Use of mobile phones is stictly prohibited.</li>
-                            <li>There are only limited slots.The slots will be filled on the basics of those who apply earliest are most likely to get what they want.</li>
+                            <li>Use of mobile phones is strictly prohibited.</li>
+                            <li>There are only limited slots. The slots will be filled on the basics of those who apply earliest are most likely to get what they want.</li>
                             <li>Call for any doubts and queries.</li>
                         </ol>
                         <!-- <h2 class="entry-header">Prize And Venue:</h2>
@@ -242,43 +242,7 @@
 
 
 
-    <div class="row">
-        <div class="col-12">
-            <div class="upcoming-events">
-                <div class="upcoming-events-header">
-                    <h4>Upcoming Events</h4>
-                </div>
-
-                <div class="upcoming-events-list">
-                    <div class="upcoming-event-wrap flex flex-wrap justify-content-between align-items-center">
-                        <figure class="events-thumbnail">
-                            <a href="#"><img src="images/upcoming-1.jpg" alt=""></a>
-                        </figure>
-
-                        <div class="entry-meta">
-                            <div class="event-date">
-                                25<span>February</span>
-                            </div>
-                        </div>
-
-                        <header class="entry-header">
-                            <h3 class="entry-title"><a href="#">Blockchain Conference</a></h3>
-
-                            <div class="event-date-time">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
-
-                            <div class="event-speaker">Speackers: Maria Williams, Luis Smith, James Doe</div>
-                        </header>
-
-                        <footer class="entry-footer">
-                            <a href="#">Buy Tikets</a>
-                        </footer>
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-    </div>
+    
 </div>
 
 
@@ -296,7 +260,7 @@
                         <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                     </ul>
                 </nav>

@@ -494,7 +494,7 @@
                             <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                             <?php
                             // Start the session
@@ -504,7 +504,7 @@
                                 $print1 ='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 ='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="login.php">LOGIN</a></li>';
                             }
                             echo  $print1;
                             ?>
@@ -523,7 +523,7 @@
                                 $print1 ='<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             }
                             else {
-                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 ='<a class="btn gradient-bg" href="login.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -701,7 +701,7 @@
                 </header>
 
                 <div class="entry-content">
-                    <p>A group of enthusiastic young and budding civil engineers with a vision that parallels on that of innovation, creation, leadership and development. Founded in 1932, the society exists for and is run by the students of the College of Engineering, Guindy.  Supported by our Dear faculty members, the Society of Civil Engineers organise and manage student activities all through the year to benefit the student community as the primary goal.</p>
+                    <p>A group of enthusiastic young and budding civil engineers with a vision that parallels on that of innovation, creation, leadership and development. Founded in 1932, the society exists for and is run by the students of the College of Engineering, Guindy.  Supported by our Dear faculty members, the Society of Civil Engineers organise and manage student activities all through the year with the goal that the student community is to be benefitted.</p>
                 </div>
 
                 <footer class="entry-footer">
@@ -1366,45 +1366,10 @@
                             </figure><!-- .hero-image -->
 
                             <div class="entry-header">
-                                <h2 class="entry-title">Lecture 1</h2>
+                                <h2 class="entry-title">Composite Construction</h2>
                             </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">Thursday <span>March 5, 2020</span></div>
-                            </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="images/guest-lecture.png" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-guest-lecture.php">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Lecture 2</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">Friday <span>March 6, 2020</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="images/guest-lecture.png" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="sample-guest-lecture.php">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Lecture 3</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">Saturday <span>March 7, 2020</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
 
                     </div><!-- .swiper-wrapper -->
 
@@ -1490,7 +1455,7 @@
                         <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                     </ul>
                 </nav>

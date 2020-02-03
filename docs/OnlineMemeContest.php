@@ -57,7 +57,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                                <li><a href="Projectdisplay.php">PROJECTS</a></li>
                                 <li><a href="about.php">ABOUT</a></li>
                                 <?php
                                 // Start the session
@@ -65,7 +65,7 @@
                                 if (isset($_SESSION["cid"])) {
                                     $print1 = '<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                                 } else {
-                                    $print1 = '<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                    $print1 = '<li class="d-lg-none"><a href="login.php">LOGIN</a></li>';
                                 }
                                 echo  $print1;
                                 ?>
@@ -82,7 +82,7 @@
                             if (isset($_SESSION["cid"])) {
                                 $print1 = '<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             } else {
-                                $print1 = '<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 = '<a class="btn gradient-bg" href="login.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -107,7 +107,7 @@
         </div>
     </header><!-- .site-header -->
 
-    <div class="container">
+    <div class="container mb-5">
 
         <div class="row">
             <div class="col-12">
@@ -115,7 +115,6 @@
                     <ul class="tabs-nav flex">
                         <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_details">Details</li>
                         <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organisers</li>
-                        <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                     </ul>
 
                     <div class="tabs-container">
@@ -195,54 +194,7 @@
 
                         </div>
 
-                        <div id="tab_about" class="tab-content">
-                            <p><strong>Click the button below to register.</strong></p><br>
-                            <p>The registrations will be open till the 1<sup>st</sup> of March.</p><br>
-                            <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
-                            <?php
-                            // Start the session
-
-                            if (isset($_SESSION["cid"])) {
-                                $print2 = "<p><strong>You are currently logged in as " . $_SESSION["name"] . "</strong></p>";
-                            } else {
-                                $print2 = "<p><strong>You must be logged in to register online or onspot.</strong></p>";
-                            }
-                            echo  $print2;
-                            ?>
-
-                            <form id="registration" class="entry-content">
-
-                                <!--<div class="entry-content flex">-->
-                                <input type="hidden" value="EVENTS" id="event" />
-                                <input class="btn gradient-bg flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
-                                <br>
-                                <?php
-                                // Start the session
-                                if (isset($_SESSION["cid"])) {
-
-                                    $print = '
-    <div class="entry-content flex">
-        <a href="https://www.townscript.com/e/c20events" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
-    </div>
-    ';
-                                } else {
-                                    $print = '
-    <div class="entry-content flex">
-        <a href="login.php" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
-    </div>
-    ';
-                                }
-                                echo  $print;
-                                ?>
-
-
-                                <!--</div>-->
-                            </form>
-
-
-
-
-                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -250,43 +202,7 @@
 
 
 
-        <div class="row">
-            <div class="col-12">
-                <div class="upcoming-events">
-                    <div class="upcoming-events-header">
-                        <h4>Upcoming Events</h4>
-                    </div>
-
-                    <div class="upcoming-events-list">
-                        <div class="upcoming-event-wrap flex flex-wrap justify-content-between align-items-center">
-                            <figure class="events-thumbnail">
-                                <a href="#"><img src="images/upcoming-1.jpg" alt=""></a>
-                            </figure>
-
-                            <div class="entry-meta">
-                                <div class="event-date">
-                                    25<span>February</span>
-                                </div>
-                            </div>
-
-                            <header class="entry-header">
-                                <h3 class="entry-title"><a href="#">Blockchain Conference</a></h3>
-
-                                <div class="event-date-time">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
-
-                                <div class="event-speaker">Speackers: Maria Williams, Luis Smith, James Doe</div>
-                            </header>
-
-                            <footer class="entry-footer">
-                                <a href="#">Buy Tikets</a>
-                            </footer>
-                        </div>
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
+        
     </div>
 
 
@@ -306,7 +222,7 @@
                             <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                         </ul>
                     </nav>

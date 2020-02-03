@@ -57,7 +57,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                                <li><a href="Projectdisplay.php">PROJECTS</a></li>
                                 <li><a href="about.php">ABOUT</a></li>
                                 <?php
                                 // Start the session
@@ -65,7 +65,7 @@
                                 if (isset($_SESSION["cid"])) {
                                     $print1 = '<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                                 } else {
-                                    $print1 = '<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                    $print1 = '<li class="d-lg-none"><a href="login.php">LOGIN</a></li>';
                                 }
                                 echo  $print1;
                                 ?>
@@ -82,7 +82,7 @@
                             if (isset($_SESSION["cid"])) {
                                 $print1 = '<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             } else {
-                                $print1 = '<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 = '<a class="btn gradient-bg" href="login.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -107,7 +107,7 @@
         </div>
     </header><!-- .site-header -->
 
-    <div class="container">
+    <div class="container mb-5">
 
         <div class="row">
             <div class="col-12">
@@ -132,11 +132,11 @@
                                 <li>A preliminary test will be conducted with a questionnaire consisting of 50 marks.</li>
                                 <li>Allocated time for answering the questions is 30 minutes.</li>
                                 <li>Negative marking is applicable for questions having choices (options)</li>
-                                <li>The questionnaire will consist of three parts : Comics section, movies section (MCU
-                                    films) and history of marvel .</li>
+                                <li>The questionnaire will consist of two parts: Movies section (MCU
+                                    films) and history of Marvel.</li>
                                 <li>Each part will consist of 10, 30 and 10 marks respectively. </li>
                                 <li>Top five teams will be qualified for second round. </li>
-                                <li>Final round will be a presentation round, which consist of several rounds. More informations
+                                <li>Final round will consist of several rounds. More information
                                     will be provided during the course of the event. </li>
                             </ul>
 
@@ -235,43 +235,7 @@
 
 
 
-        <div class="row">
-            <div class="col-12">
-                <div class="upcoming-events">
-                    <div class="upcoming-events-header">
-                        <h4>Upcoming Events</h4>
-                    </div>
-
-                    <div class="upcoming-events-list">
-                        <div class="upcoming-event-wrap flex flex-wrap justify-content-between align-items-center">
-                            <figure class="events-thumbnail">
-                                <a href="#"><img src="images/upcoming-1.jpg" alt=""></a>
-                            </figure>
-
-                            <div class="entry-meta">
-                                <div class="event-date">
-                                    25<span>February</span>
-                                </div>
-                            </div>
-
-                            <header class="entry-header">
-                                <h3 class="entry-title"><a href="#">Blockchain Conference</a></h3>
-
-                                <div class="event-date-time">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
-
-                                <div class="event-speaker">Speackers: Maria Williams, Luis Smith, James Doe</div>
-                            </header>
-
-                            <footer class="entry-footer">
-                                <a href="#">Buy Tikets</a>
-                            </footer>
-                        </div>
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
+        
     </div>
 
 
@@ -291,7 +255,7 @@
                             <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                         </ul>
                     </nav>

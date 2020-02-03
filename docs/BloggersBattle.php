@@ -115,7 +115,6 @@
                     <ul class="tabs-nav flex">
                         <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_details">Details</li>
                         <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_organizers">Organisers</li>
-                        <li class="tab-nav flex justify-content-center align-items-center" data-target="#tab_about">Register</li>
                     </ul>
 
                     <div class="tabs-container">
@@ -180,54 +179,7 @@
 
                         </div>
 
-                        <div id="tab_about" class="tab-content">
-                            <p><strong>Click the button below to register.</strong></p><br>
-                            <p>The registrations will be open till the 28<sup>th</sup> of February.</p><br>
-                            <p>If you have registered for any one event, you can attend all the events conducted during the symposium. This registration entitles you to attend all the technical and non-technical events.</p>
-                            <?php
-                            // Start the session
-
-                            if (isset($_SESSION["cid"])) {
-                                $print2 = "<p><strong>You are currently logged in as " . $_SESSION["name"] . "</strong></p>";
-                            } else {
-                                $print2 = "<p><strong>You must be logged in to register online or onspot.</strong></p>";
-                            }
-                            echo  $print2;
-                            ?>
-
-                            <form id="registration" class="entry-content">
-
-                                <!--<div class="entry-content flex">-->
-                                <input type="hidden" value="EVENTS" id="event" />
-                                <input class="btn gradient-bg flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
-                                <br>
-                                <?php
-                                // Start the session
-                                if (isset($_SESSION["cid"])) {
-
-                                    $print = '
-    <div class="entry-content flex">
-        <a href="https://www.townscript.com/e/c20events" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
-    </div>
-    ';
-                                } else {
-                                    $print = '
-    <div class="entry-content flex">
-        <a href="login.php" class="btn gradient-bg flex justify-content-center align-items-center">Pay and Register</a>
-    </div>
-    ';
-                                }
-                                echo  $print;
-                                ?>
-
-
-                                <!--</div>-->
-                            </form>
-
-
-
-
-                        </div>
+                        
                     </div>
                 </div>
             </div>

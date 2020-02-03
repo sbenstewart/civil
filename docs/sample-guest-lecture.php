@@ -55,7 +55,7 @@
                             <li><a href="index.php#workshops">WORKSHOPS</a></li>
                             <li><a href="index.php#events">EVENTS</a></li>
                             <li><a href="index.php#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                             <?php
                             // Start the session
@@ -65,7 +65,7 @@
                                 $print1 ='<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                             }
                             else {
-                                $print1 ='<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                $print1 ='<li class="d-lg-none"><a href="login.php">LOGIN</a></li>';
                             }
                             echo  $print1;
                             ?>
@@ -84,7 +84,7 @@
                                 $print1 ='<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             }
                             else {
-                                $print1 ='<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 ='<a class="btn gradient-bg" href="login.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -132,6 +132,12 @@
                         <h2 class="entry-header">The Speaker:</h2>
                         <p><strong>Dr. S. Sreenath<br>
                         Engineering Manager(Civil) L&T Constructions(Buildings & Factories)</strong></p>
+
+                        <p>
+                            Date: <strong>5<sup>th</sup> March</strong><br>
+                            Time: <strong>10 am - 12 pm</strong><br>
+                            Venue: <strong>Will be announced later</strong><br>
+                        </p>
 
                         <p>Composites, one of the most fundamental components of most Civil Engineering constructions takes two intriguing topics and puts them together. They find multifaceted purposes right from building constructions all the way until highway management. There is no doubt that the term ‘Composite Construction’, may come off as daunting upon first glance but fear not, for Civilsation is bringing some big names to fill you in on this captivating topic. </p>
                         
@@ -240,7 +246,7 @@
                         <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                     </ul>
                 </nav>

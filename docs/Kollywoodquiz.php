@@ -57,7 +57,7 @@
                                 <li><a href="index.php#workshops">WORKSHOPS</a></li>
                                 <li><a href="index.php#events">EVENTS</a></li>
                                 <li><a href="index.php#lectures">LECTURES</a></li>
-                                <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                                <li><a href="Projectdisplay.php">PROJECTS</a></li>
                                 <li><a href="about.php">ABOUT</a></li>
                                 <?php
                                 // Start the session
@@ -65,7 +65,7 @@
                                 if (isset($_SESSION["cid"])) {
                                     $print1 = '<li class="d-lg-none"><a href="php/logout.php">LOGOUT</a></li>';
                                 } else {
-                                    $print1 = '<li class="d-lg-none"><a href="signup.php">LOGIN</a></li>';
+                                    $print1 = '<li class="d-lg-none"><a href="login.php">LOGIN</a></li>';
                                 }
                                 echo  $print1;
                                 ?>
@@ -82,7 +82,7 @@
                             if (isset($_SESSION["cid"])) {
                                 $print1 = '<a class="btn gradient-bg" href="php/logout.php">LOGOUT</a>';
                             } else {
-                                $print1 = '<a class="btn gradient-bg" href="signup.php">LOGIN</a>';
+                                $print1 = '<a class="btn gradient-bg" href="login.php">LOGIN</a>';
                             }
                             echo  $print1;
                             ?>
@@ -300,7 +300,7 @@
                             <li><a href="#workshops">WORKSHOPS</a></li>
                             <li><a href="#events">EVENTS</a></li>
                             <li><a href="#lectures">LECTURES</a></li>
-                            <li><a href="accomodation.php">ACCOMMODATION</a></li>
+                            <li><a href="Projectdisplay.php">PROJECTS</a></li>
                             <li><a href="about.php">ABOUT</a></li>
                         </ul>
                     </nav>

@@ -1384,7 +1384,7 @@
 
                     <div class="events-partners-logos flex flex-wrap justify-content-between align-items-center">
                         <div class="col event-partner-logo">
-                            <a href="#"><img src="images/pixar.png" alt=""></a>
+                            <a href="#"><img src="images/title.png" alt=""></a>
                         </div>
 
                     </div>
@@ -1395,44 +1395,9 @@
 
                     <div class="events-partners-logos flex flex-wrap justify-content-between align-items-center">
                         <div class="col event-partner-logo">
-                            <a href="#"><img src="images/pixar.png" alt=""></a>
+                            <a href="#"><img src="images/corporate.png" alt=""></a>
                         </div>
 
-                        <div class="col event-partner-logo">
-                            <a href="#"><img src="images/the-pirate.png" alt=""></a>
-                        </div>
-
-                        <div class="col event-partner-logo">
-                            <a href="#"><img src="images/himalayas.png" alt=""></a>
-                        </div>
-
-                        <div class="col event-partner-logo">
-                            <a href="#"><img src="images/sa.png" alt=""></a>
-                        </div>
-
-                        <div class="col event-partner-logo">
-                            <a href="#"><img src="images/south-porth.png" alt=""></a>
-                        </div>
-
-                        <div class="col event-partner-logo">
-                            <a href="#"><img src="images/himalayas.png" alt=""></a>
-                        </div>
-
-                        <div class="col event-partner-logo">
-                            <a href="#"><img src="images/sa.png" alt=""></a>
-                        </div>
-
-                        <div class="col event-partner-logo">
-                            <a href="#"><img src="images/south-porth.png" alt=""></a>
-                        </div>
-
-                        <div class="col event-partner-logo">
-                            <a href="#"><img src="images/pixar.png" alt=""></a>
-                        </div>
-
-                        <div class="col event-partner-logo">
-                            <a href="#"><img src="images/the-pirate.png" alt=""></a>
-                        </div>
                     </div>
                 </div>
 

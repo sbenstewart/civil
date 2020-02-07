@@ -37,7 +37,7 @@ try {
           //echo "New password is $code";
 
 					$to   = $mail2;
-					$from = 'help@civilisation.epizy.com';
+					$from = 'help@civilisationceg.in';
 
 					$subject = "Password Changed";
 

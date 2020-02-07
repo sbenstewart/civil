@@ -1,5 +1,5 @@
 <?php
-    $host = 'sql110.epizy.com';
-    $dbname = 'epiz_25108368_db';
-    $username = 'epiz_25108368';
+    $host = 'localhost';
+    $dbname = 'u698922417_db';
+    $username = 'u698922417_admin';
     $password = 'RyZoCsnNJr';

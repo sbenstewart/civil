@@ -21,8 +21,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `epiz_25108368_db`
 --
-CREATE DATABASE IF NOT EXISTS `epiz_25108368_db` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `epiz_25108368_db`;
+CREATE DATABASE IF NOT EXISTS `u698922417_db` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `u698922417_db`;
 
 -- --------------------------------------------------------
 

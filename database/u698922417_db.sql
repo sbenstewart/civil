@@ -1,15 +1,13 @@
 -- phpMyAdmin SQL Dump
--- version 4.9.0.1
+-- version 4.8.3
 -- https://www.phpmyadmin.net/
 --
--- Host: sql110.epizy.com
--- Generation Time: Jan 26, 2020 at 10:15 AM
--- Server version: 5.6.45-86.1
--- PHP Version: 7.2.22
+-- Host: localhost:8889
+-- Generation Time: Feb 07, 2020 at 02:30 PM
+-- Server version: 5.7.23
+-- PHP Version: 7.2.10
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
-START TRANSACTION;
 SET time_zone = "+00:00";
 
 
@@ -19,18 +17,15 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `epiz_25108368_db`
+-- Database: `u698922417_db`
 --
-CREATE DATABASE IF NOT EXISTS `epiz_25108368_db` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `epiz_25108368_db`;
+CREATE DATABASE IF NOT EXISTS `u698922417_db` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `u698922417_db`;
 
 -- --------------------------------------------------------
 
 --
 -- Table structure for table `accomodation`
---
--- Creation: Jan 26, 2020 at 10:31 AM
--- Last update: Jan 26, 2020 at 10:31 AM
 --
 
 CREATE TABLE `accomodation` (
@@ -52,9 +47,6 @@ INSERT INTO `accomodation` (`id`, `entrydate`, `entrytime`, `hours`) VALUES
 --
 -- Table structure for table `admin`
 --
--- Creation: Jan 26, 2020 at 10:31 AM
--- Last update: Jan 26, 2020 at 10:31 AM
---
 
 CREATE TABLE `admin` (
   `cid` int(11) NOT NULL,
@@ -74,9 +66,6 @@ INSERT INTO `admin` (`cid`, `name`, `emailid`, `password`) VALUES
 
 --
 -- Table structure for table `ambassador`
---
--- Creation: Jan 26, 2020 at 10:31 AM
--- Last update: Jan 26, 2020 at 10:31 AM
 --
 
 CREATE TABLE `ambassador` (
@@ -98,9 +87,6 @@ INSERT INTO `ambassador` (`aid`, `name`, `phoneno`, `emailid`, `code`) VALUES
 
 --
 -- Table structure for table `registrations`
---
--- Creation: Jan 26, 2020 at 10:31 AM
--- Last update: Jan 26, 2020 at 10:31 AM
 --
 
 CREATE TABLE `registrations` (
@@ -125,9 +111,6 @@ INSERT INTO `registrations` (`cid`, `id`, `Paid`) VALUES
 
 --
 -- Table structure for table `user`
---
--- Creation: Jan 26, 2020 at 10:31 AM
--- Last update: Jan 26, 2020 at 10:31 AM
 --
 
 CREATE TABLE `user` (
@@ -208,7 +191,6 @@ ALTER TABLE `ambassador`
 --
 ALTER TABLE `user`
   MODIFY `cid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=56;
-COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

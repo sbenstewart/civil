@@ -6,6 +6,10 @@ $mail2 = $_POST['mail1'];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
 
+    //to be used to find new admin password hash
+    $loaded = password_hash($password2, PASSWORD_BCRYPT);
+    echo $loaded;
+
     $sql = "SELECT COUNT(*) from admin where emailid='$mail2'";
     if ($res = $conn->query($sql)) {
   
@@ -14,33 +18,31 @@ try {
 
     foreach ($conn->query("SELECT cid,password from admin where emailid='$mail2'") as $row)
     {
-      //to be used to find new admin password hash
-      //$loaded = password_hash($password2, PASSWORD_BCRYPT);
-      //echo $loaded;
+      
       $passwordIsCorrect = password_verify($password2, $row['password']);
       if ($passwordIsCorrect == false)
       {
-      echo "Incorrect password";
+      //echo "Incorrect password";
       break;
       }
       $id = $row['cid'];
       session_start();
       $_SESSION["admin"]=$id;
 
-      echo "Logged in as ";
-      echo $_SESSION["admin"];
+      //echo "Logged in as ";
+      //echo $_SESSION["admin"];
       break;
       /*session is started if you don't write this line can't use $_Session  global variable*/
     }
   }
   /* No rows matched -- do something else */
   else {
-  echo "User name is incorrect.";
+  //echo "User name is incorrect.";
 
   }
   }
   else {
-  echo "Submission failed. Try later.";
+  //echo "Submission failed. Try later.";
   }
   
 

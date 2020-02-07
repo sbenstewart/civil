@@ -311,6 +311,7 @@ data: dataString,
 cache: false,
 success: function(html) {
 displayToast(html);
+console.log(html);
 }
 });
 }

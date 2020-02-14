@@ -123,15 +123,18 @@
 
 
                             <p><strong>"One must explore deep and believe the incredible to find the new particles of truth floating in an ocean of insignificance." - Joseph Conrad.</strong></p>
-                            <p>Ever wondered how to excel in your field? Make your vision a reality. This is an event where you can put together ideas and bring them into existence. Witness imagination and truth collide. Come and make your presence felt!
+                            <p>Ever wondered how to excel in your field?<br>
+                              Searching for a place to put your ideas into focus??<br>
+                              Expecting for the incredible occasion to throw your thoughts???<br>
+                              Here is a place to make your thoughts into an amazing thing where the imagination and truth collide.
+                              Make your presence and get benefited.
                             </p>
 
                             <h2 class="entry-header">FORMAT:</h2>
                             <ol>
                                 <li>STAGE 1:
                                     <ul>
-                                        <li>Mail your abstract to: <a href="mailto:confloat.c20@gmail.com">confloat.c20@gmail.com</a> with preparing a detailed report on or before March 1 and confirmation mail will be received.</li>
-                                        <li>Release of the problem statement.</li>
+                                        <li>Registration for the event is done through the mail ID: <a href="mailto:confloat.c20@gmail.com">confloat.c20@gmail.com</a> with preparing a detailed report on or before March 1 and confirmation mail will be received.</li>
                                         <li>Designing the mix and casting the concrete structure (in the shape of boat) that can actually float in water within the specified restrictions.</li>
                                         <li>The constituents should be Cement, Sand, Water, and Admixture, Wire Mesh (type and material can be decided by the participants).</li>
                                         (NOTE: The participants will be selected to the next stage based on their abstract.)
@@ -163,6 +166,7 @@
                                     The specimen should strictly adhere to the submitted abstract.</li>
                                 <li>
                                     The density of the concrete should be less than 1800 kg/m3.</li>
+                                    <li>Maximum Size of the boat structure is 50(length)*50(breadth)*25(height).</li>
                                 <li>
                                     The decision of organising committee will be final.</li>
                                 <li>
@@ -259,7 +263,7 @@
 
 
 
-        
+
     </div>
 
 

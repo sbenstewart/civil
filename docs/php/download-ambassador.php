@@ -3,7 +3,7 @@ require_once 'dbconfig.php';
 $table2 = $_POST["name"];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-      $sql = "SELECT table1.*,table2.* FROM ambassador as table1 RIGHT JOIN(SELECT aid,GROUP_CONCAT(emailid) as list FROM user where aid is not null group by aid HAVING COUNT(*) > 6) as table2 ON table1.aid = table2.aid;";
+      $sql = "SELECT DISTINCT table1.*,table2.* FROM ambassador as table1 RIGHT JOIN(SELECT aid,GROUP_CONCAT(emailid) as list FROM user where aid is not null group by aid HAVING COUNT(*) > 6) as table2 ON table1.aid = table2.aid;";
       //Prepare our SQL query.
       $statement = $conn->prepare($sql);
       //Executre our SQL query.

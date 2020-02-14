@@ -27,7 +27,7 @@ try {
           $_SESSION["name"]=$name;
           echo "Logged in as ";
           echo $_SESSION["name"];
-          echo " with cid ";
+          echo " with CID ";
           echo $id;
           echo ". Please note this number for future reference.";
 

@@ -3,7 +3,7 @@ require_once 'dbconfig.php';
 $table2 = $_POST["name"];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-      $sql = "SELECT user.cid,user.name,user.emailid,user.phoneno,user.college,user.year,user.course,user.dept,registrations.Paid FROM registrations INNER JOIN user ON registrations.cid = user.cid and registrations.id='TALL STRUCTURES'";
+      $sql = "SELECT DISTINCT user.cid,user.name,user.emailid,user.phoneno,user.college,user.year,user.course,user.dept,registrations.Paid FROM registrations INNER JOIN user ON registrations.cid = user.cid and registrations.id='TALL STRUCTURES'";
       //Prepare our SQL query.
       $statement = $conn->prepare($sql);
       //Executre our SQL query.

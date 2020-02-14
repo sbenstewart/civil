@@ -3,7 +3,7 @@ require_once 'dbconfig.php';
 $table2 = $_POST["name"];
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-      $sql = "SELECT cid,name,emailid,phoneno,college,year,course,dept FROM user";
+      $sql = "SELECT DISTINCT cid,name,emailid,phoneno,college,year,course,dept FROM user";
       //Prepare our SQL query.
       $statement = $conn->prepare($sql);
       //Executre our SQL query.

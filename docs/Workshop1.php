@@ -221,7 +221,7 @@
 <form id="registration" class="entry-content">
 
 <!--<div class="entry-content flex">-->
-    <input type="hidden" value="Building Information & Modelling" id="event" />
+    <input type="hidden" value="Building Information" id="event" />
     <input class="btn gradient-bg flex justify-content-center align-items-center" type="button" onclick="regEvent()" value="Pay onspot"></input>
     <br>
     <?php

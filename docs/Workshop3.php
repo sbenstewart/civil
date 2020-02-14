@@ -156,6 +156,7 @@
                                 <li>Group registrations can be done only on spot.</li>
                                 <li>College ID & Civilisation ID (will be provided) are mandatory.</li>
                                 <li>Usage of mobile phones, electronic gadgets etc, are strictly prohibited during course of event.</li>
+                                <li><b>L&T Internships will be provided for the winners.</b></li>
                             </ul>
                             <!--<<p><strong>You will learn about the Statue of Unity.</strong></p>-->
                         </div>
@@ -262,7 +263,7 @@
 
 
 
-    
+
 </div>
 
 

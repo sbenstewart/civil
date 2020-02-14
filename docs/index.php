@@ -574,7 +574,7 @@
                                         </div><!-- .countdown-holder -->
                                     </div><!-- .countdown -->
 
-                                    <h2 class="entry-title flex justify-content-center">See you at <br>Civilisation 2020</h2>
+                                    <h4 class="entry-title flex justify-content-center">3 Workshops,20+ Events<br>Project Display and Guest Lectures</h4>
                                 </div><!--- .entry-header -->
 
                                 <!--<div class="entry-footer">
@@ -614,7 +614,7 @@
                                         </div><!-- .countdown-holder -->
                                     </div><!-- .countdown -->
 
-                                    <h2 class="entry-title">Site developed by <br>Enigma Enterprises</h2>
+                                    <h4 class="entry-title">Win Prizes worth upto 2 Lakhs<br>And Free L&T Internships</h4>
                                 </div><!--- .entry-header -->
                                 <!--
                                 <div class="entry-footer">
@@ -654,7 +654,7 @@
                                         </div><!-- .countdown-holder -->
                                     </div><!-- .countdown -->
 
-                                    <h2 class="entry-title">One of the best<br>Civil Symposiums</h2>
+                                    <h4 class="entry-title">CIVILISATION 2020 awaits your presence</h4>
                                 </div><!--- .entry-header -->
 
                                 <!--
@@ -924,7 +924,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -940,7 +940,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -956,7 +956,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -972,7 +972,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -988,7 +988,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1004,7 +1004,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1020,7 +1020,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1036,7 +1036,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1052,7 +1052,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1068,7 +1068,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1084,7 +1084,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1100,7 +1100,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1116,7 +1116,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1157,7 +1157,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1173,7 +1173,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1189,7 +1189,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1205,7 +1205,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1221,7 +1221,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1237,7 +1237,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1253,7 +1253,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 
@@ -1269,7 +1269,7 @@
                             </div><!--- .entry-header -->
 
                             <div class="entry-footer">
-                                
+
                             </div><!-- .entry-footer" -->
                         </div><!-- .swiper-slide -->
 

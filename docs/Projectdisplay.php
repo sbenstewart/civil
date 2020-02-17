@@ -152,6 +152,7 @@
                                 <li>Do submit your project abstract to the mail id <a href="mailto:projectdisplayscec20@gmail.com?Subject=Project%20Display">projectdisplayscec20@gmail.com</a> on or before March 1.</li>
                                 <li>The selected team will receive an acknowledgement mail from the mail id mentioned above.</li>
                                 <li>Mail your queries to the mail id mentioned above.</li>
+                                <li>Participant certificate will be provided</li>
                             </ol>
 
                            <!-- <h2 class="entry-header">Prize:</h2>

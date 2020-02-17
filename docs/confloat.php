@@ -166,7 +166,7 @@
                                     The specimen should strictly adhere to the submitted abstract.</li>
                                 <li>
                                     The density of the concrete should be less than 1800 kg/m3.</li>
-                                    <li>Maximum Size of the boat structure is 50(length)*50(breadth)*25(height).</li>
+                                    <li>Maximum Size of the boat structure is 50(length)*30(breadth)*30(height).</li>
                                 <li>
                                     The decision of organising committee will be final.</li>
                                 <li>

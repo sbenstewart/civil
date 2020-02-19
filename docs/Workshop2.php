@@ -146,7 +146,7 @@
                             <h2 class="entry-header">INSTRUCTIONS:</h2>
                             <ul>
                                 <li>Both online & onspot payments are available.</li>
-                                <li>The fee per workshop will be 700 INR.</li>
+                                <li>The fee per workshop will be just 500 INR for online registrations and 700 INR for onspot registrations.</li>
                                 <li>Food (Lunch only) and T shirts can be availed only for online registration.</li>
                                 <li>T-shirt will cost 150 INR & Food will cost 100 INR.  They are not inclusive of the workshop fee.</li>
                                 <li>Students who wish to register on spot are requested to be present 1 hour before commencement of the workshop.</li>
@@ -207,7 +207,7 @@
                     <div id="tab_about" class="tab-content">
                         <p><strong>Click the button below to register.</strong></p><br>
                         <p>The workshop has been scheduled for March 6.</p><br>
-                        <p>The workshop costs INR 700 for one indiviual. Group registrations have to be done onspot. T-Shirts and Food can be availed only for online payments.</p>
+                        <p>The workshop costs just 500 INR for online registrations and 700 INR for onspot registrations (for one indiviual). Group registrations have to be done onspot. T-Shirts and Food can be availed only for online payments.</p>
                         <?php
                         // Start the session
 

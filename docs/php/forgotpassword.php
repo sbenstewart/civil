@@ -48,7 +48,7 @@ try {
 					$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
 					$message = '<html><body>';
-					$message .= '<h1>Civilisation 2019</h1>';
+					$message .= '<h1>Civilisation 2020</h1>';
 					$message .= "Password is $code. Please use this password for logging into the website.";
 					$message .= "</body></html>";
 

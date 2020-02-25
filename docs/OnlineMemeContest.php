@@ -154,7 +154,7 @@
 
                             <h2 class="entry-header">RULES:</h2>
                             <ul>
-                                <li>Memes should not be created from
+                                <li>Memes should be created from
                                     <ol>
                                     <li>Cartoon characters /animated cartoon.</li>
                                     <li>You tube personalities.</li>

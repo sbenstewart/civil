@@ -136,6 +136,7 @@
                             <li>PRELIMS:
                                 <ul>
                                     <li>It’s paper and pen round.</li>
+                                    <li>Questions will be based on Environmental Science and Engineering.</li>
                                     <li>Set of questions will be given with multiple choices.</li>
                                     <li>Duration: 30 min</li>
                                     <li>Top 10 teams will be selected for finals.</li>

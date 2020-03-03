@@ -226,7 +226,7 @@
                                     Step out of the Guindy Railway Station (by taking a right in the crossover meant for
                                     pedestrians) and cross the road using the subway. Right near the subway you’ll find a lane
                                     towards the right side wherein you can find the bus stop. Board <b>M21G, 21G, PP21, M19,
-                                    M49, 54F, 577, 549,T70</b> and get down at Anna University.
+                                    M49, 54F, 577, 549,78</b> and get down at Anna University.
                                     You’ll also find share autos to Anna University near the subway which would cost you Rs.
                                     20.
                                     You can also board the <b>MRTS (Flying train) from the Park Town</b> which is adjacent to
@@ -265,7 +265,7 @@
                         <li><b>FROM KOYAMBEDU/CMBT:</b>
                             <ul>
                                     <li>CMBT expands as Chennai Moffusil Bus Terminus. Lot of buses are available either directly to Anna University or indirectly via T. Nagar or Guindy.</li>
-                                    <li>Board bus <b>23M, PP49, T70, and 149</b> which are direct to Anna University. These buses are not so frequent.</li>
+                                    <li>Board bus <b>23M, PP49, 78, and 149</b> which are direct to Anna University. These buses are not so frequent.</li>
                                     <li><b>Board bus to T.Nagar (27C, M27)</b> and from there get <b>5B, 19C, 19B, 47 , 47A , 47D</b> to Anna University.</li>
                                     <li>You can use metro to travel Guindy from Koyambedu, it takes only 15 minutes.</li>
                                     <li>Board bus to Guindy<b>(M70, M70D, B70, C70, D70, M170C, 170C)</b> and then board buses are <b>M21G, 21G, PP21, M19, M49, 54F, 577, 549</b> from Guindy to Anna University. Or you can take a share auto to Anna University from Guindy bus stop which you can pay only 20 rupees. This is most recommended buses since these buses are very frequent.</li>
